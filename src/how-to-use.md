@@ -8,6 +8,7 @@
 * Unlock all trophies
 * Unlock all NG Thieves Den awards
 * Free up as much time as possible for endgame experiments
+* Left for backwards compatibilty, recommend switching to Battle Route if still possible
 * Activities you must do to adhere to the Normal Route schedule are labeled with **[Normal Route]**
 
 #### Battle Route Walkthrough
@@ -23,8 +24,13 @@
 * No SP items used
 * No DLC personas used during battle
 
-#### Fusion Calculator
-* https://aqiu384.github.io/megaten-fusion-tool/p5r/personas
+#### Sources
+* **Walkthrough Mirror**
+    * https://aqiu384.github.io/p5r-walkthrough/walkthrough
+* **Fusion Calculator**
+    * https://aqiu384.github.io/megaten-fusion-tool/p5r/personas
+* **Enemy List**
+    * https://aqiu384.github.io/megaten-fusion-tool/p5r/shadows
 
 #### Save Rotation
 * Rotate through all 16 save slot so you can backtrack if you make a scheduling mistake
@@ -33,7 +39,7 @@
 #### Reloading for Crafting
 * At the end of a crafting session your normally receive **(Proficiency +3)**
 * During an attempt you may randomly craft twice as many tools using the same amount of materials
-* If this happens at least once during a session you receive and additional **(Proficiency +2)**
+* If this happens at least once during a session you receive an additional **(Proficiency +2)**
 * You must reload starting with the second crafting session until this happens
 * Chances of this occurring is tied to your Proficiency, making it easier to occur later on
 * The days when you must get the crafting bonus are noted on 4/21, 5/2, 5/7 **[Battle Route]**, 6/18, 6/19, 6/20 **[Normal Route]**, 6/21, 7/20, and 7/25
@@ -48,7 +54,7 @@
 * At times you may randomly dodge and receive **(Charm +3)**
 * You must reload starting with the second chalk throw until this happens
 * Chances of this occurring is tied to your Proficiency, making it easier to occur later on
-* The days when you must dodge the chalk are noted on 5/6, 6/21 **[Battle Route]** and 7/11
+* The days when you must dodge the chalk are noted on 5/6, 6/21 **[Battle Route]**, and 7/11
 
 #### Metaverse Progress
 * All palaces were cleared on Normal using the minimum number of in-game days without using SP items
@@ -99,7 +105,7 @@
 * There are additional endgame benefits if you do not romance more than 1 confidant on the same save file
     * On 2/15 the remaining 9 confidants and Judgement gift you with a friendship chocolate
 
-#### Chihaya's Fortunes
+#### Chihaya's Readings
 * Luck: Boosts selected stat gains for rest of day, used when Social Stat +3 will happen
 * Money: Boosts Metaverse money gains for rest of day, used with infiltrating palaces
 * Relationship: Base confidant point +1, extra confidant point +1 if carrying matching arcana, Chihaya will comment you can grow closer if you are about to rank up

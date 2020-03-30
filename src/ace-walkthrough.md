@@ -50,8 +50,10 @@
 ##### Daytime
 * Talk to librarian in Shujin library, Borrow "Pirate Legend"
 * Buy TV from Yongen-Jaya recycling shop
+* Buy crafting materials from recycling shop
 * Talk to Takemi in her Yongen-Jaya clinic, Death Rank 1 (Guts +2)
 ##### Evening
+* Cannot leave Leblanc
 * Interact with the crossword on innermost booth of Leblanc, Complete blue squares: "Semester" (Knowledge +2)
 * Clean your room (Obtain "Yoncha Wanderer" and "Modern Thought")
 
@@ -62,11 +64,14 @@
 ##### Daytime
 * Talk to Ryuji outside 2D classroom, Chariot Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
+* Cannot leave Leblanc
 * Interact with plant in your room, Feed it Bio Nutrients (Kindness +3)
 * Crafting (Proficiency +3)
 
 ---
 #### Wed 4/20
+##### All Day
+* Rain
 ##### Train
 Read "Pirate Legend"
 ##### Daytime
@@ -74,11 +79,13 @@ Read "Pirate Legend"
 * **Need to be Lv. 9 for first Hierophant persona**
 * **Always carry matching arcana for confidant events from here on out**
 ##### Evening
+* Cannot leave Leblanc
 * Interact with middle booth, Study at Leblanc (Knowledge +5)
 
 ---
 #### Thu 4/21
 ##### Daytime
+* Rain
 * Interact with study booths in Shujin library, Study at library (Knowledge +5)
 ##### Evening
 * Talk to Sojiro inside Leblanc, Hierophant Rank 1
@@ -112,7 +119,7 @@ Read "Pirate Legend"
 ---
 #### Mon 4/25
 ##### Train
-Finish reading "Pirate Legend" (Guts +5)
+* Finish reading "Pirate Legend" (Guts +5)
 ##### Class
 * Question with matching arcana: "Knowing your actions are wrong." and "Conviction that you're right." (Charm +2) (Lovers +2)
 ##### Daytime
@@ -120,6 +127,7 @@ Finish reading "Pirate Legend" (Guts +5)
 * Buy rental membership from DVD store on Shibuya central street
 * Borrow "X-Folders" from DVD store
 * Work at flower shop (Kindness +5) (Kindness Lv. 2)
+    1. Create a bouquet that satisfies the customer's request
 ##### Evening
 * Hierophant Rank 3
 
@@ -182,16 +190,19 @@ Read "The Alluring Dancer"
 ---
 #### Tue 5/3
 ##### Evening
+* Cannot leave Leblanc
 * Watch "Wraith" (Kindness +3)
 
 ---
 #### Wed 5/4
 ##### Evening
+* Cannot leave Leblanc
 * Crafting (Proficiency +3)
 
 ---
 #### Thu 5/5
 ##### Evening
+* Cannot leave Leblanc
 * Feed plant Bio Nutrients (Kindness +3)
 * Finish watching "Wraith" (Kindness +3)
 
@@ -213,6 +224,7 @@ Read "The Alluring Dancer"
 ##### Class
 * Question: "Fatal woman." (Knowledge +2)
 ##### Evening
+* Cannot leave Leblanc
 * Study at Leblanc (Knowledge +3)
 
 ---
@@ -222,6 +234,7 @@ Read "The Alluring Dancer"
 ##### Evening
 * Aojiru (Guts +2)
 * Work at beef bowl (Proficiency +5)
+    1. Correctly memorize all orders
 
 ---
 #### Mon 5/9
@@ -261,11 +274,13 @@ Read "The Alluring Dancer"
 ---
 #### Sat 5/14
 ##### Evening
+* Cannot leave Leblanc
 * Watch "Bubbly Hills, 90210" (Charm +3)
 
 ---
 #### Sun 5/15
 ##### Evening
+* Cannot leave Leblanc
 * Study at Leblanc (Knowledge +3)
 
 ---
@@ -276,6 +291,7 @@ Read "The Alluring Dancer"
 ---
 #### Tue 5/17
 ##### Evening
+* Cannot leave Leblanc
 * Crafting (Proficiency +3)
 
 ---
@@ -288,6 +304,8 @@ Read "The Alluring Dancer"
 
 ---
 #### Thu 5/19
+##### All Day
+* Rain
 ##### Class
 * Question: "Katsushika Hokusai." (Knowledge +2)
 ##### Daytime
@@ -309,7 +327,7 @@ Read "The Alluring Dancer"
 ---
 #### Sat 5/21
 ##### Train
-Finish reading "The Alluring Dancer" (Charm +5)
+* Finish reading "The Alluring Dancer" (Charm +5)
 ##### Class
 * Question: "1:1.414" (Knowledge +2)
 ##### Daytime
@@ -359,7 +377,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * Borrow "The Gallant Rogue" from library
 * Request "The Cats' Disappearance" flag
-* Investigate Yongen-Jaya (Request "The Cat's Disappearance" unlocked)
+* Investigate Yongen-Jaya by talking with residents to ID target (Request "The Cat's Disappearance" unlocked)
 * Chariot Rank 5
 ##### Evening
 * Crossword: "Pollenosis" (Knowledge +2)
@@ -384,7 +402,7 @@ Read "Buchiko's Story"
 ---
 #### Sun 5/29
 ##### Daytime
-* Chariot Hangout Harajuku
+* [Optional] Chariot Hangout Harajuku
 ##### Evening
 * Aojiru (Knowledge +2)
 * Chariot Hangout Movies (Kindness +5)
@@ -428,7 +446,7 @@ Read "Buchiko's Story"
 ---
 #### Fri 6/3
 ##### Train
-Finish reading "Buchiko's Story" (Kindness +5)
+* Finish reading "Buchiko's Story" (Kindness +5)
 ##### Class
 * Read "The Gallant Rogue"
 ##### Daytime
@@ -442,14 +460,15 @@ Finish reading "Buchiko's Story" (Kindness +5)
 ##### Class
 * Question: "The halo effect." (Knowledge +2)
 ##### Daytime
-* Order Surprise Sandwiches at diner (Guts +2, Knowledge +3)
+* Rain
+* Order Surprise Sandwiches at diner (Knowledge +3, Guts +2)
 ##### Evening
 * Temperance Rank 3
 
 ---
 #### Sun 6/5
 ##### Daytime
-* Talk to Kichijoji information desk worker (Knowledge +2)
+* Visit Kichijoji info stand, Ask the receptionist every question (Knowledge +2)
 ##### Evening
 * Request "Angry Old Man" flag
 * Investigate Kichijoji (Request "Angry Old Man" unlocked)
@@ -459,7 +478,9 @@ Finish reading "Buchiko's Story" (Kindness +5)
 ---
 #### Mon 6/6
 ##### Daytime
+* Rain
 * Request "Sadism Is Just a Sign of Love" unlocked
+* Buy Foreign Protein from sports shop
 * Councillor Rank 4
 ##### Evening
 * Feed plant Bio Nutrients (Kindness +3)
@@ -470,7 +491,9 @@ Finish reading "Buchiko's Story" (Kindness +5)
 ##### Class
 * Question: "The number of legs." (Knowledge +2)
 ##### Daytime
+* Rain
 * Work at convenience store (Charm +5) (Charm Lv. 3)
+    1. Handle the queue efficiently
 ##### Evening
 * Crossword: "Conference" (Knowledge +2)
 * Strength Hangout Movie Theater
@@ -487,7 +510,7 @@ Finish reading "Buchiko's Story" (Kindness +5)
 ---
 #### Thu 6/9
 ##### Evening
-* Billiards (Random Stat +3)
+* Play billiards in Kichijoji (Random Stat +3) (Technical Lv. 1)
 
 ---
 #### Fri 6/10
@@ -509,6 +532,7 @@ Finish reading "Buchiko's Story" (Kindness +5)
 * Buy "Enlightened Billiard Tech" and Sharp cue from sports shop
 * Lovers Rank 5
 ##### Evening
+* Talk to masked man in Kichijoji's back alleys, Trade Foreign Protein for Souvenir Whip
 * Sun Rank 3
 
 ---
@@ -516,31 +540,36 @@ Finish reading "Buchiko's Story" (Kindness +5)
 ##### Class
 * Question: "Green." (Knowledge +2)
 ##### Evening
+* Rain
 * Talk to Akechi outside the Kichijoji darts club, Justice Rank 2 (Requires Charm Lv. 3 and Knowledge Lv. 3)
 
 ---
 #### Tue 6/14
 ##### Evening
+* Rain
 * Bathhouse (Charm +3, Guts +2)
 
 ---
 #### Wed 6/15
 ##### Train
-Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
+* Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
 ##### Class
 * Question: "Coins." (Knowledge +2)
 ##### Evening
+* Rain
 * Temperance Rank 4
 
 ---
 #### Thu 6/16
 ##### Evening
+* Rain
 * Crossword: "Wardrobe" (Knowledge +2)
-* Billiards (Random Stat +3)
+* Billiards (Random Stat +3) (Technical Lv. 2)
 
 ---
 #### Fri 6/17
 ##### Evening
+* Rain
 * Temperance Rank 5
 
 ---
@@ -549,11 +578,13 @@ Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
 * Request "Phantom Thieves VS Burglary Ring" unlocked
 * Talk to Yusuke in Shibuya underground walkway, Emperor Rank 1
 ##### Evening
+* Cannot leave Leblanc
 * Study at Leblanc (Knowledge +3) (Knowledge Lv. 4)
 
 ---
 #### Sun 6/19
 ##### Evening
+* Cannot leave Leblanc
 * Study at Leblanc (Knowledge +3)
 
 ---
@@ -561,6 +592,7 @@ Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
 ##### Class
 * Question with matching arcana: "Smartphone." (Charm +2) (Lovers +2)
 ##### Evening
+* Cannot leave Leblanc
 * Crafting (Proficiency +3)
 
 ---
@@ -568,15 +600,16 @@ Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
 ##### Daytime
 * Councillor Rank 5
 ##### Evening
+* Rain
 * Borrow "ICU" from DVD store
 * Buy "Movie Maniac" and "The ABCs of Crafting" from Shinjuku bookstore
 * Buy 6 "Mega Fertilizer" from Shinuku flower shop
-* Billiards (Random Stat +3) (Obtain "Billiards Magic")
+* Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magic")
 
 ---
 #### Wed 6/22
 ##### Daytime
-* Lovers Hangout Harajuku
+* Lovers Hangout
 ##### Evening
 * Crossword: "Currency" (Knowledge +2)
 * Feed plant Mega Fertilizer (Kindness +5)
@@ -585,10 +618,11 @@ Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
 ---
 #### Thu 6/23
 ##### Train
-Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
+* Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
 ##### Class
 * Question: "A pope." (Knowledge +2)
 ##### Daytime
+* Rain
 * Emperor Rank 2
 ##### Evening
 * TV Quiz: "Ordering food without money." (Knowledge +2)
@@ -599,6 +633,7 @@ Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
 ##### Daytime
 * Lovers Rank 6
 ##### Evening
+* Rain
 * Temperance Rank 6
 
 ---
@@ -606,6 +641,7 @@ Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
 ##### Class
 * Finish reading "The ABCs of Crafting" (Doubles the number of items that can be crafted)
 ##### Daytime
+* Buy Yakisoba Pan from school store
 * Death Rank 7 (Guts +2)
 ##### Evening
 * Temperance Hangout
@@ -620,6 +656,8 @@ Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
 
 ---
 #### Mon 6/27
+##### All Day
+* Rain
 ##### Class
 * Question: "Dogs." (Knowledge +2)
 ##### Daytime
@@ -631,6 +669,7 @@ Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
 #### Tue 6/28
 ##### Daytime
 * **Clear Bank Palace**
+* **Need Y100,000 for Fortune Rnk 0.2**
 ##### Evening
 * Watch "ICU" (Kindness +5) (Kindness Lv. 3)
 
@@ -641,11 +680,13 @@ Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
 ##### Daytime
 * Faith Rank 3
 ##### Evening
+* Trade Yakisoba Pan for Black Robe
 * Temperance Rank 7
 
 ---
 #### Thu 6/30
 ##### Daytime
+* Rain
 * Emperor Rank 3 (Ueno unlocked)
 ##### Evening
 * Crossword: "Front" (Knowledge +2)
@@ -653,7 +694,7 @@ Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
 ### ACE July
 #### Fri 7/1
 ##### Train
-Finish reading "The Gallant Rogue" (Guts +5)
+* Finish reading "The Gallant Rogue" (Guts +5)
 ##### Class
 * Question: "Barbarian's head." (Knowledge +2)
 ##### Daytime
@@ -687,10 +728,11 @@ Finish reading "The Gallant Rogue" (Guts +5)
 ---
 #### Mon 7/4
 ##### Train
-Finish reading "Ghost Encounters" (Guts +5)
+* Finish reading "Ghost Encounters" (Guts +5)
 ##### Class
 * Question: "Julius and Augustus." (Knowledge +2)
 ##### Daytime
+* Rain
 * Emperor Rank 5
 ##### Evening
 * Fortune Rank 0.3 (Request "Ending the Boyfriend's Abuse" unlocked)
@@ -706,6 +748,8 @@ Finish reading "Ghost Encounters" (Guts +5)
 #### Wed 7/6
 ##### Class
 * Finish reading "Zorro, the Outlaw" (Kindness +5)
+##### All Day
+* Rain
 ##### Daytime
 * **Mementos Palace**
     1. Angry Old Man
@@ -732,8 +776,9 @@ Finish reading "Ghost Encounters" (Guts +5)
 ---
 #### Fri 7/8
 ##### Train
-Finish reading "Tidying the Heart" (Proficiency +5)
+* Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Daytime
+* Buy Soothing Soba from Shibuya convenience store
 * Lovers Rank 7
 ##### Evening
 * Ask Chihaya for Luck Reading (Boost Kindness)
@@ -753,6 +798,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Sun 7/10
 ##### Evening
+* Cannot leave Leblanc
 * Request "The Lovesick Cyberstalking Girl" unlocked
 * Finish watching "ICU" (Kindness +5)
 
@@ -761,6 +807,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Class
 * Question: "Long-term memories.", "Nearly unlimited.", and "Never disappear." (Knowledge +2)
 ##### Evening
+* Trade Soothing Soba for Edo Katana
 * Star Rank 2 (Knowledge +2)
 
 ---
@@ -804,6 +851,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Mon 7/18
 ##### Evening
+* Cannot leave Leblanc
 * Crafting (Proficiency +3)
 
 ---
@@ -819,21 +867,25 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Wed 7/20
 ##### Evening
+* Cannot leave Leblanc
 * Watch "The Running Dead" (Guts +5)
 
 ---
 #### Thu 7/21
 ##### Evening
+* Cannot leave Leblanc
 * Crafting (Proficiency +3) (Proficiency Lv. 4)
 
 ---
 #### Fri 7/22
 ##### Evening
+* Cannot leave Leblanc
 * Finish watching "The Running Dead" (Guts +5) (Guts Lv. 4)
 
 ---
 #### Sat 7/23
 ##### Evening
+* Cannot leave Leblanc
 * Crafting (Proficiency +3)
 
 ---
@@ -844,6 +896,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Mon 7/25
 ##### Evening
+* Cannot leave Leblanc
 * Interact with Leblanc bathroom, Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
 
 ---
@@ -854,14 +907,18 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Evening
 * Luck Reading (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
+* Reload for MRE Ration from airsoft shop vending machine
+* Trade MRE Ration for "Factorized Study Methods"
 * Fortune Rank 3 (Do not need matching arcana, expect 1 less note)
 
 ---
 #### Wed 7/27
+##### All Day
+* Rain
 ##### Daytime
 * Emperor Hangout Leblanc-7/27 (Charm +5)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Fireworks" (Knowledge +2)
 * Temperance Rank 10
 
 ---
@@ -876,18 +933,19 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Fri 7/29
 ##### Daytime
-* Justice Hangout Aquarium (Aquarium unlocked)
+* Justice Hangout Shinagawa (Shinagawa unlocked)
 ##### Evening
+* Rain
 * Talk to Iwai in Shibuya airsoft shop, Hanged Rank 1 (Requires Guts Lv. 4)
 
 ---
 #### Sat 7/30
 ##### Daytime
 * Luck Reading (Boost Guts)
-* Repeatedly sit on sofa in front of Kichijoji furniture store (Guts +3)
+* Keep sitting on sofa in front furniture store in east Kichijoji (Guts +3)
 * Lovers Rank 8
 ##### Evening
-* Visit the Kichijoji donuts shop for a quiz (Guts +3)
+* Visit the donut shop across from the Kichijoji power stone shop, Answer Morgana's quiz (Guts +3)
 * Fortune Hangout
 
 ---
@@ -904,6 +962,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ### ACE August
 #### Mon 8/1
 ##### Daytime
+* Rain
 * Emperor Hangout Leblanc-8/1 (Charm +5)
 ##### Evening
 * Star Rank 3 (Knowledge +2)
@@ -911,6 +970,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Tue 8/2
 ##### Daytime
+* Request "We Aren't Just Your Slaves" flag
 * **Clear Pyramid Palace**
 ##### Evening
 * Call Kawakami for massage
@@ -918,8 +978,10 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 
 ---
 #### Wed 8/3
+##### All Day
+* Rain
 ##### Daytime
-* Request "We Aren't Just Your Slaves" flag
+* Request "Who's Been Assaulting People?" flag
 * Priestess Rank 5
 ##### Evening
 * Crossword (Knowledge +2)
@@ -928,7 +990,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Thu 8/4
 ##### Daytime
-* Request "Who's Been Assaulting People?" flag
+* Request "Calling for Justice for Cats" flag
 * Emperor Hangout Leblanc-8/4 (Charm +5)
 ##### Evening
 * TV Quiz: "Joyride, but return the car." (Knowledge +2)
@@ -937,8 +999,6 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Fri 8/5
 ##### Daytime
-* Request "Calling for Justice for Cats" flag
-* Can meet Priestess in front of school gates
 * Chariot Rank 9
 ##### Evening
 * Luck Reading (Boost Kindness)
@@ -955,12 +1015,15 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Sun 8/7
 ##### Daytime
-* Luck Reading (Boost Charm)
 * Aojiru (Proficiency +2)
 * Borrow "24 days" from DVD store
 * Buy "Master Swordsman" from Jinbocho
+* Buy Exorcism Water from church
+* Luck Reading (Boost Charm)
 * Work at convenience store (Charm +7) (Request "Calling for Justice for Cats" unlocked)
+    1. Handle the queue efficiently
 ##### Evening
+* Trade Exorcism Water for Black Gun
 * Sun Rank 5 (Charm +4)
 
 ---
@@ -968,6 +1031,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Daytime
 * Emperor Hangout Leblanc-8/8 (Charm +5)
 ##### Evening
+* Rain
 * Crossword (Knowledge +2)
 * Star Rank 5 (Knowledge +2)
 
@@ -983,11 +1047,13 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Daytime
 * Faith Rank 5
 ##### Evening
+* Rain
 * Strength Hangout Aquarium
 
 ---
 #### Thu 8/11
 ##### Daytime
+* Rain
 * Emperor Hangout Leblanc-8/11 (Charm +5)
 ##### Evening
 * Luck Reading (Boost Kindness)
@@ -1020,12 +1086,11 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 * Lovers Rank 9 Romance
 ##### Evening
 * Sun Rank 7 (Charm +3)
-* Accept Priestess Invitation
 
 ---
 #### Mon 8/15
 ##### Daytime
-* Priestess Hangout Jinbocho
+* [Optional] Priestess Hangout Jinbocho
 ##### Evening
 * Luck Reading (Boost Charm)
 * Devil Rank 3 (Charm +4) (Charm Lv. 5)
@@ -1033,6 +1098,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Tue 8/16
 ##### Daytime
+* Rain
 * Priestess Rank 6 (Requires Charm Lv. 5)
 ##### Evening
 * Fortune Rank 6
@@ -1043,13 +1109,16 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 * Luck Reading (Boost Kindness)
 * Affinity Reading with matching arcana (Fortune +2)
 * Work at flower shop (Kindness +7) (Request "Who's Been Assaulting People?" unlocked)
+    1. Create a bouquet that satisfies the customer's request
 ##### Evening
-* Crossword (Knowledge +2)
+* Rain
+* Crossword: "Sunburn" (Knowledge +2)
 * Moon Rank 5
 
 ---
 #### Thu 8/18
 ##### Daytime
+* Rain
 * Priestess Rank 7
 ##### Evening
 * Strength Hangout Sky Tree
@@ -1061,11 +1130,13 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 * Affinity Reading with matching arcana (Lovers +2)
 * Lovers Rank 10 (Odaiba unlocked)
 ##### Evening
+* Rain
 * Big Bang Challenge (Guts +7, Knowledge +5, Charm +5, Proficiency +5)
 
 ---
 #### Sat 8/20
 ##### Daytime
+* Buy Melon Pan from Ginza Line gate near Shibuya hideout
 * Chariot Rank 10
 ##### Evening
 * Luck Reading (Boost Proficiency)
@@ -1074,11 +1145,13 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Sun 8/21
 ##### Evening
+* Cannot leave Leblanc
 * Watch "24 Days" (Guts +5)
 
 ---
 #### Mon 8/22
 ##### Evening
+* Trade Melon Pan for Yakuza Fists
 * Check Summer Mammoth Lottery results
 * Star Rank 6 (Knowledge +2)
 
@@ -1104,12 +1177,14 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Fri 8/26
 ##### Evening
+* Rain
 * Ask Lala at Bar Crosswords to work there
 * Work at bar (Kindness +3)
 
 ---
 #### Sat 8/27
 ##### Evening
+* Rain
 * Star Rank 7 (Knowledge +2)
 
 ---
@@ -1129,7 +1204,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Tue 8/30
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Hacking" (Knowledge +2)
 * Fortune Rank 7
 
 ---
@@ -1137,6 +1212,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Class
 * Hermit Rank 1 (Auto)
 ##### Evening
+* Cannot leave Leblanc
 * Finish watching "24 Days" (Guts +5)
 ### ACE September
 #### Thu 9/1
@@ -1149,9 +1225,10 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Daytime
 * Buy Broken Laptop from recycling shop
 * Buy Laptop Repair Kit from Akihabara
+* Buy Phantom Wafers, Thief Mask, and Calling Postcard from Shibuya
 * Talk to Futaba outside Leblanc, Hermit Rank 2 (Requires Kindness Lv. 4)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Typhoon" (Knowledge +2)
 * Moon Rank 6
 
 ---
@@ -1165,9 +1242,11 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 #### Sun 9/4
 ##### Daytime
 * Aojiru (Knowledge +2)
+* Request "Winners Don't Use Cheats" flag
 * Investigate Shibuya arcade (Request "Winners Don't Use Cheats" unlocked)
 * Hermit Rank 3
 ##### Evening
+* Trade Phantom Wafers for Charge Supplement x2
 * Hanged Rank 5 (Proficiency +3)
 
 ---
@@ -1245,6 +1324,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Sun 9/18
 ##### Evening
+* Cannot leave Leblanc
 * Interact with desk in your room, Repair laptop (Proficiency +5) (Proficiency Lv. 5)
 
 ---
@@ -1264,6 +1344,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Evening
 * Crossword (Knowledge +2)
 * Call Kawakami for massage
+* Trade Thief Mask for Concentrate Supplement x2
 * Star Rank 8 (Knowledge +2) (Throw away points)
 
 ---
@@ -1271,7 +1352,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Daytime
 * Priestess Rank 8
 ##### Evening
-* Devil Hangout Odaiba
+* [Optional] Devil Hangout Odaiba
 
 ---
 #### Wed 9/21
@@ -1305,7 +1386,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Sat 9/24
 ##### Train
-Finish reading "Museum of Stars" (Ikebukuro unlocked)
+* Finish reading "Museum of Stars" (Ikebukuro unlocked)
 ##### Class
 * Question: "20 white and 12 black." (Knowledge +2)
 ##### Daytime
@@ -1326,7 +1407,8 @@ Finish reading "Museum of Stars" (Ikebukuro unlocked)
 ##### Daytime
 * Tower Rank 2 (Kindness +5)
 ##### Evening
-* Billiards (Random Stat +3)
+* Rain
+* Billiards (Random Stat +3) (Technical Lv. 4)
 
 ---
 #### Tue 9/27
@@ -1347,7 +1429,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 * Money Reading
 * **Reach treasure in Spaceport Palace**
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Ranking" (Knowledge +2)
 * Call Kawakami for massage
 * Star Hangout Jinbocho
 
@@ -1359,7 +1441,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 * Send calling card
 ##### Evening
 * TV Quiz: "Divulging someone's crimes." (Knowledge +2)
-* Crafting (Proficiency +3)
+* Free Time
 
 ---
 #### Fri 9/30
@@ -1382,6 +1464,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ##### Daytime
 * Emperor Rank 8
 ##### Evening
+* Trade Calling Postcard for Strawberry Daifuku x2
 * Hermit Hangout Movies (Knowledge +7)
 
 ---
@@ -1404,18 +1487,19 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ##### Daytime
 * Hermit Rank 5
 ##### Evening
+* Rain
 * Star Rank 10
 
 ---
 #### Thu 10/6
 ##### Train
-Finish reading "Master Swordsman" (Guts +7)
+* Finish reading "Master Swordsman" (Guts +7)
 ##### Class
 * Question: "Joseph Guillotin." (Knowledge +2)
 ##### Daytime
 * Tower Rank 4 (Kindness +3) (Throw away points)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Black" (Knowledge +2)
 * Strength Hangout Destiny Land
 
 ---
@@ -1447,7 +1531,7 @@ Finish reading "Master Swordsman" (Guts +7)
 ##### Daytime
 * Tower Rank 5 (Kindness +3)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Halloween" (Knowledge +2)
 * Free Time
 
 ---
@@ -1458,16 +1542,19 @@ Finish reading "Master Swordsman" (Guts +7)
 ---
 #### Wed 10/12
 ##### Evening
+* Cannot leave Leblanc
 * Free Time
 
 ---
 #### Thu 10/13
 ##### Evening
+* Cannot leave Leblanc
 * Free Time
 
 ---
 #### Fri 10/14
 ##### Daytime
+* Rain
 * Request "The Killer Who Cleans Up Trash" unlocked
 * Emperor Rank 10
 ##### Evening
@@ -1483,8 +1570,11 @@ Finish reading "Master Swordsman" (Guts +7)
 ---
 #### Sun 10/16
 ##### Daytime
+* Visit capsule row in Akihabara, Roll gacha for Gear Girimehkala x2
+* Trade Gear Girimehkala with man near capsule row for Mystery Stew
 * Hermit Rank 6
 ##### Evening
+* Trade Gear Girimehkala for Hot Blooded Sword
 * Hanged Rank 7.1 (Requires Guts Lv. 5) (Request "Shady Deal in the Shadows" unlocked)
 
 ---
@@ -1505,12 +1595,14 @@ Finish reading "Master Swordsman" (Guts +7)
 ---
 #### Thu 10/20
 ##### Evening
+* Cannot leave Leblanc
 * Free Time
 
 ---
 #### Fri 10/21
 ##### Evening
-* Crafting (Proficiency +3)
+* Cannot leave Leblanc
+* Free Time
 
 ---
 #### Sat 10/22
@@ -1537,6 +1629,7 @@ Finish reading "Master Swordsman" (Guts +7)
 ---
 #### Tue 10/25
 ##### Evening
+* Cannot leave Leblanc
 * Free Time
 
 ---
@@ -1547,6 +1640,7 @@ Finish reading "Master Swordsman" (Guts +7)
 ---
 #### Thu 10/27
 ##### Evening
+* Cannot leave Leblanc
 * Free Time
 
 ---
@@ -1557,13 +1651,15 @@ Finish reading "Master Swordsman" (Guts +7)
 ---
 #### Sat 10/29
 ##### Evening
-* Crafting (Proficiency +3)
+* Cannot leave Leblanc
+* Free Time
 
 ---
 #### Sun 10/30
 ##### Daytime
 * Tower Hangout Maihama
 ##### Evening
+* Trade Mystery Stew for Angelic Grace Ring
 * Strength Hangout Art Museum
 
 ---
@@ -1586,7 +1682,7 @@ Finish reading "Master Swordsman" (Guts +7)
 ---
 #### Wed 11/2
 ##### Train
-Finish reading "Call Me Chief" (Kindness +7)
+* Finish reading "Call Me Chief" (Kindness +7)
 ##### Class
 * Question: "Edo Period." (Knowledge +2)
 ##### Daytime
@@ -1703,9 +1799,11 @@ Read "Reckless Casanova"
 ---
 #### Sun 11/13
 ##### Daytime
+* Buy Moon Dango from Yongen-Jaya grocery store
 * Death Rank 9 Friendship
 * Death Rank 9 Romance
 ##### Evening
+* Trade Moon Dango for Kintarou Axe
 * Empress Hangout Movies (Guts +7)
 
 ---
@@ -1717,7 +1815,7 @@ Read "Karakuri"
 ##### Daytime
 * Empress Rank 3
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: Bashing (Knowledge +2)
 * Devil Rank 10
 
 ---
@@ -1735,6 +1833,7 @@ Read "Karakuri"
 ##### Class
 * Finish reading "Karakuri" (Proficiency +7)
 ##### Daytime
+* Rain
 * Councillor Rank 8
 ##### Evening
 * Buy "Technical Expertise" from Jinbocho
@@ -1743,7 +1842,7 @@ Read "Karakuri"
 ---
 #### Thu 11/17
 ##### Train
-Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
+* Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Class
 * Question: "Limacon Curve." (Knowledge +2)
 ##### Daytime
@@ -1759,6 +1858,7 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Daytime
 * Councillor Rank 10 (Auto)
 ##### Evening
+* Cannot leave Leblanc
 * Free Time
 
 ---
@@ -1779,18 +1879,21 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ---
 #### Tue 11/22
 ##### Evening
+* Cannot leave Leblanc
 * Free Time
 
 ---
 #### Wed 11/23
 ##### Evening
+* Cannot leave Leblanc
 * Free Time
 
 ---
 #### Thu 11/24
 ##### Evening
+* Cannot leave Leblanc
 * TV Quiz: "Speaker of the House decides."
-* Crafting (Proficiency +3)
+* Free Time
 
 ---
 #### Fri 11/25
@@ -1812,9 +1915,11 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Daytime
 * Crane game
     1. Receive Sheep Man Doll
+* Trade Melon Pan for Yakuza Fists
 * Hermit Rank 9 Friendship
 * Hermit Rank 9 Romance
 ##### Evening
+* Trade Legendary Yaki-Imo for Heat Riser Supplement x3
 * Fortune Rank 10
 
 ---
@@ -1822,7 +1927,7 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Daytime
 * Empress Rank 6
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Charisma" (Knowledge +2)
 * Devil Hangout Ginza
 
 ---
@@ -1851,7 +1956,7 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 * Empress Rank 9 Friendship
 * Empress Rank 9 Romance
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Influenza" (Knowledge +2)
 * Strength Hangout Underground Mall
 
 ---
@@ -1859,6 +1964,7 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Daytime
 * Tower Rank 10 (Kindness +2)
 ##### Evening
+* Rain
 * Free Time
 
 ---
@@ -1888,7 +1994,7 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Daytime
 * Faith Hangout Shinagawa
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Illumination" (Knowledge +2)
 * Free Time
 
 ---
@@ -1915,6 +2021,7 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Daytime
 * **Clear Cruiser Palace**
 ##### Evening
+* Rain
 * Call Kawakami for massage
 * Free Time
 * **Choose to "Keep good on the promise." before going to bed**
@@ -1924,8 +2031,10 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Daytime
 * Request "The Head Honcho in Showbiz" unlocked
 * Request "The Lady-killer's Ballad" unlocked
+* Buy Angel Tart from Shibuya underground mall
 * Priestess Hangout Chinatown
 ##### Evening
+* Trade Angel Tart for Feverish Bat
 * Free Time
 
 ---
@@ -1934,10 +2043,12 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 * Emperor Hangout Ikebukuro
 ##### Evening
 * Crossword (Knowledge +2)
+* Free Time
 
 ---
 #### Tue 12/13
 ##### Daytime
+* Rain
 * Lovers Hangout Shibuya
 ##### Evening
 * Free Time
@@ -1981,12 +2092,13 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ---
 #### Sun 12/18
 ##### Evening
+* Cannot leave Leblanc
 * Free Time
 
 ---
 #### Mon 12/19
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Christmas" (Knowledge +2)
 * Free Time
 
 ---
@@ -2013,6 +2125,7 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Class
 * Exam results (Charm +5)
 ##### Evening
+* Cannot leave Leblanc
 * Talk to Sojiro for exam reward
 * Free Time
 
@@ -2118,9 +2231,11 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ---
 #### Fri 1/13
 ##### Daytime
+* Buy Limited-edition Steamed Bun from Kichijoji Chinese Stall
 * Lovers Rank 11
 ##### Evening
 * Request "A Silent Voice" unlocked
+* Trade Limited-edition Steamed Bun for Resist Phys Ring
 * Strength Hangout Your Room
 
 ---
@@ -2150,6 +2265,8 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 
 ---
 #### Tue 1/17
+##### All Day
+* Rain
 ##### Daytime
 * Crane game
     1. Receive Buchimaru-kun Doll
@@ -2173,7 +2290,7 @@ Free Time
 ##### Daytime
 * Faith Rank 6
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Dionysus" (Knowledge +2)
 * Free Time
 
 ---
@@ -2181,6 +2298,7 @@ Free Time
 ##### Class
 * Free Time
 ##### Daytime
+* Rain
 * Free Time
 ##### Evening
 * Free Time
@@ -2197,8 +2315,10 @@ Free Time
 ---
 #### Sun 1/22
 ##### Daytime
+* Buy Supernova Burger from Big Bang Burger
 * Faith Rank 8
 ##### Evening
+* Trade Supernova Burger for God Elixir
 * Free Time
 
 ---
@@ -2207,7 +2327,7 @@ Free Time
 * Faith Rank 9 Friendship
 * Faith Rank 9 Romance
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Lachesis" (Knowledge +2)
 * Free Time
 
 ---
@@ -2249,7 +2369,7 @@ Free Time
 * **Reach treasure in Research Lab Palace**
 ##### Evening
 * Call Kawakami for massage
-* Crossword (Knowledge +2)
+* Crossword: "Orochi" (Knowledge +2)
 * Free Time
 
 ---
@@ -2292,7 +2412,6 @@ Free Time
 ##### Daytime
 * Free Time
 ##### Evening
-* Crossword (Knowledge +2)
 * Free Time
 
 ---

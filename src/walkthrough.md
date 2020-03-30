@@ -117,7 +117,7 @@
 ---
 #### Mon 4/25
 ##### Train
-* Finish reading "Zorro the Outlaw" (Kindness +5)
+* Finish reading "Zorro, the Outlaw" (Kindness +5)
 ##### Class
 * Question with matching arcana: "Knowing your actions are wrong." and "Conviction that you're right." (Charm +2) (Lovers +2)
 ##### Daytime
@@ -250,7 +250,7 @@
 ##### Daytime
 * Chariot Rank 6
 ##### Evening
-* Crossword: "Malaise"
+* Crossword: "Malaise" (Knowledge +2)
 * Sun Rank 1
 
 ---
@@ -427,8 +427,7 @@
 ##### Class
 * Question: "John Silver." (Knowledge +2)
 ##### Daytime
-* [Normal Route] Lovers Hangout Inokashira
-* [Battle Route] Lovers Hangout Inokashira
+* Lovers Hangout Inokashira
 ##### Evening
 * Crossword: "Japanese" (Knowledge +2)
 * Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
@@ -465,7 +464,8 @@
 * Question: "The halo effect." (Knowledge +2)
 ##### Daytime
 * Rain
-* Lovers Hangout Shibuya
+* [Normal Route] Lovers Hangout Shibuya
+* [Battle Route] Lovers Hangout Shibuya
 ##### Evening
 * Temperance Hangout
 
@@ -491,12 +491,12 @@
 ---
 #### Tue 6/7
 ##### Class
-* Question: "The number of legs." (Knowledge +2)
+* Question: "The number of legs." (Knowledge +2) (Knowledge Lv. 3)
 ##### Daytime
 * Rain
 * Death Rank 7 (Guts +2)
 ##### Evening
-* Crossword: "Conference" (Knowledge +2) (Battle Route Knowledge Lv. 3)
+* Crossword: "Conference" (Knowledge +2)
 * Strength Hangout Movie Theater
 
 ---
@@ -616,7 +616,7 @@
 * [Battle Route] Reload chalk dodge for (Charm +3)
 ##### Daytime
 * **Reach treasure in Bank Palace**
-* **You need at least Y100,000 for Fortune Rnk 0.2**
+* **Need Y100,000 for Fortune Rnk 0.2**
 ##### Evening
 * Rain
 * Study at Leblanc (Knowledge +5)
@@ -775,13 +775,11 @@
 ---
 #### Wed 7/6
 ##### Class
-* Finish reading "The Great Thief" (Knowledge +5)
+* Finish reading "The Great Thief" (Knowledge +5) (Normal Route Knowledge Lv. 4)
 ##### All Day
 * Rain
 ##### Daytime
 * Chariot Rank 9
-* Request "One Who Bullies Bullies" flag
-* Request "Part-time Job, Full-time Hell" unlocked
 ##### Evening
 * Temperance Rank 9 Friendship
 * Temperance Rank 9 Romance
@@ -815,9 +813,9 @@
 ---
 #### Sat 7/9
 ##### Class
-* Question: "A triangle." (Knowledge +2)
+* Question: "A triangle." (Knowledge +2) (Battle Route Knowledge Lv. 4)
 ##### Evening
-* Talk to Hifumi in Kanda church, Star Rank 1 (Requires Charm Lv. 3) (Knowledge +2) (Battle Route Knowledge Lv. 4)
+* Talk to Hifumi in Kanda church, Star Rank 1 (Requires Charm Lv. 3) (Knowledge +2)
 
 ---
 #### Sun 7/10
@@ -841,6 +839,7 @@
 ##### Class
 * Question: "Thievery." (Knowledge +2)
 ##### Daytime
+* Request "One Who Bullies Bullies" flag
 * Investigate Shujin gates (Request "One Who Bullies Bullies" unlocked)
 * Emperor Rank 3
 ##### Evening
@@ -950,7 +949,7 @@
 * **Clear Pyramid Palace**
 ##### Evening
 * Call Kawakami for massage
-* Crossword (Knowledge +2)
+* Crossword: "Fireworks" (Knowledge +2)
 * Star Rank 2 (Knowledge +2)
 
 ---
@@ -964,7 +963,7 @@
 ---
 #### Fri 7/29
 ##### Daytime
-* Justice Hangout Aquarium (Shinagawa unlocked) (Devil +3)
+* Justice Hangout Shinagawa (Shinagawa unlocked) (Devil +3)
 ##### Evening
 * Rain
 * Strength Hangout Gym
@@ -1088,6 +1087,7 @@
 #### Thu 8/11
 ##### Daytime
 * Rain
+* Request "Part-time Job, Full-time Hell" unlocked
 * Priestess Rank 6 (Requires Charm Lv. 5)
 ##### Evening
 * Fortune Rank 6
@@ -1142,7 +1142,7 @@
 * Emperor Rank 9
 ##### Evening
 * Rain
-* Crossword (Knowledge +2)
+* Crossword: "Sunburn" (Knowledge +2)
 * Moon Rank 5
 
 ---
@@ -1161,6 +1161,7 @@
 * Emperor Rank 10
 ##### Evening
 * Rain
+* Buy My Darts from sports shop
 * [Normal Route] Devil Rank 7 (Charm +5)
 * [Battle Route] Darts with Makoto and one random other (Proficiency +5)
     1. Let Makoto finish on round 4 (Baton Pass Lv. 3)
@@ -1172,7 +1173,7 @@
 #### Sat 8/20
 ##### Daytime
 * Borrow "24 Hours" from DVD store
-* Buy Melon Pan from Ginza Line gate
+* Buy Melon Pan from Ginza Line gate near Shibuya hideout
 * Luck Reading (Boost Guts)
 * Big Bang Challenge (Guts +7)
 ##### Evening
@@ -1221,9 +1222,8 @@
 
 ---
 #### Sat 8/27
-##### All Day
-* Rain
 ##### Evening
+* Rain
 * Star Rank 5 (Knowledge +2)
 
 ---
@@ -1242,7 +1242,7 @@
 ---
 #### Tue 8/30
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Hacking" (Knowledge +2)
 * Moon Rank 6
 
 ---
@@ -1267,7 +1267,7 @@
 * Buy Phantom Wafers, Thief Mask, and Calling Postcard from Shibuya
 * Strength Hangout Beach
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Typhoon" (Knowledge +2)
 * Luck Reading (Boost Proficiency)
 * Interact with desk in your room, Repair laptop (Proficiency +7) (Normal Route Proficiency Lv. 5)
 
@@ -1418,7 +1418,7 @@
 * Luck Reading (Boost Kindness)
 * Report back to Shinya, Tower Rank 1 (Kindness +7)
 ##### Evening
-* TV Quiz: "Ten years in prison." (Knowledge +2)
+* TV Quiz: "Ten years in prison." (Knowledge +2) (Knowledge Lv. 5)
 * Hierophant Rank 6 (Kindness +7) (Kindness Lv. 5)
 
 ---
@@ -1435,7 +1435,7 @@
 ---
 #### Sat 9/24
 ##### Train
-* Finish reading "Revelations Person" (Knowledge +7) (Knowledge Lv. 5)
+* Finish reading "Revelations Person" (Knowledge +7)
 ##### Class
 * Question: "20 white and 12 black." (Knowledge +2)
 ##### Daytime
@@ -1479,7 +1479,7 @@
 ##### Daytime
 * Hermit Rank 5
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Ranking" (Knowledge +2)
 * Star Rank 7.1 (Requires Knowledge Lv. 5) (Request "Upstaging the Stage Mother" unlocked)
 
 ---
@@ -1557,7 +1557,7 @@
 * Affinity Reading with matching arcana (Death +2)
 * Tower Rank 5 (Kindness +3)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Black" (Knowledge +2)
 * Hierophant Rank 8 (Request "The Money-grubbing Uncle" unlocked)
 
 ---
@@ -1590,6 +1590,7 @@
 ##### Daytime
 * Tower Rank 7
 ##### Evening
+* Crossword: "Halloween" (Knowledge +2)
 * Affinity Reading with matching arcana (Tower +2)
 * Hierophant Rank 9
 
@@ -1614,10 +1615,10 @@
 #### Fri 10/14
 ##### Daytime
 * Rain
+* Request "The Killer Who Cleans Up Trash" unlocked
 * Buy "Technical Expertise" from Jinbocho
 * Councillor Rank 8
 ##### Evening
-* Request "The Killer Who Cleans Up Trash" unlocked
 * Hierophant Rank 10
 
 ---
@@ -1634,8 +1635,8 @@
 #### Sun 10/16
 ##### Daytime
 * Request "Man of Many Faces and Debts" unlocked
-* Roll gacha for Gear Girimehkala x2
-* Trade Gear Girimehkala for Mystery Stew
+* Visit capsule row in Akihabara, Roll gacha for Gear Girimehkala x2
+* Trade Gear Girimehkala with man near capsule row for Mystery Stew
 * Hermit Rank 7 (Request "Daughter's Just a Meal Ticket" unlocked)
 ##### Evening
 * Trade Gear Girimehkala for Hot Blooded Sword
@@ -1743,6 +1744,7 @@
 * Draw on classroom chalkboard (Guts +2)
 * **Reach treasure in Casino Palace**
 ##### Evening
+* Crossword (Knowledge +2)
 * Call Kawakami for massage
 * Darts with Akechi (Proficiency +3)
     1. Let Joker finish on round 5 (Baton Pass Lv. 3)
@@ -1750,7 +1752,6 @@
 #### Tue 11/1
 ##### Daytime
 * Buy "Game Secrets" and "Pro Darts" from Shinjuku bookstore
-* Buy My Darts from sports shop
 * Money Reading
 * Attempt to send calling card
 * **Mementos Palace**
@@ -1794,6 +1795,7 @@
 ##### Daytime
 * Tower Rank 9 (Kindness +5)
 ##### Evening
+* Crossword (Knowledge +2)
 * [Normal Route] Free Time
 * [Battle Route] Devil Rank 8 (Charm +5)
 
@@ -1897,6 +1899,7 @@
 ##### Daytime
 * Empress Rank 7
 ##### Evening
+* Crossword: "Bashing" (Knowledge +2)
 * Star Rank 10
 
 ---
@@ -2013,6 +2016,7 @@
 ##### Daytime
 * **Clear Cruiser Palace**
 ##### Evening
+* Crossword: "Charisma" (Knowledge +2)
 * Call Kawakami for massage
 * Free Time
 * **Choose to "Keep good on the promise." before going to bed**
@@ -2042,6 +2046,7 @@
 ##### Daytime
 * Free Time
 ##### Evening
+* Crossword: "Influenza" (Knowledge +2)
 * Free Time
 
 ---
@@ -2079,6 +2084,7 @@
 ##### Daytime
 * Free Time
 ##### Evening
+* Crossword: "Illumination" (Knowledge +2)
 * Strength Hangout Underground Mall
 
 ---
@@ -2119,6 +2125,7 @@
 ##### Daytime
 * Free Time
 ##### Evening
+* Crossword (Knowledge +2)
 * Free Time
 
 ---
@@ -2165,11 +2172,12 @@
 #### Sun 12/18
 ##### Evening
 * Cannot leave Leblanc
-* Play "Star Forneus" (Guts +3)
+* Free Time
 
 ---
 #### Mon 12/19
 ##### Evening
+* Crossword: "Christmas" (Knowledge +2)
 * Free Time
 
 ---
@@ -2202,7 +2210,7 @@
 ##### Evening
 * Cannot leave Leblanc
 * Talk to Sojiro for exam reward
-* Finish playing "Star Forneus" (Guts +3)
+* Free Time
 
 ---
 #### Sat 12/24
@@ -2321,6 +2329,7 @@
 * Faith Rank 7
 ##### Evening
 * Request "Cry, My Beloved Sister" unlocked
+* Crossword (Knowledge +2)
 * Free Time
 
 ---
@@ -2365,6 +2374,7 @@
 ##### Daytime
 * Faith Rank 10
 ##### Evening
+* Crossword: "Dionysus" (Knowledge +2)
 * Strength Hangout Room
 
 ---
@@ -2402,6 +2412,7 @@
 ##### Daytime
 * Empress Rank 11
 ##### Evening
+* Crossword: "Lachesis" (Knowledge +2)
 * Free Time
 
 ---
@@ -2442,15 +2453,16 @@
 * Crane game
     1. Receive Jaga-kun Doll
 * Request "Idols and Unicorns" flag
-* Investigate Akihabara (Request "Idols and Unicorns" unlocked)
 * Free Time
 ##### Evening
+* Crossword: "Orochi" (Knowledge +2)
 * Free Time
 
 ---
 #### Sat 1/28
 ##### Daytime
 * Request "Fakeman Show" flag
+* Investigate Akihabara (Request "Idols and Unicorns" unlocked)
 * Investigate Kichijoji (Request "Fakeman Show" unlocked)
 * Money Reading
 * **Mementos Palace**

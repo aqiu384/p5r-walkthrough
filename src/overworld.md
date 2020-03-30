@@ -178,7 +178,7 @@
 * Location: Shibuya Underground Mall flower shop
 * Timing: Daytime
 * Stat Gains: Base **(Kindness +3)**
-    * Every Other Shift: If you satisfy customer request additional **(Kindness +2)**
+    * 2nd shift, Wed, Sat: If you satisfy customer request additional **(Kindness +2)**
 * Activity Notes:
     * After reading "Flowerpedia": Can see additional descriptions for each flower to help satisfy request
     * At least 3 shifts required to ID "Who's Been Assaulting People"

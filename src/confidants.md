@@ -447,12 +447,12 @@ Rank 2
 1. Choice 1: "You're very well informed." (+1)
 2. Choice 2: "That was dangerous." (+2)
 3. -
-4. (Phone) Choice 1: "Absolutely." (+1)
+4. (Phone) Choice 1: "Couldn't agree more." (+1)
 
 Rank 3
 1. Choice 1: "You have the wrong idea." (+1)
 2. Choice 2: "You can change." (+2)
-3. (Phone) Choice 1: "Seems like you've hit it off." (+1)
+3. (Phone) Choice 1: "Sounds like you two get along." (+1)
 
 Rank 4
 1. Choice 1: "That's unlike you." (+1)
@@ -464,7 +464,7 @@ Rank 4
 Rank 5
 1. Choice 3: "He sounds suspicious." (+2)
 2. Choice 1: "I got this." (+2)
-3. (Phone) Choice 3: "Persuade her sincerely." (+1)
+3. (Phone) Choice 3: "Try to reach out to her." (+1)
 
 **Rank 6 Requires Charm Lv. 5 (Debonair).**
 
@@ -960,7 +960,7 @@ Hangout Meiji-Shrine (8/6 only, Pyramid Palace cleared)
 3. Choice 3: "As expected of a doctor." (+2) (Death +2)
 
 Hangout Inokashira
-1. Choice 3: "Let’s just enjoy the air." (+3)
+1. Choice 3: "Let's just enjoy the air." (+3)
 
 Hangout Shibuya
 1. Choice 1: "Sounds like a good plan." (+3)
@@ -1145,12 +1145,12 @@ Rank 3
 
 Rank 4 (Unlocks Jazz Club)
 1. -
-2. Choice 3: "I'm looking forward to this." (+2)
-3. Choice 1: "What do you recommend?" (+2)
+2. Choice 3: "Now this is my kind of club." (+2)
+3. Choice 1: "Any recommendations?" (+2)
 4. Choice 1: "It's a great place." (+1)
 5. -
-6. Choice 2: "I can use the microwave." (+3)
-7. (Phone) Choice 2: "Understood." (+1)
+6. Choice 2: "I can use a microwave." (+3)
+7. (Phone) Choice 2: "I kinda get it." (+1)
 
 Rank 5
 1. -
@@ -1199,19 +1199,19 @@ Rank 9
 
 Rank 10
 
-**The night after clearing the Cruise Palace choose "Keep good on your promise."**
+**The night after clearing the Cruiser Palace choose "Keep good on your promise."**
 
 **Rank 11 automatically triggered on 2/2 if Rank 10 completed and promise kept.**
 
 Rank 11
 
 #### Other Events
-Hangout Aquarium (7/29 only)
+Hangout Shinagawa (7/29 only)
 1. -
-2. Choice 1: "It's a great place." (+3)
+2. Choice 1: "It's a nice place." (+3)
 3. -
-4. Choice 1: "I don't mind." (Devil +3)
-5. Choice 2: "It's nothing to be shy about." (+2)
+4. Choice 1: "If you like." (Devil +3)
+5. Choice 2: "It's nothing bad." (+2)
 
 ### Hermit
 #### Availability
@@ -2266,22 +2266,22 @@ Enhance ambush techniques.
 Rank 1
 
 Rank 2 (HP +5)
-1. Choice 1: "I'm just getting started." (+1)
-2. Choice 1: "Next time as well." (+1)
+1. Choice 1: "We're just getting started." (+1)
+2. Choice 1: "Next time, then." (+1)
 3. -
 4. -
 5. -
-6. (Phone) Choice 1: "Right." (+1)
+6. (Phone) Choice 1: "Impressive." (+1)
 
 Rank 3 (HP +5)
-1. Choice 1: "Making your own lunch?" (+2)
-2. Choice 2: "Looks delicious." (+1)
-3. Choice 1: "Is this all meant for one person?" (+2)
-4. Choice 2: "It's a really unique lunch." (+1)
+1. Choice 1: "Making bento?" (+2)
+2. Choice 2: "It looks delicious." (+1)
+3. Choice 1: "Is this all for you?" (+2)
+4. Choice 2: "It's definitely unique." (+1)
 5. -
 6. -
 7. -
-8. Choice 1: "How about making it again?" (+3)
+8. Choice 1: "You could try again sometime?" (+3)
 9. -
 
 Rank 4 (HP +5)

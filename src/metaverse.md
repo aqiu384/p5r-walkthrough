@@ -156,8 +156,15 @@
 #### Lockdown
 * Unlocked: Strength Rank 3
 * Persona learns a new resistance skill
-* Element of skill tends to cover inherent weakness
-* Rank of skills scales off current personal level
+* Skill element chosen from persona weaknesses
+* If all weaknesses have been covered a random ailment resistance will be chosen instead
+* Rank of skills scales off current persona level
+    * Lv. 1-25: Dodge X
+    * Lv. 26-33: Evade X
+    * Lv. 34-52: Resist X
+    * Lv. 53-62: Null X
+    * Lv. 63-74: Repel X
+    * Lv. 75-99: Drain X
 * Adding incense grants bonus stats when lockdown ends **(Royal)**
 * You can obtain incense from Kichijoji or Jose **(Royal)**
 * Fusion Alert: Increases stat gains from incense **(Royal)**
