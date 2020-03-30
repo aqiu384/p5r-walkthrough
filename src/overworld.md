@@ -167,16 +167,16 @@
 ##### Convenience Store Job (Royal)
 * Unlocked: Consult Shibuya underground platform job listings
 * Location: Shibuya Central Street convenience store
-* Timing: Anytime
+* Timing: Daytime
 * Stat Gains: Base **(Charm +3)**
     * Days Ending in 7: If you efficiently handle queue **(Charm +2)**
 * Activity Notes:
     * At least 3 shifts required to ID "Calling Justice for Cats"
 
 ##### Flower Shop Job
-* Unlocked: Consult Shibuya underground platform job listings with **(Kindness Lv. 2)**
+* Unlocked: Consult Shibuya underground platform job listings with **(Charm Lv. 2)**
 * Location: Shibuya Underground Mall flower shop
-* Timing: Anytime
+* Timing: Daytime
 * Stat Gains: Base **(Kindness +3)**
     * Every Other Shift: If you satisfy customer request additional **(Kindness +2)**
 * Activity Notes:
@@ -314,11 +314,10 @@
 * Location: Shinjuku Bar Crossroads
 * Timing: Evenings
 * Stat Gains: Base **(Charm +3)**
-    * Red-faced Business Man (Mon, Wed, Fri, Sat): **(Knowledge +2)**
-    * Scary-looking Man (Wed, Thu, Sun): **(Guts +2)**
-    * Office Worker (Tue, Fri, Sun): **(Proficiency +2)**
-    * Downcast Man (Mon, Fri, Sat): **(Kindness +2)**
-    * Evening Dress Woman (Tue, Wed, Sat, Sun): **(Charm +2)**
+    * Red-faced Business Man (Sun): **(Knowledge +2)**
+    * Evening Dress Woman (Sun): **(Charm +2)**
+    * Office Worker (Sun): **(Proficiency +2)**
+    * Scary-looking Man (Sun): (Wed, Thu, Sun): **(Guts +2)**
 * Activity Notes:
     * At least 2 shifts required to ID "We Aren't Just Your Slaves"
 
@@ -479,30 +478,30 @@
     * Partner for first game is chosen by you
     * Partner for second game is randomly selected
     * If partner can end the game during round 4 and is given correct encouragement, they will win the game for you and go up by 2 ranks
-        * Ryuji: "Get pumped!"
-        * Morgana: "I'm counting on you."
-        * Ann: "Same as always."
-        * Yusuke: "As if you were painting."
-        * Makoto: "Take a deep breath."
-        * Futaba (No Baton Pass rank): "This is the real thing."
-        * Haru: "Just enjoy it."
+        * Ryuji: Choice 1: "Get pumped!"
+        * Morgana: Choice 3: "I'm counting on you."
+        * Ann: Choice 3: "Same as always."
+        * Yusuke: Choice 1: "As if you were painting."
+        * Makoto: Choice 3: "Take a deep breath."
+        * Futaba (No Baton Pass rank): Choice 2: "This is the real thing."
+        * Haru: Choice 3: "Just enjoy it."
         * Akechi (Impossible to end on round 4): None
-        * Kasumi: "Believe in yourself."
+        * Kasumi: Choice 3: "Believe in yourself."
 
 ##### Billiards
 * Unlocked: Auto
 * Location: Penguin Club
 * Timing: Anytime
 * Results: Party technical rank increases
-    * Rank 2: Technical damage light boost
-    * Rank 3: Technical damage medium boost
-    * Rank 4: Technical damage heavy boost and medium chance of causing down
-    * Rank 5: Technical damage severe boost and guaranteed chance of causing down
+    * Rank 1: Technical damage light boost
+    * Rank 2: Technical damage medium boost
+    * Rank 3: Technical damage heavy boost and medium chance of causing down
+    * Rank 4: Technical damage severe boost and guaranteed chance of causing down
 * Activity Progression:
-    * Rank 2: Play billiards once
-    * Rank 3: **(Proficiency Lv. 2)** and buy and read "Billiard Techniques" from the sports shop, perform Back Hand
-    * Rank 4: **(Proficiency Lv. 3)** and buy Sharp Cue from the sport shop, perform Jump Shot, receive "Billiards Magic" afterwards
-    * Rank 5: **(Proficiency Lv. 5)** and read "Billiards Magic", perform Masse Shot
+    * Rank 1: Play billiards once
+    * Rank 2: **(Proficiency Lv. 2)** and buy and read "Billiard Techniques" from the sports shop, perform Back Hand
+    * Rank 3: **(Proficiency Lv. 3)** and buy Sharp Cue from the sport shop, perform Jump Shot, receive "Billiards Magic" afterwards
+    * Rank 4: **(Proficiency Lv. 5)** and read "Billiards Magic", perform Masse Shot
 
 ##### Jazz Club
 * Unlocked: Justice Rank 4

@@ -1,5 +1,12 @@
 ## Walkthrough
 ### How to Use
+#### Version 1.0.7 Goal Updates
+* Quickly rank up Technical Lv. through billiards
+* Quickly rank up Baton Pass through darts
+* Delay Devil progression in order to see Empress Hangout Asakusa on 11/6
+* Changes made to complete these goals are labeled with **[Version >= 1.0.7]**
+* Otherwise use the original activities labeled with **[Version < 1.0.7]**
+
 #### Settings Used to Make This Walkthrough
 * Normal Difficulty
 * All free DLC downloaded
@@ -28,7 +35,7 @@
 * If this happens at least once during a session you receive and additional **(Proficiency +2)**
 * You must reload starting with the second crafting session until this happens
 * Chances of this occurring is tied to your Proficiency, making it easier to occur later on
-* The days when you must get the crafting bonus are noted on 4/21, 5/2, 6/18, 6/19, 6/20, 6/21, 7/20, and 7/25
+* The days when you must get the crafting bonus are noted on 4/21, 5/2, 5/7 **[Version >= 1.0.7]**, 6/18, 6/19, 6/20 **[Version < 1.0.7]**, 6/21, 7/20, and 7/25
 * Recommended crafting tools
     * Lockpick
     * Treasure Trap
@@ -40,7 +47,7 @@
 * At times you may randomly dodge and receive **(Charm +3)**
 * You must reload starting with the second chalk throw until this happens
 * Chances of this occurring is tied to your Proficiency, making it easier to occur later on
-* The days when you must dodge the chalk are noted on 5/6 and 7/11
+* The days when you must dodge the chalk are noted on 5/6, 6/21 **[Version >= 1.0.7]** and 7/11
 
 #### Metaverse Progress
 * All palaces were cleared on Normal using the minimum number of in-game days without using SP items
@@ -123,11 +130,3 @@
         * You can reverse the steps if you wish to commit to a relationship on that save
     * True Comrade: Should also unlock while using above process to complete Beloved Phantom Thief
     * Kung Fu Master: Needs 16 gym visits on a save
-
-#### Optional Events
-* Kichijoji Trading
-* Darts
-* Billiards
-* Jazz Club
-* Gym Workouts
-* Non-ranking events December onwards

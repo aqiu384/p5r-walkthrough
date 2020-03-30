@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+import sys
 import subprocess
 
 HEADER = '\n'.join((
@@ -12,7 +13,7 @@ HEADER = '\n'.join((
     '</head>',
     '<body>',
     '<div>',
-    '<h1>Persona 5 Walkthrough</h1>',
+    '<h1>Persona 5 Walkthrough - Version {}</h1>',
     '<h2>Navigation</h2>',
     '<ul>',
     '<li><a href="/">Home</a></li>'
@@ -33,6 +34,8 @@ NAVBAR = '\n'.join(['<li><a href="{}">{}</a></li>'.format(
     x[1]
 ) for x in PAGES])
 
+VERSION = sys.argv[1]
+
 for src, title in PAGES:
     fname = 'dist/' + src.split('/')[1] + '.html'
     subprocess.call(['showdown', 'makehtml', '--tables', '-i', src + '.md', '-o', fname])
@@ -41,7 +44,7 @@ for src, title in PAGES:
         lines = htmlfile.read()
 
     lines = '\n'.join([
-        HEADER.format(title),
+        HEADER.format(title, VERSION),
         NAVBAR,
         '</ul>',
         lines,

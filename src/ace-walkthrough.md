@@ -733,6 +733,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Evening
 * Ask Chihaya for Luck Reading (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
+* **Temperance must be completed on the romance route to receive Night Pennant room decoration**
 * Temperance Rank 9 Friendship
 * Temperance Rank 9 Romance
 
@@ -1157,7 +1158,6 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 #### Sun 9/4
 ##### Daytime
 * Aojiru (Knowledge +2)
-* Crane game
 * Investigate Shibuya arcade (Request "Winners Don't Use Cheats" unlocked)
 * Hermit Rank 3
 ##### Evening
@@ -1293,7 +1293,6 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Daytime
 * Councillor Rank 6
 ##### Evening
-* Crane game
 * Maid Cafe (Charm +3)
 
 ---
@@ -1325,6 +1324,8 @@ Finish reading "Museum of Stars" (Ikebukuro unlocked)
 ---
 #### Tue 9/27
 ##### Daytime
+* Interact with crane game in Akihabara arcade
+    1. Receive Jack Frost Doll
 * Councillor Rank 7
 ##### Evening
 * Hierophant Rank 6 (Kindness +5)
@@ -1413,6 +1414,8 @@ Finish reading "Master Swordsman" (Guts +7)
 ---
 #### Fri 10/7
 ##### Daytime
+* Crane game
+    1. Receive Burger-kun Doll
 * Buy all books from Jinbocho
 * Emperor Rank 9
 ##### Evening
@@ -1466,7 +1469,6 @@ Finish reading "Master Swordsman" (Guts +7)
 ---
 #### Sat 10/15
 ##### Daytime
-* Crane game
 * Tower Rank 6 (Kindness +3) (Throw away points)
 ##### Evening
 * Hanged Rank 7
@@ -1625,6 +1627,7 @@ Read "Revelations Person"
 #### Mon 11/7
 ##### Daytime
 * Crane game
+    1. Receive Wanna-kun Doll
 * Money Reading
 * **Mementos Palace**
     1. Shady Deal in the Shadows
@@ -1737,6 +1740,8 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Class
 * Question: "Limacon Curve." (Knowledge +2)
 ##### Daytime
+* Crane game
+    1. Receive Lexy Doll
 * Councillor Rank 9
 ##### Evening
 * Death Rank 10 Romance
@@ -1796,6 +1801,8 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ---
 #### Sun 11/27
 ##### Daytime
+* Crane game
+    1. Receive Sheep Man Doll
 * Hermit Rank 9 Friendship
 * Hermit Rank 9 Romance
 ##### Evening
@@ -1841,7 +1848,6 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ---
 #### Sat 12/3
 ##### Daytime
-* Crane game
 * Tower Rank 10 (Kindness +2)
 ##### Evening
 * Free Time
@@ -1891,7 +1897,7 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 * **Reach treasure in Cruiser Palace**
 ##### Evening
 * Call Kawakami for massage
-* Free Time
+* Temperance Hangout Odaiba Romance (Romance route only)
 
 ---
 #### Sat 12/10
@@ -1953,9 +1959,10 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ---
 #### Sat 12/17
 ##### Daytime
+* Crane game
+    1. Receive Black Frost Doll
 * Priestess Hangout Suidobashi
 ##### Evening
-* Crane game
 * Free Time
 
 ---
@@ -1984,7 +1991,7 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### All Day
 * Exams: "Japan.", "D for dreadnought."
 ##### Daytime
-* Free Time
+* Emperor Hangout Ueno
 ##### Evening
 * Free Time
 
@@ -2131,9 +2138,10 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ---
 #### Tue 1/17
 ##### Daytime
+* Crane game
+    1. Receive Buchimaru-kun Doll
 * Priestess Rank 11
 ##### Evening
-* Crane game
 * Free Time
 
 ---
@@ -2223,10 +2231,11 @@ Free Time
 ##### Class
 * Question: "Friend of a friend of a friend." (Knowledge +2)
 ##### Daytime
+* Crane game
+    1. Receive Jaga-kun Doll
 * **Reach treasure in Research Lab Palace**
 ##### Evening
 * Call Kawakami for massage
-* Crane game
 * Crossword (Knowledge +2)
 * Free Time
 

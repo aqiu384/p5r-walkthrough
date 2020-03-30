@@ -222,7 +222,9 @@
 * Question: "Soulmate." (Knowledge +2)
 ##### Evening
 * Cannot leave Leblanc
-* Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
+* Save for crafting reload
+* [Version < 1.0.7] Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
+* [Version >= 1.0.7] Reload crafting for (Proficiency +5)
 
 ---
 #### Sun 5/8
@@ -236,7 +238,7 @@
 #### Mon 5/9
 ##### Daytime
 * Request "The Bark and Bite of a Bully" unlocked
-* Chariot Rank 5
+* Chariot Rank 5 (Unlocks Shibuya Gym)
 ##### Evening
 * Talk to Yoshida outside Shibuya station, Sun Rank 0.1
 
@@ -373,7 +375,7 @@
 #### Wed 5/25
 ##### Daytime
 * Request "The Cats' Disappearance" flag
-* Investigate Yongen-Jaya by talking with residents to ID target (Request "The Cat's Disappearance" unlocked)
+* Investigate Yongen-Jaya by talking with residents to ID target (Request "The Cats' Disappearance" unlocked)
 * Death Rank 5 (Guts +2)
 ##### Evening
 * Visit Big Bang Burger on Shibuya central street, Big Bang Challenge (Charm +2, Proficiency +2, Guts +2, Knowledge +2) (Charm Lv. 3)
@@ -424,7 +426,8 @@
 ##### Class
 * Question: "John Silver." (Knowledge +2)
 ##### Daytime
-* Lovers Hangout Harajuku
+* [Version < 1.0.7] Lovers Hangout Inokashira
+* [Version >= 1.0.7] Lovers Hangout Inokashira
 ##### Evening
 * Crossword (Knowledge +2)
 * Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
@@ -467,8 +470,6 @@
 
 ---
 #### Sun 6/5
-##### Daytime
-* Talk to Kichijoji information desk worker (Knowledge +2)
 ##### Evening
 * Request "Angry Old Man" flag
 * Investigate Kichijoji (Request "Angry Old Man" unlocked)
@@ -494,7 +495,7 @@
 * Rain
 * Death Rank 7 (Guts +2)
 ##### Evening
-* Crossword (Knowledge +2) (Knowledge Lv. 3)
+* Crossword (Knowledge +2) (1.0.7 Knowledge Lv. 3)
 * Strength Hangout Movie Theater
 
 ---
@@ -504,12 +505,18 @@
 ##### Daytime
 * Respond to Kasumi's message, Faith Rank 2
 ##### Evening
-* Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
+* [Version < 1.0.7] Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
+* [Version >= 1.0.7] Play darts with Ann and one random other in Kichijoji (Proficiency +5) (1.0.7 Proficiency Lv. 3)
+    1. Let Ann finish on round 4 (Baton Pass Lv. 3)
+    2. Choice 3: "Same as always." (Lovers +1)
+    3. Let Morgana finish on round 4 (Baton Pass Lv. 3)
+    4. Choice 3: "I'm counting on you."
 
 ---
 #### Thu 6/9
 ##### Evening
-* Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
+* [Version < 1.0.7] Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
+* [Version >= 1.0.7] Play billiards in Kichijoji (Random Stat +3) (Technical Lv. 1) (Lovers +1)
 
 ---
 #### Fri 6/10
@@ -555,16 +562,19 @@
 * Question: "Coins." (Knowledge +2)
 ##### Evening
 * Rain
+* [Version >= 1.0.7] Buy "Enlightened Billiard Tech" from sports shop
 * Temperance Rank 5
 
 ---
 #### Thu 6/16
 ##### Class
-* Finish reading "Playing The Game" (Charm +5)
+* [Version < 1.0.7] Finish reading "Playing The Game" (Charm +5)
+* [Version >= 1.0.7] Finish reading "Enlightened Billiard Tech" (Back Hand unlocked)
 ##### Evening
 * Rain
 * Crossword (Knowledge +2)
-* Bathhouse (Charm +3, Guts +2)
+* [Version < 1.0.7] Bathhouse (Charm +3, Guts +2)
+* [Version >= 1.0.7] Billiards (Random Stat +3) (Technical Lv. 2)
 
 ---
 #### Fri 6/17
@@ -587,7 +597,7 @@
 ##### Evening
 * Cannot leave Leblanc
 * Save for crafting reload
-* Reload crafting for (Proficiency +5)
+* Reload crafting for (Proficiency +5) (1.0.1 Proficiency Lv. 3)
 
 ---
 #### Mon 6/20
@@ -595,13 +605,14 @@
 * Question with matching arcana: "Smartphones." (Charm +2) (Lovers +2)
 ##### Evening
 * Cannot leave Leblanc
-* Save for crafting reload
-* Reload crafting for (Proficiency +5) (Proficiency Lv. 3)
+* Save for crafting or chalk dodge reload
+* [Version < 1.0.7] Reload crafting for (Proficiency +5)
+* [Version >= 1.0.7] Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
 
 ---
 #### Tue 6/21
 ##### Class
-* Do not need to reload chalk dodge
+* [Version >= 1.0.7] Reload chalk dodge for (Charm +3)
 ##### Daytime
 * **Reach treasure in Bank Palace**
 * **You need at least Y100,000 for Fortune Rnk 0.2**
@@ -612,7 +623,7 @@
 ---
 #### Wed 6/22
 ##### Daytime
-* Sign up for flower shop job from part-time listings in Shibuya underground walkway (Requires Kindness Lv. 2)
+* Sign up for flower shop job from part-time listings in Shibuya underground walkway (Requires Charm Lv. 2)
 * Work at flower shop in Shibuya underground mall (Kindness +3)
 ##### Evening
 * Borrow "ICU" from DVD store
@@ -646,7 +657,8 @@
 ---
 #### Sat 6/25
 ##### Class
-* Finish reading "Flowerpedia" (Provides flower hints during flower shop job)
+* [Version < 1.0.7] Finish reading "Flowerpedia" (Provides flower hints during flower shop job)
+* [Version >= 1.0.7] Finish reading "Playing The Game" (Charm +5)
 ##### Daytime
 * Buy Yakisoba Pan from school store
 * Talk to Makoto outside Shujin student council room, Priestess Rank 1 (Requires Knowledge Lv. 3)
@@ -676,7 +688,7 @@
 ---
 #### Tue 6/28
 ##### Daytime
-* Lovers Hangout Inokashira
+* Lovers Hangout Harajuku
 ##### Evening
 * Talk to Chihaya at Shinjuku fortune telling booth, Fortune Rank 0.1
 
@@ -783,7 +795,7 @@
 * Buy "Ghost Encounters" from Shibuya bookstore
 * Faith Rank 4
 ##### Evening
-* Crossword (Knowledge +2) (Knowledge Lv. 4)
+* Crossword (Knowledge +2) (1.0.1 Knowledge Lv. 4)
 * Fortune Rank 1
 
 ---
@@ -804,7 +816,7 @@
 ##### Class
 * Question: "Triangle." (Knowledge +2)
 ##### Evening
-* Talk to Hifumi in Kanda church, Star Rank 1 (Requires Charm Lv. 3) (Knowledge +2)
+* Talk to Hifumi in Kanda church, Star Rank 1 (Requires Charm Lv. 3) (Knowledge +2) (1.0.7 Knowledge Lv. 4)
 
 ---
 #### Sun 7/10
@@ -812,7 +824,7 @@
 * Cannot leave Leblanc
 * Request "The Lovesick Cyberstalking Girl" unlocked
 * Save for chalk dodge reload
-* Watch "The Running Dead" (Guts +5) (Guts Lv. 4)
+* Watch "The Running Dead" (Guts +5) (1.0.1 Guts Lv. 4)
 
 ---
 #### Mon 7/11
@@ -821,7 +833,7 @@
 * Reload chalk dodge for (Charm +3)
 ##### Evening
 * Trade Soothing Soba for Edo Katana
-* Talk to Mishima in Shinuku streets, Moon Rank 3
+* Talk to Mishima in Shinjuku streets, Moon Rank 3
 
 ---
 #### Tue 7/12
@@ -865,7 +877,7 @@
 #### Mon 7/18
 ##### Evening
 * Cannot leave Leblanc
-* Finish watching "The Running Dead" (Guts +5)
+* Finish watching "The Running Dead" (Guts +5) (1.0.7 Guts Lv. 4)
 
 ---
 #### Tue 7/19
@@ -902,7 +914,7 @@
 #### Sat 7/23
 ##### Evening
 * Cannot leave Leblanc
-* Finish watching "Jail Break" (Proficiency +5)
+* Finish watching "Jail Break" (Proficiency +5) (1.0.7 Proficiency Lv. 4)
 
 ---
 #### Sun 7/24
@@ -915,7 +927,7 @@
 ##### Evening
 * Cannot leave Leblanc
 * Save for crafting reload
-* Reload crafting for (Proficiency +5) (Proficiency Lv. 4)
+* Reload crafting for (Proficiency +5) (1.0.1 Proficiency Lv. 4)
 
 ---
 #### Tue 7/26
@@ -960,10 +972,10 @@
 #### Sat 7/30
 ##### Daytime
 * Luck Reading (Boost Guts)
-* Repeatedly sit on sofa in front of Kichijoji furniture store (Guts +3)
+* Keep sitting on sofa in front furniture store in east Kichijoji (Guts +3)
 * Watch movies in Shinjuku (Guts +10)
 ##### Evening
-* Visit the Kichijoji donuts shop for a quiz (Guts +3)
+* Visit the donut shop across from the Kichijoji power stone shop, Answer Morgana's quiz (Guts +3)
 * Fortune Rank 5
 
 ---
@@ -982,7 +994,8 @@
 * Chariot Rank 10
 ##### Evening
 * Affinity Reading with matching arcana (Lovers +2)
-* Devil Rank 2 (Charm +3)
+* Luck Reading (Boost Charm)
+* Devil Rank 2 (Charm +4)
 
 ---
 #### Tue 8/2
@@ -1012,7 +1025,8 @@
 ##### Evening
 * TV Quiz: "Joyride, but return the car." (Knowledge +2)
 * Affinity Reading with matching arcana (Hierophant +2)
-* Devil Rank 3 (Charm +3)
+* Luck Reading (Boost Charm)
+* Devil Rank 3 (Charm +4)
 
 ---
 #### Fri 8/5
@@ -1080,13 +1094,14 @@
 ##### Daytime
 * Emperor Rank 8
 ##### Evening
+* Buy Sharp Cue from sports shop
 * Affinity Reading with matching arcana (Devil +2)
-* Devil Rank 5
+* [Version < 1.0.7] Devil Rank 5
+* [Version >= 1.0.7] Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magic")
 
 ---
 #### Sat 8/13
 ##### Daytime
-* Affinity Reading with matching arcana (Devil +2)
 * Big Bang Challenge (Charm +3, Proficiency +3, Guts +3, Knowledge +3)
 ##### Evening
 * Justice Rank 5
@@ -1133,7 +1148,9 @@
 * Rain
 * Priestess Rank 8
 ##### Evening
-* Devil Rank 6
+* Affinity Reading with matching arcana (Devil +2)
+* [Version < 1.0.7] Devil Rank 6
+* [Version >= 1.0.7] Devil Rank 5
 
 ---
 #### Fri 8/19
@@ -1141,7 +1158,12 @@
 * Emperor Rank 10
 ##### Evening
 * Rain
-* Devil Rank 7 (Charm +5)
+* [Version < 1.0.7] Devil Rank 7 (Charm +5)
+* [Version >= 1.0.7] Darts with Makoto and one random other (Proficiency +5)
+    1. Let Makoto finish on round 4 (Baton Pass Lv. 3)
+    2. Choice 3: "Take a deep breath." (Priestess +1)
+    3. Let Yusuke finish on round 4 (Baton Pass Lv. 3)
+    4. Choice 1: "As if you were painting." (Emperor +1)
 
 ---
 #### Sat 8/20
@@ -1151,20 +1173,22 @@
 * Luck Reading (Boost Guts)
 * Big Bang Challenge (Guts +7)
 ##### Evening
-* Hanged Rank 3 (Proficiency +3)
+* Hanged Rank 3 (Proficiency +3) (1.0.7 Proficiency Lv. 5)
 
 ---
 #### Sun 8/21
 ##### Evening
 * Cannot leave Leblanc
-* Watch "24 Hours" (Guts +5)
+* [Version < 1.0.7] Watch "24 Hours" (Guts +5)
+* [Version >= 1.0.7] Finish reading "Billiards Magic" (Masse Shot unlocked)
 
 ---
 #### Mon 8/22
 ##### Evening
 * Trade Melon Pan for Yakuza Fists
 * Check Summer Mammoth Lottery results
-* Devil Rank 7.1 (Request "Fighting for Truth of Journalism" unlocked)
+* [Version < 1.0.7] Devil Rank 7.1 (Request "Fighting for Truth of Journalism" unlocked)
+* [Version >= 1.0.7] Work at bar (Kindness +3) (Request "We Aren't Just Your Slaves" unlocked)
 
 ---
 #### Tue 8/23
@@ -1189,7 +1213,8 @@
 #### Fri 8/26
 ##### Evening
 * Rain
-* Work at bar (Kindness +3) (Request "We Aren't Just Your Slaves" unlocked)
+* [Version < 1.0.7] Work at bar (Kindness +3) (Request "We Aren't Just Your Slaves" unlocked)
+* [Version >= 1.0.7] Billiards (Random Stat +3) (Technical Lv. 4)
 
 ---
 #### Sat 8/27
@@ -1223,7 +1248,8 @@
 * Hermit Rank 1 (Auto)
 ##### Evening
 * Cannot leave Leblanc
-* Finish watching "24 Hours" (Guts +5) (Guts Lv. 5)
+* [Version < 1.0.7] Free Time
+* [Version >= 1.0.7] Watch "24 Hours" (Guts +5)
 ### September
 #### Thu 9/1
 ##### Evening
@@ -1240,7 +1266,7 @@
 ##### Evening
 * Crossword (Knowledge +2)
 * Luck Reading (Boost Proficiency)
-* Interact with desk in your room, Repair laptop (Proficiency +7) (Proficiency Lv. 5)
+* Interact with desk in your room, Repair laptop (Proficiency +7) (1.0.1 Proficiency Lv. 5)
 
 ---
 #### Sat 9/3
@@ -1283,7 +1309,7 @@
     6. Debunking the Psychic!
     7. Who's Been Assaulting People?
     8. We Aren't Just Your Slaves
-    9. Fighting for Truth of Journalism
+    9. [Version < 1.0.7] Fighting for Truth of Journalism
     10. Who's Muscling in Yongen-Jaya?
     11. Winners Don't Use Cheats, attempt needed to unlock Tower Rnk 1
 
@@ -1357,6 +1383,7 @@
 * Call Kawakami for massage
 * Luck Reading (Boost Knowledge)
 * Crossword (Knowledge +3)
+* Visit Kichijoji info stand, Ask the receptionist every question (Knowledge +3)
 * Trade Thief Mask for Concentrate Supplement x2
 * Star Rank 6 (Knowledge +3)
 
@@ -1364,9 +1391,10 @@
 #### Tue 9/20
 ##### Daytime
 * Affinity Reading with matching arcana (Star +2)
+* Luck Reading (Boost Guts)
 * Send calling card
 ##### Evening
-* Finish reading "Master Swordsman" (Guts +7)
+* Finish reading "Master Swordsman" (Guts +10) (Guts Lv. 5)
 
 ---
 #### Wed 9/21
@@ -1397,7 +1425,9 @@
 ##### Daytime
 * Councillor Rank 6
 ##### Evening
-* Devil Rank 8 (Charm +5)
+* Affinity Reading with matching arcana (Devil +2)
+* [Version < 1.0.7] Devil Rank 8 (Charm +5)
+* [Version >= 1.0.7] Devil Rank 6
 
 ---
 #### Sat 9/24
@@ -1432,6 +1462,7 @@
 #### Tue 9/27
 ##### Daytime
 * Interact with crane game in Akihabara arcade
+    1. Receive Jack Frost Doll
 * Death Rank 8 (Guts +2)
 ##### Evening
 * Fortune Rank 8
@@ -1467,8 +1498,9 @@
 * Buy "Karakuri" from Jinbocho
 * Councillor Rank 7
 ##### Evening
-* Devil Rank 9 Friendship
+* [Version < 1.0.7] Devil Rank 9 Friendship
 * Devil Rank 9 Romance
+* [Version >= 1.0.7] Devil Rank 7 (Charm +5)
 ### October
 #### Sat 10/1
 ##### Daytime
@@ -1528,9 +1560,12 @@
 ---
 #### Fri 10/7
 ##### Daytime
+* Crane game
+    1. Receive Burger-kun Doll
 * Talk to Futaba to initiate solo battle, Hierophant Rank 8.1
 ##### Evening
-* Devil Rank 10
+* [Version < 1.0.7] Devil Rank 10
+* [Version >= 1.0.7] Devil Rank 7.1 (Request "Fighting for Truth of Journalism" unlocked)
 
 ---
 #### Sat 10/8
@@ -1542,8 +1577,7 @@
 ---
 #### Sun 10/9
 ##### Daytime
-* Death Rank 10 Friendship
-* Free time if on Death Rank 10 Romance
+* Death Rank 10 Friendship (Friendship route only)
 ##### Evening
 * Fortune Rank 10
 
@@ -1635,7 +1669,12 @@
 ##### Class
 * Question: "15." (Knowledge +2)
 ##### Evening
-* Moon Rank 9
+* [Version < 1.0.7] Moon Rank 9
+* [Version >= 1.0.7] Darts with Haru and Ryuji (Proficiency +5)
+    1. Let Haru finish on round 4 (Baton Pass Lv. 3)
+    2. Choice 3: "Just enjoy it."
+    3. Let Ryuji finish on round 4 (Baton Pass Lv. 3)
+    4. Choice 1: "Get pumped!" (Chariot +1)
 
 ---
 #### Sun 10/23
@@ -1689,7 +1728,8 @@
 ##### Evening
 * Call Kawakami for massage
 * Trade Mystery Stew for Angelic Grace Ring
-* Darts with Akechi and Morgana (Proficiency +3)
+* Darts with Akechi (Proficiency +3)
+    1. Let Joker finish on round 5 (Baton Pass Lv. 2)
 
 ---
 #### Mon 10/31
@@ -1700,7 +1740,8 @@
 * **Reach treasure in Casino Palace**
 ##### Evening
 * Call Kawakami for massage
-* Darts with Akechi and Morgana (Proficiency +3)
+* Darts with Akechi (Proficiency +3)
+    1. Let Joker finish on round 5 (Baton Pass Lv. 3)
 ### November
 #### Tue 11/1
 ##### Daytime
@@ -1710,16 +1751,16 @@
 * Attempt to send calling card
 * **Mementos Palace**
     1. Shady Deal in the Shadows
-    2. Man of Many Faces and Debts
-    3. Winners Don't Use Cheats
-    4. Upstaging the Stage Mother
-    5. The Killer Who Cleans Up Trash
-    6. Daughter's Just a Meal Ticket
-    7. A Mother's Aggression
+    2. [Version >= 1.0.7] Fighting for Truth of Journalism
+    3. Man of Many Faces and Debts
+    4. Winners Don't Use Cheats
+    5. Upstaging the Stage Mother
+    6. The Killer Who Cleans Up Trash
+    7. Daughter's Just a Meal Ticket
+    8. A Mother's Aggression
 ##### Evening
 * Call Kawakami for massage
-* Death Rank 10 Romance
-* Free time if on Death Rank 10 Friendship
+* Death Rank 10 Romance (Romance route only)
 
 ---
 #### Wed 11/2
@@ -1738,7 +1779,8 @@
 ##### Daytime
 * Empress Rank 2 (Requires Proficiency Lv. 5)
 ##### Evening
-* Moon Rank 10
+* [Version < 1.0.7] Moon Rank 10
+* [Version >= 1.0.7] Moon Rank 9
 
 ---
 #### Fri 11/4
@@ -1747,7 +1789,8 @@
 ##### Daytime
 * Tower Rank 9 (Kindness +5)
 ##### Evening
-* Jazz club with Haru
+* [Version < 1.0.7] Free Time
+* [Version >= 1.0.7] Devil Rank 8 (Charm +5)
 
 ---
 #### Sat 11/5
@@ -1764,14 +1807,16 @@
 ---
 #### Sun 11/6
 ##### Daytime
-* Hermit Rank 8
+* [Version < 1.0.7] Free Time
+* [Version >= 1.0.7] Empress Hangout Asakusa
 ##### Evening
 * Hanged Rank 8 (Proficiency +5)
 
 ---
 #### Mon 11/7
 ##### Daytime
-* Crane Game
+* Crane game
+    1. Receive Wanna-kun Doll
 * Empress Rank 4
 ##### Evening
 * Star Rank 8 (Knowledge +2)
@@ -1788,7 +1833,7 @@
 ---
 #### Wed 11/9
 ##### Daytime
-* Empress Rank 6
+* Hermit Rank 8
 ##### Evening
 * Star Hangout Jinbocho
 
@@ -1803,16 +1848,19 @@
 * Tower Rank 10 (Kindness +2)
 ##### Evening
 * TV Quiz: "Me in front of my TV." (Knowledge +2)
-* Jazz club with Morgana
+* [Version < 1.0.7] Free Time
+* [Version >= 1.0.7] Devil Rank 9 Friendship
+* Devil Rank 9 Romance
 
 ---
 #### Fri 11/11
 ##### Class
 * Finish reading "Bowman" (Guts +5)
 ##### Daytime
-* Empress Rank 7
+* Empress Rank 6
 ##### Evening
-* Jazz club with Haru
+* [Version < 1.0.7] Free Time
+* [Version >= 1.0.7] Devil Rank 10
 
 ---
 #### Sat 11/12
@@ -1842,7 +1890,7 @@
 ##### Class
 * Question: "High altitude." (Knowledge +2)
 ##### Daytime
-* Empress Rank 8
+* Empress Rank 7
 ##### Evening
 * Star Rank 10
 
@@ -1851,22 +1899,21 @@
 ##### Class
 * Question: "Displayed head." (Knowledge +2)
 ##### Daytime
-* Billiards (Random Stat +3)
+* Empress Rank 8
 ##### Evening
-* Buy "Enlightened Billiard Tech" from sports shop
-* Jazz club with Yusuke
+* [Version < 1.0.7] Free Time
+* [Version >= 1.0.7] Moon Rank 10
 
 ---
 #### Wed 11/16
 ##### Class
-* Finish reading "Enlightened Billiard Tech" (Back Hand unlocked)
+* Free Time
 ##### Daytime
 * Rain
-* Billiards (Random Stat +3)
+* Free Time
 ##### Evening
-* Buy Sharp Cue from sports shop
 * Accept Justice invitation
-* Jazz club with Akechi
+* Jazz club with Akechi (SP +20)
 
 ---
 #### Thu 11/17
@@ -1875,10 +1922,12 @@
 ##### Class
 * Question: "Limacon Curve." (Knowledge +2)
 ##### Daytime
+* Crane game
+    1. Receive Lexy Doll
 * Buy "Medjed Menace", "Wise Men's Words", and "Tidying the Heart" from Shibuya bookstore
 * Hermit Rank 10
 ##### Evening
-* Billiards (Random Stat +3) (Obtain "Billiards Magic")
+* Free Time
 
 ---
 #### Fri 11/18
@@ -1887,7 +1936,7 @@
 * Councillor Rank 10 (Auto)
 ##### Evening
 * Cannot leave Leblanc
-* Finish reading "Billiards Magic" (Masse Shot unlocked)
+* Free Time
 
 ---
 #### Sat 11/19
@@ -1908,13 +1957,13 @@
 #### Tue 11/22
 ##### Evening
 * Cannot leave Leblanc
-* Finish reading "Medjed Menace" (Knowledge +5)
+* Free Time
 
 ---
 #### Wed 11/23
 ##### Evening
 * Cannot leave Leblanc
-* Finish reading "Wise Men's Words" (Knowledge +5)
+* Free Time
 
 ---
 #### Thu 11/24
@@ -1930,18 +1979,20 @@
 * Empress Rank 9 Friendship
 * Empress Rank 9 Romance
 ##### Evening
-* Jazz club with Haru
+* Free Time
 
 ---
 #### Sat 11/26
 ##### Daytime
 * Empress Rank 10
 ##### Evening
-* Billiards (Random Stat +3)
+* Free Time
 
 ---
 #### Sun 11/27
 ##### Daytime
+* Crane game
+    1. Receive Sheep Man Doll
 * Money Reading
 * Buy Legendary Yaki-Imo from Yongen-Jaya street vendor
 * **Reach treasure in Cruiser Palace**
@@ -1958,96 +2009,96 @@
 * **Clear Cruiser Palace**
 ##### Evening
 * Call Kawakami for massage
-* Devil Hangout Ginza
+* Free Time
 * **Choose to "Keep good on the promise." before going to bed**
 
 ---
 #### Tue 11/29
 ##### Daytime
-* Visit Gym
+* Free Time
 ##### Evening
-* Jazz club with Yusuke
+* Free Time
 
 ---
 #### Wed 11/30
 ##### Daytime
-* Chariot Hangout Nakano
+* Free Time
 ##### Evening
 * Strength Hangout Leblanc
 ### December
 #### Thu 12/1
 ##### Daytime
-* Hermit Hangout Akihabara
+* Free Time
 ##### Evening
-* Jazz club with Morgana
+* Free Time
 
 ---
 #### Fri 12/2
 ##### Daytime
-* Emperor Hangout Meiji-Shrine
+* Free Time
 ##### Evening
-* Jazz club with Haru
+* Free Time
 
 ---
 #### Sat 12/3
 ##### Daytime
 * Request "The Head Honcho in Showbiz" unlocked
-* Chariot Hangout Ogikubo
+* Free Time
 ##### Evening
 * Rain
-* Jazz club with Haru
+* Free Time
 
 ---
 #### Sun 12/4
 ##### Daytime
 * Faith Hangout Shinagawa
 ##### Evening
-* Hanged Hangout Inokashira
+* Free Time
 
 ---
 #### Mon 12/5
 ##### Daytime
-* Empress Hangout Tsukishima
+* Free Time
 ##### Evening
-* Jazz club with Morgana
+* Free Time
 
 ---
 #### Tue 12/6
 ##### Daytime
-* Darts with Ryuji and Ann (Proficiency +5)
+* Free Time
 ##### Evening
-* Jazz club with Yusuke
+* Free Time
 
 ---
 #### Wed 12/7
 ##### Daytime
-* Hermit Hangout Asakusa
+* Free Time
 ##### Evening
 * Strength Hangout Underground Mall
 
 ---
 #### Thu 12/8
 ##### Daytime
-* Darts with Yusuke and Makoto (Proficiency +5)
+* Free Time
 ##### Evening
 * TV Quiz: "Attempted murder." (Knowledge +2)
-* Jazz club with Morgana
+* Free Time
 
 ---
 #### Fri 12/9
 ##### Daytime
-* Emperor Hangout Ikebukuro
+* Free Time
 ##### Evening
-* Jazz club with Haru
+* Free Time
 
 ---
 #### Sat 12/10
 ##### Daytime
 * Request "The Lady-killer's Ballad" unlocked
-* Darts with Haru and Futaba (Proficiency +5)
+* Free Time
 ##### Evening
 * Rain
-* Jazz club with Morgana
+* Free Time
 
 ---
 #### Sun 12/11
@@ -2061,47 +2112,49 @@
 ---
 #### Mon 12/12
 ##### Daytime
-* Visit Gym
+* Free Time
 ##### Evening
-* Jazz club with Morgana
+* Free Time
 
 ---
 #### Tue 12/13
 ##### Daytime
 * Rain
-* Visit Gym
+* Free Time
 ##### Evening
-* Jazz club with Yusuke
+* Free Time
 
 ---
 #### Wed 12/14
 ##### Daytime
-* Visit Gym
+* Free Time
 ##### Evening
-* Jazz club with Morgana
+* Free Time
 
 ---
 #### Thu 12/15
 ##### Daytime
-* Visit Gym
+* Free Time
 ##### Evening
 * TV Quiz: "Can't be done by wanted men." (Knowledge +2)
-* Jazz club with Morgana
+* Free Time
 
 ---
 #### Fri 12/16
 ##### Daytime
-* Visit Gym
+* Free Time
 ##### Evening
-* Jazz club with Haru
+* Free Time
 
 ---
 #### Sat 12/17
 ##### Daytime
-* Visit Gym
-* Buy "Essence of Fishing" and "Batting Science" from Shibuya bookstore
+* Crane game
+    1. Receive Black Frost Doll
+* Free Time
+* Buy "Essence of Fishing" and "Batting Science" from Shinjuku bookstore
 ##### Evening
-* Jazz club with Haru
+* Free Time
 
 ---
 #### Sun 12/18
@@ -2112,7 +2165,7 @@
 ---
 #### Mon 12/19
 ##### Evening
-* Jazz club with Morgana
+* Free Time
 
 ---
 #### Tue 12/20
@@ -2135,7 +2188,7 @@
     3. The Lady-killer's Ballad
 ##### Evening
 * Call Kawakami for massage
-* Jazz club with Morgana
+* Free Time
 
 ---
 #### Fri 12/23
@@ -2253,7 +2306,7 @@
 ##### Evening
 * Request "A Silent Voice" unlocked
 * Trade Limited-edition Steamed Bun for Resist Phys Ring
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Sat 1/14
@@ -2263,7 +2316,7 @@
 * Faith Rank 7
 ##### Evening
 * Request "Cry, My Beloved Sister" unlocked
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Sun 1/15
@@ -2277,16 +2330,18 @@
 ##### Daytime
 * Faith Rank 8
 ##### Evening
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Tue 1/17
 ##### All Day
 * Rain
 ##### Daytime
+* Crane game
+    1. Receive Buchimaru-kun Doll
 * Chariot Rank 11
 ##### Evening
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Wed 1/18
@@ -2296,7 +2351,7 @@
 * Faith Rank 9 Friendship
 * Faith Rank 9 Romance
 ##### Evening
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Thu 1/19
@@ -2310,12 +2365,14 @@
 ---
 #### Fri 1/20
 ##### Class
-* Crafting (Proficiency +2)
+* Free Time
 ##### Daytime
 * Rain
-* Darts with Kasumi and Haru (Proficiency +5)
+* Darts with Kasumi (Proficiency +3)
+    1. Let Kasumi finish on round 4 (Baton Pass Lv. 3)
+    2. Choice 3: "Believe in yourself." (Faith +1)
 ##### Evening
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Sat 1/21
@@ -2324,7 +2381,7 @@
 ##### Daytime
 * Lovers Rank 11
 ##### Evening
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Sun 1/22
@@ -2340,7 +2397,7 @@
 ##### Daytime
 * Empress Rank 11
 ##### Evening
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Tue 1/24
@@ -2349,7 +2406,7 @@
 ##### Daytime
 * Priestess Rank 11
 ##### Evening
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Wed 1/25
@@ -2360,7 +2417,7 @@
     2. Cry, My Beloved Sister
 ##### Evening
 * Call Kawakami for massage
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Thu 1/26
@@ -2370,18 +2427,20 @@
 * **Reach treasure in Laboratory Palace**
 ##### Evening
 * Call Kawakami for massage
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Fri 1/27
 ##### Class
 * Question: "Friend of a friend of a friend." (Knowledge +2)
 ##### Daytime
+* Crane game
+    1. Receive Jaga-kun Doll
 * Request "Idols and Unicorns" flag
 * Investigate Akihabara (Request "Idols and Unicorns" unlocked)
-* Visit Gym
+* Free Time
 ##### Evening
-* Jazz club with Haru
+* Free Time
 
 ---
 #### Sat 1/28
@@ -2394,34 +2453,34 @@
     2. Fakeman Show
 ##### Evening
 * Call Kawakami for massage
-* Jazz club with Morgana
+* Free Time
 
 ---
 #### Sun 1/29
 ##### Daytime
-* Visit Gym
+* Free Time
 ##### Evening
 * Jazz club with Ann (Learns Spell Master)
 
 ---
 #### Mon 1/30
 ##### Daytime
-* Visit Gym
+* Free Time
 ##### Evening
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Tue 1/31
 ##### Daytime
-* Visit Gym
+* Free Time
 ##### Evening
-* Jazz club with Haru
+* Free Time
 ### February
 #### Wed 2/1
 ##### Daytime
-* Visit Gym
+* Free Time
 ##### Evening
-* Jazz club with Kasumi
+* Free Time
 
 ---
 #### Thu 2/2

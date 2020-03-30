@@ -10,8 +10,12 @@ for currwalk in ['walkthrough.md', 'ace-walkthrough.md']:
 
     with open('src/' + currwalk) as txtfile:
         for line in txtfile:
-            bline = line.replace('(', "**(").replace(')', ")**")
+            bline = line.replace('(', "**(").replace(')', ")**").replace('[', '**[').replace(']', ']**')
             nlines.append(bline)
+
+            if '[' in line:
+                line = '* ' + line.split('] ')[1]
+
             if ' Rank ' in line or (' Hangout ' in line and 'Strength' not in line):
                 rank = line[2:].split('(')[0].strip()
                 rank = rank.split(' ')[-4:]
