@@ -56,7 +56,7 @@
 ---
 #### Tue 4/19
 ##### Class
-* Question: "They’re the same." (Knowledge +2)
+* Question: "They're the same." (Knowledge +2)
 ##### Daytime
 * Talk to librarian in Shujin library, Borrow "Pirate Legend"
 * Buy Bio Nutrients from flower shop in Shibuya underground mall
@@ -828,7 +828,7 @@
 ---
 #### Mon 7/11
 ##### Class
-* Question: "Long-term memories.", "Nearly unlimited.", and "Never disappear." (Knowledge +2)
+* Question: "Long-term memories.", "Infinite.", and "Forever." (Knowledge +2)
 * Reload chalk dodge for (Charm +3)
 ##### Evening
 * Trade Soothing Soba for Edo Katana
@@ -1014,7 +1014,7 @@
 * Request "Who's Been Assaulting People?" flag
 * Emperor Rank 5
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Island" (Knowledge +2)
 * Strength Hangout Church
 
 ---
@@ -1062,7 +1062,7 @@
     1. Create a bouquet that satisfies the customer's request
 ##### Evening
 * Rain
-* Crossword (Knowledge +2)
+* Crossword: "Courage" (Knowledge +2)
 * Strength Hangout Aquarium
 
 ---
@@ -1210,7 +1210,7 @@
 ##### Evening
 * Luck Reading (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
-* Crossword (Knowledge +2)
+* Crossword: "Sweltering" (Knowledge +2)
 * Fortune Rank 7
 
 ---
@@ -1354,7 +1354,7 @@
 ---
 #### Wed 9/14
 ##### Class
-* Question: "Rental shops." (Knowledge +2)
+* Question: "Money loans for collateral." (Knowledge +2)
 
 ---
 #### Thu 9/15
@@ -1369,7 +1369,7 @@
 ---
 #### Sat 9/17
 ##### Class
-* Question: "Cats hide their claws." (Knowledge +2)
+* Question: "Cats eating human tongues." (Knowledge +2)
 
 ---
 #### Sun 9/18
@@ -1385,7 +1385,7 @@
 ##### Evening
 * Call Kawakami for massage
 * Luck Reading (Boost Knowledge)
-* Crossword (Knowledge +3)
+* Crossword: "Festival" (Knowledge +3)
 * Visit Kichijoji info stand, Ask the receptionist every question (Knowledge +3)
 * Trade Thief Mask for Concentrate Supplement x2
 * Star Rank 6 (Knowledge +3)
@@ -1402,7 +1402,7 @@
 ---
 #### Wed 9/21
 ##### Class
-* Question: "Center." (Knowledge +2)
+* Question: "Central Europe." (Knowledge +2)
 ##### Daytime
 * **Clear Spaceport Palace**
 ##### Evening
@@ -1524,7 +1524,7 @@
 ---
 #### Sun 10/3
 ##### Class
-* Question: "Star." (Knowledge +2)
+* Question: "Stars." (Knowledge +2)
 
 ---
 #### Tue 10/4
@@ -1551,7 +1551,7 @@
 ##### Train
 * Finish reading "Karakuri" (Proficiency +7)
 ##### Class
-* Question: "Joseph Guillotin." (Knowledge +2)
+* Question: "Joseph-Ignace Guillotin." (Knowledge +2)
 ##### Daytime
 * Buy "Reckless Casanova" from Jinbocho
 * Affinity Reading with matching arcana (Death +2)
@@ -1645,17 +1645,17 @@
 ---
 #### Mon 10/17
 ##### All Day
-* Exams: "32 faces.", "Originally 1 color.", and "Black and white."
+* Exams: "32 surfaces.", "It used to be one color.", and "Black and white picture."
 
 ---
 #### Tue 10/18
 ##### All Day
-* Exams: "Charles-Henri Sanson" and "It's hereditary."
+* Exams: "Charles-Henri Sanson" and "It's a hereditary profession."
 
 ---
 #### Wed 10/19
 ##### All Day
-* Exams: "Forced labor." and "3 bees in Europe."
+* Exams: "Slave labor." and "3 bees in all of Europe."
 
 ---
 #### Thu 10/20
@@ -1689,7 +1689,7 @@
 ---
 #### Mon 10/24
 ##### Class
-* Question: "Assumptions." (Knowledge +2)
+* Question: "Memory bias." (Knowledge +2)
 ##### Evening
 * Buy "A Walk Down Nakano Street", "Museum of Stars", and "Tokyo Shrines" from Shibuya bookstore
 * Strength Hangout Art Museum
@@ -1744,7 +1744,7 @@
 * Draw on classroom chalkboard (Guts +2)
 * **Reach treasure in Casino Palace**
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Stalls" (Knowledge +2)
 * Call Kawakami for massage
 * Darts with Akechi (Proficiency +3)
     1. Let Joker finish on round 5 (Baton Pass Lv. 3)
@@ -1773,7 +1773,7 @@
 ##### Train
 * Finish reading "Game Secrets" (Retro game cheats unlocked)
 ##### Class
-* Question: "Edo Period." (Knowledge +2)
+* Question: "A share of stolen goods." (Knowledge +2)
 ##### Daytime
 * Borrow "Woman in the Dark" from library
 * Empress Rank 1
@@ -1791,11 +1791,11 @@
 ---
 #### Fri 11/4
 ##### Class
-* Question: "Sword." (Knowledge +2)
+* Question: "A sword." (Knowledge +2)
 ##### Daytime
 * Tower Rank 9 (Kindness +5)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Reward" (Knowledge +2)
 * [Normal Route] Free Time
 * [Battle Route] Devil Rank 8 (Charm +5)
 
@@ -1831,7 +1831,7 @@
 ---
 #### Tue 11/8
 ##### Class
-* Question: "Zero." (Knowledge +2)
+* Question: "Any age." (Knowledge +2)
 ##### Daytime
 * Empress Rank 5
 ##### Evening
@@ -1849,7 +1849,7 @@
 ##### Train
 * Finish reading "Girl in Ashes" (Charm +5)
 ##### Class
-* Question: "It's hard to see their eyes." (Knowledge +2)
+* Question: "Crow eyes are hard to see." (Knowledge +2)
 ##### Daytime
 * Borrow "Bowman" from library
 * Tower Rank 10 (Kindness +2)
@@ -1872,7 +1872,7 @@
 ---
 #### Sat 11/12
 ##### Class
-* Question: "It's heavily processed." (Knowledge +2)
+* Question: "Because the voice is synthetic." (Knowledge +2)
 ##### Daytime
 * Councillor Rank 9
 ##### Evening
@@ -1895,7 +1895,7 @@
 ##### Train
 * Finish reading "Modern Thought" (Knowledge +5)
 ##### Class
-* Question: "High altitude." (Knowledge +2)
+* Question: "Because of high altitude." (Knowledge +2)
 ##### Daytime
 * Empress Rank 7
 ##### Evening
@@ -1905,7 +1905,7 @@
 ---
 #### Tue 11/15
 ##### Class
-* Question: "Displayed head." (Knowledge +2)
+* Question: "His head was put on display." (Knowledge +2)
 ##### Daytime
 * Empress Rank 8
 ##### Evening
@@ -1928,7 +1928,7 @@
 ##### Train
 * Finish reading "Factorized Study Methods" (Extra note when studying)
 ##### Class
-* Question: "Limacon Curve." (Knowledge +2)
+* Question: "Cochleoid." (Knowledge +2)
 ##### Daytime
 * Crane game
     1. Receive Lexy Doll
@@ -1940,7 +1940,6 @@
 ---
 #### Fri 11/18
 ##### Class
-* Question: "The summit of Mt. Fuji." (Knowledge +2)
 * Councillor Rank 10 (Auto)
 ##### Evening
 * Cannot leave Leblanc
@@ -2125,7 +2124,7 @@
 ##### Daytime
 * Free Time
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Approval" (Knowledge +2)
 * Free Time
 
 ---
@@ -2183,17 +2182,17 @@
 ---
 #### Tue 12/20
 ##### All Day
-* Exams: "D.", "More than a billion.", "Beheaded.", and "A performance."
+* Exams: "D.", "Over one billion yen.", "Having his head displayed.", and "Public performance."
 
 ---
 #### Wed 12/21
 ##### All Day
-* Exams: "Heart." and "Observation."
+* Exams: "Hearts." and "Attend."
 
 ---
 #### Thu 12/22
 ##### All Day
-* Exams: "Japan.", "D for dreadnought."
+* Exams: "Japan.", "Dreadnought."
 ##### Daytime
 * **Mementos Palace**
     1. Swindling Old Folk is Pretty Low
@@ -2304,7 +2303,7 @@
 ---
 #### Wed 1/11
 ##### Class
-* Question: "8,000,000." and "Myriad." (Knowledge +2)
+* Question with matching arcana: "How numerous they are." and "The Eight Million Gods." (Charm +2) (Lovers +2)
 
 ---
 #### Thu 1/12
@@ -2360,7 +2359,7 @@
 ---
 #### Wed 1/18
 ##### Class
-* Question: "Preparedness." (Knowledge +2)
+* Question: "Impressive." (Knowledge +2)
 ##### Daytime
 * Faith Rank 9 Friendship
 * Faith Rank 9 Romance
@@ -2418,7 +2417,7 @@
 ---
 #### Tue 1/24
 ##### Class
-* Question: "My cellphone.", "Is almost out of.", and "Power." (Knowledge +2)
+* Question: "Kind-hearted.", "Negative.", and "Resentful." (Knowledge +2)
 ##### Daytime
 * Priestess Rank 11
 ##### Evening
@@ -2448,7 +2447,7 @@
 ---
 #### Fri 1/27
 ##### Class
-* Question: "Friend of a friend of a friend." (Knowledge +2)
+* Question: "To friends of friends of friends." (Knowledge +2)
 ##### Daytime
 * Crane game
     1. Receive Jaga-kun Doll

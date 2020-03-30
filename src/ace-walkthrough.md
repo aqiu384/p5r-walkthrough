@@ -248,7 +248,7 @@ Read "The Alluring Dancer"
 ---
 #### Tue 5/10
 ##### Class
-* Question: "Heian Period." (Knowledge +2)
+* Question: "The Heian Period." (Knowledge +2)
 ##### Daytime
 * Lovers Rank 3 (Inokashira unlocked)
 ##### Evening
@@ -258,7 +258,7 @@ Read "The Alluring Dancer"
 ---
 #### Wed 5/11
 ##### All Day
-* Exams: "Minamoto no Yoshitsune.", "Minamoto no Yoritomo.", "Yoritomo's won.", and "The weak."
+* Exams: "Minamoto no Yoshitsune.", "Minamoto no Yoritomo.", "Yoritomo won.", and "The weak."
 
 ---
 #### Thu 5/12
@@ -501,7 +501,7 @@ Read "Buchiko's Story"
 ---
 #### Wed 6/8
 ##### Class
-* Question: "Controlling public thought". (Knowledge +2)
+* Question: "Controlling public thought." (Knowledge +2)
 ##### Daytime
 * Respond to Kasumi's message, Faith Rank 2
 ##### Evening
@@ -805,7 +805,7 @@ Read "Buchiko's Story"
 ---
 #### Mon 7/11
 ##### Class
-* Question: "Long-term memories.", "Nearly unlimited.", and "Never disappear." (Knowledge +2)
+* Question: "Long-term memories.", "Infinite.", and "Forever." (Knowledge +2)
 ##### Evening
 * Trade Soothing Soba for Edo Katana
 * Star Rank 2 (Knowledge +2)
@@ -984,7 +984,7 @@ Read "Buchiko's Story"
 * Request "Who's Been Assaulting People?" flag
 * Priestess Rank 5
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Island" (Knowledge +2)
 * Hanged Rank 2 (Proficiency +3)
 
 ---
@@ -1032,7 +1032,7 @@ Read "Buchiko's Story"
 * Emperor Hangout Leblanc-8/8 (Charm +5)
 ##### Evening
 * Rain
-* Crossword (Knowledge +2)
+* Crossword: "Courage" (Knowledge +2)
 * Star Rank 5 (Knowledge +2)
 
 ---
@@ -1169,7 +1169,7 @@ Read "Buchiko's Story"
 ---
 #### Thu 8/25
 ##### Evening
-* Crossword (Knowledge +2) (Knowledge Lv. 5)
+* Crossword: "Sweltering" (Knowledge +2) (Knowledge Lv. 5)
 * Luck Reading (Boost Kindness)
 * Affinity Reading with matching arcana (Hanged +2)
 * Hierophant Rank 4 (Kindness +4)
@@ -1302,7 +1302,7 @@ Read "Buchiko's Story"
 ---
 #### Wed 9/14
 ##### Class
-* Question: "Rental shops." (Knowledge +2)
+* Question: "Money loans for collateral." (Knowledge +2)
 ##### Evening
 * Feed plant Mega Fertilizer (Kindness +5)
 
@@ -1319,7 +1319,7 @@ Read "Buchiko's Story"
 ---
 #### Sat 9/17
 ##### Class
-* Question: "Cats hide their claws." (Knowledge +2)
+* Question: "Cats eating human tongues." (Knowledge +2)
 
 ---
 #### Sun 9/18
@@ -1342,7 +1342,7 @@ Read "Buchiko's Story"
     8. Winners Don't Use Cheats, attempt needed to unlock Tower Rnk 1
     9. Upstaging the Stage Mother
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Festival" (Knowledge +2)
 * Call Kawakami for massage
 * Trade Thief Mask for Concentrate Supplement x2
 * Star Rank 8 (Knowledge +2) (Throw away points)
@@ -1357,7 +1357,7 @@ Read "Buchiko's Story"
 ---
 #### Wed 9/21
 ##### Class
-* Question: "Center." (Knowledge +2)
+* Question: "Central Europe." (Knowledge +2)
 ##### Daytime
 * Luck Reading (Boost Kindness)
 * Talk to Shinya in Akihabara arcade
@@ -1470,7 +1470,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ---
 #### Mon 10/3
 ##### Class
-* Question: "Star." (Knowledge +2)
+* Question: "Stars." (Knowledge +2)
 
 ---
 #### Tue 10/4
@@ -1495,7 +1495,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ##### Train
 * Finish reading "Master Swordsman" (Guts +7)
 ##### Class
-* Question: "Joseph Guillotin." (Knowledge +2)
+* Question: "Joseph-Ignace Guillotin." (Knowledge +2)
 ##### Daytime
 * Tower Rank 4 (Kindness +3) (Throw away points)
 ##### Evening
@@ -1580,17 +1580,17 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ---
 #### Mon 10/17
 ##### All Day
-* Exams: "32 faces.", "Originally 1 color.", and "Black and white."
+* Exams: "32 surfaces.", "It used to be one color.", and "Black and white picture."
 
 ---
 #### Tue 10/18
 ##### All Day
-* Exams: "Charles-Henri Sanson" and "It's hereditary."
+* Exams: "Charles-Henri Sanson" and "It's a hereditary profession."
 
 ---
 #### Wed 10/19
 ##### All Day
-* Exams: "Forced labor." and "3 bees in Europe."
+* Exams: "Slave labor." and "3 bees in all of Europe."
 
 ---
 #### Thu 10/20
@@ -1619,7 +1619,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ---
 #### Mon 10/24
 ##### Class
-* Question: "Assumptions." (Knowledge +2)
+* Question: "Memory bias." (Knowledge +2)
 ##### Daytime
 * Exam results (Charm +5)
 ##### Evening
@@ -1670,7 +1670,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 * Draw on classroom chalkboard (Guts +2)
 * Empress Rank 1
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Stalls" (Knowledge +2)
 * Hierophant Rank 8 (Request "The Money-grubbing Uncle" unlocked)
 ### ACE November
 #### Tue 11/1
@@ -1684,7 +1684,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ##### Train
 * Finish reading "Call Me Chief" (Kindness +7)
 ##### Class
-* Question: "Edo Period." (Knowledge +2)
+* Question: "A share of stolen goods." (Knowledge +2)
 ##### Daytime
 * Hermit Rank 7 (Request "Daughter's Just a Meal Ticket" unlocked)
 ##### Evening
@@ -1700,11 +1700,11 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ---
 #### Fri 11/4
 ##### Class
-* Question: "Sword." (Knowledge +2)
+* Question: "A sword." (Knowledge +2)
 ##### Daytime
 * Tower Rank 8 (Kindness +5) (Request "A Mother's Aggression" unlocked)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Reward" (Knowledge +2)
 * Justice Rank 8
 
 ---
@@ -1747,7 +1747,7 @@ Read "Revelations Person"
 ---
 #### Tue 11/8
 ##### Class
-* Question: "Zero." (Knowledge +2)
+* Question: "Any age." (Knowledge +2)
 ##### Daytime
 * Death Rank 8
 ##### Evening
@@ -1767,7 +1767,7 @@ Read "Revelations Person"
 ##### Train
 Read "Reckless Casanova"
 ##### Class
-* Question: "It's hard to see their eyes." (Knowledge +2)
+* Question: "Crow eyes are hard to see." (Knowledge +2)
 ##### Daytime
 * **Reach treasure in Casino Palace**
 ##### Evening
@@ -1789,7 +1789,7 @@ Read "Reckless Casanova"
 ---
 #### Sat 11/12
 ##### Class
-* Question: "It's heavily processed." (Knowledge +2)
+* Question: "Because the voice is synthetic." (Knowledge +2)
 ##### Daytime
 * Affinity Reading with matching arcana (Devil +2)
 * Tower Rank 9 (Kindness +5)
@@ -1811,17 +1811,17 @@ Read "Reckless Casanova"
 ##### Train
 Read "Karakuri"
 ##### Class
-* Question: "High altitude." (Knowledge +2)
+* Question: "Because of high altitude." (Knowledge +2)
 ##### Daytime
 * Empress Rank 3
 ##### Evening
-* Crossword: Bashing (Knowledge +2)
+* Crossword: "Bashing" (Knowledge +2)
 * Devil Rank 10
 
 ---
 #### Tue 11/15
 ##### Class
-* Question: "Displayed head." (Knowledge +2)
+* Question: "His head was put on display." (Knowledge +2)
 ##### Daytime
 * Empress Rank 4
 ##### Evening
@@ -1844,7 +1844,7 @@ Read "Karakuri"
 ##### Train
 * Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Class
-* Question: "Limacon Curve." (Knowledge +2)
+* Question: "Cochleoid." (Knowledge +2)
 ##### Daytime
 * Crane game
     1. Receive Lexy Doll
@@ -2042,7 +2042,7 @@ Read "Karakuri"
 ##### Daytime
 * Emperor Hangout Ikebukuro
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Approval" (Knowledge +2)
 * Free Time
 
 ---
@@ -2104,17 +2104,17 @@ Read "Karakuri"
 ---
 #### Tue 12/20
 ##### All Day
-* Exams: "D.", "More than a billion.", "Beheaded.", and "A performance."
+* Exams: "D.", "Over one billion yen.", "Having his head displayed.", and "Public performance."
 
 ---
 #### Wed 12/21
 ##### All Day
-* Exams: "Heart." and "Observation."
+* Exams: "Hearts." and "Attend."
 
 ---
 #### Thu 12/22
 ##### All Day
-* Exams: "Japan.", "D for dreadnought."
+* Exams: "Japan.", "Dreadnought."
 ##### Daytime
 * Emperor Hangout Ueno
 ##### Evening
@@ -2221,7 +2221,7 @@ Read "Karakuri"
 ---
 #### Wed 1/11
 ##### Class
-* Question: "8,000,000." and "Myriad." (Knowledge +2)
+* Question with matching arcana: "How numerous they are." and "The Eight Million Gods." (Charm +2) (Lovers +2)
 
 ---
 #### Thu 1/12
@@ -2277,7 +2277,7 @@ Read "Karakuri"
 ---
 #### Wed 1/18
 ##### Class
-* Question: "Preparedness." (Knowledge +2)
+* Question: "Impressive." (Knowledge +2)
 ##### Daytime
 * Empress Rank 11
 ##### Evening
@@ -2333,7 +2333,7 @@ Free Time
 ---
 #### Tue 1/24
 ##### Class
-* Question: "My cellphone.", "Is almost out of.", and "Power." (Knowledge +2)
+* Question: "Kind-hearted.", "Negative.", and "Resentful." (Knowledge +2)
 ##### Daytime
 * Empress Hangout Tsukishima
 ##### Evening
@@ -2362,7 +2362,7 @@ Free Time
 ---
 #### Fri 1/27
 ##### Class
-* Question: "Friend of a friend of a friend." (Knowledge +2)
+* Question: "To friends of friends of friends." (Knowledge +2)
 ##### Daytime
 * Crane game
     1. Receive Jaga-kun Doll
