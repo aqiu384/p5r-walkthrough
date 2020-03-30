@@ -36,7 +36,7 @@
 * If this happens at least once during a session you receive and additional **(Proficiency +2)**
 * You must reload starting with the second crafting session until this happens
 * Chances of this occurring is tied to your Proficiency, making it easier to occur later on
-* The days when you must get the crafting bonus are noted on 4/21, 5/2, 5/7 **[Version >= 1.0.7]**, 6/18, 6/19, 6/20 **[Version < 1.0.7]**, 6/21, 7/20, and 7/25
+* The days when you must get the crafting bonus are noted on 4/21, 5/2, 5/7 **[Battle Route]**, 6/18, 6/19, 6/20 **[Normal Route]**, 6/21, 7/20, and 7/25
 * Recommended crafting tools
     * Lockpick
     * Treasure Trap
@@ -48,7 +48,7 @@
 * At times you may randomly dodge and receive **(Charm +3)**
 * You must reload starting with the second chalk throw until this happens
 * Chances of this occurring is tied to your Proficiency, making it easier to occur later on
-* The days when you must dodge the chalk are noted on 5/6, 6/21 **[Version >= 1.0.7]** and 7/11
+* The days when you must dodge the chalk are noted on 5/6, 6/21 **[Battle Route]** and 7/11
 
 #### Metaverse Progress
 * All palaces were cleared on Normal using the minimum number of in-game days without using SP items
