@@ -265,7 +265,7 @@
     * You need 20 for the Eternal Lockpick
     * Anzu is weak to Gun
 * The flaming shadows only know Bless and Curse attacks, easily countered with Shiki-Ouji
-* If you get Attack Mirrors or Repel Phys on all the party before the boss drops you can counter with massive damage since Phys is extra effective against her
+* If you get Attack Mirrors or Tetrakarn on the entire party before the boss drops you can counter with massive damage since Phys is extra effective against her
 
 #### Space Port Palace
 * Farm Decarabia spawns near the beginning for Liquid Mercury
@@ -278,7 +278,7 @@
     * Need to maximize damage output to efficiently clear waves
     * Prepare a spread of single-target attack items for every element
     * Fuse a spread of personas with all-target element spells and boosts and a Concentrate buffer for Joker
-    * During a wave Joker leads with Concentrate, rest of party knocks down a single robo with an element item to maximize Baton Pass chain, and Joker finishes with 2 casts of a max-buffed all-target spell exploiting current wave weakness
+    * During a wave Joker leads with Concentrate, rest of party knocks down a single robo with an element item to maximize Baton Pass chain, and Joker finishes with 2 casts of a max-buffed zero-cost all-target spell exploiting current wave weakness
 
 #### Casino Palace
 * You can hold Third Eye down the entire time to see enemies in darkness

@@ -42,7 +42,6 @@
 ---
 #### Sun 4/17
 ##### Evening
-* Interact with the box in your room, Obtain Persona 5 Save Bonus, Investigation Item Set DLC (Bio Nutrients x5), and Battle Item Set DLC
 * Crafting Tutorial (Proficiency +3)
 
 ---
@@ -60,6 +59,7 @@
 * Question: "They’re the same." (Knowledge +2)
 ##### Daytime
 * Talk to librarian in Shujin library, Borrow "Pirate Legend"
+* Buy Bio Nutrients from flower shop in Shibuya underground mall
 * Talk to Ryuji outside 2D classroom, Chariot Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
 * Cannot leave Leblanc
@@ -173,6 +173,7 @@
 #### Sun 5/1
 ##### Daytime
 * Aojiru (Proficiency +2)
+* Buy Bio Nutrients x3 from Shibuya flower shop
 * Work at convenience store (Charm +3)
 ##### Evening
 * Bathhouse (Charm +5)
@@ -340,7 +341,6 @@
 * **Reach treasure in Museum Palace**
 * **Can earn money to buy Invigorate 3 Rings for Y50,000 from Death Rnk 7**
 ##### Evening
-* Obtain Skill Card Pack DLC
 * Feed plant Bio Nutrients (Kindness +3)
 * Finish watching "X-Folders" (Guts +3)
 
@@ -628,7 +628,7 @@
 * Work at flower shop in Shibuya underground mall (Kindness +3)
 ##### Evening
 * Borrow "ICU" from DVD store
-* Buy 6 Mega Fertilizer from Shinjuku flower shop
+* Buy Mega Fertilizer x6 from Shinjuku flower shop
 * Buy "Movie Maniac", "Flowerpedia", and "The ABCs of Crafting" from Shinjuku bookstore
 * Feed plant Mega Fertilizer (Kindness +5) (Kindness Lv. 3)
 * Crossword: "Currency" (Knowledge +2)

@@ -42,7 +42,6 @@
 ---
 #### Sun 4/17
 ##### Evening
-* Interact with the box in your room, Obtain Persona 5 Save Bonus, Investigation Item Set DLC (Bio Nutrients x5), and Battle Item Set DLC
 * Crafting Tutorial (Proficiency +3)
 
 ---
@@ -62,6 +61,7 @@
 ##### Class
 * Question: "They're the same." (Knowledge +2)
 ##### Daytime
+* Buy Bio Nutrients from flower shop in Shibuya underground mall
 * Talk to Ryuji outside 2D classroom, Chariot Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
 * Cannot leave Leblanc
@@ -177,6 +177,7 @@ Read "The Alluring Dancer"
 #### Sun 5/1
 ##### Daytime
 * Aojiru (Proficiency +2)
+* Buy Bio Nutrients x3 from Shibuya flower shop
 * Death Rank 2 (Requires Guts Lv. 2) (Guts +2)
 ##### Evening
 * Bathhouse (Charm +5)
@@ -351,7 +352,6 @@ Read "The Alluring Dancer"
 ##### Daytime
 * **Reach treasure in Museum Palace**
 ##### Evening
-* Obtain Skill Card Pack DLC
 * Crafting (Proficiency +3)
 
 ---
