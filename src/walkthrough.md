@@ -16,7 +16,7 @@
 ---
 #### Tue 4/12
 ##### Class
-* Question: "Evil." (Knowledge +2)
+* Question: "Villains." (Knowledge +2)
 * Chariot Rank 1 (Auto)
 
 ---
@@ -51,16 +51,16 @@
 * Talk to Takemi in her Yongen-Jaya clinic, Death Rank 1 (Guts +2)
 ##### Evening
 * Cannot leave Leblanc
-* Interact with the crossword on innermost booth of Leblanc, Complete blue squares (Knowledge +2)
+* Interact with the crossword on innermost booth of Leblanc, Complete blue squares: "Semester" (Knowledge +2)
 * Clean your room (Obtain "Yoncha Wanderer" and "Modern Thought")
 
 ---
 #### Tue 4/19
 ##### Class
-* Question: "Both are the same length." (Knowledge +2)
+* Question: "They’re the same." (Knowledge +2)
 ##### Daytime
 * Talk to librarian in Shujin library, Borrow "Pirate Legend"
-* Talk to Ryuji outside 2D classroom, Chariot Rank 2 (Do not need matching arcana)
+* Talk to Ryuji outside 2D classroom, Chariot Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
 * Cannot leave Leblanc
 * Interact with plant in your room, Feed it Bio Nutrients (Kindness +3)
@@ -140,7 +140,7 @@
 ##### Daytime
 * Chariot Hangout
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Blossom" (Knowledge +2)
 * Hierophant Rank 3
 
 ---
@@ -163,7 +163,7 @@
 ##### Train
 * Read "The Alluring Dancer"
 ##### Class
-* Question: "Child.", "Wonder.", and "A prodigy." (Knowledge +2)
+* Question: "Wonder.", "Child.", and "A prodigy." (Knowledge +2)
 ##### Daytime
 * Sign up for convenience store job from part-time listings in Shibuya underground walkway
 * Work at convenience store on Shibuya central street (Charm +3)
@@ -180,7 +180,7 @@
 ---
 #### Mon 5/2
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Golden" (Knowledge +2)
 * Save for crafting reload
 * Reload crafting for (Proficiency +5) (Proficiency Lv. 2)
 
@@ -219,12 +219,12 @@
 ---
 #### Sat 5/7
 ##### Class
-* Question: "Soulmate." (Knowledge +2)
+* Question: "Fatal woman." (Knowledge +2)
 ##### Evening
 * Cannot leave Leblanc
 * Save for crafting reload
-* [Version < 1.0.7] Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
-* [Version >= 1.0.7] Reload crafting for (Proficiency +5)
+* [Normal Route] Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
+* [Battle Route] Reload crafting for (Proficiency +5)
 
 ---
 #### Sun 5/8
@@ -233,6 +233,7 @@
 ##### Evening
 * Aojiru (Guts +2)
 * Work at beef bowl (Proficiency +5)
+    1. Correctly memorize all orders
 
 ---
 #### Mon 5/9
@@ -245,17 +246,17 @@
 ---
 #### Tue 5/10
 ##### Class
-* Question: "Heian Period." (Knowledge +2) (Knowledge Lv. 2)
+* Question: "The Heian Period." (Knowledge +2) (Knowledge Lv. 2)
 ##### Daytime
 * Chariot Rank 6
 ##### Evening
-* Crossword
+* Crossword: "Malaise"
 * Sun Rank 1
 
 ---
 #### Wed 5/11
 ##### All Day
-* Exams: "Minamoto Yoshitsune.", "Minamoto Yoritomo.", "Yoritomo's victory.", and "Weakling."
+* Exams: "Minamoto no Yoshitsune.", "Minamoto no Yoritomo.", "Yoritomo won.", and "The weak."
 
 ---
 #### Thu 5/12
@@ -265,10 +266,10 @@
 ---
 #### Fri 5/13
 ##### All Day
-* Exams: "The Devil's Dictionary." and "Femme fatale."
+* Exams: "The Devil's Dictionary." and "Femme Fatale."
 ##### Class
 * Councillor Rank 1 (Auto)
-* Councillor Rank 2 (Auto) (Do not need matching arcana)
+* Councillor Rank 2 (Auto) (Do not need matching arcana, expect 1 less note)
 
 ---
 #### Sat 5/14
@@ -285,7 +286,7 @@
 ---
 #### Mon 5/16
 ##### Class
-* Question: "Placebo effect." (Knowledge +2)
+* Question: "The placebo effect." (Knowledge +2)
 
 ---
 #### Tue 5/17
@@ -304,7 +305,7 @@
 * **Reach barrier in Museum Palace**
 * **Need to be Lv. 12 for first Councillor persona**
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Gallery" (Knowledge +2)
 * Interact with TV in your room, Watch "X-Folders" (Guts +3)
 
 ---
@@ -354,7 +355,7 @@
 ---
 #### Mon 5/23
 ##### Class
-* Question: "Together.", "Senses.", and "Synethesia." (Knowledge +2)
+* Question: "Together.", "Senses.", and "Senses coming together." (Knowledge +2)
 ##### Daytime
 * Buy "Vague" and "Buchiko's Story" from Shibuya bookstore
 * Send calling card
@@ -383,12 +384,12 @@
 ---
 #### Thu 5/26
 ##### Class
-* Question: "Conan Doyle." (Knowledge +2)
+* Question: "Arthur Conan Doyle." (Knowledge +2)
 ##### Daytime
 * Lovers Rank 3 (Inokashira unlocked)
 ##### Evening
 * TV Quiz: "Queen of evidence." (Knowledge +2)
-* Crossword (Knowledge +2)
+* Crossword: "Pollenosis" (Knowledge +2)
 * Talk to Mishima on Shibuya central street to start Operation Maidwatch, Temperance Rank 0.1
 
 ---
@@ -426,10 +427,10 @@
 ##### Class
 * Question: "John Silver." (Knowledge +2)
 ##### Daytime
-* [Version < 1.0.7] Lovers Hangout Inokashira
-* [Version >= 1.0.7] Lovers Hangout Inokashira
+* [Normal Route] Lovers Hangout Inokashira
+* [Battle Route] Lovers Hangout Inokashira
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Japanese" (Knowledge +2)
 * Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
 ### June
 #### Wed 6/1
@@ -455,13 +456,13 @@
 ##### Daytime
 * Lovers Rank 6
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Master" (Knowledge +2)
 * Temperance Rank 3
 
 ---
 #### Sat 6/4
 ##### Class
-* Question: "Halo effect." (Knowledge +2)
+* Question: "The halo effect." (Knowledge +2)
 ##### Daytime
 * Rain
 * Lovers Hangout Shibuya
@@ -495,18 +496,18 @@
 * Rain
 * Death Rank 7 (Guts +2)
 ##### Evening
-* Crossword (Knowledge +2) (1.0.7 Knowledge Lv. 3)
+* Crossword: "Conference" (Knowledge +2) (Battle Route Knowledge Lv. 3)
 * Strength Hangout Movie Theater
 
 ---
 #### Wed 6/8
 ##### Class
-* Question: "20th Century". (Knowledge +2)
+* Question: "Controlling public thought." (Knowledge +2)
 ##### Daytime
 * Respond to Kasumi's message, Faith Rank 2
 ##### Evening
-* [Version < 1.0.7] Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
-* [Version >= 1.0.7] Play darts with Ann and one random other in Kichijoji (Proficiency +5) (1.0.7 Proficiency Lv. 3)
+* [Normal Route] Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
+* [Battle Route] Play darts with Ann and one random other in Kichijoji (Proficiency +5) (Battle Route Proficiency Lv. 3)
     1. Let Ann finish on round 4 (Baton Pass Lv. 3)
     2. Choice 3: "Same as always." (Lovers +1)
     3. Let Morgana finish on round 4 (Baton Pass Lv. 3)
@@ -515,8 +516,8 @@
 ---
 #### Thu 6/9
 ##### Evening
-* [Version < 1.0.7] Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
-* [Version >= 1.0.7] Play billiards in Kichijoji (Random Stat +3) (Technical Lv. 1) (Lovers +1)
+* [Normal Route] Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
+* [Battle Route] Play billiards in Kichijoji (Random Stat +3) (Technical Lv. 1) (Lovers +1)
 
 ---
 #### Fri 6/10
@@ -562,19 +563,19 @@
 * Question: "Coins." (Knowledge +2)
 ##### Evening
 * Rain
-* [Version >= 1.0.7] Buy "Enlightened Billiard Tech" from sports shop
+* [Battle Route] Buy "Enlightened Billiard Tech" from sports shop
 * Temperance Rank 5
 
 ---
 #### Thu 6/16
 ##### Class
-* [Version < 1.0.7] Finish reading "Playing The Game" (Charm +5)
-* [Version >= 1.0.7] Finish reading "Enlightened Billiard Tech" (Back Hand unlocked)
+* [Normal Route] Finish reading "Playing The Game" (Charm +5)
+* [Battle Route] Finish reading "Enlightened Billiard Tech" (Back Hand unlocked)
 ##### Evening
 * Rain
-* Crossword (Knowledge +2)
-* [Version < 1.0.7] Bathhouse (Charm +3, Guts +2)
-* [Version >= 1.0.7] Billiards (Random Stat +3) (Technical Lv. 2)
+* Crossword: "Wardrobe" (Knowledge +2)
+* [Normal Route] Bathhouse (Charm +3, Guts +2)
+* [Battle Route] Billiards (Random Stat +3) (Technical Lv. 2)
 
 ---
 #### Fri 6/17
@@ -597,22 +598,22 @@
 ##### Evening
 * Cannot leave Leblanc
 * Save for crafting reload
-* Reload crafting for (Proficiency +5) (1.0.1 Proficiency Lv. 3)
+* Reload crafting for (Proficiency +5) (Normal Route Proficiency Lv. 3)
 
 ---
 #### Mon 6/20
 ##### Class
-* Question with matching arcana: "Smartphones." (Charm +2) (Lovers +2)
+* Question with matching arcana: "Smartphone." (Charm +2) (Lovers +2)
 ##### Evening
 * Cannot leave Leblanc
 * Save for crafting or chalk dodge reload
-* [Version < 1.0.7] Reload crafting for (Proficiency +5)
-* [Version >= 1.0.7] Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
+* [Normal Route] Reload crafting for (Proficiency +5)
+* [Battle Route] Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
 
 ---
 #### Tue 6/21
 ##### Class
-* [Version >= 1.0.7] Reload chalk dodge for (Charm +3)
+* [Battle Route] Reload chalk dodge for (Charm +3)
 ##### Daytime
 * **Reach treasure in Bank Palace**
 * **You need at least Y100,000 for Fortune Rnk 0.2**
@@ -630,7 +631,7 @@
 * Buy 6 Mega Fertilizer from Shinjuku flower shop
 * Buy "Movie Maniac", "Flowerpedia", and "The ABCs of Crafting" from Shinjuku bookstore
 * Feed plant Mega Fertilizer (Kindness +5) (Kindness Lv. 3)
-* Crossword (Knowledge +2)
+* Crossword: "Currency" (Knowledge +2)
 * Talk to Akechi outside the Kichijoji darts club, Justice Rank 2 (Requires Charm Lv. 3 and Knowledge Lv. 3)
 
 ---
@@ -638,7 +639,7 @@
 ##### Train
 * Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
 ##### Class
-* Question: "Pope." (Knowledge +2)
+* Question: "A pope." (Knowledge +2)
 ##### Daytime
 * Rain
 * Send calling card
@@ -657,8 +658,8 @@
 ---
 #### Sat 6/25
 ##### Class
-* [Version < 1.0.7] Finish reading "Flowerpedia" (Provides flower hints during flower shop job)
-* [Version >= 1.0.7] Finish reading "Playing The Game" (Charm +5)
+* [Normal Route] Finish reading "Flowerpedia" (Provides flower hints during flower shop job)
+* [Battle Route] Finish reading "Playing The Game" (Charm +5)
 ##### Daytime
 * Buy Yakisoba Pan from school store
 * Talk to Makoto outside Shujin student council room, Priestess Rank 1 (Requires Knowledge Lv. 3)
@@ -707,14 +708,14 @@
 * Rain
 * Priestess Rank 3
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Front" (Knowledge +2)
 * Fortune Rank 0.2 (Requires Y100,000)
 ### July
 #### Fri 7/1
 ##### Train
 * Finish reading "The ABCs of Crafting" (Doubles the number of items that can be crafted)
 ##### Class
-* Question: "Baozi." (Knowledge +2)
+* Question: "Barbarian's head." (Knowledge +2)
 ##### Daytime
 * Borrow "Speed Reading" from library
 * Buy Retro Game Set from recycling shop
@@ -788,14 +789,14 @@
 ---
 #### Thu 7/7
 ##### Class
-* Question with matching arcana: "Milky Way." and "Soumen." (Charm +2) (Lovers +2)
+* Question with matching arcana: "The Milky Way." and "Soumen noodles." (Charm +2) (Lovers +2)
 * Temperance Rank 9.1 (Auto)
 ##### Daytime
 * Borrow "The Running Dead" from DVD store
 * Buy "Ghost Encounters" from Shibuya bookstore
 * Faith Rank 4
 ##### Evening
-* Crossword (Knowledge +2) (1.0.1 Knowledge Lv. 4)
+* Crossword: "Narcotics" (Knowledge +2) (Normal Route Knowledge Lv. 4)
 * Fortune Rank 1
 
 ---
@@ -814,9 +815,9 @@
 ---
 #### Sat 7/9
 ##### Class
-* Question: "Triangle." (Knowledge +2)
+* Question: "A triangle." (Knowledge +2)
 ##### Evening
-* Talk to Hifumi in Kanda church, Star Rank 1 (Requires Charm Lv. 3) (Knowledge +2) (1.0.7 Knowledge Lv. 4)
+* Talk to Hifumi in Kanda church, Star Rank 1 (Requires Charm Lv. 3) (Knowledge +2) (Battle Route Knowledge Lv. 4)
 
 ---
 #### Sun 7/10
@@ -824,7 +825,7 @@
 * Cannot leave Leblanc
 * Request "The Lovesick Cyberstalking Girl" unlocked
 * Save for chalk dodge reload
-* Watch "The Running Dead" (Guts +5) (1.0.1 Guts Lv. 4)
+* Watch "The Running Dead" (Guts +5) (Normal Route Guts Lv. 4)
 
 ---
 #### Mon 7/11
@@ -838,28 +839,28 @@
 ---
 #### Tue 7/12
 ##### Class
-* Question: "Thief." (Knowledge +2)
+* Question: "Thievery." (Knowledge +2)
 ##### Daytime
 * Investigate Shujin gates (Request "One Who Bullies Bullies" unlocked)
 * Emperor Rank 3
 ##### Evening
-* Crossword (Knowledge +2)
-* Fortune Rank 2 (Do not need matching arcana)
+* Crossword: "Vacation" (Knowledge +2)
+* Fortune Rank 2 (Do not need matching arcana, expect 1 less note)
 
 ---
 #### Wed 7/13
 ##### All Day
-* Exams: "64 degrees.", "Zhuge Liang.", "Head.", and "Substitute."
+* Exams: "64 degrees.", "Zhuge Liang.", "Barbarians' heads.", and "To offer them instead of heads."
 
 ---
 #### Thu 7/14
 ##### All Day
-* Exams: "King crab, Hermit crabs." and "Disrupted the economy."
+* Exams: "Red King Crab, (Paralithodes)." and "It caused confusion in the economy."
 
 ---
 #### Fri 7/15
 ##### All Day
-* Exams: "Raining cats and dogs." and "Demon Innards."
+* Exams: "Raining cats and dogs." and "Demon Guts."
 
 ---
 #### Sat 7/16
@@ -877,7 +878,7 @@
 #### Mon 7/18
 ##### Evening
 * Cannot leave Leblanc
-* Finish watching "The Running Dead" (Guts +5) (1.0.7 Guts Lv. 4)
+* Finish watching "The Running Dead" (Guts +5) (Battle Route Guts Lv. 4)
 
 ---
 #### Tue 7/19
@@ -887,9 +888,9 @@
 * Borrow "Jail Break" from DVD store
 * Priestess Rank 5
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Finals" (Knowledge +2)
 * Talk to Sojiro for exam reward
-* Fortune Rank 3 (Do not need matching arcana)
+* Fortune Rank 3 (Do not need matching arcana, expect 1 less note)
 
 ---
 #### Wed 7/20
@@ -914,7 +915,7 @@
 #### Sat 7/23
 ##### Evening
 * Cannot leave Leblanc
-* Finish watching "Jail Break" (Proficiency +5) (1.0.7 Proficiency Lv. 4)
+* Finish watching "Jail Break" (Proficiency +5) (Battle Route Proficiency Lv. 4)
 
 ---
 #### Sun 7/24
@@ -927,7 +928,7 @@
 ##### Evening
 * Cannot leave Leblanc
 * Save for crafting reload
-* Reload crafting for (Proficiency +5) (1.0.1 Proficiency Lv. 4)
+* Reload crafting for (Proficiency +5) (Normal Route Proficiency Lv. 4)
 
 ---
 #### Tue 7/26
@@ -1049,6 +1050,7 @@
 * Buy Exorcism Water from church
 * Luck Reading (Boost Charm)
 * Work at convenience store (Charm +7) (Request "Calling for Justice for Cats" unlocked)
+    1. Handle the queue efficiently
 ##### Evening
 * Trade Exorcism Water for Black Gun
 * Sun Rank 10 (Charm +7) (Charm Lv. 5)
@@ -1058,6 +1060,7 @@
 ##### Daytime
 * Luck Reading (Boost Kindness)
 * Work at flower shop (Kindness +7)
+    1. Create a bouquet that satisfies the customer's request
 ##### Evening
 * Rain
 * Crossword (Knowledge +2)
@@ -1096,8 +1099,8 @@
 ##### Evening
 * Buy Sharp Cue from sports shop
 * Affinity Reading with matching arcana (Devil +2)
-* [Version < 1.0.7] Devil Rank 5
-* [Version >= 1.0.7] Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magic")
+* [Normal Route] Devil Rank 5
+* [Battle Route] Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magic")
 
 ---
 #### Sat 8/13
@@ -1149,8 +1152,8 @@
 * Priestess Rank 8
 ##### Evening
 * Affinity Reading with matching arcana (Devil +2)
-* [Version < 1.0.7] Devil Rank 6
-* [Version >= 1.0.7] Devil Rank 5
+* [Normal Route] Devil Rank 6
+* [Battle Route] Devil Rank 5
 
 ---
 #### Fri 8/19
@@ -1158,8 +1161,8 @@
 * Emperor Rank 10
 ##### Evening
 * Rain
-* [Version < 1.0.7] Devil Rank 7 (Charm +5)
-* [Version >= 1.0.7] Darts with Makoto and one random other (Proficiency +5)
+* [Normal Route] Devil Rank 7 (Charm +5)
+* [Battle Route] Darts with Makoto and one random other (Proficiency +5)
     1. Let Makoto finish on round 4 (Baton Pass Lv. 3)
     2. Choice 3: "Take a deep breath." (Priestess +1)
     3. Let Yusuke finish on round 4 (Baton Pass Lv. 3)
@@ -1173,22 +1176,22 @@
 * Luck Reading (Boost Guts)
 * Big Bang Challenge (Guts +7)
 ##### Evening
-* Hanged Rank 3 (Proficiency +3) (1.0.7 Proficiency Lv. 5)
+* Hanged Rank 3 (Proficiency +3) (Battle Route Proficiency Lv. 5)
 
 ---
 #### Sun 8/21
 ##### Evening
 * Cannot leave Leblanc
-* [Version < 1.0.7] Watch "24 Hours" (Guts +5)
-* [Version >= 1.0.7] Finish reading "Billiards Magic" (Masse Shot unlocked)
+* [Normal Route] Watch "24 Hours" (Guts +5)
+* [Battle Route] Finish reading "Billiards Magic" (Masse Shot unlocked)
 
 ---
 #### Mon 8/22
 ##### Evening
 * Trade Melon Pan for Yakuza Fists
 * Check Summer Mammoth Lottery results
-* [Version < 1.0.7] Devil Rank 7.1 (Request "Fighting for Truth of Journalism" unlocked)
-* [Version >= 1.0.7] Work at bar (Kindness +3) (Request "We Aren't Just Your Slaves" unlocked)
+* [Normal Route] Devil Rank 7.1 (Request "Fighting for Truth of Journalism" unlocked)
+* [Battle Route] Work at bar (Kindness +3) (Request "We Aren't Just Your Slaves" unlocked)
 
 ---
 #### Tue 8/23
@@ -1213,8 +1216,8 @@
 #### Fri 8/26
 ##### Evening
 * Rain
-* [Version < 1.0.7] Work at bar (Kindness +3) (Request "We Aren't Just Your Slaves" unlocked)
-* [Version >= 1.0.7] Billiards (Random Stat +3) (Technical Lv. 4)
+* [Normal Route] Work at bar (Kindness +3) (Request "We Aren't Just Your Slaves" unlocked)
+* [Battle Route] Billiards (Random Stat +3) (Technical Lv. 4)
 
 ---
 #### Sat 8/27
@@ -1248,8 +1251,8 @@
 * Hermit Rank 1 (Auto)
 ##### Evening
 * Cannot leave Leblanc
-* [Version < 1.0.7] Free Time
-* [Version >= 1.0.7] Watch "24 Hours" (Guts +5)
+* [Normal Route] Free Time
+* [Battle Route] Watch "24 Hours" (Guts +5)
 ### September
 #### Thu 9/1
 ##### Evening
@@ -1266,7 +1269,7 @@
 ##### Evening
 * Crossword (Knowledge +2)
 * Luck Reading (Boost Proficiency)
-* Interact with desk in your room, Repair laptop (Proficiency +7) (1.0.1 Proficiency Lv. 5)
+* Interact with desk in your room, Repair laptop (Proficiency +7) (Normal Route Proficiency Lv. 5)
 
 ---
 #### Sat 9/3
@@ -1309,7 +1312,7 @@
     6. Debunking the Psychic!
     7. Who's Been Assaulting People?
     8. We Aren't Just Your Slaves
-    9. [Version < 1.0.7] Fighting for Truth of Journalism
+    9. [Normal Route] Fighting for Truth of Journalism
     10. Who's Muscling in Yongen-Jaya?
     11. Winners Don't Use Cheats, attempt needed to unlock Tower Rnk 1
 
@@ -1426,8 +1429,8 @@
 * Councillor Rank 6
 ##### Evening
 * Affinity Reading with matching arcana (Devil +2)
-* [Version < 1.0.7] Devil Rank 8 (Charm +5)
-* [Version >= 1.0.7] Devil Rank 6
+* [Normal Route] Devil Rank 8 (Charm +5)
+* [Battle Route] Devil Rank 6
 
 ---
 #### Sat 9/24
@@ -1498,9 +1501,9 @@
 * Buy "Karakuri" from Jinbocho
 * Councillor Rank 7
 ##### Evening
-* [Version < 1.0.7] Devil Rank 9 Friendship
-* Devil Rank 9 Romance
-* [Version >= 1.0.7] Devil Rank 7 (Charm +5)
+* [Normal Route] Devil Rank 9 Friendship
+* [Normal Route] Devil Rank 9 Romance
+* [Battle Route] Devil Rank 7 (Charm +5)
 ### October
 #### Sat 10/1
 ##### Daytime
@@ -1564,8 +1567,8 @@
     1. Receive Burger-kun Doll
 * Talk to Futaba to initiate solo battle, Hierophant Rank 8.1
 ##### Evening
-* [Version < 1.0.7] Devil Rank 10
-* [Version >= 1.0.7] Devil Rank 7.1 (Request "Fighting for Truth of Journalism" unlocked)
+* [Normal Route] Devil Rank 10
+* [Battle Route] Devil Rank 7.1 (Request "Fighting for Truth of Journalism" unlocked)
 
 ---
 #### Sat 10/8
@@ -1578,6 +1581,7 @@
 #### Sun 10/9
 ##### Daytime
 * Death Rank 10 Friendship (Friendship route only)
+* Free Time (Romance route only)
 ##### Evening
 * Fortune Rank 10
 
@@ -1669,8 +1673,8 @@
 ##### Class
 * Question: "15." (Knowledge +2)
 ##### Evening
-* [Version < 1.0.7] Moon Rank 9
-* [Version >= 1.0.7] Darts with Haru and Ryuji (Proficiency +5)
+* [Normal Route] Moon Rank 9
+* [Battle Route] Darts with Haru and Ryuji (Proficiency +5)
     1. Let Haru finish on round 4 (Baton Pass Lv. 3)
     2. Choice 3: "Just enjoy it."
     3. Let Ryuji finish on round 4 (Baton Pass Lv. 3)
@@ -1751,7 +1755,7 @@
 * Attempt to send calling card
 * **Mementos Palace**
     1. Shady Deal in the Shadows
-    2. [Version >= 1.0.7] Fighting for Truth of Journalism
+    2. [Battle Route] Fighting for Truth of Journalism
     3. Man of Many Faces and Debts
     4. Winners Don't Use Cheats
     5. Upstaging the Stage Mother
@@ -1761,6 +1765,7 @@
 ##### Evening
 * Call Kawakami for massage
 * Death Rank 10 Romance (Romance route only)
+* Free Time (Friendship route only)
 
 ---
 #### Wed 11/2
@@ -1779,8 +1784,8 @@
 ##### Daytime
 * Empress Rank 2 (Requires Proficiency Lv. 5)
 ##### Evening
-* [Version < 1.0.7] Moon Rank 10
-* [Version >= 1.0.7] Moon Rank 9
+* [Normal Route] Moon Rank 10
+* [Battle Route] Moon Rank 9
 
 ---
 #### Fri 11/4
@@ -1789,8 +1794,8 @@
 ##### Daytime
 * Tower Rank 9 (Kindness +5)
 ##### Evening
-* [Version < 1.0.7] Free Time
-* [Version >= 1.0.7] Devil Rank 8 (Charm +5)
+* [Normal Route] Free Time
+* [Battle Route] Devil Rank 8 (Charm +5)
 
 ---
 #### Sat 11/5
@@ -1807,8 +1812,8 @@
 ---
 #### Sun 11/6
 ##### Daytime
-* [Version < 1.0.7] Free Time
-* [Version >= 1.0.7] Empress Hangout Asakusa
+* [Normal Route] Free Time
+* [Battle Route] Empress Hangout Asakusa
 ##### Evening
 * Hanged Rank 8 (Proficiency +5)
 
@@ -1848,9 +1853,9 @@
 * Tower Rank 10 (Kindness +2)
 ##### Evening
 * TV Quiz: "Me in front of my TV." (Knowledge +2)
-* [Version < 1.0.7] Free Time
-* [Version >= 1.0.7] Devil Rank 9 Friendship
-* Devil Rank 9 Romance
+* [Normal Route] Free Time
+* [Battle Route] Devil Rank 9 Friendship
+* [Battle Route] Devil Rank 9 Romance
 
 ---
 #### Fri 11/11
@@ -1859,8 +1864,8 @@
 ##### Daytime
 * Empress Rank 6
 ##### Evening
-* [Version < 1.0.7] Free Time
-* [Version >= 1.0.7] Devil Rank 10
+* [Normal Route] Free Time
+* [Battle Route] Devil Rank 10
 
 ---
 #### Sat 11/12
@@ -1901,8 +1906,8 @@
 ##### Daytime
 * Empress Rank 8
 ##### Evening
-* [Version < 1.0.7] Free Time
-* [Version >= 1.0.7] Moon Rank 10
+* [Normal Route] Free Time
+* [Battle Route] Moon Rank 10
 
 ---
 #### Wed 11/16

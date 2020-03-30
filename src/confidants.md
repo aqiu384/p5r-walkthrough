@@ -1,4 +1,349 @@
 ## Confidants
+### Confidant Availability
+#### April
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sat | 4/9 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 4/10 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 4/11 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 4/12 | - | - | - | - | - | A1 | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 4/13 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 4/14 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 4/15 | - | - | - | - | A1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sat | 4/16 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 4/17 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 4/18 | - | - | - | - | - | - | - | - | - | - | S1 | - | - | - | - | - | - | - | - |
+| Tue | 4/19 | - | - | - | - | - | S2 | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Wed | 4/20 | - | - | - | S1 | - | . | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Thu | 4/21 | - | - | - | O | - | . | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Fri | 4/22 | - | - | - | O | - | O | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Sat | 4/23 | - | - | - | O | - | . | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Sun | 4/24 | - | - | - | . | - | . | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Mon | 4/25 | - | - | - | O | - | . | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Tue | 4/26 | - | - | - | O | - | . | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Wed | 4/27 | - | - | - | O | - | O | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Thu | 4/28 | - | - | - | O | - | O | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Fri | 4/29 | - | - | - | . | - | O | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Sat | 4/30 | - | - | - | O | - | . | - | - | - | - | O | - | - | - | - | - | - | - | - |
+
+#### May
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sun | 5/1 | - | - | - | . | - | O | - | - | - | - | O | - | - | - | - | - | - | - | - |
+| Mon | 5/2 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 5/3 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 5/4 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 5/5 | - | - | - | . | S2 | . | - | - | - | - | . | - | - | - | - | - | - | - | - |
+| Fri | 5/6 | - | - | - | . | O | O | - | - | - | S1 | O | - | - | - | - | A1 | 0.1 | - | - |
+| Sat | 5/7 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 5/8 | - | - | - | O | . | . | - | - | - | O | . | - | - | - | - | A2 | 0.2 | - | - |
+| Mon | 5/9 | - | - | - | O | HG | O | - | - | - | . | O | - | - | - | - | . | 0.3 | - | - |
+| Tue | 5/10 | - | - | - | . | O | O | - | - | - | . | O | - | - | - | - | O | S1 | - | - |
+| Wed | 5/11 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 5/12 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 5/13 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A1 |
+| Sat | 5/14 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A2 |
+| Sun | 5/15 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 5/16 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 5/17 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 5/18 | - | - | - | . | . | . | - | - | - | . | O | - | - | - | - | O | . | - | . |
+| Thu | 5/19 | - | - | - | O | O | . | - | - | - | . | O | - | - | - | - | . | . | - | . |
+| Fri | 5/20 | - | - | - | O | . | O | - | - | - | . | O | - | - | - | - | O | . | - | S3 |
+| Sat | 5/21 | - | - | - | O | O | . | - | - | - | O | O | - | - | - | - | O | . | - | . |
+| Sun | 5/22 | - | - | - | O | . | O | - | - | - | O | O | - | - | - | - | O | O | - | . |
+| Mon | 5/23 | - | - | - | . | O | O | - | - | - | . | O | - | - | - | - | O | . | - | O |
+| Tue | 5/24 | - | - | - | . | O | . | - | - | - | . | O | 0.1 | - | - | - | O | . | - | . |
+| Wed | 5/25 | - | - | - | . | . | O | - | - | - | . | O | S1 | - | - | - | O | . | - | . |
+| Thu | 5/26 | - | - | - | O | O | . | - | - | - | . | O | . | - | - | - | O | . | - | . |
+| Fri | 5/27 | - | - | - | O | . | O | - | - | - | . | O | O | - | - | - | O | . | - | O |
+| Sat | 5/28 | - | - | - | O | O | O | - | - | - | O | O | O | - | - | - | O | . | - | . |
+| Sun | 5/29 | - | - | - | O | O | HG | - | - | - | O | O | . | - | - | - | O | O | - | . |
+| Mon | 5/30 | - | - | - | . | . | . | - | - | - | . | . | . | - | - | - | O | . | A1 | . |
+| Tue | 5/31 | - | - | - | . | O | . | - | - | - | . | O | . | - | - | - | O | . | . | . |
+
+#### June
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wed | 6/1 | - | - | - | . | O | O | - | - | - | . | O | . | - | - | - | O | . | . | . |
+| Thu | 6/2 | - | - | - | O | . | . | - | - | - | . | O | . | - | - | - | O | . | . | . |
+| Fri | 6/3 | - | - | - | O | O | O | - | - | - | . | O | O | - | - | - | O | . | . | O |
+| Sat | 6/4 | - | - | - | O | O | O | - | - | - | O | O | O | - | - | - | O | . | . | . |
+| Sun | 6/5 | - | - | - | . | . | . | - | - | - | O | . | . | - | - | - | O | O | . | . |
+| Mon | 6/6 | - | - | - | O | O | O | - | - | - | O | O | . | - | - | - | O | . | . | O |
+| Tue | 6/7 | - | - | - | . | O | O | - | - | - | . | O | . | - | - | - | O | . | . | . |
+| Wed | 6/8 | - | - | - | O | . | . | - | - | - | . | O | . | - | - | - | O | . | S2 | O |
+| Thu | 6/9 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 6/10 | - | - | - | . | . | . | A1 | - | - | . | . | O | - | - | - | O | . | . | . |
+| Sat | 6/11 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 6/12 | - | - | - | O | O | . | . | - | - | O | O | . | - | - | - | O | O | . | . |
+| Mon | 6/13 | - | - | - | . | . | . | O | - | - | . | . | . | - | - | - | O | . | . | . |
+| Tue | 6/14 | - | - | - | . | . | . | . | - | - | . | . | . | - | - | - | O | . | . | . |
+| Wed | 6/15 | - | - | - | . | . | . | . | - | - | . | . | O | - | - | - | O | . | . | . |
+| Thu | 6/16 | - | - | - | O | . | . | . | - | - | . | . | . | - | - | - | O | . | . | . |
+| Fri | 6/17 | - | - | - | O | . | . | . | - | - | . | . | O | - | - | - | O | . | . | . |
+| Sat | 6/18 | - | - | S1 | . | . | O | . | - | - | . | O | . | - | - | - | . | . | . | . |
+| Sun | 6/19 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 6/20 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 6/21 | - | - | . | O | . | O | . | - | - | . | O | . | - | - | - | . | . | . | O |
+| Wed | 6/22 | - | - | . | . | O | O | O | - | 0.1 | O | O | . | - | - | - | O | . | . | . |
+| Thu | 6/23 | - | - | O | O | . | . | O | - | 0.2 | . | O | . | S1 | - | - | O | . | . | . |
+| Fri | 6/24 | S1 | - | O | . | O | O | . | - | 0.3 | . | O | O | O | - | - | O | . | . | O |
+| Sat | 6/25 | O | - | O | . | . | O | O | - | S1 | O | O | O | . | - | S1 | O | . | . | . |
+| Sun | 6/26 | O | - | . | . | O | . | . | - | O | O | O | . | . | - | . | O | O | . | . |
+| Mon | 6/27 | . | - | O | O | . | . | . | - | . | . | O | . | O | - | O | O | . | . | O |
+| Tue | 6/28 | O | - | . | O | O | O | . | - | O | . | O | . | O | - | . | O | . | . | . |
+| Wed | 6/29 | . | - | . | . | O | O | O | - | . | . | O | O | . | - | . | O | . | O | . |
+| Thu | 6/30 | O | - | O | O | . | . | . | - | O | . | O | . | O | - | O | O | . | . | . |
+
+#### July
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fri | 7/1 | . | - | . | . | O | . | . | - | . | . | O | O | O | - | . | O | . | . | O |
+| Sat | 7/2 | O | - | O | . | . | O | O | - | . | O | O | . | . | - | O | O | . | . | . |
+| Sun | 7/3 | O | - | . | . | O | HG | . | - | O | O | O | . | . | - | . | O | O | . | . |
+| Mon | 7/4 | . | - | O | O | . | . | . | - | . | . | O | . | O | - | O | O | . | . | O |
+| Tue | 7/5 | O | - | . | O | O | O | . | - | O | . | O | . | O | - | . | O | . | . | . |
+| Wed | 7/6 | . | - | . | . | O | O | O | - | . | O | O | O | . | - | O | . | . | . | . |
+| Thu | 7/7 | O | - | O | O | . | . | . | - | O | . | O | . | O | - | . | O | . | O | . |
+| Fri | 7/8 | . | - | . | . | O | . | . | - | . | . | O | O | O | - | . | O | . | . | O |
+| Sat | 7/9 | . | - | . | . | . | . | O | - | . | O | . | O | . | - | O | . | . | . | . |
+| Sun | 7/10 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 7/11 | . | - | . | O | HG | . | . | - | . | . | O | . | O | - | O | O | . | . | . |
+| Tue | 7/12 | HG | - | O | O | . | O | O | - | O | . | O | . | O | - | . | O | . | . | . |
+| Wed | 7/13 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 7/14 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 7/15 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sat | 7/16 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 7/17 | . | - | O | . | HG | . | . | - | O | O | . | . | . | - | . | O | . | . | . |
+| Mon | 7/18 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 7/19 | O | - | . | O | O | O | O | - | O | . | O | O | O | - | O | O | . | . | . |
+| Wed | 7/20 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 7/21 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 7/22 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sat | 7/23 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 7/24 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 7/25 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 7/26 | O | - | . | O | O | O | O | - | O | . | O | . | O | - | . | O | . | . | . |
+| Wed | 7/27 | O | - | HG | . | O | O | . | - | . | O | O | O | . | - | O | . | . | . | . |
+| Thu | 7/28 | O | - | O | O | . | HG | . | - | O | . | O | . | O | - | . | O | . | O | . |
+| Fri | 7/29 | . | - | . | . | O | . | HG | - | . | . | O | O | O | - | . | . | . | . | . |
+| Sat | 7/30 | HG | - | . | . | O | O | O | - | O | O | O | O | . | - | O | O | . | . | . |
+| Sun | 7/31 | O | - | O | . | O | . | . | - | O | O | O | . | . | - | . | O | O | O | . |
+
+#### August
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Mon | 8/1 | O | - | HG | O | . | O | . | - | . | . | O | . | O | - | O | O | . | . | . |
+| Tue | 8/2 | O | - | . | O | O | O | O | - | O | . | O | . | O | - | . | O | . | . | . |
+| Wed | 8/3 | . | - | O | . | O | HG | . | - | . | O | O | O | . | - | O | O | . | . | . |
+| Thu | 8/4 | O | - | HG | O | . | . | . | - | O | . | O | . | O | - | . | . | . | O | . |
+| Fri | 8/5 | . | - | HG | . | O | O | . | - | . | . | O | O | O | - | . | O | . | . | . |
+| Sat | 8/6 | O | - | O | . | HG | O | O | - | . | O | . | O | . | - | O | O | . | . | . |
+| Sun | 8/7 | O | - | O | . | O | . | . | - | O | O | O | . | . | - | . | O | O | O | . |
+| Mon | 8/8 | . | - | HG | O | O | O | . | - | . | . | O | . | O | - | O | O | . | . | . |
+| Tue | 8/9 | O | - | O | O | . | O | O | - | O | . | O | . | O | - | . | O | . | . | . |
+| Wed | 8/10 | . | - | . | . | O | O | . | - | . | . | O | O | . | - | O | O | . | O | . |
+| Thu | 8/11 | O | - | HG | O | . | . | . | - | O | . | O | . | O | - | . | O | O | . | . |
+| Fri | 8/12 | . | - | O | . | O | . | . | - | . | . | O | O | O | - | . | O | . | . | . |
+| Sat | 8/13 | O | - | O | . | . | HG | O | - | . | O | O | O | . | - | O | O | . | . | . |
+| Sun | 8/14 | O | - | . | . | O | O | . | - | O | O | O | . | . | - | . | O | O | O | . |
+| Mon | 8/15 | HG | - | . | O | O | . | . | - | . | . | O | . | O | - | . | O | . | . | . |
+| Tue | 8/16 | O | - | O | O | . | O | . | - | O | . | O | . | O | - | O | O | . | . | . |
+| Wed | 8/17 | . | - | O | . | O | O | O | - | . | . | O | O | . | - | O | . | . | . | . |
+| Thu | 8/18 | O | - | . | O | . | . | . | - | O | . | O | . | O | - | . | O | . | . | . |
+| Fri | 8/19 | . | - | O | . | O | . | . | - | . | . | O | O | O | - | . | . | . | O | . |
+| Sat | 8/20 | O | - | . | . | . | O | O | - | . | O | O | O | . | - | O | O | O | O | . |
+| Sun | 8/21 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 8/22 | . | - | . | O | . | . | . | - | . | . | . | . | O | - | O | . | . | . | . |
+| Tue | 8/23 | . | - | . | O | . | . | . | - | O | O | . | . | O | - | . | . | . | . | . |
+| Wed | 8/24 | . | - | . | . | . | . | O | - | . | . | . | O | . | - | O | . | . | . | . |
+| Thu | 8/25 | . | - | . | O | . | . | . | - | O | . | . | . | O | - | . | . | O | . | . |
+| Fri | 8/26 | . | - | . | . | . | . | . | - | . | . | . | O | O | - | . | . | . | . | . |
+| Sat | 8/27 | . | - | . | . | . | . | . | - | . | O | . | O | . | - | O | . | . | . | . |
+| Sun | 8/28 | . | - | . | . | . | . | . | - | O | O | . | . | . | - | . | . | O | . | . |
+| Mon | 8/29 | . | - | . | O | . | . | . | - | . | . | . | . | O | - | O | . | . | . | . |
+| Tue | 8/30 | . | - | . | O | . | . | O | - | O | . | . | . | O | - | . | O | . | . | . |
+| Wed | 8/31 | - | - | - | - | - | - | - | A1 | - | - | - | - | - | - | - | - | - | - | - |
+
+#### September
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Thu | 9/1 | . | - | . | O | . | . | . | . | O | . | . | . | O | - | . | . | . | . | . |
+| Fri | 9/2 | . | - | O | . | O | . | . | S2 | . | . | O | O | O | - | . | O | . | . | O |
+| Sat | 9/3 | . | - | . | . | . | . | O | . | . | O | . | O | . | - | O | . | . | . | . |
+| Sun | 9/4 | . | - | . | . | . | . | . | O | O | O | O | . | . | 0.1 | . | . | O | . | . |
+| Mon | 9/5 | . | - | . | O | . | . | . | O | . | . | O | . | O | S1 | . | . | . | . | O |
+| Tue | 9/6 | . | - | . | . | . | . | . | . | . | . | O | . | . | . | . | . | . | . | O |
+| Wed | 9/7 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 9/8 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 9/9 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sat | 9/10 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 9/11 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 9/12 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 9/13 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 9/14 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 9/15 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 9/16 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sat | 9/17 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 9/18 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 9/19 | . | - | O | O | . | . | . | . | . | . | O | . | O | O | O | O | O | . | . |
+| Tue | 9/20 | O | - | . | O | O | O | . | . | O | O | O | . | O | . | . | O | . | . | O |
+| Wed | 9/21 | . | - | . | . | O | O | O | O | . | . | O | O | . | . | O | O | . | O | O |
+| Thu | 9/22 | O | - | . | O | . | . | . | O | . | . | O | . | O | O | HG | O | O | . | . |
+| Fri | 9/23 | . | - | O | . | O | O | . | . | . | . | O | O | O | . | . | O | . | . | O |
+| Sat | 9/24 | O | - | . | . | . | O | O | O | . | O | O | O | . | O | O | O | . | . | O |
+| Sun | 9/25 | O | - | O | . | . | . | . | HG | . | O | O | . | . | . | . | . | O | . | . |
+| Mon | 9/26 | . | - | O | O | . | . | . | . | . | . | O | . | O | O | O | O | . | . | O |
+| Tue | 9/27 | O | - | . | O | O | O | . | . | O | . | O | . | O | . | . | O | . | . | O |
+| Wed | 9/28 | . | - | . | . | O | O | O | O | . | . | O | O | . | . | O | O | . | O | . |
+| Thu | 9/29 | O | - | . | O | . | . | . | O | O | . | O | . | O | O | . | O | . | . | O |
+| Fri | 9/30 | . | - | O | . | O | . | . | . | . | . | O | O | O | . | . | O | . | . | O |
+
+#### October
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sat | 10/1 | O | - | . | . | . | O | O | O | . | O | O | O | . | O | . | O | . | . | O |
+| Sun | 10/2 | O | - | O | . | . | . | . | HG | O | O | O | . | . | . | . | O | O | . | . |
+| Mon | 10/3 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 10/4 | O | - | . | O | O | O | . | . | O | O | O | . | O | . | . | O | . | . | . |
+| Wed | 10/5 | . | - | . | . | O | O | O | O | . | . | O | O | . | . | O | O | . | O | O |
+| Thu | 10/6 | O | - | . | O | . | . | . | O | O | . | O | . | O | O | . | O | . | . | . |
+| Fri | 10/7 | . | - | O | . | O | . | . | . | . | . | O | O | O | . | . | O | . | . | O |
+| Sat | 10/8 | O | - | . | . | . | O | O | O | . | O | O | O | . | O | O | O | . | . | O |
+| Sun | 10/9 | O | - | O | . | O | . | . | HG | O | O | O | . | . | . | . | . | O | . | . |
+| Mon | 10/10 | . | - | O | O | O | O | . | HG | . | . | O | . | O | O | O | O | O | . | . |
+| Tue | 10/11 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 10/12 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 10/13 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 10/14 | HG | - | O | O | O | . | . | . | . | . | O | O | O | . | . | O | . | . | O |
+| Sat | 10/15 | O | - | HG | . | HG | O | O | O | . | O | O | O | . | O | O | O | . | . | O |
+| Sun | 10/16 | O | - | O | O | O | O | . | O | O | O | O | . | . | . | . | O | O | . | . |
+| Mon | 10/17 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 10/18 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 10/19 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 10/20 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 10/21 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sat | 10/22 | . | - | . | . | . | . | O | . | . | O | . | O | O | . | O | O | . | . | . |
+| Sun | 10/23 | . | - | . | O | . | . | . | . | O | O | . | . | . | . | . | O | O | . | . |
+| Mon | 10/24 | . | - | . | . | . | . | . | . | . | . | . | . | O | . | O | O | . | . | . |
+| Tue | 10/25 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 10/26 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 10/27 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 10/28 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sat | 10/29 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 10/30 | O | S1 | O | . | . | . | . | O | O | O | O | . | . | O | . | . | O | . | . |
+| Mon | 10/31 | . | O | O | O | . | . | O | . | . | . | O | . | O | . | O | . | . | . | O |
+
+#### November
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tue | 11/1 | O | O | . | O | O | O | . | . | O | . | O | . | O | O | . | . | . | . | . |
+| Wed | 11/2 | . | . | . | . | O | O | O | O | . | . | O | O | . | . | O | . | . | O | O |
+| Thu | 11/3 | O | O | . | O | . | . | . | O | O | . | O | . | O | O | . | O | O | . | . |
+| Fri | 11/4 | . | . | O | . | O | . | . | . | . | . | O | O | O | O | . | O | . | . | O |
+| Sat | 11/5 | O | O | . | . | . | O | O | O | . | O | O | O | . | . | O | O | . | . | O |
+| Sun | 11/6 | O | HG | O | O | . | . | . | O | O | O | O | . | . | . | . | O | O | . | . |
+| Mon | 11/7 | . | O | O | O | . | . | O | . | . | . | O | . | O | O | O | O | . | . | O |
+| Tue | 11/8 | O | O | . | O | O | O | . | . | O | O | O | . | O | . | . | O | . | . | . |
+| Wed | 11/9 | . | O | . | . | O | O | O | O | . | . | O | . | . | . | O | O | . | O | O |
+| Thu | 11/10 | O | . | . | O | . | . | . | O | O | . | O | . | O | O | . | O | . | . | . |
+| Fri | 11/11 | . | O | O | . | O | . | . | . | . | . | O | O | O | . | . | O | . | . | O |
+| Sat | 11/12 | O | . | . | . | . | O | O | O | . | O | O | O | . | O | O | O | . | . | O |
+| Sun | 11/13 | O | HG | O | . | . | . | . | O | O | O | O | . | . | . | . | O | E10 | . | . |
+| Mon | 11/14 | . | O | O | O | . | . | O | . | . | . | O | . | O | . | O | O | - | . | O |
+| Tue | 11/15 | O | O | . | O | O | O | O | . | O | . | O | . | O | O | . | O | - | . | . |
+| Wed | 11/16 | . | . | . | . | O | O | . | . | . | . | O | O | . | . | O | O | - | . | O |
+| Thu | 11/17 | O | . | . | O | . | . | E8 | O | O | . | O | . | O | O | . | O | - | . | E9 |
+| Fri | 11/18 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | A10 |
+| Sat | 11/19 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 11/20 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 11/21 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 11/22 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 11/23 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 11/24 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 11/25 | . | O | O | . | O | . | - | . | . | . | O | O | O | . | . | . | - | . | - |
+| Sat | 11/26 | O | O | . | . | . | O | - | O | . | O | O | O | . | O | O | X | - | . | - |
+| Sun | 11/27 | O | . | O | . | O | . | - | O | O | O | O | . | . | . | . | X | - | . | - |
+| Mon | 11/28 | . | O | O | O | . | . | - | . | . | . | O | . | O | . | O | X | - | . | - |
+| Tue | 11/29 | O | O | . | O | O | O | - | . | O | . | O | . | O | O | . | X | - | . | - |
+| Wed | 11/30 | . | . | . | . | O | O | - | O | . | . | O | O | . | . | O | X | - | O | - |
+
+#### December
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Thu | 12/1 | O | O | . | O | . | . | - | O | O | O | O | . | O | O | . | X | - | . | - |
+| Fri | 12/2 | . | O | O | O | O | . | - | . | . | . | O | O | O | . | . | X | - | . | - |
+| Sat | 12/3 | O | . | . | . | . | O | - | . | . | O | O | O | . | O | O | X | - | . | - |
+| Sun | 12/4 | O | . | O | . | O | . | - | O | O | O | O | . | . | . | . | X | - | O | - |
+| Mon | 12/5 | . | O | O | O | . | . | - | . | . | . | O | O | O | . | O | X | - | . | - |
+| Tue | 12/6 | O | O | . | O | O | O | - | . | O | . | O | . | O | O | . | X | - | . | - |
+| Wed | 12/7 | . | . | . | . | O | O | - | O | . | . | O | O | . | . | O | X | - | O | - |
+| Thu | 12/8 | O | . | . | O | . | . | - | O | O | O | O | . | O | O | . | X | - | . | - |
+| Fri | 12/9 | . | O | O | O | O | . | - | . | . | . | O | O | O | . | . | X | - | . | - |
+| Sat | 12/10 | O | O | . | . | . | O | - | O | . | O | O | O | . | O | O | X | - | . | - |
+| Sun | 12/11 | O | . | O | . | . | . | - | O | O | O | O | . | O | . | . | X | - | O | - |
+| Mon | 12/12 | . | O | O | O | . | . | - | . | . | . | O | O | O | . | O | X | - | . | - |
+| Tue | 12/13 | O | . | . | O | O | O | - | . | O | . | O | . | . | O | . | X | - | . | - |
+| Wed | 12/14 | . | . | . | . | O | O | - | O | . | . | O | O | . | . | O | X | - | O | - |
+| Thu | 12/15 | O | . | . | O | . | . | - | . | O | O | O | . | O | O | . | X | - | . | - |
+| Fri | 12/16 | . | O | O | . | O | . | - | . | . | . | O | O | O | . | . | X | - | . | - |
+| Sat | 12/17 | O | O | O | O | O | O | - | O | . | O | O | O | . | O | O | O | - | . | - |
+| Sun | 12/18 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 12/19 | . | . | . | O | . | . | - | . | O | O | . | O | O | . | O | O | - | . | - |
+| Tue | 12/20 | . | . | . | . | . | . | - | . | . | . | . | . | . | . | . | . | - | . | - |
+| Wed | 12/21 | . | . | . | . | . | . | - | . | . | . | . | . | . | . | . | . | - | . | - |
+| Thu | 12/22 | O | O | O | O | O | O | - | O | O | O | O | O | O | O | O | O | - | E5 | - |
+| Fri | 12/23 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sat | 12/24 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 12/25 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 12/26 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 12/27 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 12/28 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 12/29 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 12/30 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sat | 12/31 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+
+#### January
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sun | 1/1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 1/2 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 1/3 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 1/4 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 1/5 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 1/6 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sat | 1/7 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Sun | 1/8 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mon | 1/9 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tue | 1/10 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Wed | 1/11 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Thu | 1/12 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Fri | 1/13 | . | . | O | . | O | . | - | . | . | . | O | O | O | . | . | O | - | S6 | - |
+| Sat | 1/14 | O | . | . | . | . | O | - | . | . | O | O | O | . | O | O | O | - | O | - |
+| Sun | 1/15 | . | O | . | . | . | . | - | O | O | O | O | . | . | . | . | O | - | . | - |
+| Mon | 1/16 | . | . | O | O | O | . | - | . | . | . | O | . | O | O | O | O | - | O | - |
+| Tue | 1/17 | O | . | . | O | . | O | - | . | . | O | O | . | O | . | . | O | - | . | - |
+| Wed | 1/18 | . | O | . | . | . | . | - | O | . | . | O | O | . | . | O | O | - | O | - |
+| Thu | 1/19 | O | . | . | O | . | . | - | O | O | . | O | . | O | O | . | O | - | O | - |
+| Fri | 1/20 | . | . | . | . | . | . | - | . | . | . | O | O | O | . | . | O | - | . | - |
+| Sat | 1/21 | O | O | . | . | O | O | - | O | . | O | O | O | . | O | O | O | - | O | - |
+| Sun | 1/22 | O | . | O | . | O | . | - | O | O | O | O | . | . | . | . | O | - | O | - |
+| Mon | 1/23 | . | O | . | O | . | . | - | . | . | . | O | . | O | O | O | O | - | O | - |
+| Tue | 1/24 | O | O | O | O | O | O | - | . | O | O | O | . | O | . | . | O | - | . | - |
+| Wed | 1/25 | . | . | O | . | O | O | - | O | . | . | O | O | . | . | O | O | - | O | - |
+| Thu | 1/26 | O | . | . | O | . | . | - | . | . | . | O | . | O | O | . | O | - | . | - |
+| Fri | 1/27 | . | . | . | . | . | . | - | . | . | . | O | O | O | . | . | O | - | . | - |
+| Sat | 1/28 | O | O | . | . | O | O | - | E10 | . | O | O | O | . | O | O | O | - | O | - |
+| Sun | 1/29 | O | . | O | . | O | . | - | . | O | O | O | . | . | . | . | O | - | O | - |
+| Mon | 1/30 | . | . | . | O | . | . | - | . | . | . | O | . | O | O | O | O | - | O | - |
+| Tue | 1/31 | O | E10 | O | O | O | O | - | . | O | O | O | . | O | . | . | O | - | . | - |
+
+#### February
+| Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wed | 2/1 | E10 | E11 | E10 | O | E10 | E10 | - | E11 | E10 | E10 | O | E10 | E10 | O | E10 | E10 | - | E10 | - |
+| Thu | 2/2 | E11 | - | E11 | - | E11 | E11 | A11 | - | - | - | E10 | - | - | E10 | - | - | - | S11 | - |
+
 ### Fool
 #### Availability
 * Confidant: Igor
@@ -333,7 +678,7 @@ Rank 1
 Rank 2
 1. Choice 2: "It's enigmatic." (+1)
 2. Choice 1: "I can't wait." (+3)
-3. (Phone) Choice 1: "It's more than enough." (+1)
+3. (Phone) Choice 1: "You're already doing enough." (+1)
 
 Rank 3 (Unlocks Ueno Art Museum)
 1. Choice 3: "Don't let it bother you." (+1)
@@ -450,12 +795,12 @@ Rank 2 **(Kindness +3)**
 Rank 3
 1. Choice 1: "Medium-fine." (+1)
 2. Choice 2: "Is it trouble?" (+1)
-3. (Phone) Choice 1: "I'll do my best." (+1)
+3. (Phone) Choice 1: "Thank you in advance." (+1)
 
 Rank 4 **(Kindness +3)**
 1. Choice 1: "Tell me more." (+2)
 2. Choice 2: "Call Sojiro's phone." (+2)
-3. (Phone) Choice 1: "Got it." (+1)
+3. (Phone) Choice 1: "Understood." (+1)
 
 **Rank 5 locked until after Pyramid Palace deadline.**
 
@@ -541,7 +886,7 @@ Rank 3 (Unlocks Inokashira Park)
 7. -
 8. Choice 2: "Has that happened to you?" (+2)
 9. Choice 2: "That freedom sounds nice." (+1)
-10. (Phone) Choice 1: "I think so." (+1)
+10. (Phone) Choice 1: "Could be." (+1)
 
 Rank 4
 1. Choice 1: "I know what you mean." (+2)
@@ -549,7 +894,7 @@ Rank 4
 3. Choice 1: "Tell me." (+3)
 4. Choice 1: "Good idea." (+2)
 5. Choice 3: "Good luck with that." (+3)
-6. (Phone) Choice 1: "Daily training." (+1)
+6. (Phone) Choice 1: "I train everyday." (+1)
 
 Rank 5
 1. Choice 2: "Give it up." (+1)
@@ -563,21 +908,21 @@ Rank 6
 2. -
 3. -
 4. Choice 3: "Show her your own strength." (+3)
-5. (Phone) Choice 2: "I'm rooting for you." (+1)
+5. (Phone) Choice 2: "I'll cheer you on." (+1)
 
 Rank 7
 1. Choice 2: "She admires you." (+1)
 2. -
 3. -
 4. Choice 2: "Go get 'em, tiger." (+1)
-5. (Phone) Choice 1: "Give it your all." (+1)
+5. (Phone) Choice 1: "You got this." (+1)
 
 Rank 8
 1. Choice 2: "You have some real guts." (+2)
 2. Choice 1: "There's no doubt in my mind." (+3)
 3. -
 4. Choice 2: "I'm sure she already knows." (+3)
-5. (Phone) Choice 3: "Ask her yourself." (+1)
+5. (Phone) Choice 3: "You can ask her yourself." (+1)
 
 Rank 9 (Friendship)
 1. -
@@ -604,7 +949,7 @@ Hangout Study-5/9 **(Knowledge +5)**
 1. Choice 1: "Same here." (+1)
 
 Hangout Study-7/11 **(Knowledge +5)**
-1. Choice 1: "Let's work togethere." (+1)
+1. Choice 1: "Let's work together." (+1)
 
 Hangout Movies (7/17 only) **(Charm +5)**
 1. Choice 2: "I understand." (+2)
@@ -615,7 +960,7 @@ Hangout Meiji-Shrine (8/6 only, Pyramid Palace cleared)
 3. Choice 3: "As expected of a doctor." (+2) (Death +2)
 
 Hangout Inokashira
-1. Choice 3: "The air feels wonderful." (+3)
+1. Choice 3: "Let’s just enjoy the air." (+3)
 
 Hangout Shibuya
 1. Choice 1: "Sounds like a good plan." (+3)
@@ -657,12 +1002,12 @@ Rank 2
 1. Choice 1: "I'm counting on you." (+3)
 2. -
 3. Choice 1: "Do you go want to go back?" (+1)
-4. (Phone) Choice 3: "We're just getting started, bro." (+1)
+4. (Phone) Choice 3: "It's never too late, man." (+1)
 
 Rank 3
 1. Choice 1: "Let's not fight." (+1)
 2. Choice 1: "Calm down, Ryuji." (+2)
-3. (Phone) Choice 1: "Anyone would get angry." (+1)
+3. (Phone) Choice 1: "I can't exactly blame you." (+1)
 
 Rank 4 (Unlocks Ogikubo)
 1. Choice 2: "Are you worried about him?" (+1)
@@ -674,7 +1019,7 @@ Rank 5 (Unlocks Shibuya Gym)
 1. Choice 2: "Protein powder?" (+2)
 2. Choice 1: "You seem conflicted." (+1)
 3. Choice 2: "So he's an asshole?" (+2)
-4. (Phone) Choice 1: "Of course, bro," (+1)
+4. (Phone) Choice 1: "Don't worry. I gotcha." (+1)
 
 Rank 6
 1. Choice 3: "We can train at my place." (+2)
@@ -682,28 +1027,28 @@ Rank 6
 3. Choice 1: "Absolutely." (+3)
 4. -
 5. -
-6. (Phone) Choice 3: "How about hitting back?" (+1)
+6. (Phone) Choice 3: "So he should've punched back?" (+1)
 
 **Rank 7 moved to Wednesday and Friday nights (Royal).**
 
 Rank 7 (Unlocks Tsukishima)
 1. Choice 2: "Let's talk to Takeishi." (+2)
 2. Choice 1: "I think it's cool, Ryuji." (+3)
-3. (Phone) Choice 1: "Guess we have to try." (+1)
+3. (Phone) Choice 1: "Never know until you try." (+1)
 
 Rank 8
 1. -
 2. Choice 1: "Things turned out for the best." (+3)
 3. Choice 1: "All I did was watch." (+2)
 4. Choice 2: "You weren't cool though." (+2)
-5. (Phone) Choice 2: "Did this make up for your past?" (+1)
+5. (Phone) Choice 2: "So, case closed?" (+1)
 
 Rank 9
 1. Choice 1: "Are you satisfied now?" (+2)
 2. Choice 3: "Don't do it." (+2)
 3. Choice 2: "I never realized that." (+2)
 4. Choice 1: "I agree." (+1)
-5. (Phone) Choice 1: "Congrats." (+1)
+5. (Phone) Choice 1: "Congratulations." (+1)
 
 Rank 10
 
@@ -781,22 +1126,22 @@ Can reveal unknown enemy weaknesses. Learns Follow Up and Detective Talk when jo
 Rank 1
 
 Rank 2
-1. Choice 1: "Are you busy?" (+1)
+1. Choice 1: "You always seem so busy." (+1)
 2. -
-3. Choice 1: "Play it safe." (+1)
+3. Choice 1: "Shoot very carefully." (+1)
 4. -
-5. Choice 3: "Good eye." (+2)
-6. (Phone) Choice 3: "Aren't we rivals?" (+1)
+5. Choice 3: "I see a lot of things." (+2)
+6. (Phone) Choice 3: "As rivals?" (+1)
 
 **Rank 3 requires Charm Lv. 3 (Suave) and Knowledge Lv. 3 (Scholarly).**
 
 Rank 3
 1. -
-2. Choice 1: "Should've expected this." (+2)
+2. Choice 1: "Should've figured." (+2)
 3. -
 4. -
 5. -
-6. (Phone) Choice 2: "It was interesting." (+1)
+6. (Phone) Choice 2: "Wasn't it fun?" (+1)
 
 Rank 4 (Unlocks Jazz Club)
 1. -
@@ -1287,18 +1632,18 @@ Rank 1 **(Guts +2)**
 Rank 2 (Guts +2)
 1. Choice 1: "I have a bad heart." (+1)
 2. Choice 1: "I agree." (+1)
-3. (Phone) Choice 1: "No problem." (+1)
+3. (Phone) Choice 1: "I'm totally fine." (+1)
 
 Rank 3 **(Guts +2)**
 1. -
 2. -
 3. Choice 1: "I don't mind." (+1)
-4. (Phone) Choice 1: "Of course. (+1)
+4. (Phone) Choice 1: "Of course not." (+1)
 
 Rank 4 **(Guts +2)**
 1. Choice 2: "Dr. Takemi will help." (+1)
 2. Choice 1: "You seem happy." (+2)
-3. (Phone) Choice 1: "Sorry." (+1)
+3. (Phone) Choice 1: "I'll reflect on my mistakes." (+1)
 
 Rank 5 **(Guts +2)**
 1. -
@@ -1310,7 +1655,7 @@ Rank 6 **(Guts +2)**
 1. -
 2. -
 3. Choice 2: "It suits you." (+2)
-4. (Phone) Choice 1: "Leave it to me." (+1)
+4. (Phone) Choice 1: "You can count on me." (+1)
 
 Rank 7 **(Guts +2)**
 1. Choice 2: "She's a great doctor." (+1)
@@ -1393,14 +1738,14 @@ Rank 2
 2. Choice 2: "Absolutely not!" (+1)
 3. -
 4. -
-5. (Phone) Choice 2: "What happened?" (+1)
+5. (Phone) Choice 2: "Uh, what the hell?" (+1)
 
 Rank 3
 1. Choice 1: "Yeah, they do." (+1)
 2. -
 3. Choice 2: "I'll request you more often." (+3)
 4. -
-5. (Phone) Choice 1: "Thank you." (+1)
+5. (Phone) Choice 1: "You have it rough. Thanks." (+1)
 
 Rank 4
 1. -
@@ -1414,13 +1759,13 @@ Rank 5
 3. -
 4. -
 5. -
-6. (Phone) Choice 3: "That was a meal?" (+1)
+6. (Phone) Choice 3: "You want some?" (+1)
 
 Rank 6
 1. Choice 2: "Want to rest a bit?" (+1)
 2. Choice 1: "Are you all right?" (+3)
 3. -
-4. (Phone) Choice 3: "Are you alright?" (+1)
+4. (Phone) Choice 3: "How are you feeling, though?" (+1)
 
 Rank 7
 1. Choice 3: "Don't pay them." (+2)
@@ -1434,7 +1779,7 @@ Rank 8
 4. -
 5. Choice 2: "That's the right choice." (+3)
 6. Choice 2: "That's reassuring." (+3)
-7. (Phone) Choice 3: "Anything for you." (+1)
+7. (Phone) Choice 3: "I'll do anything for you." (+1)
 
 **Rank 8.1 will automatically trigger during the next school day.**
 
@@ -1451,7 +1796,7 @@ Rank 9 (Friendship)
 3. Choice 2: "I want to keep seeing you." (+1)
 4. Choice 2: "I mean what I say." (+1)
 5. Choice 1: "I'm a master; you're maid." (+0)
-6. (Phone) Choice 2: "Surely you can do it." (+1)
+6. (Phone) Choice 2: "You can do it." (+1)
 
 Rank 9 (Romance)
 1. Choice 1: "Nonsense." (+2)
@@ -1755,7 +2100,7 @@ Hangout Akihabara (9/22 only)
 Hangout Inokashira
 1. Choice 2: "It's inspiring." (+3)
 
-Hangout Jinbocho (Rank 8.1 only, Must complete Hangout Inokashira)
+Hangout Jinbocho (Rank 7 or higher, Must complete Hangout Inokashira)
 1. Choice 1: "Leave it to me." (+3)
 2. Receive King Piece
 
@@ -2061,36 +2406,36 @@ Chance-based battle benefits for Joker alone.
 Rank 1
 
 Rank 2 (SP +5)
-1. Choice 2: "We had a deal." (+1)
+1. Choice 2: "We made a deal." (+1)
 2. -
-3. Choice 1: "It's true." (+2)
+3. Choice 1: "But it sounds right." (+2)
 4. -
-5. Choice 1: "Alright." (+1)
+5. Choice 1: "Well, okay." (+1)
 
 Rank 3 (SP +5)
-1. Choice 1: "Really?" (+1)
+1. Choice 1: "So they have, huh?" (+1)
 2. Choice 1: "Of course." (+1)
 3. -
-4. Choice 3: "The start of a new love." (+1)
-5. Choice 1: "Did that help any?" (+1)
-6. (Phone) Choice 1: "Good work." (+1)
+4. Choice 3: "It's a seed for new love." (+1)
+5. Choice 1: "Did that help?" (+1)
+6. (Phone) Choice 1: "Good work over there." (+1)
 
 Rank 4 (SP +5)
 1. -
-2. Choice 1: "I think I understand." (+2)
-3. Choice 3: "Is that what your research is about?" (+2)
+2. Choice 1: "I know, right?" (+2)
+3. Choice 3: "Is that what you're researching?" (+2)
 4. -
-5. Choice 1: "Amazing." (+1)
-6. Choice 1: "Interesting." (+2)
-7. (Phone) Choice 1: "No problem." (+1)
+5. Choice 1: "That's a grand plan." (+1)
+6. Choice 1: "That sounds fun." (+2)
+7. (Phone) Choice 1: "I feel completely fine." (+1)
 
 Rank 5 (SP +5)
-1. Choice 1: "Don't mind if I do." (+2)
+1. Choice 1: "This looks great!" (+2)
 2. -
-3. Choice 3: "You have a point." (+2)
-4. Choice 2: "As long as it tastes good." (+1)
-5. Choice 2: "Certainly." (+1)
-6. (Phone) Choice 1: "It was nothing." (+1)
+3. Choice 3: "You know, you're right." (+2)
+4. Choice 2: "Hey, as long as it tastes good." (+1)
+5. Choice 2: "I guess so." (+1)
+6. (Phone) Choice 1: "I really don't mind." (+1)
 
 **Rank 6 locked until 9/20.**
 

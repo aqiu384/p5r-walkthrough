@@ -16,7 +16,7 @@
 ---
 #### Tue 4/12
 ##### Class
-* Question: "Evil." (Knowledge +2)
+* Question: "Villains." (Knowledge +2)
 * Chariot Rank 1 (Auto)
 
 ---
@@ -52,15 +52,15 @@
 * Buy TV from Yongen-Jaya recycling shop
 * Talk to Takemi in her Yongen-Jaya clinic, Death Rank 1 (Guts +2)
 ##### Evening
-* Interact with the crossword on innermost booth of Leblanc, Complete blue squares (Knowledge +2)
+* Interact with the crossword on innermost booth of Leblanc, Complete blue squares: "Semester" (Knowledge +2)
 * Clean your room (Obtain "Yoncha Wanderer" and "Modern Thought")
 
 ---
 #### Tue 4/19
 ##### Class
-* Question: "Both are the same length." (Knowledge +2)
+* Question: "They're the same." (Knowledge +2)
 ##### Daytime
-* Talk to Ryuji outside 2D classroom, Chariot Rank 2
+* Talk to Ryuji outside 2D classroom, Chariot Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
 * Interact with plant in your room, Feed it Bio Nutrients (Kindness +3)
 * Crafting (Proficiency +3)
@@ -71,6 +71,7 @@
 Read "Pirate Legend"
 ##### Daytime
 * **Reach treasure in Castle Palace**
+* **Need to be Lv. 9 for first Hierophant persona**
 * **Always carry matching arcana for confidant events from here on out**
 ##### Evening
 * Interact with middle booth, Study at Leblanc (Knowledge +5)
@@ -136,7 +137,7 @@ Finish reading "Pirate Legend" (Guts +5)
 ##### Daytime
 * Send calling card
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Blossom" (Knowledge +2)
 * Crafting (Proficiency +3)
 
 ---
@@ -159,7 +160,7 @@ Finish reading "Pirate Legend" (Guts +5)
 ##### Train
 Read "The Alluring Dancer"
 ##### Class
-* Question: "Child.", "Wonder.", and "A prodigy." (Knowledge +2)
+* Question: "Wonder.", "Child.", and "A prodigy." (Knowledge +2)
 ##### Daytime
 * Watch movies in Shibuya (Guts +5)
 ##### Evening
@@ -175,7 +176,7 @@ Read "The Alluring Dancer"
 ---
 #### Mon 5/2
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Golden" (Knowledge +2)
 * Study at Leblanc (Knowledge +3) (Knowledge Lv. 2)
 
 ---
@@ -198,6 +199,7 @@ Read "The Alluring Dancer"
 #### Fri 5/6
 ##### Class
 * Lecture (Knowledge +2)
+* Moon Rank 1 (Auto)
 ##### Daytime
 * By all books including "Buchiko's Story" from Shibuya bookstore
 * Borrow "Bubbly Hills, 90210" from DVD store
@@ -209,12 +211,14 @@ Read "The Alluring Dancer"
 ---
 #### Sat 5/7
 ##### Class
-* Question: "Soulmate." (Knowledge +2)
+* Question: "Fatal woman." (Knowledge +2)
 ##### Evening
 * Study at Leblanc (Knowledge +3)
 
 ---
 #### Sun 5/8
+##### Class
+* Moon Rank 2 (Auto)
 ##### Evening
 * Aojiru (Guts +2)
 * Work at beef bowl (Proficiency +5)
@@ -234,13 +238,13 @@ Read "The Alluring Dancer"
 ##### Daytime
 * Lovers Rank 3 (Inokashira unlocked)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Malaise" (Knowledge +2)
 * Chariot Hangout Study-5/10 (Knowledge +5)
 
 ---
 #### Wed 5/11
 ##### All Day
-* Exams: "Minamoto Yoshitsune.", "Minamoto Yoritomo.", "Yoritomo's victory.", and "Weakling."
+* Exams: "Minamoto no Yoshitsune.", "Minamoto no Yoritomo.", "Yoritomo's won.", and "The weak."
 
 ---
 #### Thu 5/12
@@ -250,9 +254,9 @@ Read "The Alluring Dancer"
 ---
 #### Fri 5/13
 ##### All Day
-* Exams: "The Devil's Dictionary." and "Femme fatale."
+* Exams: "The Devil's Dictionary." and "Femme Fatale."
 * Councillor Rank 1 (Auto)
-* Councillor Rank 2 (Auto)
+* Councillor Rank 2 (Auto) (Do not need matching arcana, expect 1 less note)
 
 ---
 #### Sat 5/14
@@ -267,7 +271,7 @@ Read "The Alluring Dancer"
 ---
 #### Mon 5/16
 ##### Class
-* Question: "Placebo effect." (Knowledge +2)
+* Question: "The placebo effect." (Knowledge +2)
 
 ---
 #### Tue 5/17
@@ -279,7 +283,7 @@ Read "The Alluring Dancer"
 ##### Daytime
 * Death Rank 4 (Guts +2)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Gallery" (Knowledge +2)
 * Talk to Yoshida outside Shibuya station, Sun Rank 0.1
 
 ---
@@ -325,7 +329,7 @@ Finish reading "The Alluring Dancer" (Charm +5)
 ---
 #### Mon 5/23
 ##### Class
-* Question: "Together.", "Senses.", and "Synethesia." (Knowledge +2)
+* Question: "Together.", "Senses.", and "Senses coming together." (Knowledge +2)
 ##### Daytime
 * **Reach treasure in Museum Palace**
 ##### Evening
@@ -351,14 +355,14 @@ Read "Buchiko's Story"
 ---
 #### Thu 5/26
 ##### Class
-* Question: "Conan Doyle." (Knowledge +2) (Knowledge Lv. 3)
+* Question: "Arthur Conan Doyle." (Knowledge +2) (Knowledge Lv. 3)
 ##### Daytime
 * Borrow "The Gallant Rogue" from library
 * Request "The Cats' Disappearance" flag
 * Investigate Yongen-Jaya (Request "The Cat's Disappearance" unlocked)
 * Chariot Rank 5
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Pollenosis" (Knowledge +2)
 * TV Quiz: "Queen of evidence." (Knowledge +2)
 * Sun Rank 1
 
@@ -400,8 +404,9 @@ Read "Buchiko's Story"
 * **Mementos Palace**
     1. The Bark and Bite of a Bully
     2. The Cats' Disappearance
+* **Need to be Lv. 21 for first Faith persona**
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Japanese" (Knowledge +2)
 * Study at Leblanc (Knowledge +3)
 ### ACE June
 #### Wed 6/1
@@ -429,13 +434,13 @@ Finish reading "Buchiko's Story" (Kindness +5)
 ##### Daytime
 * Councillor Rank 3
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Master" (Knowledge +2)
 * Temperance Rank 2
 
 ---
 #### Sat 6/4
 ##### Class
-* Question: "Halo effect." (Knowledge +2)
+* Question: "The halo effect." (Knowledge +2)
 ##### Daytime
 * Order Surprise Sandwiches at diner (Guts +2, Knowledge +3)
 ##### Evening
@@ -467,13 +472,13 @@ Finish reading "Buchiko's Story" (Kindness +5)
 ##### Daytime
 * Work at convenience store (Charm +5) (Charm Lv. 3)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Conference" (Knowledge +2)
 * Strength Hangout Movie Theater
 
 ---
 #### Wed 6/8
 ##### Class
-* Question: "20th Century". (Knowledge +2)
+* Question: "Controlling public thought". (Knowledge +2)
 ##### Daytime
 * Respond to Kasumi's message, Faith Rank 2
 ##### Evening
@@ -530,7 +535,7 @@ Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
 ---
 #### Thu 6/16
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Wardrobe" (Knowledge +2)
 * Billiards (Random Stat +3)
 
 ---
@@ -554,7 +559,7 @@ Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
 ---
 #### Mon 6/20
 ##### Class
-* Question with matching arcana: "Smartphones." (Charm +2) (Lovers +2)
+* Question with matching arcana: "Smartphone." (Charm +2) (Lovers +2)
 ##### Evening
 * Crafting (Proficiency +3)
 
@@ -573,7 +578,7 @@ Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
 ##### Daytime
 * Lovers Hangout Harajuku
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Currency" (Knowledge +2)
 * Feed plant Mega Fertilizer (Kindness +5)
 * Chariot Rank 7
 
@@ -582,7 +587,7 @@ Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
 ##### Train
 Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
 ##### Class
-* Question: "Pope." (Knowledge +2)
+* Question: "A pope." (Knowledge +2)
 ##### Daytime
 * Emperor Rank 2
 ##### Evening
@@ -643,14 +648,14 @@ Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
 ##### Daytime
 * Emperor Rank 3 (Ueno unlocked)
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Front" (Knowledge +2)
 * Talk to Chihaya at Shinjuku fortune telling booth, Fortune Rank 0.1
 ### ACE July
 #### Fri 7/1
 ##### Train
 Finish reading "The Gallant Rogue" (Guts +5)
 ##### Class
-* Question: "Baozi." (Knowledge +2)
+* Question: "Barbarian's head." (Knowledge +2)
 ##### Daytime
 * Borrow "Speed Reading" from library
 * Buy all books including "Ghost Encounters" and "Tidying the Heart" from Shibuya bookstore
@@ -716,12 +721,12 @@ Finish reading "Ghost Encounters" (Guts +5)
 ---
 #### Thu 7/7
 ##### Class
-* Question with matching arcana: "Milky Way." and "Soumen." (Charm +2) (Lovers +2)
+* Question with matching arcana: "The Milky Way." and "Soumen noodles." (Charm +2) (Lovers +2)
 ##### Daytime
 * Borrow "The Illusory Popess" from library
 * Faith Rank 4
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Narcotics" (Knowledge +2)
 * Fortune Rank 1
 
 ---
@@ -740,7 +745,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Sat 7/9
 ##### Class
-* Question: "Triangle." (Knowledge +2)
+* Question: "A triangle." (Knowledge +2)
 * Temperance Rank 9.1 (Auto)
 ##### Evening
 * Talk to Hifumi in Kanda church, Star Rank 1 (Requires Charm Lv. 3) (Knowledge +2)
@@ -761,27 +766,27 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 ---
 #### Tue 7/12
 ##### Class
-* Question: "Thief." (Knowledge +2)
+* Question: "Thievery." (Knowledge +2)
 ##### Daytime
 * Chariot Rank 8
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Vacation" (Knowledge +2)
 * Justice Rank 3
 
 ---
 #### Wed 7/13
 ##### All Day
-* Exams: "64 degrees.", "Zhuge Liang.", "Head.", and "Substitute."
+* Exams: "64 degrees.", "Zhuge Liang.", "Barbarians' heads.", and "To offer them instead of heads."
 
 ---
 #### Thu 7/14
 ##### All Day
-* Exams: "King crab, Hermit crabs." and "Disrupted the economy."
+* Exams: "Red King Crab, (Paralithodes)." and "It caused confusion in the economy."
 
 ---
 #### Fri 7/15
 ##### All Day
-* Exams: "Raining cats and dogs." and "Demon Innards."
+* Exams: "Raining cats and dogs." and "Demon Guts."
 
 ---
 #### Sat 7/16
@@ -807,9 +812,9 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 * Exam results (Charm +5)
 * Priestess Rank 3
 ##### Evening
-* Crossword (Knowledge +2)
+* Crossword: "Finals" (Knowledge +2)
 * Talk to Sojiro for exam reward
-* Fortune Rank 2
+* Fortune Rank 2 (Do not need matching arcana, expect 1 less note)
 
 ---
 #### Wed 7/20
@@ -845,10 +850,11 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 #### Tue 7/26
 ##### Daytime
 * Buy Retro Game Set from recycling shop
+* Priestess Rank 4
 ##### Evening
 * Luck Reading (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
-* Fortune Rank 3
+* Fortune Rank 3 (Do not need matching arcana, expect 1 less note)
 
 ---
 #### Wed 7/27
@@ -891,6 +897,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 * Luck Reading (Boost Charm)
 * Aojiru (Charm +3) (Charm Lv. 4)
 * **Reach treasure in Pyramid Palace**
+* **Need to be Lv. 27 for first Fortune persona**
 ##### Evening
 * Call Kawakami for massage
 * Fortune Rank 4
@@ -1021,7 +1028,7 @@ Finish reading "Tidying the Heart" (Proficiency +5)
 * Priestess Hangout Jinbocho
 ##### Evening
 * Luck Reading (Boost Charm)
-* Devil Rank 2 (Charm +4) (Charm Lv. 5)
+* Devil Rank 3 (Charm +4) (Charm Lv. 5)
 
 ---
 #### Tue 8/16
@@ -1744,11 +1751,13 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
     1. Receive Lexy Doll
 * Councillor Rank 9
 ##### Evening
-* Death Rank 10 Romance
-* Free time if on Death Rank 10 Friendship
+* Death Rank 10 Romance (Romance route only)
+* Free Time (Friendship route only)
 
 ---
 #### Fri 11/18
+##### Daytime
+* Councillor Rank 10 (Auto)
 ##### Evening
 * Free Time
 
@@ -1832,7 +1841,7 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ### ACE December
 #### Thu 12/1
 ##### Daytime
-* Empress Rank 7
+* Empress Rank 8
 ##### Evening
 * Hanged Hangout Inokashira
 
@@ -1855,8 +1864,8 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ---
 #### Sun 12/4
 ##### Daytime
-* Death Rank 10 Friendship
-* Free time if on Death Rank 10 Romance
+* Death Rank 10 Friendship (Friendship route only)
+* Free Time (Romance route only)
 ##### Evening
 * Fortune Hangout Oshiage
 
@@ -1895,16 +1904,20 @@ Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
 ##### Daytime
 * Money Reading
 * **Reach treasure in Cruiser Palace**
+* Justice Rank 9 (Auto)
+* Justice Rank 10 (Auto)
 ##### Evening
 * Call Kawakami for massage
 * Temperance Hangout Odaiba Romance (Romance route only)
 
 ---
 #### Sat 12/10
-##### Evening
+##### Daytime
 * **Clear Cruiser Palace**
+##### Evening
 * Call Kawakami for massage
 * Free Time
+* **Choose to "Keep good on the promise." before going to bed**
 
 ---
 #### Sun 12/11

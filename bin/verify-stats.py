@@ -13,7 +13,7 @@ STHRESH = {
 
 CURR_RANKS = { x: [STHRESH[x][0], 1] for x in SSTATS }
 FNAME = sys.argv[1]
-MIN_VERSION = int(sys.argv[2].replace('.', ''))
+CURR_ROUTE = sys.argv[2]
 
 currdate = ''
 rankups = []
@@ -30,12 +30,8 @@ with open(sys.argv[1]) as mdfile:
             continue
         if '[' in line:
             version = line.split('[')[1].split(']')[0]
-            comp, version = version.replace('Version', '').strip().split()
-            version = int(version.replace('.', ''))
 
-            if comp == '>=' and MIN_VERSION < version:
-                continue
-            elif comp == '<' and MIN_VERSION >= version:
+            if version != CURR_ROUTE:
                 continue
 
         sparts = [x.strip() for x in line.replace('(', ',').replace(')', ',').split(',')]

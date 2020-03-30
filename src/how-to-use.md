@@ -1,19 +1,6 @@
 ## Walkthrough
 ### How to Use
-#### Version 1.0.7 Goal Updates
-* Quickly rank up Technical Lv. through billiards
-* Quickly rank up Baton Pass through darts
-* Delay Devil progression in order to see Empress Hangout Asakusa on 11/6
-* Changes made to complete these goals are labeled with **[Version >= 1.0.7]**
-* Otherwise use the original activities labeled with **[Version < 1.0.7]**
-
-#### Settings Used to Make This Walkthrough
-* Normal Difficulty
-* All free DLC downloaded
-* No SP items used
-* No DLC personas used during battle
-
-#### Goals of Walkthrough
+#### Normal Route Walkthrough
 * Max all social stats
 * Max all confidants
 * Finish all Strength dates
@@ -21,6 +8,20 @@
 * Unlock all trophies
 * Unlock all NG Thieves Den awards
 * Free up as much time as possible for endgame experiments
+* Activities you must do to adhere to the Normal Route schedule are labeled with **[Normal Route]**
+
+#### Battle Route Walkthrough
+* Same goals as Normal Route with additional battle benefits
+* Quickly rank up Technical Lv. through billiards
+* Quickly rank up Baton Pass through darts
+* Delay Devil progression in order to see Empress Hangout Asakusa on 11/6
+* Activities you must do to adhere to the Battle Route schedule are labeled with **[Battle Route]**
+
+#### Settings Used to Make This Walkthrough
+* Normal Difficulty
+* All free DLC downloaded
+* No SP items used
+* No DLC personas used during battle
 
 #### Fusion Calculator
 * https://aqiu384.github.io/megaten-fusion-tool/p5r/personas
