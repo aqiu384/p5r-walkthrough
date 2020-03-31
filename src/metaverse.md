@@ -84,11 +84,11 @@
     * Crystal Scope: Qliphoth World and Path of Da'at **(Royal)**
     * Orichalcum: Research Lab Palace **(Royal)**
 
-#### Flaming Shadows (Royal)
+#### Savage Enemies (Royal)
 * Flaming red shadows during normal encounters spawn a higher level enemy
 * These enemies have much higher stats and HP compared to surrounding encounters
 * They will refuse to negotiate until their HP is dangerously low
-* Flaming shadows drop dirty armor and rarer items upon defeat
+* Savage enemies drop dirty armor and rarer items upon defeat
 
 #### Disaster Shadows (Royal)
 * Random encounters have a low chance of replacing one of the normal enemies with an upgraded version called a Disaster Shadow

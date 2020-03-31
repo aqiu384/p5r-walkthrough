@@ -5,6 +5,8 @@
 * Max all confidants
 * Finish all Strength dates
 * Finish all Mementos requests
+* Unlock all trophies
+* Unlock all NG Thieves Den awards
 * Obtain all room decorations
 * View all confidant hangout events
 * Minimize reloading for RNG social stats
@@ -22,6 +24,22 @@
 #### Save Rotation
 * Rotate through all 16 save slot so you can backtrack if you make a scheduling mistake
 * When infiltrating palace save right before you enter the Metaverse and right before you leave
+
+#### Stat Levels
+| Stat | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 | Lv. 5 |
+| --- | --- | --- | --- | --- | --- |
+| Knowledge | 0 | 34 | 82 | 126 | 192 |
+| Guts | 0 | 11 | 38 | 68 | 113 |
+| Proficiency | 0 | 12 | 34 | 60 | 87 |
+| Kindness | 0 | 14 | 47 | 94 | 136 |
+| Charm | 0 | 6 | 52 | 92 | 132 |
+
+#### Musical Notes for Stats
+| Displayed Notes | Actual Stat Gains |
+| --- | --- |
+| 1 | 2 |
+| 2 | 3 or 4 |
+| 3 | 5, 7, or 10 |
 
 #### Metaverse Progress
 * All palaces were cleared on Normal using the minimum number of in-game days without using SP items
@@ -66,7 +84,36 @@
     * Lovers when answering class questions on 4/25, 6/20, and 7/7
 * You never need matching arcana for Fool, Magician, Strength, Moon, Sun, and Judgement confidants
 
-#### Chihaya's Readings
-* Luck: Boosts selected stat gains for rest of day, used when Social Stat +3 will happen
-* Money: Boosts Metaverse money gains for rest of day, used with infiltrating palaces
-* Relationship: Base confidant point +1, extra confidant point +1 if carrying matching arcana, Chihaya will comment you can grow closer if you are about to rank up
+#### Romancing a Confidant
+* This guide is structured so you can choose to romance any on the 10 potential confidants upon reaching Rank 9
+* Death Rank 10 is moved from daytime to evening if you romance so there are 2 spots where it can occur
+* There are additional endgame benefits if you do not romance more than 1 confidant on the same save file
+    * On 2/15 the remaining 9 confidants and Judgement gift you with a friendship chocolate
+
+#### Unlocking all Trophies
+* For complete list see [[Trophies]]
+* Can platinum without NG+
+* All Metaverse trophies except A Unique Rebel should be easy to unlock by endgame
+* Can save-reload for a couple overworld trophies, rest will auto unlock while following guide
+    * My Best Partner: Max out one confidant on romance route
+    * Get Rich Quick: Wait a week for lottery ticket prize announcement, does not have to be grand prize
+    * Unexpected Value: Sell armor to Kichijoji used clothes store
+    * Mind Control: Meditate at the temple
+    * Under-the-Table Goods: Customize a gun
+    * Akiba's Master: Make Y20,000 worth of orders before visiting for special menu
+
+#### Unlocking all Thieves Den Awards
+* For complete list see [[Thieves Den Awards]]
+* All awards except for NG+ can be done through save-reloads
+    * Mask Collector: Get 99% compendium completion during NG so only Joker's NG+ ultimate persona is missing
+    * Beyond Rehabilitation: Needs NG+ Mementos
+    * True Rehabilitation: Needs NG+ third semester
+* Some rewards require careful scheduling even with save-reloads
+    * Beloved Phantom Thief: Need to see the Rank 10 event for every candidate on romance route
+        * Save whenever you reach Rank 9 romance decision point in guide
+        * Take romance route and do Rank 10 ASAP
+        * Check to make sure counter in Thieves Den goes up
+        * Reload save and proceed with friendship route following the guide normally
+        * You can reverse the steps if you wish to commit to a relationship on that save
+    * True Comrade: Should also unlock while using above process to complete Beloved Phantom Thief
+    * Kung Fu Master: Needs 16 gym visits on a save

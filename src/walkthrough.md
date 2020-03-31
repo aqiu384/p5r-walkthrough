@@ -212,9 +212,9 @@
 * Lecture (Knowledge +2)
 * Moon Rank 1 (Auto)
 ##### Daytime
-* Sign up for beef bowl job from part-time listings in Shibuya underground walkway (Requires Proficiency Lv. 2)
 * Talk to Ann in 2D classroom, Lovers Rank 2 (Requires Kindness Lv. 2)
 ##### Evening
+* Sign up for beef bowl job from part-time listings in Shibuya underground walkway (Requires Proficiency Lv. 2)
 * Work at beef bowl on Shibuya central street (Proficiency +3)
 
 ---
