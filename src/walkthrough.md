@@ -377,7 +377,8 @@
 * **Clear Museum Palace**
 * **Need to be Lv. 21 for first Faith persona**
 ##### Evening
-* Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
+* [Normal Route] Finish reading "Vague" (Harajuku unlocked)
+* [Battle Route] Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
 
 ---
 #### Wed 5/25
