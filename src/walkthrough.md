@@ -321,7 +321,7 @@
 ##### All Day
 * Rain
 ##### Class
-* Question: "Katsushika Hokusai." (Knowledge +2)
+* Question: "Hokusai Katsushika." (Knowledge +2)
 ##### Daytime
 * **Unlock barrier in Museum Palace**
 ##### Evening
@@ -658,6 +658,7 @@
 ---
 #### Fri 6/24
 ##### Daytime
+* Buy Yakisoba Pan from school store
 * **Clear Bank Palace**
 ##### Evening
 * Rain
@@ -669,7 +670,6 @@
 * [Normal Route] Finish reading "Flowerpedia" (Provides flower hints during flower shop job)
 * [Battle Route] Finish reading "Playing The Game" (Charm +5)
 ##### Daytime
-* Buy Yakisoba Pan from school store
 * Talk to Makoto outside Shujin student council room, Priestess Rank 1 (Requires Knowledge Lv. 3)
 ##### Evening
 * Temperance Hangout

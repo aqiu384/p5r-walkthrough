@@ -315,7 +315,7 @@ Read "The Alluring Dancer"
 ##### All Day
 * Rain
 ##### Class
-* Question: "Katsushika Hokusai." (Knowledge +2)
+* Question: "Hokusai Katsushika." (Knowledge +2)
 ##### Daytime
 * Visit diner on Shibuya central street, Order Surprise Sandwiches at diner (Knowledge +3, Guts +2)
 ##### Evening
@@ -638,6 +638,7 @@ Read "Buchiko's Story"
 ---
 #### Fri 6/24
 ##### Daytime
+* Buy Yakisoba Pan from school store
 * Lovers Rank 6
 ##### Evening
 * Rain
@@ -648,7 +649,6 @@ Read "Buchiko's Story"
 ##### Class
 * Finish reading "The ABCs of Crafting" (Doubles the number of items that can be crafted)
 ##### Daytime
-* Buy Yakisoba Pan from school store
 * Death Rank 7 (Guts +2)
 ##### Evening
 * Temperance Hangout

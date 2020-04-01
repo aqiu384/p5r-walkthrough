@@ -306,7 +306,7 @@
     * Girl in Ashes **(Royal)**: Available after Kasumi awakens **(Charm +5)**
     * Bowman **(Royal)**: Available after Akechi awakens **(Guts +5)**
 * Enhance Activities (1 chapter)
-    * Speed Reading **(Royal)**: Available 6/1 (Allows 2 chapters to be read at a time during a session)
+    * Speed Reading **(Royal)**: Available 7/1 (Allows 2 chapters to be read at a time during a session)
 
 #### Shinjuku
 ##### Bar Job (Royal)
