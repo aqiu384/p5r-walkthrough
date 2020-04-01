@@ -98,3 +98,16 @@ https://wikiwiki.jp/persona5r/
 
 #### English P5R Wiki
 https://megamitensei.fandom.com/wiki/Persona_5_Royal
+
+### Changelog
+* 1.0.1: Initial commit
+* 1.0.2: TV shopping list
+* 1.0.3: Persona itemization list
+* 1.0.4: Added dirty armor to equipment list
+* 1.0.5: Confidant availability calendar
+* 1.0.6: Replaced walkthrough option events with free time slots
+* 1.0.7
+    * Alternative All Confidant Events (ACE) walkthrough
+    * Split original walkthrough into normal and battle routes to fast-track darts and billiards
+    * Updated walkthrough stat gains to reflect true point values rather than display musical notes
+* 1.0.8: Localized class, exam, and crossword answers

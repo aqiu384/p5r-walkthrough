@@ -11,11 +11,11 @@
 | Charm | 0 | 6 | 52 | 92 | 132 |
 
 ##### Musical Notes
-| Displayed Notes | Actual Stat Gains |
+| Actual Stat Gains | Displayed Notes |
 | --- | --- |
-| 1 | 2 |
-| 2 | 3 or 4 |
-| 3 | 5, 7, or 10 |
+| 2 | 1 |
+| 3 or 4 | 2 |
+| 5, 7, or 10 | 3 |
 
 #### Leblanc
 ##### Crafting Infiltration Tools
@@ -388,7 +388,9 @@
 * Timing: Set Sundays **(Does not take time)**
 * Results: One of two item sets offered that day
     * 4/24: (Caffeine Patch (Resist Sleep), Wide Eye Drops x10, Hot and Sour Tea x10) for Y1680 
+Spring Awake Set
     * 4/24: (Sakura Mochi x5, Spring Fruit Pack, Party in a Can) for Y5980
+Share of Spring
     * 5/1: (Torimeshi Ration x3, MRE Ration x2, Beef Patty Ration x2) for Y1980 
     * 5/1: (Moist Protein x2, Protein x2) for Y4980
     * 5/8: (Recover Oil, Relax Gel x3, Alert Capsule x3) for Y4600 

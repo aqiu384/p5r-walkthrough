@@ -567,8 +567,6 @@ Can harvest battle support vegetable items.
 #### Progression
 Rank 1
 
-**Rank 2 requires Proficiency Lv. 5 (Transcendent).**
-
 Rank 2
 1. Choice 3: "Are you starting a farm?" (+3)
 2. Choice 3: "He sounds suspicious." (+1)
@@ -580,6 +578,8 @@ Rank 3
 2. Choice 1: "I don't want to go with you." (+1)
 3. Choice 2: "Not yet." (+2)
 4. (Phone) Choice 1: "A delicious return." (+1)
+
+**Rank 4 requires Proficiency Lv. 5 (Transcendent).**
 
 Rank 4
 1. Choice 3: "It must be amazing." (+2)

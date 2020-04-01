@@ -43,6 +43,13 @@
 #### Sun 4/17
 ##### Evening
 * Crafting Tutorial (Proficiency +3)
+* **Musical notes shown during stat gains are not the actual point value**
+
+| Actual Stat Gains | Displayed Notes |
+| --- | --- |
+| 2 | 1 |
+| 3 or 4 | 2 |
+| 5, 7, or 10 | 3 |
 
 ---
 #### Mon 4/18
@@ -53,7 +60,7 @@
 * Talk to Takemi in her Yongen-Jaya clinic, Death Rank 1 (Guts +2)
 ##### Evening
 * Cannot leave Leblanc
-* Interact with the crossword on innermost booth of Leblanc, Complete blue squares: "Semester" (Knowledge +2)
+* Interact with the crossword on innermost booth of Leblanc, Complete blue squares: "Semesters" (Knowledge +2)
 * Clean your room (Obtain "Yoncha Wanderer" and "Modern Thought")
 
 ---
@@ -121,7 +128,7 @@ Read "Pirate Legend"
 ##### Train
 * Finish reading "Pirate Legend" (Guts +5)
 ##### Class
-* Question with matching arcana: "Knowing your actions are wrong." and "Conviction that you're right." (Charm +2) (Lovers +2)
+* Question with matching arcana: "You unquestioningly support it." and "You have a duty to correct it." (Charm +2) (Lovers +2)
 ##### Daytime
 * Borrow "The Alluring Dancer" from library
 * Buy rental membership from DVD store on Shibuya central street
@@ -1823,7 +1830,7 @@ Read "Karakuri"
 ##### Class
 * Question: "His head was put on display." (Knowledge +2)
 ##### Daytime
-* Empress Rank 4
+* Empress Rank 4 (Requires Proficiency Lv. 5)
 ##### Evening
 * Fortune Rank 9 Friendship
 * Fortune Rank 9 Romance

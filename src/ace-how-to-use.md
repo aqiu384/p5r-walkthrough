@@ -35,11 +35,11 @@
 | Charm | 0 | 6 | 52 | 92 | 132 |
 
 #### Musical Notes for Stats
-| Displayed Notes | Actual Stat Gains |
+| Actual Stat Gains | Displayed Notes |
 | --- | --- |
-| 1 | 2 |
-| 2 | 3 or 4 |
-| 3 | 5, 7, or 10 |
+| 2 | 1 |
+| 3 or 4 | 2 |
+| 5, 7, or 10 | 3 |
 
 #### Metaverse Progress
 * All palaces were cleared on Normal using the minimum number of in-game days without using SP items
