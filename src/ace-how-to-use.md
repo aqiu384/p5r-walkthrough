@@ -9,6 +9,7 @@
 * Unlock all NG Thieves Den awards
 * Obtain all room decorations
 * View all confidant hangout events
+* Quickly rank up Technical Lv. through billiards
 * Minimize reloading for RNG social stats
 
 #### Sources

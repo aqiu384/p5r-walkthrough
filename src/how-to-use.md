@@ -8,7 +8,7 @@
 * Unlock all trophies
 * Unlock all NG Thieves Den awards
 * Free up as much time as possible for endgame experiments
-* Left for backwards compatibilty, recommend switching to Battle Route if still possible
+* Left for backwards compatibility, recommend switching to Battle Route if still possible
 * Activities you must do to adhere to the Normal Route schedule are labeled with **[Normal Route]**
 
 #### Battle Route Walkthrough

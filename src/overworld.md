@@ -392,11 +392,17 @@ Spring Awake Set
     * 4/24: (Sakura Mochi x5, Spring Fruit Pack, Party in a Can) for Y5980
 Share of Spring
     * 5/1: (Torimeshi Ration x3, MRE Ration x2, Beef Patty Ration x2) for Y1980 
+Military Ration Set
     * 5/1: (Moist Protein x2, Protein x2) for Y4980
+Muscle Workout Set
     * 5/8: (Recover Oil, Relax Gel x3, Alert Capsule x3) for Y4600 
+Relaxation Set
     * 5/8: (Mega Fertilizer, Garden Energy x5) for Y2680
+Bio Nutrients Set
     * 5/15: (Calming Mask x2 (Resist Confusion), Wide Eye Drops x20) for Y1680 
-    * 5/15: (Aroma Machine, Almighty Vitamins) for Y14800
+Allergy Relief Pack
+    * 5/15: (Aroma Machine, Omni-Vitamin) for Y14800
+Cosmetic Cure Gift
     * 5/22: (Tarukaja Supplement x2, Rakukaja Supplement x2, Sukukaja Supplement x2) for Y4980 
     * 5/22: (Blowtorch x3, Dry Ice x3, Tesla Coil x3) for Y7980
     * 5/29: (Sakura Fan, Dragon Key Chain, Uji Matcha Flan) for Y3980 

@@ -215,8 +215,8 @@
 ---
 #### Fri 5/6
 ##### Class
-* Reload chalk dodge for (Charm +3)
 * Lecture (Knowledge +2)
+* Reload chalk dodge for (Charm +3)
 * Moon Rank 1 (Auto)
 ##### Daytime
 * Talk to Ann in 2D classroom, Lovers Rank 2 (Requires Kindness Lv. 2)
@@ -377,7 +377,7 @@
 * **Clear Museum Palace**
 * **Need to be Lv. 21 for first Faith persona**
 ##### Evening
-* Finish reading "Vague" (Harajuku unlocked)
+* Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
 
 ---
 #### Wed 5/25
@@ -615,7 +615,7 @@
 * Cannot leave Leblanc
 * Save for crafting or chalk dodge reload
 * [Normal Route] Reload crafting for (Proficiency +5)
-* [Battle Route] Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
+* [Battle Route] Finish reading "Vague" (Harajuku unlocked)
 
 ---
 #### Tue 6/21

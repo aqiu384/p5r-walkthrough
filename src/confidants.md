@@ -527,9 +527,9 @@ Hangout Ikebukuro (7/30 only)
 6. Choice 1: "Exactly." (+2)
 
 Hangout Jinbocho (8/15 only)
-1. Choice 1: "I'll do my best." (+2)
+1. Choice 1: "Let's get cracking." (+2)
 2. -
-3. Choice 1: "Sometimes." (+2) (Star +2)
+3. Choice 1: "Wow, this is useful information." (+2) (Star +2)
 
 Hangout Study-10/14 **(Knowledge +5)**
 1. Choice 1: "I'm doing okay." (+1)
@@ -690,12 +690,12 @@ Rank 3 (Unlocks Ueno Art Museum)
 Rank 4
 1. Choice 3: "I should bring a girl here." (+1)
 2. Choice 1: "Love comes in all forms." (+2)
-3. (Phone) Choice 1: "Don't be timid." (+1)
+3. (Phone) Choice 1: "Don't get discouraged." (+1)
 
 Rank 5
 1. Choice 3: "Do you want me to strip?" (+3)
 2. Choice 1: "I'm sure you will." (+2)
-3. (Phone) Choice 3: "There is still hope." (+1)
+3. (Phone) Choice 3: "There's still hope." (+1)
 
 **Rank 6 requires Proficiency Lv. 4 (Masterful).**
 
@@ -704,7 +704,7 @@ Rank 6
 2. -
 3. -
 4. Choice 3: "I couldn't possibly tell you." (+3)
-5. (Phone) Choice 1: "I could feel the aura." (+1)
+5. (Phone) Choice 1: "He had a certain dignity." (+1)
 
 Rank 7
 1. -
@@ -795,7 +795,7 @@ Rank 2 **(Kindness +3)**
 Rank 3
 1. Choice 1: "Medium-fine." (+1)
 2. Choice 2: "Is it trouble?" (+1)
-3. (Phone) Choice 1: "Thank you in advance." (+1)
+3. (Phone) Choice 3: "Thank you in advance." (+1)
 
 Rank 4 **(Kindness +3)**
 1. Choice 1: "Tell me more." (+2)
@@ -808,13 +808,13 @@ Rank 5 **(Kindness +3)**
 1. Choice 3: "I think I'm addicted!" (+2)
 2. Choice 2: "She wasn't normal, huh?" (+2)
 3. Choice 1: "It really paid off in the end." (+1)
-4. (Phone) Choice 2: "A balanced diet is important." (+1)
+4. (Phone) Choice 2: "She needs a balanced diet." (+1)
 
 Rank 6 **(Kindness +5)**
 1. Choice 3: "To each his own." (+1)
 2. Choice 3: "Shut your mouth." (+2)
 3. Choice 1: "Saving Futaba was no mistake." (+1)
-4. (Phone) Choice 3: "I'll help however I can." (+1)
+4. (Phone) Choice 3: "If I can help somehow..." (+1)
 
 **Rank 7 requires Kindness Lv. 5 (Angelic).**
 
@@ -936,7 +936,7 @@ Rank 9 (Romance)
 3. Choice 2: "I believe in you, Ann." (+3)
 4. Choice 1: "You have me." (+0)
 5. -
-6. (Phone) Choice 2: "We'll be together forever." (+2)
+6. (Phone) Choice 2: "I'm yours forever." (+2)
 
 Rank 10 (Unlocks Daiba Seaside Park)
 
@@ -1154,10 +1154,10 @@ Rank 4 (Unlocks Jazz Club)
 
 Rank 5
 1. -
-2. Choice 1: "Do you have shooting experience?" (+1)
-3. Choice 1: "Admiration for heroes?" (+2)
+2. Choice 1: "Are you used to gunplay?" (+1)
+3. Choice 1: "You wanted to be a hero?" (+2)
 4. -
-5. (Phone) Choice 1: "You were pretty good." (+1)
+5. (Phone) Choice 1: "You did fine." (+1)
 
 **Rank 6 locked until 9/3. Moved to Leblanc at night.**
 
@@ -1370,7 +1370,7 @@ Rank 2
 1. Choice 3: "Encourage her." (+0)
 2. Choice 2: "Overturn your fate!" (+0)
 3. Choice 2: "Open your mind to change." (+1)
-4. (Phone) Choice 1: "Exactly." (+1)
+4. (Phone) Choice 1: "Of course I am." (+1)
 
 Rank 3
 1. Choice 2: "Follow his heart." (+0)
@@ -1383,7 +1383,7 @@ Rank 4
 3. -
 4. -
 5. -
-6. (Phone) Choice 2: "It was nothing." (+1)
+6. (Phone) Choice 2: "I didn't do much." (+1)
 
 Rank 5
 1. Choice 1: "You're such a hard worker." (+2)
@@ -2285,24 +2285,24 @@ Rank 3 (HP +5)
 9. -
 
 Rank 4 (HP +5)
-1. Choice 2: "Shopping?" (+1)
-2. Choice 1: "It's quite stylish." (+2)
+1. Choice 2: "You're looking to buy?" (+1)
+2. Choice 1: "A pretty modern look." (+2)
 3. -
 4. Choice 1: "Of course." (+1)
 5. -
 6. Choice 1: "Good choice." (+1)
 7. -
-8. Choice 1: "Anyone would think the same." (+1)
-9. Choice 2: "Let's go back together." (+1)
-10. (Phone) Choice 1: "Glad to hear it." (+1)
+8. Choice 1: "Everyone deals with that." (+1)
+9. Choice 2: "We'll work at it together." (+1)
+10. (Phone) Choice 1: "I'm glad to hear that." (+1)
 
 Rank 5
-1. Choice 1: "That surprised me." (+1)
+1. Choice 1: "It's a surprise, yeah." (+1)
 2. -
-3. Choice 2: "I'm watching, so do your best." (+3)
+3. Choice 2: "Go ahead. I'll watch." (+3)
 4. -
-5. Choice 2: "I couldn't take my eyes off you." (+3)
-6. Choice 1: "It was important after all." (+3)
+5. Choice 2: "I saw!" (+3)
+6. Choice 1: "That's important." (+3)
 7. -
 8. (Phone) Choice 3: "Gymnastics." (+3)
 
