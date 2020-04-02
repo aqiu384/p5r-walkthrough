@@ -164,7 +164,7 @@
     * Order Totem Pole: Available 9/28 **(Proficiency +2)**
     * After reading "Factorized Study Methods": Additional **(Knowledge +2)**
 
-##### Convenience Store Job (Royal)
+##### Triple Seven Convenience Store Job (Royal)
 * Unlocked: Consult Shibuya underground platform job listings
 * Location: Shibuya Central Street convenience store
 * Timing: Daytime
@@ -173,7 +173,7 @@
 * Activity Notes:
     * At least 3 shifts required to ID "Calling Justice for Cats"
 
-##### Flower Shop Job
+##### Rafflesia Flower Shop Job
 * Unlocked: Consult Shibuya underground platform job listings with **(Charm Lv. 2)**
 * Location: Shibuya Underground Mall flower shop
 * Timing: Daytime
@@ -183,8 +183,8 @@
     * After reading "Flowerpedia": Can see additional descriptions for each flower to help satisfy request
     * At least 3 shifts required to ID "Who's Been Assaulting People"
 
-##### Beef Bowl Job
-* Unlocked: Consult Shibuya underground platform job listings with **(Proficiency Lv. 2)**
+##### Ore no Beko Beef Bowl Job
+* Unlocked: Consult Shibuya underground platform job listings
 * Location: Shibuya Central Street beef bowl
 * Timing: Evenings
 * Stat Gains: Base **(Proficiency +3)**
@@ -490,10 +490,10 @@ Folding Screen Set
     * Partner for first game is chosen by you
     * Partner for second game is randomly selected
     * If partner can end the game during round 4 and is given correct encouragement, they will win the game for you and go up by 2 ranks
-        * Ryuji: Choice 1: "Get pumped!"
+        * Ryuji: Choice 1: "You gotta psych yourself up!"
         * Morgana: Choice 3: "I'm counting on you."
-        * Ann: Choice 3: "Same as always."
-        * Yusuke: Choice 1: "As if you were painting."
+        * Ann: Choice 3: "Just play like normal."
+        * Yusuke: Choice 1: "Pretend like you're painting."
         * Makoto: Choice 3: "Take a deep breath."
         * Futaba (No Baton Pass rank): Choice 2: "This is the real thing."
         * Haru: Choice 3: "Just enjoy it."

@@ -1070,7 +1070,7 @@ Hangout Movies (5/29 only) **(Kindness +5)**
 Hangout Ichigaya (7/3 only)
 1. Choice 1: "Probably shady business." (+3)
 2. -
-3. Choice 2: "She's a fishing master." (Temperance +3)
+3. Choice 2: "She's a fishing master." (+3) (Temperance +3)
 
 Hangout Study-7/12 **(Knowledge +5)**
 1. Choice 2: "I'll manage." (+1)

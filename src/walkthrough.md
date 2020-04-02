@@ -172,7 +172,7 @@
 ##### Class
 * Question: "Wonder.", "Child.", and "A prodigy." (Knowledge +2)
 ##### Daytime
-* Sign up for convenience store job from part-time listings in Shibuya underground walkway
+* Sign up for Triple Seven convenience store job from part-time listings in Shibuya underground walkway
 * Work at convenience store on Shibuya central street (Charm +3)
 ##### Evening
 * Bathhouse (Charm +3)
@@ -221,7 +221,7 @@
 ##### Daytime
 * Talk to Ann in 2D classroom, Lovers Rank 2 (Requires Kindness Lv. 2)
 ##### Evening
-* Sign up for beef bowl job from part-time listings in Shibuya underground walkway (Requires Proficiency Lv. 2)
+* Sign up for Ore no Beko beef bowl job from part-time listings in Shibuya underground walkway
 * Work at beef bowl on Shibuya central street (Proficiency +3)
 
 ---
@@ -489,7 +489,6 @@
 #### Mon 6/6
 ##### Daytime
 * Rain
-* Do not need to reload chalk dodge
 * Request "Sadism Is Just a Sign of Love" unlocked
 * Buy Imported Protein from sports shop
 * Councillor Rank 4
@@ -516,11 +515,13 @@
 * Respond to Kasumi's message, Faith Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
 * [Normal Route] Order Surprise Sando at diner (Knowledge +2, Guts +2)
-* [Battle Route] Play darts with Ann and one random other in Kichijoji (Proficiency +3)
-    1. Let Ann finish on round 4 (Baton Pass Lv. 3)
-    2. Choice 3: "Same as always." (Lovers +1)
-    3. Let Morgana finish on round 4 (Baton Pass Lv. 3)
-    4. Choice 3: "I'm counting on you."
+* [Battle Route] Play darts with Ann and one random other in Kichijoji (Proficiency +5) (Battle Route Proficiency Lv. 3)
+    1. Score 180 in round 1
+    2. Let Ann finish on round 4 (Baton Pass Lv. 3)
+    3. Choice 3: "Just play like normal." (Lovers +1)
+    4. Score 180 in round 1
+    5. Let Morgana finish on round 4 (Baton Pass Lv. 3)
+    6. Choice 3: "I'm counting on you."
 
 ---
 #### Thu 6/9
@@ -543,7 +544,7 @@
 ---
 #### Sun 6/12
 ##### Daytime
-* Aojiru (Proficiency +2) (Battle Route Proficiency Lv. 3)
+* Aojiru (Proficiency +2)
 * Lovers Rank 7
 ##### Evening
 * Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Souvenir Whip
@@ -634,7 +635,7 @@
 ---
 #### Wed 6/22
 ##### Daytime
-* Sign up for flower shop job from part-time listings in Shibuya underground walkway (Requires Charm Lv. 2)
+* Sign up for Rafflesia flower shop job from part-time listings in Shibuya underground walkway (Requires Charm Lv. 2)
 * Work at flower shop in Shibuya underground mall (Kindness +3)
 ##### Evening
 * Borrow "ICU" from DVD store
@@ -749,7 +750,7 @@
 ---
 #### Sun 7/3
 ##### Daytime
-* Chariot Hangout Ichigaya (Ichigaya unlocked) (Temperance +3)
+* Chariot Hangout Ichigaya (Ichigaya unlocked)
 ##### Evening
 * Aojiru (Kindness +2)
 * Sun Rank 7 (Charm +3)
@@ -1174,11 +1175,13 @@
 * Rain
 * Buy My Darts from sports shop
 * [Normal Route] Devil Rank 7 (Charm +5)
-* [Battle Route] Darts with Makoto and one random other (Proficiency +3)
-    1. Let Makoto finish on round 4 (Baton Pass Lv. 3)
-    2. Choice 3: "Take a deep breath." (Priestess +1)
-    3. Let Yusuke finish on round 4 (Baton Pass Lv. 3)
-    4. Choice 1: "As if you were painting." (Emperor +1)
+* [Battle Route] Darts with Makoto and one random other (Proficiency +5)
+    1. Score 180 in round 1
+    2. Let Makoto finish on round 4 (Baton Pass Lv. 3)
+    3. Choice 3: "Take a deep breath." (Priestess +1)
+    4. Score 180 in round 1
+    5. Let Yusuke finish on round 4 (Baton Pass Lv. 3)
+    6. Choice 1: "Pretend like you're painting." (Emperor +1)
 
 ---
 #### Sat 8/20
@@ -1188,7 +1191,7 @@
 * Luck Reading (Boost Guts)
 * Big Bang Challenge (Guts +7)
 ##### Evening
-* Hanged Rank 3 (Proficiency +3)
+* Hanged Rank 3 (Proficiency +3) (Battle Route Proficiency Lv. 5)
 
 ---
 #### Sun 8/21
@@ -1208,7 +1211,7 @@
 ---
 #### Tue 8/23
 ##### Evening
-* Hanged Rank 4 (Proficiency +3) (Battle Route Proficiency Lv. 5)
+* Hanged Rank 4 (Proficiency +3)
 
 ---
 #### Wed 8/24
@@ -1687,11 +1690,13 @@
 * Question: "15." (Knowledge +2)
 ##### Evening
 * [Normal Route] Moon Rank 9
-* [Battle Route] Darts with Haru and Ryuji (Proficiency +3)
-    1. Let Haru finish on round 4 (Baton Pass Lv. 3)
-    2. Choice 3: "Just enjoy it."
-    3. Let Ryuji finish on round 4 (Baton Pass Lv. 3)
-    4. Choice 1: "Get pumped!" (Chariot +1)
+* [Battle Route] Darts with Haru and Ryuji (Proficiency +5)
+    1. Score 180 in round 1
+    2. Let Haru finish on round 4 (Baton Pass Lv. 3)
+    3. Choice 3: "Just enjoy it."
+    4. Score 180 in round 1
+    5. Let Ryuji finish on round 4 (Baton Pass Lv. 3)
+    6. Choice 1: "Get pumped!" (Chariot +1)
 
 ---
 #### Sun 10/23

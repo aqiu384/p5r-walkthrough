@@ -100,7 +100,7 @@ Read "Pirate Legend"
 ---
 #### Fri 4/22
 ##### Daytime
-* Sign up for convenience store job from part-time listings in Shibuya underground walkway
+* Sign up for Triple Seven convenience store job from part-time listings in Shibuya underground walkway
 * Work at convenience store on Shibuya central street (Charm +3)
 ##### Evening
 * Hierophant Rank 2 (Kindness +3)
@@ -118,7 +118,7 @@ Read "Pirate Legend"
 #### Sun 4/24
 ##### Daytime
 * Drink Aojiru for Y5,000 at Shibuya underground platform (Charm +2) (Charm Lv. 2)
-* Sign up for flower shop job from part-time listings in Shibuya underground walkway
+* Sign up for Rafflesia flower shop job from part-time listings in Shibuya underground walkway (Requires Charm Lv. 2)
 * Work at flower shop in Shibuya underground mall (Kindness +3)
 ##### Evening
 * Visit bathhouse outside Leblanc (Charm +5)
@@ -224,7 +224,7 @@ Read "The Alluring Dancer"
 * Borrow "Bubbly Hills, 90210" from DVD store
 * Lovers Rank 2 (Requires Kindness Lv. 2)
 ##### Evening
-* Sign up for beef bowl job from part-time listings in Shibuya underground walkway (Requires Proficiency Lv. 2)
+* Sign up for Ore no Beko beef bowl job from part-time listings in Shibuya underground walkway
 * Work at beef bowl (Proficiency +3)
 
 ---
