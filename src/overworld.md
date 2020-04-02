@@ -158,7 +158,7 @@
 * Timing: Anytime
 * Stat Gains: Base **(Knowledge +2)**
     * Rainy Days: Additional **(Knowledge +2)**
-    * Order Surprise Sandwiches: Auto **(Guts +2)**
+    * Order Surprise Sando: Auto **(Guts +2)**
     * Order Nostalgic Steak: Auto **(Kindness +2)**
     * Order Frui-Tea: Available 7/1 **(Charm +2)**
     * Order Totem Pole: Available 9/28 **(Proficiency +2)**
@@ -407,13 +407,15 @@ Cosmetic Cure Gift
 Muscle Plus Set
     * 5/22: (Blowtorch x3, Dry Ice x3, Magneto Coil x3) for Y7980
 Outdoors Kit
-    * 5/29: (Sakura Fan, Dragon Key Chain, Uji Matcha Flan) for Y3980 
-    * 5/29: (Dodge Elec Ring, Dodge Wind Ring) for Y4980
+    * 5/29: (Sakura Fan, Katana Keychain, Uji Matcha Flan) for Y3980 
+Japanese Gift Set
+    * 5/29: (Elecproof Choker - Dodge Elec, Windproof Choker - Dodge Wind) for Y4980
+Folding Screen Set
     * 6/19: (Noisy Alarm Clock, Face Beautifier) for Y9980 
     * 6/19: (Revivadrin x3, Recov-R 100mg x10) for Y9980
     * 6/26: (Black Rock x2, Black Robe x1) for Y1980 
     * 6/26: (Five-inch Nail x2, Straw Doll x10) for Y9980
-    * 7/3: (Foreign Protein, Moist Protein x3, Protein x3) for Y12800 
+    * 7/3: (Imported Protein, Moist Protein x3, Protein x3) for Y12800 
     * 7/3: (St Ryusen Incense, En Ryusen Incense, Lu Ryusen Incense) for Y12800
     * 8/7: (Lockpick x5, Vanish Ball x5, Smoke Screen x3) for Y7980 
     * 8/7: (Vacuum Cutter x4, Psy Wheel x4, Nuke Firecracker x4) for Y8980
@@ -432,7 +434,7 @@ Outdoors Kit
     * 12/11: (Refresh Aroma x3, Recover Oil x5) for Y39800 
     * 12/11: (Hell Magatama x3, Frost Magatama x3, Arc Magatama x3, Cyclone Magatama x3) for Y16800
     * 1/15: (Persistent Necktie (Insta-Heal), Physical Ointment x3, Magical Ointment x3) for Y44800 
-    * 1/15: (Foreign Protein x3, St Nirvana Incense x3, Rebellion Supplement x5) for Y39800
+    * 1/15: (Imported Protein x3, St Nirvana Incense x3, Rebellion Supplement x5) for Y39800
     * 1/22: (Rasetsu Ofuda x3, Kongou Ofuda x3, Idaten Ofuda x3) for Y12800
     * 1/22: (Strawberry Daifuku x3, Ultimate Amazake x20, Oh! Shiruko x20) for Y29800
     * 1/29: (Heat Riser Supplement x3, Tarukaja Supplement x5, Rakukaja Supplement x5, Sukukaja Supplement x5) for Y49800
@@ -469,7 +471,7 @@ Outdoors Kit
 * Location: Shibuya Underground Mall
 * Timing: Anytime
 * Results: Enhancement items
-    * Foreign Protein: Sold once per month starting 6/1, HP +5 and SP +3 during gym workouts, HP +4 during room workouts.
+    * Imported Protein: Sold once per month starting 6/1, HP +5 and SP +3 during gym workouts, HP +4 during room workouts.
     * Moist Protein: Sold once per rainy day, HP +3 and SP +2 during gym workouts, HP +2 during room workouts
     * My Darts: Further narrows aim circle while playing darts
     * Enlightened Billiard Tech: 1 chapter, teaches Back Hand during billiards
@@ -572,7 +574,7 @@ Outdoors Kit
 * Location: Masked Man in Kichijoji ally
 * Timing: Set evenings
 * Results: Trade for exclusive items
-    * 6/12-17: Trade Foreign Protein from Shibuya Sports Shop for Souvenir Whip (122 Atk 99 Hit Lu +5)
+    * 6/12-17: Trade Imported Protein from Shibuya Sports Shop for Souvenir Whip (122 Atk 99 Hit Lu +5)
     * 6/26-7/2: Trade Yakisoba Pan from School Store for Black Robe
     * 7/11-12: Trade Soothing Soba from Shibuya Convenience Store for Edo Katana (140 Atk 94 Hit Low chance of Forget)
     * 7/26-30: Trade MRE Ration from Airsoft Shop Vending Machine for "Factorized Study Methods"

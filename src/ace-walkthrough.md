@@ -61,7 +61,7 @@
 ##### Evening
 * Cannot leave Leblanc
 * Interact with the crossword on innermost booth of Leblanc, Complete blue squares: "Semesters" (Knowledge +2)
-* Clean your room (Obtain "Yoncha Wanderer" and "Modern Thought")
+* Clean your room (Obtain "Yoncha Wanderer" and "Social Thought")
 
 ---
 #### Tue 4/19
@@ -317,7 +317,7 @@ Read "The Alluring Dancer"
 ##### Class
 * Question: "Hokusai Katsushika." (Knowledge +2)
 ##### Daytime
-* Visit diner on Shibuya central street, Order Surprise Sandwiches at diner (Knowledge +3, Guts +2)
+* Visit diner on Shibuya central street, Order Surprise Sando at diner (Knowledge +3, Guts +2)
 ##### Evening
 * Interact with downstairs TV in Leblanc, TV Quiz: "Using noise to cause distress." (Knowledge +2)
 * Bathhouse (Charm +3, Guts +2)
@@ -383,7 +383,7 @@ Read "Buchiko's Story"
 * Question: "Arthur Conan Doyle." (Knowledge +2) (Knowledge Lv. 3)
 ##### Daytime
 * Borrow "The Gallant Rogue" from library
-* Request "The Cats' Disappearance" flag
+* Request "If Cats Disappeared from the City" flag
 * Investigate Yongen-Jaya by talking with residents to ID target (Request "The Cat's Disappearance" unlocked)
 * Chariot Rank 5
 ##### Evening
@@ -428,7 +428,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * **Mementos Palace**
     1. The Bark and Bite of a Bully
-    2. The Cats' Disappearance
+    2. If Cats Disappeared from the City
 * **Need to be Lv. 21 for first Faith persona**
 ##### Evening
 * Crossword: "Japanese" (Knowledge +2)
@@ -468,7 +468,7 @@ Read "Buchiko's Story"
 * Question: "The halo effect." (Knowledge +2)
 ##### Daytime
 * Rain
-* Order Surprise Sandwiches at diner (Knowledge +3, Guts +2)
+* Order Surprise Sando at diner (Knowledge +3, Guts +2)
 ##### Evening
 * Temperance Rank 3
 
@@ -477,8 +477,8 @@ Read "Buchiko's Story"
 ##### Daytime
 * Visit Kichijoji info stand, Ask the receptionist every question (Knowledge +2)
 ##### Evening
-* Request "Angry Old Man" flag
-* Investigate Kichijoji (Request "Angry Old Man" unlocked)
+* Request "An Elderly's Meaning of Life" flag
+* Investigate Kichijoji (Request "An Elderly's Meaning of Life" unlocked)
 * Aojiru (Charm +2)
 * Sun Rank 2 (Charm +3)
 
@@ -487,7 +487,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * Rain
 * Request "Sadism Is Just a Sign of Love" unlocked
-* Buy Foreign Protein from sports shop
+* Buy Imported Protein from sports shop
 * Councillor Rank 4
 ##### Evening
 * Feed plant Bio Nutrients (Kindness +3)
@@ -539,7 +539,7 @@ Read "Buchiko's Story"
 * Buy "Enlightened Billiard Tech" and Sharp cue from sports shop
 * Lovers Rank 5
 ##### Evening
-* Talk to masked man in Kichijoji's back alleys, Trade Foreign Protein for Souvenir Whip
+* Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Souvenir Whip
 * Sun Rank 3
 
 ---
@@ -759,7 +759,7 @@ Read "Buchiko's Story"
 * Rain
 ##### Daytime
 * **Mementos Palace**
-    1. Angry Old Man
+    1. An Elderly's Meaning of Life
     2. One Who Bullies Bullies
     3. Sadism Is Just a Sign of Love
     4. Part-time Job, Full-time Hell

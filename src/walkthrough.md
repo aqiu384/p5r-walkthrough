@@ -58,7 +58,7 @@
 ##### Evening
 * Cannot leave Leblanc
 * Interact with the crossword on innermost booth of Leblanc, Complete blue squares: "Semesters" (Knowledge +2)
-* Clean your room (Obtain "Yoncha Wanderer" and "Modern Thought")
+* Clean your room (Obtain "Yoncha Wanderer" and "Social Thought")
 
 ---
 #### Tue 4/19
@@ -83,6 +83,7 @@
 * Borrow "Zorro, the Outlaw" from library
 * **Reach treasure in Castle Palace**
 * **Always carry matching arcana for confidant events from here on out**
+* **Need to obtain Hierophant, Lovers, Chariot, and Death personas**
 ##### Evening
 * Cannot leave Leblanc
 * Interact with middle booth, Study at Leblanc (Knowledge +5)
@@ -100,7 +101,6 @@
 #### Fri 4/22
 ##### Daytime
 * **Clear Castle Palace**
-* **Need to be Lv. 9 for first Hierophant persona**
 ##### Evening
 * Read "Zorro, the Outlaw"
 
@@ -311,7 +311,7 @@
 * Talk to Justine in Velvet Room, Strength Rank 1
 * **Strength confidant can be continued anytime before 12/24**
 * **Reach barrier in Museum Palace**
-* **Need to be Lv. 12 for first Councillor persona**
+* **Need to obtain Councillor persona**
 ##### Evening
 * Crossword: "Gallery" (Knowledge +2)
 * Interact with TV in your room, Watch "X-Folders" (Guts +3)
@@ -348,6 +348,7 @@
 * **Reach treasure in Museum Palace**
 * **Need to be Lv. 21 for first Faith persona**
 * **Can earn money to buy Invigorate 3 Rings for Y50,000 from Death Rnk 7**
+* **Need to obtain Temperance persona**
 ##### Evening
 * Feed plant Bio Nutrients (Kindness +3)
 * Finish watching "X-Folders" (Guts +3)
@@ -383,8 +384,8 @@
 ---
 #### Wed 5/25
 ##### Daytime
-* Request "The Cats' Disappearance" flag
-* Investigate Yongen-Jaya by talking with residents to ID target (Request "The Cats' Disappearance" unlocked)
+* Request "If Cats Disappeared from the City" flag
+* Investigate Yongen-Jaya by talking with residents to ID target (Request "If Cats Disappeared from the City" unlocked)
 * Death Rank 5 (Guts +2)
 ##### Evening
 * Visit Big Bang Burger on Shibuya central street, Big Bang Challenge (Charm +2, Proficiency +2, Guts +2, Knowledge +2) (Charm Lv. 3)
@@ -404,7 +405,7 @@
 #### Fri 5/27
 ##### Daytime
 * Talk to Kawakami in Shujin hallways and help her out
-* Visit diner on Shibuya central street, Order Surprise Sandwiches at diner (Knowledge +2, Guts +2) (Guts Lv. 3)
+* Visit diner on Shibuya central street, Order Surprise Sando at diner (Knowledge +2, Guts +2) (Guts Lv. 3)
 ##### Evening
 * Interact with payphone in Leblanc, Temperance Rank 1 (Requires Guts Lv. 3)
 
@@ -438,13 +439,13 @@
 * Lovers Hangout Inokashira
 ##### Evening
 * Crossword: "Japanese" (Knowledge +2)
-* Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
+* Order Surprise Sando at diner (Knowledge +2, Guts +2)
 ### June
 #### Wed 6/1
 ##### Daytime
 * Chariot Rank 8
 ##### Evening
-* Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
+* Order Surprise Sando at diner (Knowledge +2, Guts +2)
 
 ---
 #### Thu 6/2
@@ -472,16 +473,15 @@
 * Question: "The halo effect." (Knowledge +2)
 ##### Daytime
 * Rain
-* [Normal Route] Lovers Hangout Shibuya
-* [Battle Route] Lovers Hangout Shibuya
+* Lovers Hangout Shibuya
 ##### Evening
 * Temperance Hangout
 
 ---
 #### Sun 6/5
 ##### Evening
-* Request "Angry Old Man" flag
-* Investigate Kichijoji (Request "Angry Old Man" unlocked)
+* Request "An Elderly's Meaning of Life" flag
+* Investigate Kichijoji (Request "An Elderly's Meaning of Life" unlocked)
 * Aojiru (Charm +2)
 * Sun Rank 4 (Charm +3)
 
@@ -489,8 +489,9 @@
 #### Mon 6/6
 ##### Daytime
 * Rain
+* Do not need to reload chalk dodge
 * Request "Sadism Is Just a Sign of Love" unlocked
-* Buy Foreign Protein from sports shop
+* Buy Imported Protein from sports shop
 * Councillor Rank 4
 ##### Evening
 * Feed plant Bio Nutrients (Kindness +3)
@@ -512,9 +513,9 @@
 ##### Class
 * Question: "Controlling public thought." (Knowledge +2)
 ##### Daytime
-* Respond to Kasumi's message, Faith Rank 2
+* Respond to Kasumi's message, Faith Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
-* [Normal Route] Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
+* [Normal Route] Order Surprise Sando at diner (Knowledge +2, Guts +2)
 * [Battle Route] Play darts with Ann and one random other in Kichijoji (Proficiency +3)
     1. Let Ann finish on round 4 (Baton Pass Lv. 3)
     2. Choice 3: "Same as always." (Lovers +1)
@@ -524,8 +525,8 @@
 ---
 #### Thu 6/9
 ##### Evening
-* [Normal Route] Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
-* [Battle Route] Play billiards in Kichijoji (Random Stat +3) (Technical Lv. 1) (Lovers +1)
+* [Normal Route] Order Surprise Sando at diner (Knowledge +2, Guts +2)
+* [Battle Route] Play billiards in Kichijoji (Random Stat +3) (Technical Lv. 1)
 
 ---
 #### Fri 6/10
@@ -545,7 +546,7 @@
 * Aojiru (Proficiency +2) (Battle Route Proficiency Lv. 3)
 * Lovers Rank 7
 ##### Evening
-* Talk to masked man in Kichijoji's back alleys, Trade Foreign Protein for Souvenir Whip
+* Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Souvenir Whip
 * Sun Rank 5 (Charm +3)
 
 ---
@@ -625,6 +626,7 @@
 ##### Daytime
 * **Reach treasure in Bank Palace**
 * **Need Y100,000 for Fortune Rnk 0.2**
+* **Need to obtain Priestess, Emperor, Justice, and Faith personas**
 ##### Evening
 * Rain
 * Study at Leblanc (Knowledge +5)
@@ -770,12 +772,13 @@
 ##### Daytime
 * **Mementos Palace**
     1. The Bark and Bite of a Bully
-    2. Angry Old Man
-    3. The Cats' Disappearance
+    2. An Elderly's Meaning of Life
+    3. If Cats Disappeared from the City
     4. Sadism Is Just a Sign of Love
     5. Phantom Thieves VS Burglary Ring
     6. Ending the Boyfriend's Abuse
     7. A Teacher Maid to Suffer
+* **Need to obtain Fortune persona**
 
 ##### Evening
 * Finish watching "ICU" (Kindness +5)
@@ -852,7 +855,7 @@
 * Emperor Rank 3
 ##### Evening
 * Crossword: "Vacation" (Knowledge +2)
-* Fortune Rank 2 (Do not need matching arcana, expect 1 less note)
+* Fortune Rank 2
 
 ---
 #### Wed 7/13
@@ -897,7 +900,7 @@
 ##### Evening
 * Crossword: "Finals" (Knowledge +2)
 * Talk to Sojiro for exam reward
-* Fortune Rank 3 (Do not need matching arcana, expect 1 less note)
+* Fortune Rank 3
 
 ---
 #### Wed 7/20
@@ -942,7 +945,7 @@
 ##### Daytime
 * Ask Chihaya for a Money Reading
 * **Reach treasure in Pyramid Palace**
-* **Need to be Lv. 27 for first Fortune persona**
+* **Need to obtain Hermit, Hanged, Devil, and Star personas**
 ##### Evening
 * Call Kawakami for massage
 * Reload for MRE Ration from airsoft shop vending machine
@@ -1390,6 +1393,7 @@
 ##### Daytime
 * Money Reading
 * **Reach treasure in Spaceport Palace**
+* **Need to obtain Empress and Tower personas**
 ##### Evening
 * Call Kawakami for massage
 * Luck Reading (Boost Knowledge)
@@ -1901,7 +1905,7 @@
 ---
 #### Mon 11/14
 ##### Train
-* Finish reading "Modern Thought" (Knowledge +5)
+* Finish reading "Social Thought" (Knowledge +5)
 ##### Class
 * Question: "Because of high altitude." (Knowledge +2)
 ##### Daytime

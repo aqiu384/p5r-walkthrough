@@ -251,7 +251,7 @@
 * Make it all the way to the next locked stairs before returning
 
 #### Museum Palace
-* If you level to 15 before the scripted Regent encounter you can fuse a persona with Frei to knock it down
+* Equip the Atomic Ring so you can knock down Regent in the scripted Treasure Demon encounter
 * The Will Seed mini-boss follows up Flash Bomb and Brain Jack with Psi attacks aiming for Technical damage
 * Exploit the obvious weaknesses during phase 2 of the boss fight to Baton Pass chain ending with Joker for maximum damage
 
@@ -310,7 +310,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Beware the Clingy Ex-boyfriend | 5/7 | Qimranut 1 | D | Yes | Attachment Pearl | Tutorial mission |
 | The Bark and Bite of a Bully | 5/9 | Aiyatsbus 2 | D | Yes | Protein | - |
-| Angry Old Man **(Royal)** | 6/5, ID in Kichijoji alleys during evening | Aiyatsbus 3 | D | No | Ambient Aid Ring | During rainy day gains additional weaknesses and cannot act every other turn |
+| An Elderly's Meaning of Life **(Royal)** | 6/5, ID in Kichijoji alleys during evening | Aiyatsbus 3 | D | No | Ambient Aid Ring | During rainy day gains additional weaknesses and cannot act every other turn |
 | One Who Bullies Bullies | Moon Rank 3, "The Bark and Bite of a Bully" completed, ID near Shujin gates during school day | Aiyatsbus 5 | D | No | Evil Snow Crystal | Unlocks Black Frost |
 | If Cats Disappeared from the City **(Royal)** | Clear Museum Palace, ID in Yongen-Jaya streets during day | Aiyatsbus 6 | D | No | Cat Brooch | Ends by negotiating |
 | Phantom Thieves VS Burglary Ring | 6/18 | Aiyatsbus 6 | D | Yes | Old Key | - |

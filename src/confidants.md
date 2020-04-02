@@ -1062,10 +1062,10 @@ Hangout Study-5/10 **(Knowledge +5)**
 
 Hangout Harajuku (5/29 only)
 1. -
-2. Choice 3: "It's worth a try." (Lovers +3)
+2. Choice 3: "Kinda want to try it." (+3) (Lovers +3)
 
 Hangout Movies (5/29 only) **(Kindness +5)**
-1. Choice 1: "I getcha." (+2)
+1. Choice 1: "They do." (+2)
 
 Hangout Ichigaya (7/3 only)
 1. Choice 1: "Probably shady business." (+3)
@@ -1461,38 +1461,38 @@ Rank 1: Jack Frost with Mabufu
 * Lv. 11 Jack Frost learns Mabufu at Lv. 12
 
 Rank 2: Ame-no-Uzume with Frei
-* Lv. 15 Makami (Frei) x Lv. 3 Mandrake  Lv. 14 Inugami (Frei)
-* Lv. 14 Inugami (Frei) x Lv. 9 Angel  Lv. 13 Ame-no-Uzume (Frei)
+* Lv. 15 Makami (Frei) x Lv. 3 Mandrake = Lv. 14 Inugami (Frei)
+* Lv. 14 Inugami (Frei) x Lv. 9 Angel = Lv. 13 Ame-no-Uzume (Frei)
 
 Rank 3: Flauros with Tarukaja
-* Lv. 9 Berith x Lv. 16 Eligor (Tarukaja) x Lv 17. Orobas  Lv. 19 Flauros (Tarukaja)
+* Lv. 9 Berith x Lv. 16 Eligor (Tarukaja) x Lv 17. Orobas = Lv. 19 Flauros (Tarukaja)
 
 Rank 4: Phoenix with Counter
-* Lv. 20 Yaksini (Counter) x Lv. 6 Kelpie  Lv. 21 Phoenix (Counter)
+* Lv. 20 Yaksini (Counter) x Lv. 6 Kelpie = Lv. 21 Phoenix (Counter)
 
 Rank 5: Setanta with Rakukaja
-* Lv. 26 Lamia (Rakukaja) x Lv. 6 Silky  Lv. 25 Setanta (Rakukaja)
+* Lv. 26 Lamia (Rakukaja) x Lv. 6 Silky = Lv. 25 Setanta (Rakukaja)
 
 Rank 6: Neko Shogun with Dekaja
-* Lv. 17 Orobas (Dekaja) x Lv. 16 High Pixie  Lv. 17 Sudama (Dekaja)
-* Lv. 11 Kodama x Lv. 17 Sudama (Dekaja) x Lv. 25 Anzu  Lv. 30 Neko Shogun (Dekaja)
+* Lv. 17 Orobas (Dekaja) x Lv. 16 High Pixie = Lv. 17 Sudama (Dekaja)
+* Lv. 11 Kodama x Lv. 17 Sudama (Dekaja) x Lv. 25 Anzu = Lv. 30 Neko Shogun (Dekaja)
 
 Rank 7: Lachesis with Tetraja
-* Lv. 29 Principality (Tetraja) x Lv 2. Pixie  Lv. 34 Anubis (Tetraja)
-* Lv. 34 Anubis (Tetraja) x Lv 27. Tam Lin  Lv. 35 Lachesis (Tetraja)
+* Lv. 29 Principality (Tetraja) x Lv 2. Pixie = Lv. 34 Anubis (Tetraja)
+* Lv. 34 Anubis (Tetraja) x Lv 27. Tam Lin = Lv. 35 Lachesis (Tetraja)
 
 Rank 8: Hecatoncheires with Masukunda
-* Lv. 36 Thoth (Masukunda) x Lv. 6 Kelpie  Lv. 37 Belphegor (Masukunda)
-* Lv. 37 Belphegor (Masukunda) x Lv. 26 Isis  Lv. 42 Hecatoncheires (Masukunda)
+* Lv. 36 Thoth (Masukunda) x Lv. 6 Kelpie = Lv. 37 Belphegor (Masukunda)
+* Lv. 37 Belphegor (Masukunda) x Lv. 26 Isis = Lv. 42 Hecatoncheires (Masukunda)
 
 Rank 9: Bugs with Samarecarm
 * Lv. 40 Hariti learns Samarecarm at Lv. 41
-* Lv. 2 Pixie x Lv. 28 Pisaca x Lv. 41 Hariti (Samarecarm)  Lv. 49 Bugs (Samarecarm)
+* Lv. 2 Pixie x Lv. 28 Pisaca x Lv. 41 Hariti (Samarecarm) = Lv. 49 Bugs (Samarecarm)
 
 Rank 10: Seth with High Counter
 * The free DLC persona Kaguya Picaro comes with High Counter
-* Lv 25. Kaguya Picaro (High Counter) x Lv. 4 Bicorn  Lv. 26 Isis (High Counter)
-* Lv 26. Isis (High Counter) x Lv. 34 Anubis x Lv. 36 Thoth x Lv. 47 Horus  Lv. 51 Seth (High Counter)
+* Lv 25. Kaguya Picaro (High Counter) x Lv. 4 Bicorn = Lv. 26 Isis (High Counter)
+* Lv 26. Isis (High Counter) x Lv. 34 Anubis x Lv. 36 Thoth x Lv. 47 Horus = Lv. 51 Seth (High Counter)
 
 #### Other Events (Royal)
 You can invite the twins outside the Velvet room during evenings. Doing so takes time, but also earns skill cards. Completing all dates unlocks a special date during third semester.
@@ -1745,7 +1745,7 @@ Rank 3
 2. -
 3. Choice 2: "I'll request you more often." (+3)
 4. -
-5. (Phone) Choice 1: "You have it rough. Thanks." (+1)
+5. (Phone) Choice 1: "Thanks." (+1)
 
 Rank 4
 1. -
