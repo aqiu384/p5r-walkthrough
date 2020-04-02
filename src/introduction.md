@@ -111,3 +111,4 @@ https://megamitensei.fandom.com/wiki/Persona_5_Royal
     * Split original walkthrough into normal and battle routes to fast-track darts and billiards
     * Updated walkthrough stat gains to reflect true point values rather than display musical notes
 * 1.0.8: Localized class, exam, and crossword answers
+* 1.0.9: Fixed Proficiency progression from darts for Battle Route

@@ -83,7 +83,7 @@
 
 ##### Watching DVDs (Royal)
 * Unlocked: Multiple flags
-    * Buy TV from Yongen-Jaya recycling shop
+    * Buy DVD Player from Yongen-Jaya recycling shop
     * Pay one-time membership fee for Shibuya Central Street DVD shop
     * Can borrow 1 DVD at a time for free from shop with no set return date
 * Location: TV in your room
@@ -214,7 +214,7 @@
 * Stat Gains (2 chapters)
     * Tidying the Heart: Auto **(Proficiency +5)**
     * Buchiko's Story: Auto **(Kindness +5)**
-    * Playing the Game: Auto **(Charm +5)**
+    * The Art of Charm: Auto **(Charm +5)**
     * Medjed Menace: Available 5/6 **(Knowledge +5)**
     * Wise Men's Words: Available 6/1 **(Knowledge +5)**
     * Ghost Encounters: Available 7/1 **(Guts +5)**
@@ -403,8 +403,10 @@ Bio Nutrients Set
 Allergy Relief Pack
     * 5/15: (Aroma Machine, Omni-Vitamin) for Y14800
 Cosmetic Cure Gift
-    * 5/22: (Tarukaja Supplement x2, Rakukaja Supplement x2, Sukukaja Supplement x2) for Y4980 
-    * 5/22: (Blowtorch x3, Dry Ice x3, Tesla Coil x3) for Y7980
+    * 5/22: (Stronger Lift S x2, Harder Core S x2, Accu-Speed S x2) for Y4980 
+Muscle Plus Set
+    * 5/22: (Blowtorch x3, Dry Ice x3, Magneto Coil x3) for Y7980
+Outdoors Kit
     * 5/29: (Sakura Fan, Dragon Key Chain, Uji Matcha Flan) for Y3980 
     * 5/29: (Dodge Elec Ring, Dodge Wind Ring) for Y4980
     * 6/19: (Noisy Alarm Clock, Face Beautifier) for Y9980 

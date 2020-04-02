@@ -305,7 +305,7 @@
 ---
 #### Wed 5/18
 ##### Daytime
-* Buy TV from Yongen-Jaya recycling shop
+* Buy DVD Player from Yongen-Jaya recycling shop
 * Buy rental membership from DVD store on Shibuya central street
 * Borrow "X-Folders" from DVD store
 * Talk to Justine in Velvet Room, Strength Rank 1
@@ -346,6 +346,7 @@
 ##### Daytime
 * Borrow "The Gallant Rogue" from library
 * **Reach treasure in Museum Palace**
+* **Need to be Lv. 21 for first Faith persona**
 * **Can earn money to buy Invigorate 3 Rings for Y50,000 from Death Rnk 7**
 ##### Evening
 * Feed plant Bio Nutrients (Kindness +3)
@@ -375,7 +376,6 @@
 * Finish reading "The Gallant Rogue" (Guts +5)
 ##### Daytime
 * **Clear Museum Palace**
-* **Need to be Lv. 21 for first Faith persona**
 ##### Evening
 * [Normal Route] Finish reading "Vague" (Harajuku unlocked)
 * [Battle Route] Clean Leblanc with matching arcana (Kindness +2) (Hierophant +1)
@@ -515,7 +515,7 @@
 * Respond to Kasumi's message, Faith Rank 2
 ##### Evening
 * [Normal Route] Order Surprise Sandwiches at diner (Knowledge +2, Guts +2)
-* [Battle Route] Play darts with Ann and one random other in Kichijoji (Proficiency +5) (Battle Route Proficiency Lv. 3)
+* [Battle Route] Play darts with Ann and one random other in Kichijoji (Proficiency +3)
     1. Let Ann finish on round 4 (Baton Pass Lv. 3)
     2. Choice 3: "Same as always." (Lovers +1)
     3. Let Morgana finish on round 4 (Baton Pass Lv. 3)
@@ -542,7 +542,7 @@
 ---
 #### Sun 6/12
 ##### Daytime
-* Aojiru (Proficiency +2)
+* Aojiru (Proficiency +2) (Battle Route Proficiency Lv. 3)
 * Lovers Rank 7
 ##### Evening
 * Talk to masked man in Kichijoji's back alleys, Trade Foreign Protein for Souvenir Whip
@@ -560,13 +560,13 @@
 #### Tue 6/14
 ##### Evening
 * Rain
-* Buy "Playing The Game" from Shibuya bookstore
+* Buy "The Art of Charm" from Shibuya bookstore
 * Bathhouse (Charm +3, Guts +2)
 
 ---
 #### Wed 6/15
 ##### Train
-* Read "Playing The Game"
+* Read "The Art of Charm"
 ##### Class
 * Question: "Coins." (Knowledge +2)
 ##### Evening
@@ -577,7 +577,7 @@
 ---
 #### Thu 6/16
 ##### Class
-* [Normal Route] Finish reading "Playing The Game" (Charm +5)
+* [Normal Route] Finish reading "The Art of Charm" (Charm +5)
 * [Battle Route] Finish reading "Enlightened Billiard Tech" (Back Hand unlocked)
 ##### Evening
 * Rain
@@ -668,7 +668,7 @@
 #### Sat 6/25
 ##### Class
 * [Normal Route] Finish reading "Flowerpedia" (Provides flower hints during flower shop job)
-* [Battle Route] Finish reading "Playing The Game" (Charm +5)
+* [Battle Route] Finish reading "The Art of Charm" (Charm +5)
 ##### Daytime
 * Talk to Makoto outside Shujin student council room, Priestess Rank 1 (Requires Knowledge Lv. 3)
 ##### Evening
@@ -1171,7 +1171,7 @@
 * Rain
 * Buy My Darts from sports shop
 * [Normal Route] Devil Rank 7 (Charm +5)
-* [Battle Route] Darts with Makoto and one random other (Proficiency +5)
+* [Battle Route] Darts with Makoto and one random other (Proficiency +3)
     1. Let Makoto finish on round 4 (Baton Pass Lv. 3)
     2. Choice 3: "Take a deep breath." (Priestess +1)
     3. Let Yusuke finish on round 4 (Baton Pass Lv. 3)
@@ -1185,7 +1185,7 @@
 * Luck Reading (Boost Guts)
 * Big Bang Challenge (Guts +7)
 ##### Evening
-* Hanged Rank 3 (Proficiency +3) (Battle Route Proficiency Lv. 5)
+* Hanged Rank 3 (Proficiency +3)
 
 ---
 #### Sun 8/21
@@ -1205,7 +1205,7 @@
 ---
 #### Tue 8/23
 ##### Evening
-* Hanged Rank 4 (Proficiency +3)
+* Hanged Rank 4 (Proficiency +3) (Battle Route Proficiency Lv. 5)
 
 ---
 #### Wed 8/24
@@ -1683,7 +1683,7 @@
 * Question: "15." (Knowledge +2)
 ##### Evening
 * [Normal Route] Moon Rank 9
-* [Battle Route] Darts with Haru and Ryuji (Proficiency +5)
+* [Battle Route] Darts with Haru and Ryuji (Proficiency +3)
     1. Let Haru finish on round 4 (Baton Pass Lv. 3)
     2. Choice 3: "Just enjoy it."
     3. Let Ryuji finish on round 4 (Baton Pass Lv. 3)

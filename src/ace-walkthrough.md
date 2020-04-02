@@ -55,7 +55,7 @@
 #### Mon 4/18
 ##### Daytime
 * Talk to librarian in Shujin library, Borrow "Pirate Legend"
-* Buy TV from Yongen-Jaya recycling shop
+* Buy DVD Player from Yongen-Jaya recycling shop
 * Buy crafting materials from recycling shop
 * Talk to Takemi in her Yongen-Jaya clinic, Death Rank 1 (Guts +2)
 ##### Evening

@@ -15,6 +15,7 @@
 * Same goals as Normal Route with additional battle benefits
 * Quickly rank up Technical Lv. through billiards
 * Quickly rank up Baton Pass through darts
+* Teach Charge to Yusuke and Concentrate to Makoto through Jazz Club
 * Delay Devil progression in order to see Empress Hangout Asakusa on 11/6
 * Activities you must do to adhere to the Battle Route schedule are labeled with **[Battle Route]**
 
