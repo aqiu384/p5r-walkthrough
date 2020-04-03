@@ -409,7 +409,7 @@ Read "Buchiko's Story"
 ---
 #### Sun 5/29
 ##### Daytime
-* [Optional] Chariot Hangout Harajuku
+* Chariot Hangout Harajuku
 ##### Evening
 * Aojiru (Knowledge +2)
 * Chariot Hangout Movies (Kindness +5)
@@ -616,7 +616,7 @@ Read "Buchiko's Story"
 ---
 #### Wed 6/22
 ##### Daytime
-* Lovers Hangout
+* Lovers Hangout Harajuku
 ##### Evening
 * Crossword: "Currency" (Knowledge +2)
 * Feed plant Mega Fertilizer (Kindness +5)
@@ -707,7 +707,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * Borrow "Speed Reading" from library
 * Buy all books including "Ghost Encounters" and "Tidying the Heart" from Shibuya bookstore
-* By Mammoth Lottery ticket from Shibuya
+* Buy Mammoth Lottery ticket from Shibuya
 * Talk to Makoto outside Shujin student council room, Priestess Rank 1 (Requires Knowledge Lv. 3)
 ##### Evening
 * Temperance Rank 8

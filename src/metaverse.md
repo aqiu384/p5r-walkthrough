@@ -121,31 +121,31 @@
 
 | Trait | Skills |
 | --- | --- |
-| Fire Lineage | Agidyne, Maragidyne, Concentrate, Fire Break, Fire Boost, Fire Amp, Burn Boost, Absorb Fire |
-| Ice Lineage | Bufudyne, Mabufudyne, Concentrate, Ice Break, Ice Boost, Ice Amp, Freeze Boost, Absorb Ice |
-| Elec Lineage | Ziodyne, Maziodyne, Concentrate, Elec Break, Elec Boost, Elec Amp, Shock Boost, Absorb Elec |
-| Wind Lineage | Garudyne, Magarudyne, Concentrate, Wind Break, Wind Boost, Wind Amp, Attack Master, Absorb Wind |
-| Psy Lineage | Psiodyne, Mapsiodyne, Concentrate, Psy Break, Psy Boost, Psy Amp, Attack Master, Absorb Psy |
-| Nuke Lineage | Freidyne, Mafreidyne, Concentrate, Nuke Break, Nuke Boost, Nuke Amp, Attack Master, Absorb Nuke |
-| Bless Lineage | Kougaon, Makougaon, Concentrate, Mahamaon, Bless Boost, Bless Amp, Attack Master, Absorb Bless |
-| Curse Lineage | Eigaon, Maeigaon, Concentrate, Mamudoon, Curse Boost, Curse Amp, Attack Master, Absorb Curse |
-| Heavyweight | Megaton Raid, Deadly Fury, Heat Wave, Deathbound, Charge, Nocturnal Flash, Attack Master, Arms Master |
-| Heavyweight | One-shot Kill, Triple Down, Charge, Life Aid, Auto-Mataru, Trigger Happy, Snipe, Cripple |
-| Recovery Lineage | Mediarama, Diarahan, Energy Shower, Me Patra, Mabaisudi, Samarecarm, Dekunda, Divine Grace |
-| Storm Born | Bloodbath, Evil Touch, Evil Smile, Ghastly Wail, Stagnant Air, Spirit Drain, Fear Boost, Ambient Aid |
-| Stagnant Aura | Lullaby, Nocturnal Flash, Makajamaon, Wage War, Tentarafoo, Evil Smile, Brain Jack, Abysmal Surge |
-| Life Focus | Life Drain, Regenerate 1, Regenerate 2, Regenerate 3, Life Aid, Heat Up, Endure, Fortify Spirit |
-| Spirit Focus | Spirit Drain, Abysmal Surge, Invigorate 1, Invigorate 2, Invigorate 3, Life Aid, Heat Up, Despair Boost |
+| Heated Bloodline | Agidyne, Maragidyne, Concentrate, Fire Break, Fire Boost, Fire Amp, Burn Boost, Absorb Fire |
+| Frigid Bloodline | Bufudyne, Mabufudyne, Concentrate, Ice Break, Ice Boost, Ice Amp, Freeze Boost, Absorb Ice |
+| Electric Bloodline | Ziodyne, Maziodyne, Concentrate, Elec Break, Elec Boost, Elec Amp, Shock Boost, Absorb Elec |
+| Wind Bloodline | Garudyne, Magarudyne, Concentrate, Wind Break, Wind Boost, Wind Amp, Attack Master, Absorb Wind |
+| Psychic Bloodline | Psiodyne, Mapsiodyne, Concentrate, Psy Break, Psy Boost, Psy Amp, Attack Master, Absorb Psy |
+| Atomic Bloodline | Freidyne, Mafreidyne, Concentrate, Nuke Break, Nuke Boost, Nuke Amp, Attack Master, Absorb Nuke |
+| Blessed Bloodline | Kougaon, Makougaon, Concentrate, Mahamaon, Bless Boost, Bless Amp, Attack Master, Absorb Bless |
+| Cursed Bloodline | Eigaon, Maeigaon, Concentrate, Mamudoon, Curse Boost, Curse Amp, Attack Master, Absorb Curse |
+| Striking Weight | Megaton Raid, Deadly Fury, Heat Wave, Deathbound, Charge, Nocturnal Flash, Attack Master, Arms Master |
+| Striking Weight | One-shot Kill, Triple Down, Charge, Life Aid, Auto-Mataru, Trigger Happy, Snipe, Cripple |
+| Savior Bloodline | Mediarama, Diarahan, Energy Shower, Me Patra, Mabaisudi, Samarecarm, Dekunda, Divine Grace |
+| Gloomy Child | Bloodbath, Evil Touch, Evil Smile, Ghastly Wail, Stagnant Air, Spirit Drain, Fear Boost, Ambient Aid |
+| Foul Stench | Lullaby, Nocturnal Flash, Makajamaon, Wage War, Tentarafoo, Evil Smile, Brain Jack, Abysmal Surge |
+| Gluttonmouth | Life Drain, Regenerate 1, Regenerate 2, Regenerate 3, Life Aid, Heat Up, Endure, Fortify Spirit |
+| Mouth of Savoring | Spirit Drain, Abysmal Surge, Invigorate 1, Invigorate 2, Invigorate 3, Life Aid, Heat Up, Despair Boost |
 | - | Fire Boost, Ice Boost, Elec Boost, Wind Boost, Nuke Boost, Psy Boost, Bless Boost, Curse Boost |
 | - | Fire Amp, Ice Amp, Elec Amp, Wind Amp, Nuke Amp, Psy Amp, Bless Amp, Curse Amp |
-| Odd Immunity | Evade Fire, Evade Ice, Evade Elec, Evade Wind, Evade Nuke, Evade Psy, Evade Bless, Evade Curse |
-| Last Stand | Miracle Punch, Rebellion, Revolution, Thermopylae, Swift Strike, Apt Pupil, Fortified Moxy, Adverse Resolve |
-| Burning Touch | Maragion, Agidyne, Magarula, Garudyne, Stagnant Air, Fire Break, Burn Boost, Ambient Aid |
-| Freezing Follow-up | Mabufula, Bufudyne, Freila, Freidyne, Stagnant Air, Ice Break, Freeze Boost, Ambient Aid |
-| Shocking Follow-up | Mazionga, Ziodyne, Freila, Freidyne, Stagnant Air, Elec Break, Shock Boost, Ambient Aid |
-| Exquisite Technique | Mapsio, Psiodyne, Mafreila, Freidyne, Lullaby, Tentarafoo, Ailment Boost, Ambient Aid |
-| Deadly Plague | Hamaon, Mudoon, Mahamaon, Mamudoon, Dekaja, Survival Trick, Hama Boost, Mudo Boost |
-| Avenger | Oni Kagura, Taunt, Wage War, Tetrakarn, Makarakarn, High Counter, Rage Boost, Ambient Aid |
+| Rare Antibody | Evade Fire, Evade Ice, Evade Elec, Evade Wind, Evade Nuke, Evade Psy, Evade Bless, Evade Curse |
+| Pinch Anchor | Miracle Punch, Rebellion, Revolution, Thermopylae, Swift Strike, Apt Pupil, Fortified Moxy, Adverse Resolve |
+| Thermal Conduct | Maragion, Agidyne, Magarula, Garudyne, Stagnant Air, Fire Break, Burn Boost, Ambient Aid |
+| Cold-Blooded | Mabufula, Bufudyne, Freila, Freidyne, Stagnant Air, Ice Break, Freeze Boost, Ambient Aid |
+| Static Electricity | Mazionga, Ziodyne, Freila, Freidyne, Stagnant Air, Elec Break, Shock Boost, Ambient Aid |
+| Skillful Technique | Mapsio, Psiodyne, Mafreila, Freidyne, Lullaby, Tentarafoo, Ailment Boost, Ambient Aid |
+| Deathly Illness | Hamaon, Mudoon, Mahamaon, Mamudoon, Dekaja, Survival Trick, Hama Boost, Mudo Boost |
+| Retaliating Body | Oni Kagura, Taunt, Wage War, Tetrakarn, Makarakarn, High Counter, Rage Boost, Ambient Aid |
 
 #### Group Guillotine
 * Unlocked: Strength Rank 1

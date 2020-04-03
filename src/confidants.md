@@ -1207,11 +1207,10 @@ Rank 11
 
 #### Other Events
 Hangout Shinagawa (7/29 only)
-1. -
-2. Choice 1: "It's a nice place." (+3)
-3. -
-4. Choice 1: "If you like." (Devil +3)
-5. Choice 2: "It's nothing bad." (+2)
+1. Choice 1: "It's a nice place." (+3)
+2. -
+3. Choice 1: "If you like." (Devil +3)
+4. Choice 2: "It's nothing bad." (+2)
 
 ### Hermit
 #### Availability

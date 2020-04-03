@@ -220,11 +220,11 @@
     * Ghost Encounters: Available 7/1 **(Guts +5)**
 * Location Unlocks (1 chapter)
     * Vague: Available 5/18 (Unlocks Harajuku)
-    * Nightlife Hotspots: Available 6/1 (Unlocks Daiba Seaside Park)
-    * Everyday Aquarium **(Royal)**: Available 7/17 (Unlocks Shinagawa Aquarium)
+    * Nightlife Hotspots: Available 6/1 (Unlocks Odaiba Seaside Park)
+    * Aquarium-a-Day **(Royal)**: Available 7/17 (Unlocks Shinagawa Aquarium)
     * Fishpond Spotter: Available 7/17 (Unlocks Ichigaya Fishing Pond)
     * Tokyo Shrines: Available 9/1 (Unlocks Meiji Shrine)
-    * Museum of Stars: Available 9/1 (Unlocks Ikebukuro Planetarium)
+    * Night Skies: Available 9/1 (Unlocks Ikebukuro Planetarium)
     * Musty Pages: Available 9/1 (Unlocks Jinbocho Bookstore)
     * A Walk Down Nakano Street **(Royal)**: Available 10/1 (Unlocks Nakano Shopping Mall)
 

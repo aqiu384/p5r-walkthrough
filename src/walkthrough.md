@@ -734,7 +734,7 @@
 * Borrow "Speed Reading" from library
 * Buy Yakisoba Pan from school store
 * Buy Retro Game Set from recycling shop
-* By Mammoth Lottery ticket from Shibuya
+* Buy Mammoth Lottery ticket from Shibuya
 * Lovers Rank 8
 ##### Evening
 * Trade Yakisoba Pan for Black Robe
@@ -1709,7 +1709,7 @@
 ##### Class
 * Question: "Memory bias." (Knowledge +2)
 ##### Evening
-* Buy "A Walk Down Nakano Street", "Museum of Stars", and "Tokyo Shrines" from Shibuya bookstore
+* Buy "A Walk Down Nakano Street", "Night Skies", and "Tokyo Shrines" from Shibuya bookstore
 * Strength Hangout Art Museum
 
 ---
@@ -1730,7 +1730,7 @@
 #### Thu 10/27
 ##### Evening
 * Cannot leave Leblanc
-* Finish reading "Museum of Stars" (Ikebukuro unlocked)
+* Finish reading "Night Skies" (Ikebukuro unlocked)
 
 ---
 #### Fri 10/28
