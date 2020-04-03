@@ -489,6 +489,7 @@
 #### Mon 6/6
 ##### Daytime
 * Rain
+* **Do not need to reload chalk dodge**
 * Request "Sadism Is Just a Sign of Love" unlocked
 * Buy Imported Protein from sports shop
 * Councillor Rank 4
@@ -515,19 +516,23 @@
 * Respond to Kasumi's message, Faith Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
 * [Normal Route] Order Surprise Sando at diner (Knowledge +2, Guts +2)
-* [Battle Route] Play darts with Ann and one random other in Kichijoji (Proficiency +5) (Battle Route Proficiency Lv. 3)
-    1. Score 180 in round 1
-    2. Let Ann finish on round 4 (Baton Pass Lv. 3)
-    3. Choice 3: "Just play like normal." (Lovers +1)
-    4. Score 180 in round 1
-    5. Let Morgana finish on round 4 (Baton Pass Lv. 3)
-    6. Choice 3: "I'm counting on you."
+* [Battle Route] Play darts with any two party members in Kichijoji (Proficiency +5) (Battle Route Proficiency Lv. 3)
+    1. Score 180 in round 1 of game 1
+    2. Let your game 1 partner finish on round 4 (Baton Pass Lv. 3)
+        * Ryuji: Choice 1: "You gotta psych yourself up!"
+        * Morgana: Choice 3: "I'm counting on you."
+        * Ann: Choice 3: "Just play like normal."
+        * Yusuke: Choice 1: "Pretend like you're painting."
+        * Makoto: Choice 3: "Take a deep breath."
+        * Haru: Choice 3: "Just enjoy it."
+    3. Score 180 in round 1 of game 2
+    4. Let your game 2 partner finish on round 4 (Baton Pass Lv. 3)
 
 ---
 #### Thu 6/9
 ##### Evening
 * [Normal Route] Order Surprise Sando at diner (Knowledge +2, Guts +2)
-* [Battle Route] Play billiards in Kichijoji (Random Stat +3) (Technical Lv. 1)
+* [Battle Route] Play billiards in Kichijoji (Random Stat +3)
 
 ---
 #### Fri 6/10
@@ -573,14 +578,14 @@
 * Question: "Coins." (Knowledge +2)
 ##### Evening
 * Rain
-* [Battle Route] Buy "Enlightened Billiard Tech" from sports shop
+* [Battle Route] Buy "Expert Billiards" from sports shop
 * Temperance Rank 5
 
 ---
 #### Thu 6/16
 ##### Class
 * [Normal Route] Finish reading "The Art of Charm" (Charm +5)
-* [Battle Route] Finish reading "Enlightened Billiard Tech" (Back Hand unlocked)
+* [Battle Route] Finish reading "Expert Billiards" (Technical Lv. 1)
 ##### Evening
 * Rain
 * Crossword: "Wardrobe" (Knowledge +2)
@@ -661,7 +666,6 @@
 ---
 #### Fri 6/24
 ##### Daytime
-* Buy Yakisoba Pan from school store
 * **Clear Bank Palace**
 ##### Evening
 * Rain
@@ -683,7 +687,6 @@
 * Aojiru (Guts +2)
 * Priestess Rank 2
 ##### Evening
-* Trade Yakisoba Pan for Black Robe
 * Sun Rank 6
 
 ---
@@ -729,10 +732,12 @@
 * Question: "Barbarian's head." (Knowledge +2)
 ##### Daytime
 * Borrow "Speed Reading" from library
+* Buy Yakisoba Pan from school store
 * Buy Retro Game Set from recycling shop
 * By Mammoth Lottery ticket from Shibuya
 * Lovers Rank 8
 ##### Evening
+* Trade Yakisoba Pan for Black Robe
 * Temperance Rank 8
 
 ---
@@ -1109,7 +1114,7 @@
 ##### Daytime
 * Emperor Rank 8
 ##### Evening
-* Buy Sharp Cue from sports shop
+* Buy Jump Cue from sports shop
 * Affinity Reading with matching arcana (Devil +2)
 * [Normal Route] Devil Rank 5
 * [Battle Route] Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magic")
@@ -1175,13 +1180,11 @@
 * Rain
 * Buy My Darts from sports shop
 * [Normal Route] Devil Rank 7 (Charm +5)
-* [Battle Route] Darts with Makoto and one random other (Proficiency +5)
-    1. Score 180 in round 1
-    2. Let Makoto finish on round 4 (Baton Pass Lv. 3)
-    3. Choice 3: "Take a deep breath." (Priestess +1)
-    4. Score 180 in round 1
-    5. Let Yusuke finish on round 4 (Baton Pass Lv. 3)
-    6. Choice 1: "Pretend like you're painting." (Emperor +1)
+* [Battle Route] Darts with any two party members (Proficiency +5)
+    1. Score 180 in round 1 of game 1
+    2. Let your game 1 partner finish on round 4 (Baton Pass Lv. 3)
+    3. Score 180 in round 1 of game 2
+    4. Let your game 2 partner finish on round 4 (Baton Pass Lv. 3)
 
 ---
 #### Sat 8/20
@@ -1690,13 +1693,11 @@
 * Question: "15." (Knowledge +2)
 ##### Evening
 * [Normal Route] Moon Rank 9
-* [Battle Route] Darts with Haru and Ryuji (Proficiency +5)
-    1. Score 180 in round 1
-    2. Let Haru finish on round 4 (Baton Pass Lv. 3)
-    3. Choice 3: "Just enjoy it."
-    4. Score 180 in round 1
-    5. Let Ryuji finish on round 4 (Baton Pass Lv. 3)
-    6. Choice 1: "Get pumped!" (Chariot +1)
+* [Battle Route] Darts with any two party members (Proficiency +5)
+    1. Score 180 in round 1 of game 1
+    2. Let your game 1 partner finish on round 4 (Baton Pass Lv. 3)
+    3. Score 180 in round 1 of game 2
+    4. Let your game 2 partner finish on round 4 (Baton Pass Lv. 3)
 
 ---
 #### Sun 10/23

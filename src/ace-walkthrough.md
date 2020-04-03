@@ -517,7 +517,7 @@ Read "Buchiko's Story"
 ---
 #### Thu 6/9
 ##### Evening
-* Play billiards in Kichijoji (Random Stat +3) (Technical Lv. 1)
+* Play billiards in Kichijoji (Random Stat +3)
 
 ---
 #### Fri 6/10
@@ -536,7 +536,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * Request "Part-time Job, Full-time Hell" unlocked
 * Aojiru (Proficiency +2)
-* Buy "Enlightened Billiard Tech" and Sharp cue from sports shop
+* Buy "Expert Billiards" and Jump Cue from sports shop
 * Lovers Rank 5
 ##### Evening
 * Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Souvenir Whip
@@ -559,7 +559,7 @@ Read "Buchiko's Story"
 ---
 #### Wed 6/15
 ##### Train
-* Finish reading "Enlightened Billiard Tech" (Backhand unlocked)
+* Finish reading "Expert Billiards" (Technical Lv. 1)
 ##### Class
 * Question: "Coins." (Knowledge +2)
 ##### Evening

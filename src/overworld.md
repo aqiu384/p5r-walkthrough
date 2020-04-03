@@ -387,32 +387,20 @@
 * Location: TV in downstairs Leblanc
 * Timing: Set Sundays **(Does not take time)**
 * Results: One of two item sets offered that day
-    * 4/24: (Caffeine Patch (Resist Sleep), Wide Eye Drops x10, Hot and Sour Tea x10) for Y1680 
-Spring Awake Set
-    * 4/24: (Sakura Mochi x5, Spring Fruit Pack, Party in a Can) for Y5980
-Share of Spring
-    * 5/1: (Torimeshi Ration x3, MRE Ration x2, Beef Patty Ration x2) for Y1980 
-Military Ration Set
-    * 5/1: (Moist Protein x2, Protein x2) for Y4980
-Muscle Workout Set
-    * 5/8: (Recover Oil, Relax Gel x3, Alert Capsule x3) for Y4600 
-Relaxation Set
-    * 5/8: (Mega Fertilizer, Garden Energy x5) for Y2680
-Bio Nutrients Set
-    * 5/15: (Calming Mask x2 (Resist Confusion), Wide Eye Drops x20) for Y1680 
-Allergy Relief Pack
-    * 5/15: (Aroma Machine, Omni-Vitamin) for Y14800
-Cosmetic Cure Gift
-    * 5/22: (Stronger Lift S x2, Harder Core S x2, Accu-Speed S x2) for Y4980 
-Muscle Plus Set
-    * 5/22: (Blowtorch x3, Dry Ice x3, Magneto Coil x3) for Y7980
-Outdoors Kit
-    * 5/29: (Sakura Fan, Katana Keychain, Uji Matcha Flan) for Y3980 
-Japanese Gift Set
-    * 5/29: (Elecproof Choker - Dodge Elec, Windproof Choker - Dodge Wind) for Y4980
-Folding Screen Set
-    * 6/19: (Noisy Alarm Clock, Face Beautifier) for Y9980 
-    * 6/19: (Revivadrin x3, Recov-R 100mg x10) for Y9980
+    * 4/24: Spring Awake Set (Caffeine Patch - Resist Sleep, Wide Eye Drops x10, Hot and Sour Tea x10) for Y1680 
+    * 4/24: Share of Spring (Sakura Mochi x5, Spring Fruit Pack, Party in a Can) for Y5980
+    * 5/1: Military Ration Set (Torimeshi Ration x3, MRE Ration x2, Beef Patty Ration x2) for Y1980 
+    * 5/1: Muscle Workout Set (Moist Protein x2, Protein x2) for Y4980
+    * 5/8: Relaxation Set (Recover Oil, Relax Gel x3, Alert Capsule x3) for Y4600 
+    * 5/8: Bio Nutrients Set (Mega Fertilizer, Garden Energy x5) for Y2680
+    * 5/15: Allergy Relief Pack (Calming Mask x2 - Resist Confusion, Wide Eye Drops x20) for Y1680 
+    * 5/15: Cosmetic Cure Gift (Aroma Machine, Omni-Vitamin) for Y14800
+    * 5/22: Muscle Plus Set (Stronger Lift S x2, Harder Core S x2, Accu-Speed S x2) for Y4980 
+    * 5/22: Outdoors Kit (Blowtorch x3, Dry Ice x3, Magneto Coil x3) for Y7980
+    * 5/29: Japanese Gift Set (Sakura Fan, Katana Keychain, Uji Matcha Flan) for Y3980 
+    * 5/29: Folding Screen Set (Elecproof Choker - Dodge Elec, Windproof Choker - Dodge Wind) for Y4980
+    * 6/19: Supportive Gift Set (Blaring Alarm Clock, Face Beautifier) for Y9980 
+    * 6/19: Busy Revival Set (Revivadrin x3, Recov-R 100mg x10) for Y9980
     * 6/26: (Black Rock x2, Black Robe x1) for Y1980 
     * 6/26: (Five-inch Nail x2, Straw Doll x10) for Y9980
     * 7/3: (Imported Protein, Moist Protein x3, Protein x3) for Y12800 
@@ -474,8 +462,8 @@ Folding Screen Set
     * Imported Protein: Sold once per month starting 6/1, HP +5 and SP +3 during gym workouts, HP +4 during room workouts.
     * Moist Protein: Sold once per rainy day, HP +3 and SP +2 during gym workouts, HP +2 during room workouts
     * My Darts: Further narrows aim circle while playing darts
-    * Enlightened Billiard Tech: 1 chapter, teaches Back Hand during billiards
-    * Sharp Cue: Necessary to perform Jump Shot during billiards
+    * Expert Billiards: 1 chapter, teaches Back Hand during billiards
+    * Jump Cue: Necessary to perform Jump Shot during billiards
     * Fishing Rods: More attempts when reeling in a fish during fishing
 
 #### Kichijoji (Royal)
