@@ -472,7 +472,7 @@ Rank 6
 1. Choice 3: "Love comes in many forms." (+2)
 2. -
 3. -
-4. (Phone) Choice 1: "Talking about dating?" (+1)
+4. (Phone) Choice 1: "Tell him you're on a date." (+1)
 
 Rank 7
 1. -
@@ -482,7 +482,7 @@ Rank 7
 5. Choice 2: "I'm sure he was happy." (+3)
 6. Choice 2: "You can figure that out now." (+1)
 7. Choice 1: "I'm game if you are." (+1)
-8. (Phone) Choice 1: "Leave it to me." (+1)
+8. (Phone) Choice 1: "Of course..." (+1)
 
 Rank 8
 1. Choice 1: "He says that to all his girls." (+1)
@@ -513,7 +513,7 @@ Rank 11
 
 #### Other Events
 Hangout Study-7/12 **(Knowledge +5)**
-1. Choice 2: "A bit difficult" (+1)
+1. Choice 2: "This is difficult..." (+1)
 
 Hangout Movies (7/28 only) **(Guts +5)**
 1. Choice 1: "Not at all." (+2)
@@ -822,7 +822,7 @@ Rank 7 **(Kindness +3)**
 1. Choice 1: "You might be right." (+1)
 2. -
 3. -
-4. (Phone) Choice 3: "Familial ties." (+1)
+4. (Phone) Choice 3: "Feel like a real dad now?" (+1)
 
 Rank 8
 1. Choice 2: "Something with curry." (+2)
@@ -946,7 +946,7 @@ Rank 11
 
 #### Other Events
 Hangout Study-5/9 **(Knowledge +5)**
-1. Choice 1: "Same here." (+1)
+1. Choice 1: "I think so." (+1)
 
 Hangout Study-7/11 **(Knowledge +5)**
 1. Choice 1: "Let's work together." (+1)
@@ -1058,7 +1058,7 @@ Rank 11
 
 #### Other Events
 Hangout Study-5/10 **(Knowledge +5)**
-1. Choice 1: "One more time." (+1)
+1. Choice 1: "Try starting over." (+1)
 
 Hangout Harajuku (5/29 only)
 1. -
@@ -1068,9 +1068,9 @@ Hangout Movies (5/29 only) **(Kindness +5)**
 1. Choice 1: "They do." (+2)
 
 Hangout Ichigaya (7/3 only)
-1. Choice 1: "Probably shady business." (+3)
+1. Choice 1: "This is shady." (+3)
 2. -
-3. Choice 2: "She's a fishing master." (+3) (Temperance +3)
+3. Choice 2: "She's the true master fisher." (+3) (Temperance +3)
 
 Hangout Study-7/12 **(Knowledge +5)**
 1. Choice 2: "I'll manage." (+1)
@@ -1168,7 +1168,7 @@ Rank 6
 4. Choice 1: "Same." (+2)
 5. Choice 2: "We have a lot in common." (+1)
 6. Choice 1: "Perhaps." (+2)
-7. (Phone) Choice 3: "Sorry." (+1)
+7. (Phone) Choice 3: "My bad, I guess." (+1)
 
 **Rank 7 locked until 11/2. Requires Knowledge Lv. 4 (Encyclopedic).**
 
@@ -1246,24 +1246,24 @@ Rank 2
 1. Choice 2: "That's a great idea." (+1)
 2. Choice 1: "If we work together." (+2)
 3. Choice 1: "Sounds good to me." (+0)
-4. (Phone) Choice 1: "He'll be overjoyed." (+1)
+4. (Phone) Choice 1: "I bet it will." (+1)
 
 Rank 3
 1. Choice 3: "I was about to come find you." (+2)
 2. Choice 1: "Good to see you again." (+3)
-3. (Phone) Choice 3: "We'll do our best together." (+1)
+3. (Phone) Choice 3: "We'll both do our best." (+1)
 
 Rank 4
 1. Choice 2: "Let's do this together." (+3)
 2. -
 3. Choice 3: "I think it's cute." (+2)
-4. (Phone) Choice 3: "Always here to help." (+1)
+4. (Phone) Choice 3: "I'll help you anytime." (+1)
 
 Rank 5
 1. -
 2. Choice 1: "I think you're right." (+2)
 3. Choice 3: "He's the protagonist." (+2)
-4. (Phone) Choice 1: "You did well." (+1)
+4. (Phone) Choice 1: "You did great." (+1)
 
 Rank 6
 1. Choice 2: "That must have been a shock." (+2)
@@ -1394,11 +1394,11 @@ Rank 6
 2. -
 3. -
 4. Choice 3: **"You're just Chihaya to me."** (+3)
-5. (Phone) Choice 2: "You have to face yourself." (+1)
+5. (Phone) Choice 2: "Be honest with yourself." (+1)
 
 Rank 7
 1. Choice 3: "I don't think so." (+3)
-2. (Phone) Choice 1: "Are you OK?" (+1)
+2. (Phone) Choice 1: "Are you gonna be okay?" (+1)
 
 Rank 7.1
 1. -
@@ -1411,19 +1411,19 @@ Rank 8
 1. Choice 2: "I know." (+2)
 2. Choice 3: "It's because you're strong." (+3)
 3. Choice 2: **"Hell yeah I am."** (+3)
-4. (Phone) Choice 2: "It's your own decision." (+1)
+4. (Phone) Choice 2: "It was all your own will." (+1)
 
 Rank 9 (Friendship)
 1. -
 2. Choice 2: "Well, fate can be changed." (+3)
 3. Choice 1: "I like having my fortune read." (+0)
-4. (Phone) Choice 1: "Exactly." (+1)
+4. (Phone) Choice 1: "I'm planning on it." (+1)
 
 Rank 9 (Romance)
 1. -
 2. Choice 2: "Well, fate can be changed." (+3)
 3. Choice 1: "So I can be with you." (+0)
-4. (Phone) Choice 1: "I wanted to hear your voice." (+1)
+4. (Phone) Choice 1: "I wanted to hear your voice too." (+1)
 
 Rank 10
 
@@ -1551,20 +1551,20 @@ Rank 4 **(Proficiency +3)**
 2. -
 3. -
 4. Choice 3: "Where's my reward?" (+2)
-5. (Phone) Choice 1: "I suppose." (+1)
+5. (Phone) Choice 1: "You're right." (+1)
 
 Rank 5 **(Proficiency +3)**
 1. -
 2. Choice 2: "You're pathetic." (+2)
 3. Choice 3: "I'll stick around for the guns." (+2)
-4. (Phone) Choice 1: "That's right." (+1)
+4. (Phone) Choice 1: "You're right." (+1)
 
 Rank 6
 1. -
 2. -
 3. Choice 2: "Girls." (+2)
 4. Choice 3: "You should buy us something." (+2)
-5. (Phone) Choice 1: "We're about the same age." (+1)
+5. (Phone) Choice 1: "He's my age, so it comes easier." (+1)
 
 Rank 7
 1. Choice 2: "Absolutely." (+2)
@@ -1677,7 +1677,7 @@ Rank 8 **(Guts +2)**
 1. -
 2. Choice 2: "Let's get to work, doctor." (+3)
 3. Choice 1: **"It's for Miwa-chan."** (+3)
-4. (Phone) Choice 1: "I'll support you." (+1)
+4. (Phone) Choice 1: "I'll be cheering you on." (+1)
 
 Rank 9 (Friendship)
 1. Choice 3: "It was rough." (+2)
@@ -1791,17 +1791,16 @@ Rank 8.1
 
 Rank 9 (Friendship)
 1. Choice 1: "Nonsense." (+2)
-2. Choice 1: "That's a shame." (+3)
+2. Choice 1: "What a bummer." (+3)
 3. Choice 2: "I want to keep seeing you." (+1)
-4. Choice 2: "I mean what I say." (+1)
-5. Choice 1: "I'm a master; you're maid." (+0)
+4. Choice 2: "Got it ." (+1)
 6. (Phone) Choice 2: "You can do it." (+1)
 
 Rank 9 (Romance)
 1. Choice 1: "Nonsense." (+2)
-2. Choice 1: "That's a shame." (+3)
+2. Choice 1: "What a bummer." (+3)
 3. Choice 2: "I want to keep seeing you." (+1)
-4. Choice 2: "I mean what I say." (+1)
+4. Choice 2: "I mean what I say." (+0)
 5. Choice 2: "I'm a man; you're a woman." (+0)
 
 **Rank 9.1 will automatically trigger during the next school day.**
@@ -1868,7 +1867,7 @@ Rank 6
 2. Choice 1: "He must not like you." (+1)
 3. Choice 2: "You should trust in her." (+1)
 4. Choice 1: "That's the spirit" (+1)
-5. (Phone) Choice 3: "I'll tag along again." (+1)
+5. (Phone) Choice 3: "I'll dig up some more for you." (+1)
 
 Rank 7 **(Charm +5)**
 1. -
@@ -2043,17 +2042,17 @@ Rank 3 (Knowledge + 1)
 Rank 4 (Unlocks Jinbocho)
 1. Choice 3: "Must've been the katsu curry." (+1)
 2. Choice 2: "They're cool." (+1)
-3. (Phone) Choice 1: "Same here." (+1)
+3. (Phone) Choice 1: "I'd love to." (+1)
 
 Rank 5 **(Knowledge +2)**
 1. Choice 2: "She's scary." (+1)
 2. Choice 2: "You should stop then." (+1)
-3. (Phone) Choice 2: "Having a hard time?" (+1)
+3. (Phone) Choice 2: "You've got a lot to deal with..." (+1)
 
 Rank 6 **(Knowledge +2)**
 1. Choice 2: "Is that frustrating?" (+1)
 2. Choice 3: "Do what you love." (+1)
-3. (Phone) Choice 1: "You're imagining things." (+1)
+3. (Phone) Choice 2: "You're imagining things." (+1)
 
 Rank 7 **(Knowledge +2)**
 1. Choice 3: "It may come down to luck." (+2)
@@ -2072,7 +2071,7 @@ Rank 7.1
 Rank 8 **(Knowledge +2)**
 1. Choice 3: "I'm glad her heart changed." (+2)
 2. -
-3. (Phone) Choice 1: "I'm cheering you on." (+1)
+3. (Phone) Choice 1: "I support it." (+1)
 
 Rank 9 (Friendship)
 1. Choice 1: "Give it all you got." (+1)
@@ -2275,7 +2274,7 @@ Rank 2 (HP +5)
 Rank 3 (HP +5)
 1. Choice 1: "Making bento?" (+2)
 2. Choice 2: "It looks delicious." (+1)
-3. Choice 1: "Is this all for you?" (+2)
+3. Choice 1: "Is that all for you?" (+2)
 4. Choice 2: "It's definitely unique." (+1)
 5. -
 6. -
@@ -2439,33 +2438,33 @@ Rank 5 (SP +5)
 **Rank 6 locked until 9/20.**
 
 Rank 6
-1. Choice 2: "How about seconds?" (+1)
-2. Choice 1: "I accept." (+2)
+1. Choice 2: "Anothe cup?" (+1)
+2. Choice 1: "I can do that." (+2)
 3. -
-4. Choice 3: "I give in." (+1)
+4. Choice 3: "So give up." (+1)
 5. -
 6. -
 7. (Phone) Choice 1: "Calm down." (+1)
 
 Rank 7 (SP +5)
-1. Choice 3: "Are you a Phanboy?" (+2)
-2. Choice 2: "Maybe they actually steal hearts." (+3)
-3. Choice 1: "A change of heart?" (+3)
-4. Choice 3: "It was an interesting conversation." (+3)
+1. Choice 3: "Are you a fan?" (+2)
+2. Choice 2: "As in, removing them?" (+3)
+3. Choice 1: "The change of heart?" (+3)
+4. Choice 3: "It's intriguing." (+3)
 
 Rank 8
 1. Choice 2: "What do you mean?" (+2)
-2. Choice 1: "Are you fine with that?" (+2)
-3. Choice 1: "Don't mind if I do." (+2)
-4. Choice 3: "We're partners in crime." (+1)
+2. Choice 1: "Ooh, really?" (+2)
+3. Choice 1: "Thanks for the food!" (+2)
+4. Choice 3: "We've made a deal." (+1)
 5. Choice 1: "Congratulations." (+3)
-6. Choice 1: "Agreed." (+1)
+6. Choice 1: "I sure do." (+1)
 7. -
-8. (Phone) Choice 1: "He seems like a great friend." (+1)
+8. (Phone) Choice 1: "He's a good friend." (+1)
 
 Rank 9 (SP +5)
 1. -
-2. Choice 1: "I'll miss you." (+2)
+2. Choice 1: "Kind of sad..." (+2)
 
 **Rank 10 automatically triggered on 11/18 if Rank 9 completed.**
 

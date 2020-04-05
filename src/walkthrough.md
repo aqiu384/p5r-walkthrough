@@ -311,6 +311,7 @@
 * Talk to Justine in Velvet Room, Strength Rank 1
 * **Strength confidant can be continued anytime before 12/24**
 * **Reach barrier in Museum Palace**
+* **Need free slot in stock to unlock "The Purpose of a Thief" when recruiting Regent during scripted encounter** 
 * **Need to obtain Councillor persona**
 ##### Evening
 * Crossword: "Gallery" (Knowledge +2)
@@ -346,7 +347,6 @@
 ##### Daytime
 * Borrow "The Gallant Rogue" from library
 * **Reach treasure in Museum Palace**
-* **Need to be Lv. 21 for first Faith persona**
 * **Can earn money to buy Invigorate 3 Rings for Y50,000 from Death Rnk 7**
 * **Need to obtain Temperance persona**
 ##### Evening
@@ -491,7 +491,7 @@
 * Rain
 * **Do not need to reload chalk dodge**
 * Request "Sadism Is Just a Sign of Love" unlocked
-* Buy Imported Protein from sports shop
+* Buy Imported Protein from sports shop in Shibuya underground mall
 * Councillor Rank 4
 ##### Evening
 * Feed plant Bio Nutrients (Kindness +3)
@@ -552,7 +552,7 @@
 * Aojiru (Proficiency +2)
 * Lovers Rank 7
 ##### Evening
-* Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Souvenir Whip
+* Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Decorative Whip
 * Sun Rank 5 (Charm +3)
 
 ---
@@ -645,15 +645,15 @@
 ##### Evening
 * Borrow "ICU" from DVD store
 * Buy Mega Fertilizer x6 from Shinjuku flower shop
-* Buy "Movie Maniac", "Flowerpedia", and "The ABCs of Crafting" from Shinjuku bookstore
+* Buy "The Craft of Cinema", "Flowerpedia", and "ABCs of Crafting" from Shinjuku bookstore
 * Feed plant Mega Fertilizer (Kindness +5) (Kindness Lv. 3)
 * Crossword: "Currency" (Knowledge +2)
-* Talk to Akechi outside the Kichijoji darts club, Justice Rank 2 (Requires Charm Lv. 3 and Knowledge Lv. 3)
+* Talk to Akechi outside the Kichijoji darts club, Justice Rank 2
 
 ---
 #### Thu 6/23
 ##### Train
-* Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
+* Finish reading "The Craft of Cinema" (Boosts points from watching movies and DVDs)
 ##### Class
 * Question: "A pope." (Knowledge +2)
 ##### Daytime
@@ -703,7 +703,7 @@
 ---
 #### Tue 6/28
 ##### Daytime
-* Lovers Hangout Harajuku
+* Lovers Hangout Harajuku (If Lovers Rank 8 available, Free Time)
 ##### Evening
 * Talk to Chihaya at Shinjuku fortune telling booth, Fortune Rank 0.1
 
@@ -727,14 +727,14 @@
 ### July
 #### Fri 7/1
 ##### Train
-* Finish reading "The ABCs of Crafting" (Doubles the number of items that can be crafted)
+* Finish reading "ABCs of Crafting" (Doubles the number of items that can be crafted)
 ##### Class
 * Question: "Barbarian's head." (Knowledge +2)
 ##### Daytime
-* Borrow "Speed Reading" from library
+* Borrow "Speed Reader" from library
 * Buy Yakisoba Pan from school store
 * Buy Retro Game Set from recycling shop
-* Buy Mammoth Lottery ticket from Shibuya
+* Buy Mammoth Summer lottery ticket from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Lovers Rank 8
 ##### Evening
 * Trade Yakisoba Pan for Black Robe
@@ -743,13 +743,13 @@
 ---
 #### Sat 7/2
 ##### Class
-* Finish reading "Speed Reading" (Read books 2 chapters at a time)
+* Finish reading "Speed Reader" (Read books 2 chapters at a time)
 * Temperance Rank 8.1 (Auto) (Request "A Teacher Maid to Suffer" unlocked)
 ##### Daytime
 * Borrow "The Illusory Popess" from library
 * Priestess Rank 4
 ##### Evening
-* Justice Rank 3
+* Justice Rank 3 (Requires Charm Lv. 3 and Knowledge Lv. 3)
 * Accept Chariot invitation
 
 ---
@@ -845,10 +845,10 @@
 ---
 #### Mon 7/11
 ##### Class
-* Question: "Long-term memories.", "Infinite.", and "Forever." (Knowledge +2)
+* Question: "Memories that last a long time.", "Infinite.", and "Forever." (Knowledge +2)
 * Reload chalk dodge for (Charm +3)
 ##### Evening
-* Trade Soothing Soba for Edo Katana
+* Trade Soothing Soba for Koedo Sword
 * Talk to Mishima in Shinjuku streets, Moon Rank 3
 
 ---
@@ -905,7 +905,7 @@
 * Priestess Rank 5
 ##### Evening
 * Crossword: "Finals" (Knowledge +2)
-* Talk to Sojiro for exam reward
+* Talk to Sojiro for exam reward - Dandy Mirror - Counterstrike
 * Fortune Rank 3
 
 ---
@@ -955,7 +955,7 @@
 ##### Evening
 * Call Kawakami for massage
 * Reload for MRE Ration from airsoft shop vending machine
-* Trade MRE Ration for "Factorized Study Methods"
+* Trade MRE Ration for "Factorization Guide"
 * Fortune Hangout
 
 ---
@@ -1117,7 +1117,7 @@
 * Buy Jump Cue from sports shop
 * Affinity Reading with matching arcana (Devil +2)
 * [Normal Route] Devil Rank 5
-* [Battle Route] Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magic")
+* [Battle Route] Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magician")
 
 ---
 #### Sat 8/13
@@ -1178,7 +1178,6 @@
 * Emperor Rank 10
 ##### Evening
 * Rain
-* Buy My Darts from sports shop
 * [Normal Route] Devil Rank 7 (Charm +5)
 * [Battle Route] Darts with any two party members (Proficiency +5)
     1. Score 180 in round 1 of game 1
@@ -1189,7 +1188,7 @@
 ---
 #### Sat 8/20
 ##### Daytime
-* Borrow "24 Hours" from DVD store
+* Borrow "31" from DVD store
 * Buy Melon Pan from Ginza Line gate near Shibuya hideout
 * Luck Reading (Boost Guts)
 * Big Bang Challenge (Guts +7)
@@ -1200,14 +1199,14 @@
 #### Sun 8/21
 ##### Evening
 * Cannot leave Leblanc
-* [Normal Route] Watch "24 Hours" (Guts +5)
-* [Battle Route] Finish reading "Billiards Magic" (Masse Shot unlocked)
+* [Normal Route] Watch "31" (Guts +5)
+* [Battle Route] Finish reading "Billiards Magician" (Masse Shot unlocked)
 
 ---
 #### Mon 8/22
 ##### Evening
 * Trade Melon Pan for Yakuza Fists
-* Check Summer Mammoth Lottery results
+* Check Summer Mammoth lottery results (Does not unlock "Easy Money", only weekly or daily prizes do)
 * [Normal Route] Devil Rank 7.1 (Request "Fighting for Truth of Journalism" unlocked)
 * [Battle Route] Work at bar (Kindness +3) (Request "We Aren't Just Your Slaves" unlocked)
 
@@ -1254,7 +1253,7 @@
 ##### Evening
 * Request "Who's Muscling in Yongen-Jaya?" unlocked
 * Affinity Reading with matching arcana (Hanged +2)
-* Star Hangout Inokashira
+* Star Hangout Inokashira (If Star Rank 6 available, Free Time)
 
 ---
 #### Tue 8/30
@@ -1269,7 +1268,7 @@
 ##### Evening
 * Cannot leave Leblanc
 * [Normal Route] Free Time
-* [Battle Route] Watch "24 Hours" (Guts +5)
+* [Battle Route] Watch "31" (Guts +5)
 ### September
 #### Thu 9/1
 ##### Evening
@@ -1398,13 +1397,13 @@
 #### Mon 9/19
 ##### Daytime
 * Money Reading
+* Luck Reading (Boost Knowledge)
+* Visit Kichijoji info stand, Ask the receptionist every question (Knowledge +3)
 * **Reach treasure in Spaceport Palace**
 * **Need to obtain Empress and Tower personas**
 ##### Evening
 * Call Kawakami for massage
-* Luck Reading (Boost Knowledge)
 * Crossword: "Festival" (Knowledge +3)
-* Visit Kichijoji info stand, Ask the receptionist every question (Knowledge +3)
 * Trade Thief Mask for Concentrate Supplement x2
 * Star Rank 6 (Knowledge +3)
 
@@ -1860,7 +1859,7 @@
 ##### Daytime
 * Hermit Rank 8
 ##### Evening
-* Star Hangout Jinbocho
+* Star Hangout Jinbocho (If Star Rank 9 available, Free Time)
 
 ---
 #### Thu 11/10
@@ -1944,7 +1943,7 @@
 ---
 #### Thu 11/17
 ##### Train
-* Finish reading "Factorized Study Methods" (Extra note when studying)
+* Finish reading "Factorization Guide" (Extra note when studying)
 ##### Class
 * Question: "Cochleoid." (Knowledge +2)
 ##### Daytime

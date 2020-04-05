@@ -83,8 +83,8 @@
 Read "Pirate Legend"
 ##### Daytime
 * **Reach treasure in Castle Palace**
-* **Need to be Lv. 9 for first Hierophant persona**
 * **Always carry matching arcana for confidant events from here on out**
+* **Need to obtain Hierophant, Lovers, Chariot, and Death personas**
 ##### Evening
 * Cannot leave Leblanc
 * Interact with middle booth, Study at Leblanc (Knowledge +5)
@@ -329,6 +329,7 @@ Read "The Alluring Dancer"
 * Talk to Justine in Velvet Room, Strength Rank 1
 * **Strength confidant can be continued anytime before 12/24**
 * **Reach barrier in Museum Palace**
+* **Need free slot in stock to unlock "The Purpose of a Thief" when recruiting Regent during scripted encounter** 
 ##### Evening
 * Study at Leblanc (Knowledge +3)
 
@@ -429,7 +430,7 @@ Read "Buchiko's Story"
 * **Mementos Palace**
     1. The Bark and Bite of a Bully
     2. If Cats Disappeared from the City
-* **Need to be Lv. 21 for first Faith persona**
+* **Need to obtain Emperor, Justice, Temperance, and Councillor personas**
 ##### Evening
 * Crossword: "Japanese" (Knowledge +2)
 * Study at Leblanc (Knowledge +3)
@@ -487,7 +488,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * Rain
 * Request "Sadism Is Just a Sign of Love" unlocked
-* Buy Imported Protein from sports shop
+* Buy Imported Protein from sports shop in Shibuya underground mall
 * Councillor Rank 4
 ##### Evening
 * Feed plant Bio Nutrients (Kindness +3)
@@ -510,7 +511,7 @@ Read "Buchiko's Story"
 ##### Class
 * Question: "Controlling public thought." (Knowledge +2)
 ##### Daytime
-* Respond to Kasumi's message, Faith Rank 2
+* Respond to Kasumi's message, Faith Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
 * Moon Rank 4
 
@@ -539,7 +540,7 @@ Read "Buchiko's Story"
 * Buy "Expert Billiards" and Jump Cue from sports shop
 * Lovers Rank 5
 ##### Evening
-* Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Souvenir Whip
+* Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Decorative Whip
 * Sun Rank 3
 
 ---
@@ -548,7 +549,7 @@ Read "Buchiko's Story"
 * Question: "Green." (Knowledge +2)
 ##### Evening
 * Rain
-* Talk to Akechi outside the Kichijoji darts club, Justice Rank 2 (Requires Charm Lv. 3 and Knowledge Lv. 3)
+* Talk to Akechi outside the Kichijoji darts club, Justice Rank 2
 
 ---
 #### Tue 6/14
@@ -609,9 +610,9 @@ Read "Buchiko's Story"
 ##### Evening
 * Rain
 * Borrow "ICU" from DVD store
-* Buy "Movie Maniac" and "The ABCs of Crafting" from Shinjuku bookstore
+* Buy "The Craft of Cinema" and "ABCs of Crafting" from Shinjuku bookstore
 * Buy 6 "Mega Fertilizer" from Shinuku flower shop
-* Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magic")
+* Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magician")
 
 ---
 #### Wed 6/22
@@ -625,7 +626,7 @@ Read "Buchiko's Story"
 ---
 #### Thu 6/23
 ##### Train
-* Finish reading "Movie Maniac" (Boosts points from watching movies and DVDs)
+* Finish reading "The Craft of Cinema" (Boosts points from watching movies and DVDs)
 ##### Class
 * Question: "A pope." (Knowledge +2)
 ##### Daytime
@@ -647,7 +648,7 @@ Read "Buchiko's Story"
 ---
 #### Sat 6/25
 ##### Class
-* Finish reading "The ABCs of Crafting" (Doubles the number of items that can be crafted)
+* Finish reading "ABCs of Crafting" (Doubles the number of items that can be crafted)
 ##### Daytime
 * Death Rank 7 (Guts +2)
 ##### Evening
@@ -677,6 +678,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * **Clear Bank Palace**
 * **Need Y100,000 for Fortune Rnk 0.2**
+* **Need to obtain Priestess and Faith personas**
 ##### Evening
 * Watch "ICU" (Kindness +5) (Kindness Lv. 3)
 
@@ -705,9 +707,9 @@ Read "Buchiko's Story"
 ##### Class
 * Question: "Barbarian's head." (Knowledge +2)
 ##### Daytime
-* Borrow "Speed Reading" from library
+* Borrow "Speed Reader" from library
 * Buy all books including "Ghost Encounters" and "Tidying the Heart" from Shibuya bookstore
-* Buy Mammoth Lottery ticket from Shibuya
+* Buy Mammoth Summer lottery ticket from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Talk to Makoto outside Shujin student council room, Priestess Rank 1 (Requires Knowledge Lv. 3)
 ##### Evening
 * Temperance Rank 8
@@ -715,7 +717,7 @@ Read "Buchiko's Story"
 ---
 #### Sat 7/2
 ##### Class
-* Finish reading "Speed Reading" (Read books 2 chapters at a time)
+* Finish reading "Speed Reader" (Read books 2 chapters at a time)
 ##### Daytime
 * Borrow "Zorro, the Outlaw" from library
 * Temperance Rank 8.1 (Auto) (Request "A Teacher Maid to Suffer" unlocked)
@@ -766,6 +768,7 @@ Read "Buchiko's Story"
     5. Ending the Boyfriend's Abuse
     6. Phantom Thieves VS Burglary Ring
     7. A Teacher Maid to Suffer
+* **Need to obtain Fortune and Star personas**
 ##### Evening
 * Study at Leblanc (Knowledge +5)
 
@@ -812,9 +815,9 @@ Read "Buchiko's Story"
 ---
 #### Mon 7/11
 ##### Class
-* Question: "Long-term memories.", "Infinite.", and "Forever." (Knowledge +2)
+* Question: "Memories that last a long time.", "Infinite.", and "Forever." (Knowledge +2)
 ##### Evening
-* Trade Soothing Soba for Edo Katana
+* Trade Soothing Soba for Koedo Sword
 * Star Rank 2 (Knowledge +2)
 
 ---
@@ -825,7 +828,7 @@ Read "Buchiko's Story"
 * Chariot Rank 8
 ##### Evening
 * Crossword: "Vacation" (Knowledge +2)
-* Justice Rank 3
+* Justice Rank 3 (Requires Charm Lv. 3 and Knowledge Lv. 3)
 
 ---
 #### Wed 7/13
@@ -915,7 +918,7 @@ Read "Buchiko's Story"
 * Luck Reading (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
 * Reload for MRE Ration from airsoft shop vending machine
-* Trade MRE Ration for "Factorized Study Methods"
+* Trade MRE Ration for "Factorization Guide"
 * Fortune Rank 3 (Do not need matching arcana, expect 1 less note)
 
 ---
@@ -962,7 +965,7 @@ Read "Buchiko's Story"
 * Luck Reading (Boost Charm)
 * Aojiru (Charm +3) (Charm Lv. 4)
 * **Reach treasure in Pyramid Palace**
-* **Need to be Lv. 27 for first Fortune persona**
+* **Need to obtain Hermit, Hanged, and Devil personas**
 ##### Evening
 * Call Kawakami for massage
 * Fortune Rank 4
@@ -1153,13 +1156,13 @@ Read "Buchiko's Story"
 #### Sun 8/21
 ##### Evening
 * Cannot leave Leblanc
-* Watch "24 Days" (Guts +5)
+* Watch "31" (Guts +5)
 
 ---
 #### Mon 8/22
 ##### Evening
 * Trade Melon Pan for Yakuza Fists
-* Check Summer Mammoth Lottery results
+* Check Summer Mammoth lottery results (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Star Rank 6 (Knowledge +2)
 
 ---
@@ -1220,7 +1223,7 @@ Read "Buchiko's Story"
 * Hermit Rank 1 (Auto)
 ##### Evening
 * Cannot leave Leblanc
-* Finish watching "24 Days" (Guts +5)
+* Finish watching "31" (Guts +5)
 ### ACE September
 #### Thu 9/1
 ##### Evening
@@ -1348,6 +1351,7 @@ Read "Buchiko's Story"
     7. Who's Muscling in Yongen-Jaya?
     8. Winners Don't Use Cheats, attempt needed to unlock Tower Rnk 1
     9. Upstaging the Stage Mother
+* **Need to obtain Tower persona**
 ##### Evening
 * Crossword: "Festival" (Knowledge +2)
 * Call Kawakami for massage
@@ -1384,7 +1388,7 @@ Read "Buchiko's Story"
 ---
 #### Fri 9/23
 ##### Class
-* Finish reading "Billiards Magic" (Masse Shot unlocked)
+* Finish reading "Billiards Magician" (Masse Shot unlocked)
 ##### Daytime
 * Councillor Rank 6
 ##### Evening
@@ -1777,6 +1781,7 @@ Read "Reckless Casanova"
 * Question: "Crow eyes are hard to see." (Knowledge +2)
 ##### Daytime
 * **Reach treasure in Casino Palace**
+* **Need to obtain Empress persona**
 ##### Evening
 * Call Kawakami for massage
 * TV Quiz: "Me in front of my TV." (Knowledge +2)

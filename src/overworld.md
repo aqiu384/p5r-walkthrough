@@ -26,7 +26,7 @@
     * Double number of items crafted: Additional **(Proficiency +2)**, can reload for different result
 * Activity Notes
     * Can craft multiple items at once to save time **(Royal)**
-    * After reading "The ABCs of Crafting": Doubles number of base attempts per crafting session
+    * After reading "ABCs of Crafting": Doubles number of base attempts per crafting session
 
 ##### Feeding your Potted Plant
 * Unlocked: After cleaning your room
@@ -70,7 +70,7 @@
 * Timing: Evenings
 * Stat Gains: Base **(Knowledge +3)**
     * Rainy Nights: Additional **(Knowledge +2)**
-    * After reading "Factorized Study Methods": Additional **(Knowledge +2)**
+    * After reading "Factorization Guide": Additional **(Knowledge +2)**
 
 ##### Reading in Leblanc
 * Unlocked: Auto
@@ -97,12 +97,12 @@
     * ICU: Available 6/1 **(Kindness +3)**
     * Jail Break: Available 6/1 **(Proficiency +3)**
     * The Running Dead: Available 6/1 **(Guts +3)**
-    * Escalate Housewives **(Royal)**: Available 8/1 **(Charm +3)**
-    * Dr. Mouse **(Royal)**: Available 8/1 **(Kindness +3)**
-    * 24 Days **(Royal)**: Available 8/1 **(Proficiency +3)**
-    * Green **(Royal)**: Available 8/1 **(Guts +3)**
+    * D Housewives **(Royal)**: Available 8/1 **(Charm +3)**
+    * Mouse MD **(Royal)**: Available 8/1 **(Kindness +3)**
+    * 31 **(Royal)**: Available 8/1 **(Guts +3)**
+    * Tee **(Royal)**: Available 8/1 **(Proficiency +3)**
 * Activity Notes:
-    * After reading "Movie Maniac": Additional **(Social Stat +2)**
+    * After reading "The Craft of Cinema": Additional **(Social Stat +2)**
 
 ##### Playing Retro Games
 * Unlocked: Multiple flags
@@ -149,7 +149,7 @@
     * March of the Sheeple: January **(Proficiency +5)**
     * The Good Father: February **(Kindness +5)**
 * Activity Notes:
-    * After reading "Movie Maniac": Additional **(Social Stat +2)**
+    * After reading "The Craft of Cinema": Additional **(Social Stat +2)**
 
 #### Shibuya
 ##### Diner (Royal)
@@ -162,7 +162,7 @@
     * Order Nostalgic Steak: Auto **(Kindness +2)**
     * Order Frui-Tea: Available 7/1 **(Charm +2)**
     * Order Totem Pole: Available 9/28 **(Proficiency +2)**
-    * After reading "Factorized Study Methods": Additional **(Knowledge +2)**
+    * After reading "Factorization Guide": Additional **(Knowledge +2)**
 
 ##### Triple Seven Convenience Store Job (Royal)
 * Unlocked: Consult Shibuya underground platform job listings
@@ -241,7 +241,7 @@
     * Mecha-hard: December **(Kindness +5)**
     * Fighting Friends: January **(Charm +5)**
 * Activity Notes:
-    * After reading "Movie Maniac": Additional **(Social Stat +2)**
+    * After reading "The Craft of Cinema": Additional **(Social Stat +2)**
 
 #### Shujin Academy
 ##### Reading on the Train
@@ -306,7 +306,7 @@
     * Girl in Ashes **(Royal)**: Available after Kasumi awakens **(Charm +5)**
     * Bowman **(Royal)**: Available after Akechi awakens **(Guts +5)**
 * Enhance Activities (1 chapter)
-    * Speed Reading **(Royal)**: Available 7/1 (Allows 2 chapters to be read at a time during a session)
+    * Speed Reader **(Royal)**: Available 7/1 (Allows 2 chapters to be read at a time during a session)
 
 #### Shinjuku
 ##### Bar Job (Royal)
@@ -327,9 +327,9 @@
     * Essence of Fishing: Fishing, Allows Third Eye to see fish colors and sparkles indicating tags
     * Batting Science: Batting cages, Allows Third Eye to slow down pitches in batting cage
     * Game Secrets: Retro games, Allows cheat mode during game to make activity easier
-    * Movie Maniac **(Royal)**: Watching movies or DVDs, Grants extra Social Stat +2 while watching
-    * Pro Darts Tech **(Royal)**: Darts, Allows Third Eye to slow down aim circle
-    * The ABCs of Crafting **(Royal)**: Crafting, Doubles the number of base attempts while crafting
+    * The Craft of Cinema **(Royal)**: Watching movies or DVDs, Grants extra Social Stat +2 while watching
+    * Learn Pro Darts **(Royal)**: Darts, Allows Third Eye to slow down aim circle
+    * ABCs of Crafting **(Royal)**: Crafting, Doubles the number of base attempts while crafting
 
 ##### Shinjuku Movies
 * Unlocked: Auto
@@ -342,7 +342,7 @@
     * ZAW: November, December, and 11/13 Haru invite **(Guts +5)**
     * Fight Kebab: January **(Guts +5)**
 * Activity Notes:
-    * After reading "Movie Maniac": Additional **(Social Stat +2)**
+    * After reading "The Craft of Cinema": Additional **(Social Stat +2)**
 
 #### Akihabara
 ##### Maid Cafe
@@ -401,10 +401,10 @@
     * 5/29: Folding Screen Set (Elecproof Choker - Dodge Elec, Windproof Choker - Dodge Wind) for Y4980
     * 6/19: Supportive Gift Set (Blaring Alarm Clock, Face Beautifier) for Y9980 
     * 6/19: Busy Revival Set (Revivadrin x3, Recov-R 100mg x10) for Y9980
-    * 6/26: (Black Rock x2, Black Robe x1) for Y1980 
-    * 6/26: (Five-inch Nail x2, Straw Doll x10) for Y9980
-    * 7/3: (Imported Protein, Moist Protein x3, Protein x3) for Y12800 
-    * 7/3: (St Ryusen Incense, En Ryusen Incense, Lu Ryusen Incense) for Y12800
+    * 6/26: Dark Power Set (Black Rock x2, Black Robe x1) for Y1980 
+    * 6/26: Cursed Tools Set (Five-inch Nail x3, Straw Doll x10) for Y9980
+    * 7/3: Body Building Set (Imported Protein, Moist Protein x3, Protein x3) for Y12800 
+    * 7/3: Calm Mind Set (Ambergris ST, Ambergris EN, Ambergris LU - Ryusen) for Y12800
     * 8/7: (Lockpick x5, Vanish Ball x5, Smoke Screen x3) for Y7980 
     * 8/7: (Vacuum Cutter x4, Psy Wheel x4, Nuke Firecracker x4) for Y8980
     * 8/14: (Manta x20, Water of Rebirth x20) for Y2980 
@@ -500,8 +500,8 @@
 * Activity Progression:
     * Rank 1: Play billiards once
     * Rank 2: **(Proficiency Lv. 2)** and buy and read "Billiard Techniques" from the sports shop, perform Back Hand
-    * Rank 3: **(Proficiency Lv. 3)** and buy Sharp Cue from the sport shop, perform Jump Shot, receive "Billiards Magic" afterwards
-    * Rank 4: **(Proficiency Lv. 5)** and read "Billiards Magic", perform Masse Shot
+    * Rank 3: **(Proficiency Lv. 3)** and buy Sharp Cue from the sport shop, perform Jump Shot, receive "Billiards Magician" afterwards
+    * Rank 4: **(Proficiency Lv. 5)** and read "Billiards Magician", perform Masse Shot
 
 ##### Jazz Club
 * Unlocked: Justice Rank 4
@@ -562,10 +562,10 @@
 * Location: Masked Man in Kichijoji ally
 * Timing: Set evenings
 * Results: Trade for exclusive items
-    * 6/12-17: Trade Imported Protein from Shibuya Sports Shop for Souvenir Whip (122 Atk 99 Hit Lu +5)
+    * 6/12-17: Trade Imported Protein from Shibuya Sports Shop for Decorative Whip (122 Atk 99 Hit Lu +5)
     * 6/26-7/2: Trade Yakisoba Pan from School Store for Black Robe
-    * 7/11-12: Trade Soothing Soba from Shibuya Convenience Store for Edo Katana (140 Atk 94 Hit Low chance of Forget)
-    * 7/26-30: Trade MRE Ration from Airsoft Shop Vending Machine for "Factorized Study Methods"
+    * 7/11-12: Trade Soothing Soba from Shibuya Convenience Store for Koedo Sword (140 Atk 94 Hit Low chance of Forget)
+    * 7/26-30: Trade MRE Ration from Airsoft Shop Vending Machine for "Factorization Guide"
     * 8/7-13: Trade Exorcism Water from Kanda Church on Sundays for Black Gun
     * 8/22-27: Trade Melon Pan from Ginza Platform Vendor for Yakuza Fists (160 Atk 94 Hit Medium chance of Burn)
     * 9/4-6: Trade Phantom Wafers from Shibuya Central Street for Charge Supplement x2

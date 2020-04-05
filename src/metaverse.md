@@ -310,14 +310,14 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Beware the Clingy Ex-boyfriend | 5/7 | Qimranut 1 | D | Yes | Attachment Pearl | Tutorial mission |
 | The Bark and Bite of a Bully | 5/9 | Aiyatsbus 2 | D | Yes | Protein | - |
-| An Elderly's Meaning of Life **(Royal)** | 6/5, ID in Kichijoji alleys during evening | Aiyatsbus 3 | D | No | Ambient Aid Ring | During rainy day gains additional weaknesses and cannot act every other turn |
+| An Elderly's Meaning of Life **(Royal)** | 6/5, ID in Kichijoji alleys during evening | Aiyatsbus 3 | D | No | Nuisance Belt (Ambient Aid) | During rainy day gains additional weaknesses and cannot act every other turn |
 | One Who Bullies Bullies | Moon Rank 3, "The Bark and Bite of a Bully" completed, ID near Shujin gates during school day | Aiyatsbus 5 | D | No | Evil Snow Crystal | Unlocks Black Frost |
 | If Cats Disappeared from the City **(Royal)** | Clear Museum Palace, ID in Yongen-Jaya streets during day | Aiyatsbus 6 | D | No | Cat Brooch | Ends by negotiating |
-| Phantom Thieves VS Burglary Ring | 6/18 | Aiyatsbus 6 | D | Yes | Old Key | - |
 | Sadism Is Just a Sign of Love | 6/6 | Aiyatsbus 7 | D | No | Whip Sword | - |
 | Part-time Job, Full-time Hell | Moon Rank 4 | Chemdah 1 | C | Yes | Chinese Sweets | - |
 | Bad Medicine | Death Rank 7.1 | Chemdah 2 | C | Yes | Mediarama | - |
 | Ending the Boyfriend's Abuse | Fortune Rank 0.3 | Chemdah 3 | C | Yes | Sleep Stick | - |
+| Phantom Thieves VS Burglary Ring | 6/18 | Chemdah 4 | D | Yes | Old Key | - |
 | A Teacher Maid to Suffer | Temperance Rank 8.1 | Chemdah 7 | C | Only Oberon | Envy Chain | - |
 | The Lovesick Cyberstalking Girl | 7/10 | Chemdah 8 | C | No | Sticky Hairball | Unlocks Bugs |
 | Calling for Justice for Cats | 8/4, ID during 3rd shift at convenience store | Kaitul 1 | C | No | Blood Scimitar | - |
