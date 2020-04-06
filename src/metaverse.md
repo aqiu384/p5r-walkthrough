@@ -312,7 +312,7 @@
 | The Bark and Bite of a Bully | 5/9 | Aiyatsbus 2 | D | Yes | Protein | - |
 | An Elderly's Meaning of Life **(Royal)** | 6/5, ID in Kichijoji alleys during evening | Aiyatsbus 3 | D | No | Nuisance Belt (Ambient Aid) | During rainy day gains additional weaknesses and cannot act every other turn |
 | One Who Bullies Bullies | Moon Rank 3, "The Bark and Bite of a Bully" completed, ID near Shujin gates during school day | Aiyatsbus 5 | D | No | Evil Snow Crystal | Unlocks Black Frost |
-| If Cats Disappeared from the City **(Royal)** | Clear Museum Palace, ID in Yongen-Jaya streets during day | Aiyatsbus 6 | D | No | Cat Brooch | Ends by negotiating |
+| If Cats Disappeared from the City **(Royal)** | Day after clearing Museum Palace, ID in Yongen-Jaya streets during day | Aiyatsbus 6 | D | No | Cat Brooch | Ends by negotiating |
 | Sadism Is Just a Sign of Love | 6/6 | Aiyatsbus 7 | D | No | Whip Sword | - |
 | Part-time Job, Full-time Hell | Moon Rank 4 | Chemdah 1 | C | Yes | Chinese Sweets | - |
 | Bad Medicine | Death Rank 7.1 | Chemdah 2 | C | Yes | Mediarama | - |
@@ -320,11 +320,11 @@
 | Phantom Thieves VS Burglary Ring | 6/18 | Chemdah 4 | D | Yes | Old Key | - |
 | A Teacher Maid to Suffer | Temperance Rank 8.1 | Chemdah 7 | C | Only Oberon | Envy Chain | - |
 | The Lovesick Cyberstalking Girl | 7/10 | Chemdah 8 | C | No | Sticky Hairball | Unlocks Bugs |
-| Calling for Justice for Cats | 8/4, ID during 3rd shift at convenience store | Kaitul 1 | C | No | Blood Scimitar | - |
+| Calling for Justice for Cats | 3 days after clearing Pyramid Palace or 8/4, ID during 3rd shift at convenience store | Kaitul 1 | C | No | Blood Scimitar | - |
 | Debunking the Psychic! | Fortune Rank 7.1 | Kaitul 3 | C | No | Prophet's Hand | - |
 | Shady Deal in the Shadows | Hanged Rank 7.1 | Kaitul 4 | C | No | Weird Wrap | - |
-| Who's Been Assaulting People? | 8/3, ID during 3rd shift at flower shop | Kaitul 5 | C | Yes | Charge | - |
-| We Aren't Just Your Slaves | 8/2, ID during 2nd shift at Bar Crossroads | Kaitul 8 | C | No | Theme Park Escort | - |
+| Who's Been Assaulting People? | 2 days after clearing Pyramid Palace or 8/3, ID during 3rd shift at flower shop | Kaitul 5 | C | Yes | Charge | - |
+| We Aren't Just Your Slaves | Day after clearing Pyramid Palace or 8/2, ID during 2nd shift at Bar Crossroads | Kaitul 8 | C | No | Theme Park Escort | - |
 | Fighting for Truth of Journalism | Devil Rank 7.1 | Kaitul 9 | C | No | Invigorate 3 | - |
 | Who's Muscling in Yongen-Jaya? | 8/29 | Kaitul 10 | C | Yes | Shitamachi Reborn | Unlocks Yongen-Jaya Theater |
 | Man of Many Faces and Debts | Moon Rank 8 | Akzeriyyuth 3 | B | Yes | Thermopylae | - |
@@ -336,7 +336,7 @@
 | A Mother's Aggression | Tower Rank 8 | Adyeshach 11 | A | No | Soma | - |
 | Swindling Old Folk is Pretty Low | 11/25 | Adyeshach 13 | A | Yes | Haten Robe | - |
 | The Lady-killer's Ballad **(Royal)** | 12/10 | Sheriruth 8 | A | No | Agitation Crown | Can instantly Brainwash female party members |
-| The Head Honcho in Showbiz | 12/3, requires clearing Cruiser Palace | Sheriruth 14 | A | No | Immortal Vest | - |
+| The Head Honcho in Showbiz | Day after clearing Cruiser Palace or 12/3 | Sheriruth 14 | A | No | Immortal Vest | - |
 | A Silent Voice **(Royal)** | 1/13 | Da'at 3 | S | No | Mamudoon Ring | - |
 | Cry, My Beloved Sister **(Royal)** | 1/14 | Da'at 7 | S | No | St Incense x 8 | - |
 | Idols and Unicorns **(Royal)** | Day after securing Treasure Route in Research Lab Palace, ID near Akihabara tool shop during day | Da'at 13 | S | No | One-shot Kill | Ends by negotiation, afterwards speak to idol to receive exclusive song |

@@ -980,7 +980,6 @@ Read "Buchiko's Story"
 ---
 #### Tue 8/2
 ##### Daytime
-* Request "We Aren't Just Your Slaves" flag
 * **Clear Pyramid Palace**
 ##### Evening
 * Call Kawakami for massage
@@ -991,7 +990,7 @@ Read "Buchiko's Story"
 ##### All Day
 * Rain
 ##### Daytime
-* Request "Who's Been Assaulting People?" flag
+* Request "We Aren't Just Your Slaves" flag
 * Priestess Rank 5
 ##### Evening
 * Crossword: "Island" (Knowledge +2)
@@ -1000,7 +999,7 @@ Read "Buchiko's Story"
 ---
 #### Thu 8/4
 ##### Daytime
-* Request "Calling for Justice for Cats" flag
+* Request "Who's Been Assaulting People?" flag
 * Emperor Hangout Leblanc-8/4 (Charm +5)
 ##### Evening
 * TV Quiz: "Joyride, but return the car." (Knowledge +2)
@@ -1009,6 +1008,7 @@ Read "Buchiko's Story"
 ---
 #### Fri 8/5
 ##### Daytime
+* Request "Calling for Justice for Cats" flag
 * Chariot Rank 9
 ##### Evening
 * Luck Reading (Boost Kindness)
@@ -1161,7 +1161,7 @@ Read "Buchiko's Story"
 ---
 #### Mon 8/22
 ##### Evening
-* Trade Melon Pan for Yakuza Fists
+* Trade Melon Pan for Old Man's Fist
 * Check Summer Mammoth lottery results (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Star Rank 6 (Knowledge +2)
 
@@ -1256,7 +1256,7 @@ Read "Buchiko's Story"
 * Investigate Shibuya arcade (Request "Winners Don't Use Cheats" unlocked)
 * Hermit Rank 3
 ##### Evening
-* Trade Phantom Wafers for Charge Supplement x2
+* Trade Phantom Wafers for Strength Up Ofuda x2
 * Hanged Rank 5 (Proficiency +3)
 
 ---
@@ -1927,7 +1927,7 @@ Read "Karakuri"
 ##### Daytime
 * Crane game
     1. Receive Sheep Man Doll
-* Trade Melon Pan for Yakuza Fists
+* Buy Legendary Yaki-Imo from Yongen-Jaya street vendor
 * Hermit Rank 9 Friendship
 * Hermit Rank 9 Romance
 ##### Evening
@@ -2042,7 +2042,6 @@ Read "Karakuri"
 #### Sun 12/11
 ##### Daytime
 * Request "The Head Honcho in Showbiz" unlocked
-* Request "The Lady-killer's Ballad" unlocked
 * Buy Angel Tart from Shibuya underground mall
 * Priestess Hangout Chinatown
 ##### Evening
@@ -2052,6 +2051,7 @@ Read "Karakuri"
 ---
 #### Mon 12/12
 ##### Daytime
+* Request "The Lady-killer's Ballad" unlocked
 * Emperor Hangout Ikebukuro
 ##### Evening
 * Crossword: "Approval" (Knowledge +2)

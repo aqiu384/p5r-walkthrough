@@ -90,7 +90,7 @@
 * **ARCADE Addict (35P):** Win the Akihabara crane game 5 times.
 
 #### Confidants
-* **Phantom Thief Grand Union (50P):** Max out all 22 confidants.
+* **Phantom Thief Grand Union (50P):** Max out all 23 confidants.
 * **Ladies' Man (60P):** See the rank 10 event for all 10 romanceable confidants on the romance route.
 * **We Stand As Equals (60P):** See the rank 10 event for all 10 romanceable confidants on the friendship route.
 * **Benefactor (50P):** Give 10 gifts to any confidant.

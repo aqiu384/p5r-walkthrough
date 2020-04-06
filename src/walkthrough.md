@@ -1066,7 +1066,7 @@
 * Buy Exorcism Water from church
 * Luck Reading (Boost Charm)
 * Work at convenience store (Charm +7) (Request "Calling for Justice for Cats" unlocked)
-    1. Handle the queue efficiently
+    1. Memorize positions of barcodes
 ##### Evening
 * Trade Exorcism Water for Black Gun
 * Sun Rank 10 (Charm +7) (Charm Lv. 5)
@@ -1076,7 +1076,9 @@
 ##### Daytime
 * Luck Reading (Boost Kindness)
 * Work at flower shop (Kindness +7)
-    1. Create a bouquet that satisfies the customer's request
+    1. Scarlet Rose
+    2. Gold Gerbera
+    3. Gecko Orchid
 ##### Evening
 * Rain
 * Crossword: "Courage" (Knowledge +2)
@@ -1114,9 +1116,9 @@
 ##### Daytime
 * Emperor Rank 8
 ##### Evening
-* Buy Jump Cue from sports shop
 * Affinity Reading with matching arcana (Devil +2)
 * [Normal Route] Devil Rank 5
+* [Battle Route] Buy Jump Cue from sports shop
 * [Battle Route] Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magician")
 
 ---
@@ -1205,7 +1207,7 @@
 ---
 #### Mon 8/22
 ##### Evening
-* Trade Melon Pan for Yakuza Fists
+* Trade Melon Pan for Old Man's Fist
 * Check Summer Mammoth lottery results (Does not unlock "Easy Money", only weekly or daily prizes do)
 * [Normal Route] Devil Rank 7.1 (Request "Fighting for Truth of Journalism" unlocked)
 * [Battle Route] Work at bar (Kindness +3) (Request "We Aren't Just Your Slaves" unlocked)
@@ -1303,7 +1305,7 @@
 * Investigate Shibuya arcade (Request "Winners Don't Use Cheats" unlocked)
 * Talk to Futaba outside Leblanc, Hermit Rank 2 (Requires Kindness Lv. 4)
 ##### Evening
-* Trade Phantom Wafers for Charge Supplement x2
+* Trade Phantom Wafers for Strength Up Ofuda x2
 * Jazz club with Yusuke (Learns Charge)
 
 ---

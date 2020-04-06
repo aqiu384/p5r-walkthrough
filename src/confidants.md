@@ -482,7 +482,7 @@ Rank 7
 5. Choice 2: "I'm sure he was happy." (+3)
 6. Choice 2: "You can figure that out now." (+1)
 7. Choice 1: "I'm game if you are." (+1)
-8. (Phone) Choice 1: "Of course..." (+1)
+8. (Phone) Choice 1: "Of course." (+1)
 
 Rank 8
 1. Choice 1: "He says that to all his girls." (+1)
@@ -523,7 +523,7 @@ Hangout Ikebukuro (7/30 only)
 2. -
 3. -
 4. -
-5. Choice 1: "Thanks." (+2)
+5. Choice 1: "That helps." (Emperor +2)
 6. Choice 1: "Exactly." (+2)
 
 Hangout Jinbocho (8/15 only)
@@ -728,10 +728,10 @@ Rank 11
 
 #### Other Events
 Hangout Leblanc-7/27 **(Charm +5)**
-1. Choice 3: "Especially so." (+2)
+1. Choice 3: "A bit of everything!" (+2)
 
 Hangout Leblanc-8/1 **(Charm +5)**
-1. Choice 1: "To the library then?" (+2)
+1. Choice 1: "Just go to the library." (+2)
 
 Hangout Leblanc-8/4 **(Charm +5)**
 1. Choice 1: "Let's go." (+2)
@@ -740,10 +740,10 @@ Hangout Movies (8/5 only) **(Kindness +5)**
 1. Choice 1: "I don't mind." (+2)
 
 Hangout Leblanc-8/8 **(Charm +5)**
-1. Choice 1: "If you're fine with that." (+3)
+1. Choice 1: "If I can find a good deal." (+3)
 
 Hangout Leblanc-8/11 **(Charm +5)**
-1. Choice 1: "Not at all." (+2)
+1. Choice 1: "There's no way." (+2)
 
 Hangout Study-10/15 **(Knowledge +5)**
 1. Choice 1: "Certainly." (+1)
@@ -954,7 +954,7 @@ Hangout Study-7/11 **(Knowledge +5)**
 Hangout Movies (7/17 only) **(Charm +5)**
 1. Choice 2: "I understand." (+2)
 
-Hangout Meiji-Shrine (8/6 only, Pyramid Palace cleared)
+Hangout Meiji-Shrine (8/6 only, Pyramid Palace cleared, Lovers Rank 8 or lower or romance)
 1. -
 2. -
 3. Choice 3: "As expected of a doctor." (+2) (Death +2)
@@ -1162,12 +1162,12 @@ Rank 5
 **Rank 6 locked until 9/3. Moved to Leblanc at night.**
 
 Rank 6
-1. Choice 3: "Been a while?" (+2)
-2. Choice 2: "Must've been tough." (+1)
-3. Choice 1: "Perfectly fine." (+2)
+1. Choice 3: "A while, huh?" (+2)
+2. Choice 2: "...You've been through a lot." (+1)
+3. Choice 1: "This is nothing." (+2)
 4. Choice 1: "Same." (+2)
-5. Choice 2: "We have a lot in common." (+1)
-6. Choice 1: "Perhaps." (+2)
+5. Choice 2: "Because we're similar." (+1)
+6. Choice 1: "I think you're right." (+2)
 7. (Phone) Choice 3: "My bad, I guess." (+1)
 
 **Rank 7 locked until 11/2. Requires Knowledge Lv. 4 (Encyclopedic).**
@@ -1551,7 +1551,7 @@ Rank 4 **(Proficiency +3)**
 2. -
 3. -
 4. Choice 3: "Where's my reward?" (+2)
-5. (Phone) Choice 1: "You're right." (+1)
+5. (Phone) Choice 1: "I agree." (+1)
 
 Rank 5 **(Proficiency +3)**
 1. -
@@ -1851,7 +1851,7 @@ Rank 3 **(Charm +3)**
 
 Rank 4 **(Charm +3)**
 1. -
-2. Choice 1: "We're dating." (+1)
+2. Choice 1: "Of course we are." (+1)
 3. -
 4. (Phone) Choice 1: "Leave it to me." (+1)
 
@@ -2142,17 +2142,17 @@ Progression tied to completing number of requisite requests before progressing w
 
 There are 16 total requests that count towards progression.
 * 5/9: The Bark and Bite of a Bully
-* After clearing Museum Palace: The Cats' Disappearance
-* 6/5: Angry Old Man
+* Day after clearing Museum Palace: If Cats Disappeared from the City
+* 6/5: An Elderly's Meaning of Life
 * 6/6: Sadism Is Just a Sign of Love
 * 7/10: The Lovesick Cyberstalking Girl
-* 8/2: We Aren't Just Your Slaves
-* 8/3: Who's Been Assaulting People?
-* 8/4: Calling for Justice for Cats
+* Day after clearing Pyrmaid Palace or 8/2: We Aren't Just Your Slaves
+* 2 days after clearing Pyramid Palace or 8/3: Who's Been Assaulting People?
+* 3 days after clearing Pyramid Palace or 8/4: Calling for Justice for Cats
 * 8/29: Who's Muscling in Yongen-Jaya?
 * 10/14: The Killer Who Cleans Up Trash
 * 11/25: Swindling Old Folk is Pretty Low
-* 12/3: The Head Honcho in Showbiz
+* Day after clearing Cruiser Palace or 12/3: The Head Honcho in Showbiz
 * 1/14: Cry, My Beloved Sister
 * Rank 3: One Who Bullies Bullies
 * Rank 4: Part-time Job, Full-time Hell

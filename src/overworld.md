@@ -235,8 +235,8 @@
 * Stat Gains: First time watching (Also during confidant invites)
     * Tanktop Millionaire: April **(Guts +5)**
     * The Cake Knight Rises: May, June, and 5/29 Ryuji invite **(Kindness +5)**
-    * Avoiding Love from the Bottom of Society: July and 7/17 Ann invite **(Charm +5)**
-    * I, Miserable: August and September 8/5 Yusuke invite **(Kindness +5)**
+    * Love Possibly: July and 7/17 Ann invite **(Charm +5)**
+    * Le Miserable: August and September 8/5 Yusuke invite **(Kindness +5)**
     * Mansion: Impossible: October and November **(Proficiency +5)**
     * Mecha-hard: December **(Kindness +5)**
     * Fighting Friends: January **(Charm +5)**
@@ -405,10 +405,10 @@
     * 6/26: Cursed Tools Set (Five-inch Nail x3, Straw Doll x10) for Y9980
     * 7/3: Body Building Set (Imported Protein, Moist Protein x3, Protein x3) for Y12800 
     * 7/3: Calm Mind Set (Ambergris ST, Ambergris EN, Ambergris LU - Ryusen) for Y12800
-    * 8/7: (Lockpick x5, Vanish Ball x5, Smoke Screen x3) for Y7980 
-    * 8/7: (Vacuum Cutter x4, Psy Wheel x4, Nuke Firecracker x4) for Y8980
-    * 8/14: (Manta x20, Water of Rebirth x20) for Y2980 
-    * 8/14: (Glass Vase, Flower Basket) for Y2980
+    * 8/7: Phantom Thief Set (Lockpick x5, Vanish Ball x5, Smoke Screen x3) for Y7980 
+    * 8/7: Heroic Set (Vacuum Cutter x4, Psy-Wheel x4, Nuke Cracker x4) for Y8980
+    * 8/14: Drink Set (Second Maid x20, Water of Rebirth x20) for Y2980 
+    * 8/14: Floral Gift Set (Glass Vase, Flower Basket) for Y2980
     * 9/25: (Stealthanol x3, Smoke Screen x5, Lockpick x5) for Y8980 
     * 9/25: (Phantom Wafers x5, Calling Postcard x5) for Y2000
     * 10/2: (Lantern Necklace (Fire Amp), Pumpkin Pack x5) for Y14800 
@@ -567,8 +567,8 @@
     * 7/11-12: Trade Soothing Soba from Shibuya Convenience Store for Koedo Sword (140 Atk 94 Hit Low chance of Forget)
     * 7/26-30: Trade MRE Ration from Airsoft Shop Vending Machine for "Factorization Guide"
     * 8/7-13: Trade Exorcism Water from Kanda Church on Sundays for Black Gun
-    * 8/22-27: Trade Melon Pan from Ginza Platform Vendor for Yakuza Fists (160 Atk 94 Hit Medium chance of Burn)
-    * 9/4-6: Trade Phantom Wafers from Shibuya Central Street for Charge Supplement x2
+    * 8/22-27: Trade Melon Pan from Ginza Platform Vendor for Old Man's Fist (160 Atk 94 Hit Medium chance of Burn)
+    * 9/4-6: Trade Phantom Wafers from Shibuya Central Street for Strength Up Ofuda x2
     * 9/19-24: Trade Thief Mask from Shibuya Central Street for Concentrate Supplement x2
     * 10/2-8: Trade Calling Postcard from Shibuya Central Street for Strawberry Daifuku (Salvation) x2
     * 10/16-22: Trade Gear Girimehkala from Akihabara Capsule Row for Hot Blooded Sword (190 Atk 90 Hit Medium chance of Burn)
