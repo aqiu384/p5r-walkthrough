@@ -360,8 +360,8 @@
     * Master Swordsman: Auto **(Guts +7)**
     * Call Me Chief: Available after MS **(Kindness +7)**
     * Reckless Casanova: Available after MS **(Charm +7)**
-    * Revelations Person **(Royal)**: Available after MS **(Knowledge +7)**
-    * Karakuri **(Royal)**: Available after MS **(Proficiency +7)**
+    * Heroic Revelations **(Royal)**: Available after MS **(Knowledge +7)**
+    * The Art of Automata **(Royal)**: Available after MS **(Proficiency +7)**
 * Enhance Activities (1 chapter)
     * Technical Expertise **(Royal)**: Unlocks additional technical combos
         * Forget: Elec

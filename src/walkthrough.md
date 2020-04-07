@@ -66,7 +66,7 @@
 * Question: "They're the same." (Knowledge +2)
 ##### Daytime
 * Talk to librarian in Shujin library, Borrow "Pirate Legend"
-* Buy Bio Nutrients from flower shop in Shibuya underground mall
+* Buy Bio Nutrients (Y1200) from flower shop in Shibuya underground mall
 * Talk to Ryuji outside 2D classroom, Chariot Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
 * Cannot leave Leblanc
@@ -84,6 +84,7 @@
 * **Reach treasure in Castle Palace**
 * **Always carry matching arcana for confidant events from here on out**
 * **Need to obtain Hierophant, Lovers, Chariot, and Death personas**
+* **Need at least Y30,000**
 ##### Evening
 * Cannot leave Leblanc
 * Interact with middle booth, Study at Leblanc (Knowledge +5)
@@ -116,7 +117,7 @@
 ---
 #### Sun 4/24
 ##### Daytime
-* Drink Aojiru for Y5,000 at Shibuya underground platform (Charm +2)
+* Drink Aojiru (Y5000) at Shibuya underground platform (Charm +2)
 * Watch movies in Shibuya (Guts +5) (Guts Lv. 2)
 ##### Evening
 * Visit bathhouse outside Leblanc (Charm +5) (Charm Lv. 2)
@@ -179,8 +180,8 @@
 ### May
 #### Sun 5/1
 ##### Daytime
-* Aojiru (Proficiency +2)
-* Buy Bio Nutrients x3 from Shibuya flower shop
+* Aojiru (Y5000) (Proficiency +2)
+* Buy Bio Nutrients x3 (Y3600) from Shibuya flower shop
 * Work at convenience store (Charm +3)
 ##### Evening
 * Bathhouse (Charm +5)
@@ -239,7 +240,7 @@
 ##### Class
 * Moon Rank 2 (Auto)
 ##### Evening
-* Aojiru (Guts +2)
+* Aojiru (Y5000) (Guts +2)
 * Work at beef bowl (Proficiency +5)
     1. Correctly memorize all orders
 
@@ -305,8 +306,8 @@
 ---
 #### Wed 5/18
 ##### Daytime
-* Buy DVD Player from Yongen-Jaya recycling shop
-* Buy rental membership from DVD store on Shibuya central street
+* Buy DVD Player (Y2500) from Yongen-Jaya recycling shop
+* Buy rental membership (Y4800) from DVD store on Shibuya central street
 * Borrow "X-Folders" from DVD store
 * Talk to Justine in Velvet Room, Strength Rank 1
 * **Strength confidant can be continued anytime before 12/24**
@@ -349,6 +350,7 @@
 * **Reach treasure in Museum Palace**
 * **Can earn money to buy Invigorate 3 Rings for Y50,000 from Death Rnk 7**
 * **Need to obtain Temperance persona**
+* **Need at least Y120,000**
 ##### Evening
 * Feed plant Bio Nutrients (Kindness +3)
 * Finish watching "X-Folders" (Guts +3)
@@ -356,7 +358,7 @@
 ---
 #### Sun 5/22
 ##### Daytime
-* Aojiru (Kindness +2)
+* Aojiru (Y5000) (Kindness +2)
 * Death Rank 4 (Guts +2)
 ##### Evening
 * Sun Rank 2 (Charm +3)
@@ -407,19 +409,19 @@
 * Talk to Kawakami in Shujin hallways and help her out
 * Visit diner on Shibuya central street, Order Surprise Sando at diner (Knowledge +2, Guts +2) (Guts Lv. 3)
 ##### Evening
-* Interact with payphone in Leblanc, Temperance Rank 1 (Requires Guts Lv. 3)
+* Interact with payphone in Leblanc, Temperance Rank 1 (Y5000) (Requires Guts Lv. 3)
 
 ---
 #### Sat 5/28
 ##### Daytime
 * Lovers Rank 4
 ##### Evening
-* Temperance Rank 2
+* Temperance Rank 2 (Y5000)
 
 ---
 #### Sun 5/29
 ##### Daytime
-* Aojiru (Knowledge +2)
+* Aojiru (Y5000) (Knowledge +2)
 * Lovers Rank 5
 ##### Evening
 * Sun Rank 3
@@ -465,7 +467,7 @@
 * Lovers Rank 6
 ##### Evening
 * Crossword: "Master" (Knowledge +2)
-* Temperance Rank 3
+* Temperance Rank 3 (Y5000)
 
 ---
 #### Sat 6/4
@@ -482,7 +484,7 @@
 ##### Evening
 * Request "An Elderly's Meaning of Life" flag
 * Investigate Kichijoji (Request "An Elderly's Meaning of Life" unlocked)
-* Aojiru (Charm +2)
+* Aojiru (Y5000) (Charm +2)
 * Sun Rank 4 (Charm +3)
 
 ---
@@ -539,7 +541,7 @@
 ##### Class
 * Justice Rank 1 (Auto)
 ##### Evening
-* Temperance Rank 4
+* Temperance Rank 4 (Y5000)
 
 ---
 #### Sat 6/11
@@ -549,7 +551,7 @@
 ---
 #### Sun 6/12
 ##### Daytime
-* Aojiru (Proficiency +2)
+* Aojiru (Y5000) (Proficiency +2)
 * Lovers Rank 7
 ##### Evening
 * Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Decorative Whip
@@ -578,8 +580,8 @@
 * Question: "Coins." (Knowledge +2)
 ##### Evening
 * Rain
-* [Battle Route] Buy "Expert Billiards" from sports shop
-* Temperance Rank 5
+* [Battle Route] Buy "Expert Billiards" (Y3500) from sports shop
+* Temperance Rank 5 (Y5000)
 
 ---
 #### Thu 6/16
@@ -596,7 +598,7 @@
 #### Fri 6/17
 ##### Evening
 * Rain
-* Temperance Rank 6
+* Temperance Rank 6 (Y5000)
 
 ---
 #### Sat 6/18
@@ -630,9 +632,10 @@
 ##### Class
 * [Battle Route] Reload chalk dodge for (Charm +3)
 ##### Daytime
+* Buy SP Adhesive 3 (Y50000) from Takemi Clinic
 * **Reach treasure in Bank Palace**
-* **Need Y100,000 for Fortune Rnk 0.2**
 * **Need to obtain Priestess, Emperor, Justice, and Faith personas**
+* **Need at least Y200,000**
 ##### Evening
 * Rain
 * Study at Leblanc (Knowledge +5)
@@ -644,7 +647,7 @@
 * Work at flower shop in Shibuya underground mall (Kindness +3)
 ##### Evening
 * Borrow "ICU" from DVD store
-* Buy Mega Fertilizer x6 from Shinjuku flower shop
+* Buy Mega Fertilizer x6 (Y18000) from Shinjuku flower shop
 * Buy "The Craft of Cinema", "Flowerpedia", and "ABCs of Crafting" from Shinjuku bookstore
 * Feed plant Mega Fertilizer (Kindness +5) (Kindness Lv. 3)
 * Crossword: "Currency" (Knowledge +2)
@@ -684,7 +687,7 @@
 ---
 #### Sun 6/26
 ##### Daytime
-* Aojiru (Guts +2)
+* Aojiru (Y5000) (Guts +2)
 * Priestess Rank 2
 ##### Evening
 * Sun Rank 6
@@ -714,7 +717,7 @@
 ##### Daytime
 * Faith Rank 3
 ##### Evening
-* Temperance Rank 7
+* Temperance Rank 7 (Y5000)
 
 ---
 #### Thu 6/30
@@ -723,7 +726,7 @@
 * Priestess Rank 3
 ##### Evening
 * Crossword: "Front" (Knowledge +2)
-* Fortune Rank 0.2 (Requires Y100,000)
+* Fortune Rank 0.2 (Y100000)
 ### July
 #### Fri 7/1
 ##### Train
@@ -733,12 +736,12 @@
 ##### Daytime
 * Borrow "Speed Reader" from library
 * Buy Yakisoba Pan from school store
-* Buy Retro Game Set from recycling shop
-* Buy Mammoth Summer lottery ticket from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
+* Buy Retro Game Set (Y5000) from recycling shop
+* Buy Mammoth Summer lottery ticket (Y3000) from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Lovers Rank 8
 ##### Evening
 * Trade Yakisoba Pan for Black Robe
-* Temperance Rank 8
+* Temperance Rank 8 (Y5000)
 
 ---
 #### Sat 7/2
@@ -757,7 +760,7 @@
 ##### Daytime
 * Chariot Hangout Ichigaya (Ichigaya unlocked)
 ##### Evening
-* Aojiru (Kindness +2)
+* Aojiru (Y5000) (Kindness +2)
 * Sun Rank 7 (Charm +3)
 
 ---
@@ -785,6 +788,7 @@
     6. Ending the Boyfriend's Abuse
     7. A Teacher Maid to Suffer
 * **Need to obtain Fortune persona**
+* **Money should stop being an issue**
 
 ##### Evening
 * Finish watching "ICU" (Kindness +5)
@@ -798,8 +802,8 @@
 ##### Daytime
 * Chariot Rank 9
 ##### Evening
-* Temperance Rank 9 Friendship
-* Temperance Rank 9 Romance
+* Temperance Rank 9 Friendship (Y5000)
+* Temperance Rank 9 Romance (Y5000)
 
 ---
 #### Thu 7/7
@@ -811,7 +815,7 @@
 * Buy "Ghost Encounters" from Shibuya bookstore
 * Faith Rank 4
 ##### Evening
-* Crossword: "Narcotics" (Knowledge +2) (Normal Route Knowledge Lv. 4)
+* Crossword: "Narcotics" (Knowledge +2)
 * Fortune Rank 1
 
 ---
@@ -823,9 +827,9 @@
 * Lovers Rank 9 Friendship
 * Lovers Rank 9 Romance
 ##### Evening
-* Ask Chihaya for a Luck Reading (Boost Kindness)
+* Ask Chihaya for a Luck Reading (Y5000) (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
-* Temperance Rank 10
+* Temperance Rank 10 (Y5000)
 
 ---
 #### Sat 7/9
@@ -886,8 +890,8 @@
 ---
 #### Sun 7/17
 ##### Evening
-* Aojiru (Knowledge +2)
-* Luck Reading (Boost Charm)
+* Aojiru (Y5000) (Knowledge +2)
+* Luck Reading (Y5000) (Boost Charm)
 * Sun Rank 8 (Charm +7) (Charm Lv. 4)
 
 ---
@@ -949,7 +953,7 @@
 ---
 #### Tue 7/26
 ##### Daytime
-* Ask Chihaya for a Money Reading
+* Ask Chihaya for a Money Reading (Y5000)
 * **Reach treasure in Pyramid Palace**
 * **Need to obtain Hermit, Hanged, Devil, and Star personas**
 ##### Evening
@@ -988,7 +992,7 @@
 ---
 #### Sat 7/30
 ##### Daytime
-* Luck Reading (Boost Guts)
+* Luck Reading (Y5000) (Boost Guts)
 * Keep sitting on sofa in front furniture store in east Kichijoji (Guts +3)
 * Watch movies in Shinjuku (Guts +10)
 ##### Evening
@@ -998,9 +1002,9 @@
 ---
 #### Sun 7/31
 ##### Daytime
-* Ask Chihaya for Affinity Reading with matching arcana (Chariot +2)
-* Luck Reading (Boost Charm)
-* Aojiru (Charm +3)
+* Ask Chihaya for Affinity Reading (Y5000) with matching arcana (Chariot +2)
+* Luck Reading (Y5000) (Boost Charm)
+* Aojiru (Y5000) (Charm +3)
 * Watch movies in Shibuya (Charm +10)
 ##### Evening
 * Sun Rank 9
@@ -1010,15 +1014,15 @@
 * Rain
 * Chariot Rank 10
 ##### Evening
-* Affinity Reading with matching arcana (Lovers +2)
-* Luck Reading (Boost Charm)
+* Affinity Reading (Y5000) with matching arcana (Lovers +2)
+* Luck Reading (Y5000) (Boost Charm)
 * Devil Rank 2 (Charm +4)
 
 ---
 #### Tue 8/2
 ##### Daytime
 * Request "We Aren't Just Your Slaves" flag
-* Affinity Reading with matching arcana (Lovers +2)
+* Affinity Reading (Y5000) with matching arcana (Lovers +2)
 * Lovers Rank 10 (Odaiba unlocked)
 ##### Evening
 * Justice Rank 4 (Jazz Club unlocked)
@@ -1041,8 +1045,8 @@
 * Faith Rank 5
 ##### Evening
 * TV Quiz: "Joyride, but return the car." (Knowledge +2)
-* Affinity Reading with matching arcana (Hierophant +2)
-* Luck Reading (Boost Charm)
+* Affinity Reading (Y5000) with matching arcana (Hierophant +2)
+* Luck Reading (Y5000) (Boost Charm)
 * Devil Rank 3 (Charm +4)
 
 ---
@@ -1062,9 +1066,9 @@
 ---
 #### Sun 8/7
 ##### Daytime
-* Aojiru (Proficiency +2)
+* Aojiru (Y5000) (Proficiency +2)
 * Buy Exorcism Water from church
-* Luck Reading (Boost Charm)
+* Luck Reading (Y5000) (Boost Charm)
 * Work at convenience store (Charm +7) (Request "Calling for Justice for Cats" unlocked)
     1. Memorize positions of barcodes
 ##### Evening
@@ -1074,7 +1078,7 @@
 ---
 #### Mon 8/8
 ##### Daytime
-* Luck Reading (Boost Kindness)
+* Luck Reading (Y5000) (Boost Kindness)
 * Work at flower shop (Kindness +7)
     1. Scarlet Rose
     2. Gold Gerbera
@@ -1089,14 +1093,14 @@
 ##### Daytime
 * Emperor Rank 7
 ##### Evening
-* Luck Reading (Boost Kindness)
+* Luck Reading (Y5000) (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
 * Devil Rank 4 (Charm +3)
 
 ---
 #### Wed 8/10
 ##### Daytime
-* Luck Reading (Boost Kindness)
+* Luck Reading (Y5000) (Boost Kindness)
 * Watch movies in Shibuya (Kindness +10) (Kindness Lv. 4)
 ##### Evening
 * Rain
@@ -1116,9 +1120,9 @@
 ##### Daytime
 * Emperor Rank 8
 ##### Evening
-* Affinity Reading with matching arcana (Devil +2)
+* Affinity Reading (Y5000) with matching arcana (Devil +2)
 * [Normal Route] Devil Rank 5
-* [Battle Route] Buy Jump Cue from sports shop
+* [Battle Route] Buy Jump Cue (Y48000) from sports shop
 * [Battle Route] Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magician")
 
 ---
@@ -1131,9 +1135,9 @@
 ---
 #### Sun 8/14
 ##### Daytime
-* Aojiru (Guts +2)
-* Affinity Reading with matching arcana (Fortune +2)
-* Luck Reading (Boost Kindness)
+* Aojiru (Y5000) (Guts +2)
+* Affinity Reading (Y5000) with matching arcana (Fortune +2)
+* Luck Reading (Y5000) (Boost Kindness)
 * Work at flower shop (Kindness +4) (Request "Who's Been Assaulting People?" unlocked)
 ##### Evening
 * Ask Lala at Bar Crosswords to work there
@@ -1142,7 +1146,7 @@
 ---
 #### Mon 8/15
 ##### Daytime
-* Luck Reading (Boost Guts)
+* Luck Reading (Y5000) (Boost Guts)
 * Big Bang Challenge (Charm +5, Proficiency +5, Guts +7, Knowledge +5)
 ##### Evening
 * Strength Hangout Sky Tree
@@ -1170,7 +1174,7 @@
 * Rain
 * Priestess Rank 8
 ##### Evening
-* Affinity Reading with matching arcana (Devil +2)
+* [Normal Route] Affinity Reading (Y5000) with matching arcana (Devil +2)
 * [Normal Route] Devil Rank 6
 * [Battle Route] Devil Rank 5
 
@@ -1192,7 +1196,7 @@
 ##### Daytime
 * Borrow "31" from DVD store
 * Buy Melon Pan from Ginza Line gate near Shibuya hideout
-* Luck Reading (Boost Guts)
+* Luck Reading (Y5000) (Boost Guts)
 * Big Bang Challenge (Guts +7)
 ##### Evening
 * Hanged Rank 3 (Proficiency +3) (Battle Route Proficiency Lv. 5)
@@ -1201,7 +1205,7 @@
 #### Sun 8/21
 ##### Evening
 * Cannot leave Leblanc
-* [Normal Route] Watch "31" (Guts +5)
+* [Normal Route] Watch "31" (Guts +5) (Normal Route Guts Lv. 5)
 * [Battle Route] Finish reading "Billiards Magician" (Masse Shot unlocked)
 
 ---
@@ -1220,13 +1224,13 @@
 ---
 #### Wed 8/24
 ##### Evening
-* Affinity Reading with matching arcana (Hanged +2)
+* Affinity Reading (Y5000) with matching arcana (Hanged +2)
 * Star Rank 4 (Jinbocho unlocked)
 
 ---
 #### Thu 8/25
 ##### Evening
-* Luck Reading (Boost Kindness)
+* Luck Reading (Y5000) (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
 * Crossword: "Sweltering" (Knowledge +2)
 * Fortune Rank 7
@@ -1247,14 +1251,14 @@
 ---
 #### Sun 8/28
 ##### Evening
-* Aojiru (Kindness +2)
+* Aojiru (Y5000) (Kindness +2)
 * Hanged Rank 5 (Proficiency +3)
 
 ---
 #### Mon 8/29
 ##### Evening
 * Request "Who's Muscling in Yongen-Jaya?" unlocked
-* Affinity Reading with matching arcana (Hanged +2)
+* Affinity Reading (Y5000) with matching arcana (Hanged +2)
 * Star Hangout Inokashira (If Star Rank 6 available, Free Time)
 
 ---
@@ -1286,7 +1290,7 @@
 * Strength Hangout Beach
 ##### Evening
 * Crossword: "Typhoon" (Knowledge +2)
-* Luck Reading (Boost Proficiency)
+* Luck Reading (Y5000) (Boost Proficiency)
 * Interact with desk in your room, Repair laptop (Proficiency +7) (Normal Route Proficiency Lv. 5)
 
 ---
@@ -1300,7 +1304,7 @@
 ---
 #### Sun 9/4
 ##### Daytime
-* Aojiru (Knowledge +2)
+* Aojiru (Y5000) (Knowledge +2)
 * Request "Winners Don't Use Cheats" flag
 * Investigate Shibuya arcade (Request "Winners Don't Use Cheats" unlocked)
 * Talk to Futaba outside Leblanc, Hermit Rank 2 (Requires Kindness Lv. 4)
@@ -1320,7 +1324,7 @@
 ##### Class
 * Question: "Chronostasis." (Knowledge +2)
 ##### Daytime
-* Money Reading
+* Money Reading (Y5000)
 * **Mementos Palace**
     1. One Who Bullies Bullies
     2. Part-time Job, Full-time Hell
@@ -1356,13 +1360,13 @@
 
 ---
 #### Sun 9/11
-##### Evening
-* Feed plant Mega Fertilizer (Kindness +5)
+##### All Day
+* Auto
 
 ---
 #### Mon 9/12
-##### All Day
-* Auto
+##### Evening
+* Feed plant Mega Fertilizer (Kindness +5)
 
 ---
 #### Tue 9/13
@@ -1398,8 +1402,8 @@
 ---
 #### Mon 9/19
 ##### Daytime
-* Money Reading
-* Luck Reading (Boost Knowledge)
+* Money Reading (Y5000)
+* Luck Reading (Y5000) (Boost Knowledge)
 * Visit Kichijoji info stand, Ask the receptionist every question (Knowledge +3)
 * **Reach treasure in Spaceport Palace**
 * **Need to obtain Empress and Tower personas**
@@ -1412,11 +1416,11 @@
 ---
 #### Tue 9/20
 ##### Daytime
-* Affinity Reading with matching arcana (Star +2)
-* Luck Reading (Boost Guts)
+* Affinity Reading (Y5000) with matching arcana (Star +2)
+* Luck Reading (Y5000) (Boost Guts)
 * Send calling card
 ##### Evening
-* Finish reading "Master Swordsman" (Guts +10) (Guts Lv. 5)
+* Finish reading "Master Swordsman" (Guts +10) (Battle Route Guts Lv. 5)
 
 ---
 #### Wed 9/21
@@ -1431,10 +1435,10 @@
 ---
 #### Thu 9/22
 ##### Daytime
-* Buy "Revelations Person" from Jinbocho
+* Buy "Heroic Revelations" from Jinbocho
 * Talk to Shinya in Akihabara arcade
 * Tell Futaba outside Leblanc to hack site
-* Luck Reading (Boost Kindness)
+* Luck Reading (Y5000) (Boost Kindness)
 * Report back to Shinya, Tower Rank 1 (Kindness +7)
 ##### Evening
 * TV Quiz: "Ten years in prison." (Knowledge +2) (Knowledge Lv. 5)
@@ -1443,18 +1447,18 @@
 ---
 #### Fri 9/23
 ##### Class
-* Read "Revelations Person"
+* Read "Heroic Revelations"
 ##### Daytime
 * Councillor Rank 6
 ##### Evening
-* Affinity Reading with matching arcana (Devil +2)
 * [Normal Route] Devil Rank 8 (Charm +5)
+* [Battle Route] Affinity Reading (Y5000) with matching arcana (Devil +2)
 * [Battle Route] Devil Rank 6
 
 ---
 #### Sat 9/24
 ##### Train
-* Finish reading "Revelations Person" (Knowledge +7)
+* Finish reading "Heroic Revelations" (Knowledge +7)
 ##### Class
 * Question: "20 white and 12 black." (Knowledge +2)
 ##### Daytime
@@ -1466,7 +1470,7 @@
 ---
 #### Sun 9/25
 ##### Daytime
-* Affinity Reading with matching arcana (Hanged +2)
+* Affinity Reading (Y5000) with matching arcana (Hanged +2)
 * Priestess Rank 9 Friendship
 * Priestess Rank 9 Romance
 ##### Evening
@@ -1517,7 +1521,7 @@
 ##### Class
 * Finish reading "Call Me Chief" (Kindness +7)
 ##### Daytime
-* Buy "Karakuri" from Jinbocho
+* Buy "The Art of Automata" from Jinbocho
 * Councillor Rank 7
 ##### Evening
 * [Normal Route] Devil Rank 9 Friendship
@@ -1526,7 +1530,7 @@
 ### October
 #### Sat 10/1
 ##### Daytime
-* Affinity Reading with matching arcana (Devil +2)
+* [Normal Route] Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Tower Rank 4 (Kindness +3)
 ##### Evening
 * Hanged Rank 7
@@ -1534,7 +1538,7 @@
 ---
 #### Sun 10/2
 ##### Daytime
-* Affinity Reading with matching arcana (Devil +2)
+* [Normal Route] Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Priestess Rank 10
 ##### Evening
 * Trade Calling Postcard for Strawberry Daifuku x2
@@ -1548,7 +1552,7 @@
 ---
 #### Tue 10/4
 ##### Daytime
-* Affinity Reading with matching arcana (Devil +2)
+* [Normal Route] Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Death Rank 9 Friendship
 * Death Rank 9 Romance
 ##### Evening
@@ -1557,9 +1561,9 @@
 ---
 #### Wed 10/5
 ##### Class
-* Read "Karakuri"
+* Read "The Art of Automata"
 ##### Daytime
-* Affinity Reading with matching arcana (Death +2)
+* Affinity Reading (Y5000) with matching arcana (Death +2)
 * Hermit Rank 6
 ##### Evening
 * Rain
@@ -1568,12 +1572,12 @@
 ---
 #### Thu 10/6
 ##### Train
-* Finish reading "Karakuri" (Proficiency +7)
+* Finish reading "The Art of Automata" (Proficiency +7)
 ##### Class
 * Question: "Joseph-Ignace Guillotin." (Knowledge +2)
 ##### Daytime
 * Buy "Reckless Casanova" from Jinbocho
-* Affinity Reading with matching arcana (Death +2)
+* Affinity Reading (Y5000) with matching arcana (Death +2)
 * Tower Rank 5 (Kindness +3)
 ##### Evening
 * Crossword: "Black" (Knowledge +2)
@@ -1610,7 +1614,7 @@
 * Tower Rank 7
 ##### Evening
 * Crossword: "Halloween" (Knowledge +2)
-* Affinity Reading with matching arcana (Tower +2)
+* Affinity Reading (Y5000) with matching arcana (Tower +2)
 * Hierophant Rank 9
 
 ---
@@ -1747,7 +1751,7 @@
 ---
 #### Sun 10/30
 ##### Daytime
-* Money Reading
+* Money Reading (Y5000)
 * **Reach barrier in Casino Palace**
 ##### Evening
 * Call Kawakami for massage
@@ -1771,7 +1775,7 @@
 #### Tue 11/1
 ##### Daytime
 * Buy "Game Secrets" and "Pro Darts" from Shinjuku bookstore
-* Money Reading
+* Money Reading (Y5000)
 * Attempt to send calling card
 * **Mementos Palace**
     1. Shady Deal in the Shadows
@@ -1883,16 +1887,18 @@
 ##### Class
 * Finish reading "Bowman" (Guts +5)
 ##### Daytime
+* [Battle Route] Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Empress Rank 6
 ##### Evening
 * [Normal Route] Free Time
-* [Battle Route] Devil Rank 10
+* [Battle Route] Moon Rank 10
 
 ---
 #### Sat 11/12
 ##### Class
 * Question: "Because the voice is synthetic." (Knowledge +2)
 ##### Daytime
+* [Battle Route] Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Councillor Rank 9
 ##### Evening
 * Star Rank 9 Friendship
@@ -1901,7 +1907,7 @@
 ---
 #### Sun 11/13
 ##### Daytime
-* Affinity Reading with matching arcana (Star +2)
+* Affinity Reading (Y5000) with matching arcana (Star +2)
 * Buy Moon Dango from Yongen-Jaya grocery store
 * Hermit Rank 9 Friendship
 * Hermit Rank 9 Romance
@@ -1916,6 +1922,7 @@
 ##### Class
 * Question: "Because of high altitude." (Knowledge +2)
 ##### Daytime
+* [Battle Route] Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Empress Rank 7
 ##### Evening
 * Crossword: "Bashing" (Knowledge +2)
@@ -1929,7 +1936,7 @@
 * Empress Rank 8
 ##### Evening
 * [Normal Route] Free Time
-* [Battle Route] Moon Rank 10
+* [Battle Route] Devil Rank 10
 
 ---
 #### Wed 11/16
@@ -2019,7 +2026,7 @@
 ##### Daytime
 * Crane game
     1. Receive Sheep Man Doll
-* Money Reading
+* Money Reading (Y5000)
 * Buy Legendary Yaki-Imo from Yongen-Jaya street vendor
 * **Reach treasure in Cruiser Palace**
 * Justice Rank 9 (Auto)
@@ -2445,7 +2452,7 @@
 ---
 #### Wed 1/25
 ##### Daytime
-* Money Reading
+* Money Reading (Y5000)
 * **Reach final floor of Mementos Palace**
     1. A Silent Voice
     2. Cry, My Beloved Sister
@@ -2482,7 +2489,7 @@
 * Request "Fakeman Show" flag
 * Investigate Akihabara (Request "Idols and Unicorns" unlocked)
 * Investigate Kichijoji (Request "Fakeman Show" unlocked)
-* Money Reading
+* Money Reading (Y5000)
 * **Mementos Palace**
     1. Idols and Unicorns
     2. Fakeman Show

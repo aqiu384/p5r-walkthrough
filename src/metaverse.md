@@ -3,6 +3,7 @@
 #### General Notes
 * The entire party's gun ammo replenishes after every battle **(Royal)**
 * You get a set number of Down Shots per Metaverse infiltration **(Royal)**
+* The entire party starts in Guard mode if ambushed **(Royal)**
 * Futaba's All-out Attack heals the entire party's HP and may activate in place of a normal All-out Attack if it would defeat all enemies **(Royal)**
 * Security Level starts at 40% **(Royal)**
 

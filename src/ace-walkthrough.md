@@ -55,7 +55,7 @@
 #### Mon 4/18
 ##### Daytime
 * Talk to librarian in Shujin library, Borrow "Pirate Legend"
-* Buy DVD Player from Yongen-Jaya recycling shop
+* Buy DVD Player (Y2500) from Yongen-Jaya recycling shop
 * Buy crafting materials from recycling shop
 * Talk to Takemi in her Yongen-Jaya clinic, Death Rank 1 (Guts +2)
 ##### Evening
@@ -68,7 +68,7 @@
 ##### Class
 * Question: "They're the same." (Knowledge +2)
 ##### Daytime
-* Buy Bio Nutrients from flower shop in Shibuya underground mall
+* Buy Bio Nutrients (Y1200) from flower shop in Shibuya underground mall
 * Talk to Ryuji outside 2D classroom, Chariot Rank 2 (Do not need matching arcana, expect 1 less note)
 ##### Evening
 * Cannot leave Leblanc
@@ -117,7 +117,7 @@ Read "Pirate Legend"
 ---
 #### Sun 4/24
 ##### Daytime
-* Drink Aojiru for Y5,000 at Shibuya underground platform (Charm +2) (Charm Lv. 2)
+* Drink Aojiru (Y5000) for Y5,000 at Shibuya underground platform (Charm +2) (Charm Lv. 2)
 * Sign up for Rafflesia flower shop job from part-time listings in Shibuya underground walkway (Requires Charm Lv. 2)
 * Work at flower shop in Shibuya underground mall (Kindness +3)
 ##### Evening
@@ -131,7 +131,7 @@ Read "Pirate Legend"
 * Question with matching arcana: "You unquestioningly support it." and "You have a duty to correct it." (Charm +2) (Lovers +2)
 ##### Daytime
 * Borrow "The Alluring Dancer" from library
-* Buy rental membership from DVD store on Shibuya central street
+* Buy rental membership (Y4800) from DVD store on Shibuya central street
 * Borrow "X-Folders" from DVD store
 * Work at flower shop (Kindness +5) (Kindness Lv. 2)
     1. Create a bouquet that satisfies the customer's request
@@ -183,8 +183,8 @@ Read "The Alluring Dancer"
 ### ACE May
 #### Sun 5/1
 ##### Daytime
-* Aojiru (Proficiency +2)
-* Buy Bio Nutrients x3 from Shibuya flower shop
+* Aojiru (Y5000) (Proficiency +2)
+* Buy Bio Nutrients x3 (Y3600) from Shibuya flower shop
 * Death Rank 2 (Requires Guts Lv. 2) (Guts +2)
 ##### Evening
 * Bathhouse (Charm +5)
@@ -240,7 +240,7 @@ Read "The Alluring Dancer"
 ##### Class
 * Moon Rank 2 (Auto)
 ##### Evening
-* Aojiru (Guts +2)
+* Aojiru (Y5000) (Guts +2)
 * Work at beef bowl (Proficiency +5)
     1. Correctly memorize all orders
 
@@ -348,7 +348,7 @@ Read "The Alluring Dancer"
 ---
 #### Sun 5/22
 ##### Daytime
-* Aojiru (Kindness +2)
+* Aojiru (Y5000) (Kindness +2)
 * Chariot Rank 4
 ##### Evening
 * Bathhouse (Charm +5)
@@ -412,7 +412,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * Chariot Hangout Harajuku
 ##### Evening
-* Aojiru (Knowledge +2)
+* Aojiru (Y5000) (Knowledge +2)
 * Chariot Hangout Movies (Kindness +5)
 
 ---
@@ -420,7 +420,7 @@ Read "Buchiko's Story"
 ##### Class
 * Faith Rank 1 (Auto)
 ##### Evening
-* Interact with payphone in Leblanc, Temperance Rank 1 (Requires Guts Lv. 3)
+* Interact with payphone in Leblanc, Temperance Rank 1 (Y5000) (Requires Guts Lv. 3)
 
 ---
 #### Tue 5/31
@@ -461,7 +461,7 @@ Read "Buchiko's Story"
 * Councillor Rank 3
 ##### Evening
 * Crossword: "Master" (Knowledge +2)
-* Temperance Rank 2
+* Temperance Rank 2 (Y5000)
 
 ---
 #### Sat 6/4
@@ -471,7 +471,7 @@ Read "Buchiko's Story"
 * Rain
 * Order Surprise Sando at diner (Knowledge +3, Guts +2)
 ##### Evening
-* Temperance Rank 3
+* Temperance Rank 3 (Y5000)
 
 ---
 #### Sun 6/5
@@ -480,7 +480,7 @@ Read "Buchiko's Story"
 ##### Evening
 * Request "An Elderly's Meaning of Life" flag
 * Investigate Kichijoji (Request "An Elderly's Meaning of Life" unlocked)
-* Aojiru (Charm +2)
+* Aojiru (Y5000) (Charm +2)
 * Sun Rank 2 (Charm +3)
 
 ---
@@ -536,8 +536,8 @@ Read "Buchiko's Story"
 #### Sun 6/12
 ##### Daytime
 * Request "Part-time Job, Full-time Hell" unlocked
-* Aojiru (Proficiency +2)
-* Buy "Expert Billiards" and Jump Cue from sports shop
+* Aojiru (Y5000) (Proficiency +2)
+* Buy "Expert Billiards" and Jump Cue (Y51500) from sports shop
 * Lovers Rank 5
 ##### Evening
 * Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Decorative Whip
@@ -565,7 +565,7 @@ Read "Buchiko's Story"
 * Question: "Coins." (Knowledge +2)
 ##### Evening
 * Rain
-* Temperance Rank 4
+* Temperance Rank 4 (Y5000)
 
 ---
 #### Thu 6/16
@@ -578,7 +578,7 @@ Read "Buchiko's Story"
 #### Fri 6/17
 ##### Evening
 * Rain
-* Temperance Rank 5
+* Temperance Rank 5 (Y5000)
 
 ---
 #### Sat 6/18
@@ -611,7 +611,7 @@ Read "Buchiko's Story"
 * Rain
 * Borrow "ICU" from DVD store
 * Buy "The Craft of Cinema" and "ABCs of Crafting" from Shinjuku bookstore
-* Buy 6 "Mega Fertilizer" from Shinuku flower shop
+* Buy "Mega Fertilizer" x6 (Y18000) from Shinuku flower shop
 * Billiards (Random Stat +3) (Technical Lv. 3) (Obtain "Billiards Magician")
 
 ---
@@ -643,7 +643,7 @@ Read "Buchiko's Story"
 * Lovers Rank 6
 ##### Evening
 * Rain
-* Temperance Rank 6
+* Temperance Rank 6 (Y5000)
 
 ---
 #### Sat 6/25
@@ -657,7 +657,7 @@ Read "Buchiko's Story"
 ---
 #### Sun 6/26
 ##### Daytime
-* Aojiru (Guts +2)
+* Aojiru (Y5000) (Guts +2)
 * **Reach treasure in Bank Palace**
 ##### Evening
 * Crafting (Proficiency +3)
@@ -690,7 +690,7 @@ Read "Buchiko's Story"
 * Faith Rank 3
 ##### Evening
 * Trade Yakisoba Pan for Black Robe
-* Temperance Rank 7
+* Temperance Rank 7 (Y5000)
 
 ---
 #### Thu 6/30
@@ -709,10 +709,10 @@ Read "Buchiko's Story"
 ##### Daytime
 * Borrow "Speed Reader" from library
 * Buy all books including "Ghost Encounters" and "Tidying the Heart" from Shibuya bookstore
-* Buy Mammoth Summer lottery ticket from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
+* Buy Mammoth Summer lottery ticket (Y3000) from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Talk to Makoto outside Shujin student council room, Priestess Rank 1 (Requires Knowledge Lv. 3)
 ##### Evening
-* Temperance Rank 8
+* Temperance Rank 8 (Y5000)
 
 ---
 #### Sat 7/2
@@ -723,7 +723,7 @@ Read "Buchiko's Story"
 * Temperance Rank 8.1 (Auto) (Request "A Teacher Maid to Suffer" unlocked)
 * Emperor Rank 4
 ##### Evening
-* Fortune Rank 0.2 (Requires Y100,000)
+* Fortune Rank 0.2 (Y100000)
 * Accept Chariot Invitation
 
 ---
@@ -731,7 +731,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * Chariot Hangout Ichigaya (Ichigaya unlocked)
 ##### Evening
-* Aojiru (Kindness +2)
+* Aojiru (Y5000) (Kindness +2)
 * Sun Rank 4 (Charm +3)
 
 ---
@@ -791,11 +791,11 @@ Read "Buchiko's Story"
 * Buy Soothing Soba from Shibuya convenience store
 * Lovers Rank 7
 ##### Evening
-* Ask Chihaya for Luck Reading (Boost Kindness)
+* Ask Chihaya for Luck Reading (Y5000) (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
 * **Temperance must be completed on the romance route to receive Night Pennant room decoration**
-* Temperance Rank 9 Friendship
-* Temperance Rank 9 Romance
+* Temperance Rank 9 Friendship (Y5000)
+* Temperance Rank 9 Romance (Y5000)
 
 ---
 #### Sat 7/9
@@ -853,9 +853,9 @@ Read "Buchiko's Story"
 ---
 #### Sun 7/17
 ##### Evening
-* Aojiru (Knowledge +2)
+* Aojiru (Y5000) (Knowledge +2)
 * Borrow "The Running Dead" from DVD shop
-* Luck Reading (Boost Charm)
+* Luck Reading (Y5000) (Boost Charm)
 * Lovers Hangout Movies (Charm +10)
 
 ---
@@ -912,10 +912,10 @@ Read "Buchiko's Story"
 ---
 #### Tue 7/26
 ##### Daytime
-* Buy Retro Game Set from recycling shop
+* Buy Retro Game Set (Y5000) from recycling shop
 * Priestess Rank 4
 ##### Evening
-* Luck Reading (Boost Kindness)
+* Luck Reading (Y5000) (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
 * Reload for MRE Ration from airsoft shop vending machine
 * Trade MRE Ration for "Factorization Guide"
@@ -929,14 +929,14 @@ Read "Buchiko's Story"
 * Emperor Hangout Leblanc-7/27 (Charm +5)
 ##### Evening
 * Crossword: "Fireworks" (Knowledge +2)
-* Temperance Rank 10
+* Temperance Rank 10 (Y5000)
 
 ---
 #### Thu 7/28
 ##### Daytime
 * Chariot Hangout Leblanc-7/28 (Guts +5)
 ##### Evening
-* Luck Reading (Boost Guts)
+* Luck Reading (Y5000) (Boost Guts)
 * Priestess Hangout Movies (Guts +10)
 * Accept Justice Invitation
 
@@ -951,7 +951,7 @@ Read "Buchiko's Story"
 ---
 #### Sat 7/30
 ##### Daytime
-* Luck Reading (Boost Guts)
+* Luck Reading (Y5000) (Boost Guts)
 * Keep sitting on sofa in front furniture store in east Kichijoji (Guts +3)
 * Lovers Rank 8
 ##### Evening
@@ -961,9 +961,9 @@ Read "Buchiko's Story"
 ---
 #### Sun 7/31
 ##### Daytime
-* Ask Chihaya for Money Reading
-* Luck Reading (Boost Charm)
-* Aojiru (Charm +3) (Charm Lv. 4)
+* Ask Chihaya for Money Reading (Y5000)
+* Luck Reading (Y5000) (Boost Charm)
+* Aojiru (Y5000) (Charm +3) (Charm Lv. 4)
 * **Reach treasure in Pyramid Palace**
 * **Need to obtain Hermit, Hanged, and Devil personas**
 ##### Evening
@@ -1011,7 +1011,7 @@ Read "Buchiko's Story"
 * Request "Calling for Justice for Cats" flag
 * Chariot Rank 9
 ##### Evening
-* Luck Reading (Boost Kindness)
+* Luck Reading (Y5000) (Boost Kindness)
 * Emperor Hangout Movies (Kindness +10)
 * Accept Lovers Invitation
 
@@ -1025,11 +1025,11 @@ Read "Buchiko's Story"
 ---
 #### Sun 8/7
 ##### Daytime
-* Aojiru (Proficiency +2)
+* Aojiru (Y5000) (Proficiency +2)
 * Borrow "24 days" from DVD store
 * Buy "Master Swordsman" from Jinbocho
 * Buy Exorcism Water from church
-* Luck Reading (Boost Charm)
+* Luck Reading (Y5000) (Boost Charm)
 * Work at convenience store (Charm +7) (Request "Calling for Justice for Cats" unlocked)
     1. Handle the queue efficiently
 ##### Evening
@@ -1066,8 +1066,8 @@ Read "Buchiko's Story"
 * Rain
 * Emperor Hangout Leblanc-8/11 (Charm +5)
 ##### Evening
-* Luck Reading (Boost Kindness)
-* Ask Chihaya for Affinity Reading with matching arcana (Hierophant +2)
+* Luck Reading (Y5000) (Boost Kindness)
+* Ask Chihaya for Affinity Reading (Y5000) with matching arcana (Hierophant +2)
 * Feed plant Mega Fertilizer (Kindness +7) (Kindness Lv. 4)
 * Sun Rank 6
 
@@ -1076,8 +1076,8 @@ Read "Buchiko's Story"
 ##### Daytime
 * Emperor Rank 7
 ##### Evening
-* Luck Reading (Boost Charm)
-* Affinity Reading with matching arcana (Hierophant +2)
+* Luck Reading (Y5000) (Boost Charm)
+* Affinity Reading (Y5000) with matching arcana (Hierophant +2)
 * Devil Rank 2 (Charm +4)
 
 ---
@@ -1090,8 +1090,8 @@ Read "Buchiko's Story"
 ---
 #### Sun 8/14
 ##### Daytime
-* Luck Reading (Boost Guts)
-* Aojiru (Guts +3)
+* Luck Reading (Y5000) (Boost Guts)
+* Aojiru (Y5000) (Guts +3)
 * Lovers Rank 9 Friendship
 * Lovers Rank 9 Romance
 ##### Evening
@@ -1102,7 +1102,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * [Optional] Priestess Hangout Jinbocho
 ##### Evening
-* Luck Reading (Boost Charm)
+* Luck Reading (Y5000) (Boost Charm)
 * Devil Rank 3 (Charm +4) (Charm Lv. 5)
 
 ---
@@ -1116,8 +1116,8 @@ Read "Buchiko's Story"
 ---
 #### Wed 8/17
 ##### Daytime
-* Luck Reading (Boost Kindness)
-* Affinity Reading with matching arcana (Fortune +2)
+* Luck Reading (Y5000) (Boost Kindness)
+* Affinity Reading (Y5000) with matching arcana (Fortune +2)
 * Work at flower shop (Kindness +7) (Request "Who's Been Assaulting People?" unlocked)
     1. Create a bouquet that satisfies the customer's request
 ##### Evening
@@ -1136,8 +1136,8 @@ Read "Buchiko's Story"
 ---
 #### Fri 8/19
 ##### Daytime
-* Luck Reading (Boost Guts)
-* Affinity Reading with matching arcana (Lovers +2)
+* Luck Reading (Y5000) (Boost Guts)
+* Affinity Reading (Y5000) with matching arcana (Lovers +2)
 * Lovers Rank 10 (Odaiba unlocked)
 ##### Evening
 * Rain
@@ -1149,7 +1149,7 @@ Read "Buchiko's Story"
 * Buy Melon Pan from Ginza Line gate near Shibuya hideout
 * Chariot Rank 10
 ##### Evening
-* Luck Reading (Boost Proficiency)
+* Luck Reading (Y5000) (Boost Proficiency)
 * Hanged Rank 3 (Proficiency +4)
 
 ---
@@ -1168,7 +1168,7 @@ Read "Buchiko's Story"
 ---
 #### Tue 8/23
 ##### Evening
-* Luck Reading (Boost Proficiency)
+* Luck Reading (Y5000) (Boost Proficiency)
 * Hanged Rank 4 (Proficiency +4)
 
 ---
@@ -1180,8 +1180,8 @@ Read "Buchiko's Story"
 #### Thu 8/25
 ##### Evening
 * Crossword: "Sweltering" (Knowledge +2) (Knowledge Lv. 5)
-* Luck Reading (Boost Kindness)
-* Affinity Reading with matching arcana (Hanged +2)
+* Luck Reading (Y5000) (Boost Kindness)
+* Affinity Reading (Y5000) with matching arcana (Hanged +2)
 * Hierophant Rank 4 (Kindness +4)
 
 ---
@@ -1200,8 +1200,8 @@ Read "Buchiko's Story"
 ---
 #### Sun 8/28
 ##### Evening
-* Luck Reading (Boost Kindness)
-* Aojiru (Kindness +3)
+* Luck Reading (Y5000) (Boost Kindness)
+* Aojiru (Y5000) (Kindness +3)
 * Feed plant Mega Fertilizer (Kindness +7)
 * Work at bar, Talk to Scary-looking Man (Kindness +4, Guts +2) (Guts Lv. 5) (Request "We Aren't Just Your Slaves" unlocked)
 
@@ -1227,7 +1227,7 @@ Read "Buchiko's Story"
 ### ACE September
 #### Thu 9/1
 ##### Evening
-* Affinity Reading with matching arcana (Devil +2)
+* Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Fortune Rank 7.1 (Request "Debunking the Psychic!" unlocked)
 
 ---
@@ -1251,7 +1251,7 @@ Read "Buchiko's Story"
 ---
 #### Sun 9/4
 ##### Daytime
-* Aojiru (Knowledge +2)
+* Aojiru (Y5000) (Knowledge +2)
 * Request "Winners Don't Use Cheats" flag
 * Investigate Shibuya arcade (Request "Winners Don't Use Cheats" unlocked)
 * Hermit Rank 3
@@ -1262,7 +1262,7 @@ Read "Buchiko's Story"
 ---
 #### Mon 9/5
 ##### Daytime
-* Affinity Reading with matching arcana (Hanged +2)
+* Affinity Reading (Y5000) with matching arcana (Hanged +2)
 * Strength Hangout Beach
 ##### Evening
 * Devil Rank 5 (Charm +3)
@@ -1340,7 +1340,7 @@ Read "Buchiko's Story"
 ---
 #### Mon 9/19
 ##### Daytime
-* Money Reading
+* Money Reading (Y5000)
 * **Mementos Palace**
     1. Bad Medicine
     2. The Lovesick Cyberstalking Girl
@@ -1370,7 +1370,7 @@ Read "Buchiko's Story"
 ##### Class
 * Question: "Central Europe." (Knowledge +2)
 ##### Daytime
-* Luck Reading (Boost Kindness)
+* Luck Reading (Y5000) (Boost Kindness)
 * Talk to Shinya in Akihabara arcade
 * Tell Futaba outside Leblanc to hack site
 * Report back to Shinya, Tower Rank 1 (Kindness +7)
@@ -1437,7 +1437,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ##### Class
 * Question: "Phantom.", "Vibration.", and "Syndrome." (Knowledge +2)
 ##### Daytime
-* Money Reading
+* Money Reading (Y5000)
 * **Reach treasure in Spaceport Palace**
 ##### Evening
 * Crossword: "Ranking" (Knowledge +2)
@@ -1721,9 +1721,9 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ---
 #### Sat 11/5
 ##### Train
-Read "Revelations Person"
+Read "Heroic Revelations"
 ##### Class
-* Finish reading "Revelations Person" (Knowledge +7)
+* Finish reading "Heroic Revelations" (Knowledge +7)
 ##### Daytime
 * Priestess Rank 10
 ##### Evening
@@ -1742,7 +1742,7 @@ Read "Revelations Person"
 ##### Daytime
 * Crane game
     1. Receive Wanna-kun Doll
-* Money Reading
+* Money Reading (Y5000)
 * **Mementos Palace**
     1. Shady Deal in the Shadows
     2. Fighting for Truth of Journalism
@@ -1767,7 +1767,7 @@ Read "Revelations Person"
 ---
 #### Wed 11/9
 ##### Daytime
-* Money Reading
+* Money Reading (Y5000)
 * **Reach barrier in Casino Palace**
 ##### Evening
 * Call Kawakami for massage
@@ -1803,7 +1803,7 @@ Read "Reckless Casanova"
 ##### Class
 * Question: "Because the voice is synthetic." (Knowledge +2)
 ##### Daytime
-* Affinity Reading with matching arcana (Devil +2)
+* Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Tower Rank 9 (Kindness +5)
 ##### Evening
 * Hanged Rank 9
@@ -1821,7 +1821,7 @@ Read "Reckless Casanova"
 ---
 #### Mon 11/14
 ##### Train
-Read "Karakuri"
+Read "The Art of Automata"
 ##### Class
 * Question: "Because of high altitude." (Knowledge +2)
 ##### Daytime
@@ -1843,7 +1843,7 @@ Read "Karakuri"
 ---
 #### Wed 11/16
 ##### Class
-* Finish reading "Karakuri" (Proficiency +7)
+* Finish reading "The Art of Automata" (Proficiency +7)
 ##### Daytime
 * Rain
 * Councillor Rank 8
@@ -2020,7 +2020,7 @@ Read "Karakuri"
 ---
 #### Fri 12/9
 ##### Daytime
-* Money Reading
+* Money Reading (Y5000)
 * **Reach treasure in Cruiser Palace**
 * Justice Rank 9 (Auto)
 * Justice Rank 10 (Auto)
@@ -2075,7 +2075,7 @@ Read "Karakuri"
 ---
 #### Thu 12/15
 ##### Daytime
-* Money Reading
+* Money Reading (Y5000)
 * **Mementos Palace**
     1. Swindling Old Folk is Pretty Low
     2. The Head Honcho in Showbiz
@@ -2363,7 +2363,7 @@ Free Time
 ##### Train
 Free Time
 ##### Daytime
-* Money Reading
+* Money Reading (Y5000)
 * **Reach final floor of Mementos Palace**
     1. A Silent Voice
     2. Cry, My Beloved Sister
@@ -2405,7 +2405,7 @@ Free Time
 #### Mon 1/30
 ##### Daytime
 * Investigate Kichijoji (Request "Fakeman Show" unlocked)
-* Money Reading
+* Money Reading (Y5000)
 * **Mementos Palace**
     1. Idols and Unicorns
     2. Fakeman Show
