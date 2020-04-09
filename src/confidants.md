@@ -494,7 +494,7 @@ Rank 9 (Friendship)
 3. Choice 2: "That was the right move." (+1)
 4. Choice 1: "I'm a regular here." (+3)
 5. Choice 1: "You'll find someone someday." (+2)
-6. (Phone) Choice 1: "No problem." (+1)
+6. (Phone) Choice 1: "No problem at all." (+1)
 
 Rank 9 (Romance)
 1. Choice 2: "Your fight's with me." (+2)
@@ -503,7 +503,7 @@ Rank 9 (Romance)
 4. Choice 1: "I'm a regular here." (+3)
 5. Choice 2: "I'll be your study partner." (+0)
 6. Choice 1: "I do." (+3)
-7. (Phone) Choice 1: "Anything for you." (+1)
+7. (Phone) Choice 1: "I'd do anything for you." (+1)
 
 Rank 10
 
@@ -571,50 +571,50 @@ Rank 2
 1. Choice 3: "Are you starting a farm?" (+3)
 2. Choice 3: "He sounds suspicious." (+1)
 3. Choice 1: "This is a complex issue." (+2)
-4. (Phone) Choice 3: "Jeweled Melon." (+2)
+4. (Phone) Choice 3: "Jewel Melon." (+2)
 
 Rank 3
-1. Choice 3: "It'll be OK, I promise." (+2)
-2. Choice 1: "I don't want to go with you." (+1)
+1. Choice 3: "It'll be okay, I promise." (+2)
+2. Choice 1: "I don't want to go with you." (+2)
 3. Choice 2: "Not yet." (+2)
-4. (Phone) Choice 1: "A delicious return." (+1)
+4. (Phone) Choice 1: "Smart response." (+2)
 
 **Rank 4 requires Proficiency Lv. 5 (Transcendent).**
 
 Rank 4
 1. Choice 3: "It must be amazing." (+2)
-2. Choice 3: "Kthx." (+3)
+2. Choice 3: "Cheers." (+3)
 3. Choice 2: "I can taste the elephant." (+3)
-4. Choice 3: "Let's ask him." (+1)
-5. Choice 3: "I'm not really sure." (+1)
-6. (Phone) Choice 3: "Let's have coffee again." (+1)
+4. Choice 3: "Let's ask him." (+2)
+5. Choice 3: "I'm not really sure." (+2)
+6. (Phone) Choice 3: "Let's get coffee again sometime." (+2)
 
 Rank 5
 1. Choice 2: "Somebody's telling the truth." (+2)
 2. Choice 3: "There has to be another way." (+1)
 3. Choice 3: "I don't think so." (+2)
-4. (Phone) Choice 3: "Try pinching yourself." (+1)
+4. (Phone) Choice 3: "Pinch yourself." (+2)
 
 Rank 6
 1. Choice 3: "Can you make some for me?" (+2)
-2. Choice 1: "I had no idea." (+1)
+2. Choice 1: "I had no idea." (+2)
 3. Choice 3: "Black like coffee?" (+3)
 4. -
 5. Choice 2: "Be strong, Haru." (+3)
-6. (Phone) Choice 1: "I'm always here to listen." (+1)
+6. (Phone) Choice 1: "You can talk to me anytime." (+2)
 
 Rank 7
 1. -
 2. Choice 3: "What do you want to do?" (+2)
 3. Choice 3: "You should tell him that." (+3)
 4. Choice 2: "You can do it, Haru." (+3)
-5. (Phone) Choice 2: "I'll support you." (+1)
+5. (Phone) Choice 2: "I'll always have your back." (+2)
 
 Rank 8
 1. Choice 1: "The soil?" (+2)
 2. Choice 2: "He's going to love it." (+3)
 3. Choice 2: "You're amazing, Haru." (+3)
-4. (Phone) Choice 3: "I'm hoping as well." (+1)
+4. (Phone) Choice 3: "I want some too." (+2)
 
 Rank 9 (Friendship)
 1. -
@@ -641,11 +641,11 @@ Hangout Asakusa (11/6 only, Devil Rank 8 or lower or romance)
 1. Choice 2: "It was fun." (+2)
 2. -
 3. -
-4. Choice 2: "That's a relief." (+2) (Devil +2)
+4. Choice 2: "There's nothing to fear." (+2) (Devil +2)
 5. Receive Kumade
 
 Hangout Movies (11/6 only) **(Guts +5)**
-1. Choice 2: "I kinda like them." (+2)
+1. Choice 2: "I like them a lot." (+2)
 
 Hangout Tsukishima
 1. Choice 1: "Let's do our best." (+3)
@@ -746,7 +746,7 @@ Hangout Leblanc-8/11 **(Charm +5)**
 1. Choice 1: "There's no way." (+2)
 
 Hangout Study-10/15 **(Knowledge +5)**
-1. Choice 1: "Certainly." (+1)
+1. Choice 1: "Absolutely." (+1)
 
 Hangout Ueno
 1. Choice 3: "Is it noisy?" (+3)
@@ -835,7 +835,7 @@ Rank 8.1
 Rank 9
 1. Choice 1: "It's great." (+2)
 2. Choice 2: "You have a great daughter." (+3)
-3. (Phone) Choice 2: "Futaba did her best." (+1)
+3. (Phone) Choice 2: "Futaba did great." (+1)
 
 Rank 10
 
@@ -1173,13 +1173,13 @@ Rank 6
 **Rank 7 locked until 11/2. Requires Knowledge Lv. 4 (Encyclopedic).**
 
 Rank 7
-1. Choice 2: "It's fine." (+2)
+1. Choice 2: "That's why it's so fun." (+2)
 2. -
 3. -
-4. Choice 2: "I couldn't afford to lose." (+2)
+4. Choice 2: "I couldn't let myself lose." (+2)
 5. -
 6. Choice 1: **"I'll think about it."** (+0)
-7. (Phone) Choice 3: "We're rivals, after all." (+1)
+7. (Phone) Choice 3: "We're rivals, aren't we?" (+1)
 
 **Rank 8 requires defeating Akechi in a solo fight event.**
 
@@ -1189,8 +1189,8 @@ Rank 8
 3. -
 4. -
 5. -
-6. Choice 1: "I won't lose." (+2)
-7. Choice 2: "I'd hate to lose." (+2)
+6. Choice 1: "I definitely wouldn't lose." (+2)
+7. Choice 2: "Really hate losing, don't you?" (+2)
 8. Choice 1: **"I accept."** (+0)
 
 **Ranks 9 and 10 automatically triggered during Cruiser Palace if Rank 8 completed.**
@@ -1207,10 +1207,10 @@ Rank 11
 
 #### Other Events
 Hangout Shinagawa (7/29 only)
-1. Choice 1: "It's a nice place." (+3)
+1. Choice 1: "It's a nice place." (+2)
 2. -
-3. Choice 1: "If you like." (Devil +3)
-4. Choice 2: "It's nothing bad." (+2)
+3. Choice 1: "If you like." (Devil +2)
+4. Choice 2: "It's nothing bad." (+1)
 
 ### Hermit
 #### Availability
@@ -1281,24 +1281,24 @@ Rank 8
 1. Choice 1: "That's incredible." (+3)
 2. Choice 1: "You worked really hard too." (+2)
 3. -
-4. (Phone) Choice 3: "Want more headpats?" (+1)
+4. (Phone) Choice 3: "Want more pats?" (+1)
 
 Rank 9 (Friendship)
 1. Choice 1: "You've really matured." (+2)
-2. Choice 2: "Are you OK, Futaba?" (+2)
+2. Choice 2: "Are you okay, Futaba?" (+2)
 3. Choice 2: "No way." (+1)
 4. Choice 1: "Because we're teammates." (+0)
-5. (Phone) Choice 3: "I'm a key item." (+1)
+5. (Phone) Choice 3: "A key item." (+1)
 
 Rank 9 (Romance)
 1. Choice 1: "You've really matured." (+2)
-2. Choice 2: "Are you OK, Futaba?" (+2)
+2. Choice 2: "Are you okay, Futaba?" (+2)
 3. Choice 2: "No way." (+1)
 4. Choice 2: "Because I love you." (+0)
 5. -
 6. -
 7. -
-8. (Phone) Choice 3: "Want me to say it again?" (+1)
+8. (Phone) Choice 3: "Do I really have to say it?" (+1)
 
 Rank 10
 
@@ -1311,13 +1311,13 @@ Hangout Leblanc-9/25 **(Guts +5)**
 1. Win or lose (+2)
 
 Hangout Movies (10/2 only) **(Knowledge +5)**
-1. Choice 2: "I somehow get it." (+3)
+1. Choice 2: "I think so..." (+3)
 
 Hangout Nakano (10/9 only)
-1. Choice 3: "Are you gonna work here?" (+3)
+1. Choice 3: "Work a part time job?" (+3)
 2. -
-3. Choice 2: "She's my sister." (+1)
-4. Choice 2: "He's a store owner." (Hanged +2)
+3. Choice 2: "Basically my sister." (Hanged +1)
+4. Choice 1: "He's my boss." (Hanged +2)
 5. -
 
 Hangout Leblanc-10/10 **(Proficiency +5)**
@@ -1422,7 +1422,7 @@ Rank 9 (Friendship)
 Rank 9 (Romance)
 1. -
 2. Choice 2: "Well, fate can be changed." (+3)
-3. Choice 1: "So I can be with you." (+0)
+3. Choice 2: "So I can be with you." (+0)
 4. (Phone) Choice 1: "I wanted to hear your voice too." (+1)
 
 Rank 10
@@ -1570,7 +1570,7 @@ Rank 7
 1. Choice 2: "Absolutely." (+2)
 2. Choice 2: "He's clever." (+2)
 3. -
-4. (Phone) Choice 1: "Just as I hoped." (+1)
+4. (Phone) Choice 1: "Bring it on." (+1)
 
 **Rank 7.1 requires Guts Lv. 5 (Lionhearted).**
 
@@ -1584,16 +1584,16 @@ Rank 7.1
 Rank 8 **(Proficiency +5)**
 1. Choice 2: "I dunno." (+1)
 2. Choice 2: "I guess I could consider it." (+2)
-3. (Phone) Choice 1: "Got it." (+1)
+3. (Phone) Choice 1: "Understood." (+1)
 
 Rank 9 (Unlocks Daiba Seaside Park)
 1. Choice 3: "Are you sure he's still alive?" (+2)
 2. -
 3. -
 4. -
-5. Choice 2: "Believe in Kaoru." (+2)
+5. Choice 2: "You need to trust your son." (+2)
 6. Choice 1: "Kaoru is really strong-willed." (+3)
-7. (Phone) Choice 1: "As expected of your son." (+1)
+7. (Phone) Choice 1: "Like father, like son." (+1)
 
 Rank 10 **(Proficiency +3)**
 
@@ -1685,7 +1685,7 @@ Rank 9 (Friendship)
 3. Choice 1: "It wanted to see you." (+0)
 4. Choice 1: "I love you." (+1)
 5. Choice 2: "That sounds good." (+0)
-6. (Phone) Choice 3: "It's great you completed it." (+1)
+6. (Phone) Choice 3: "I'm glad we saw it through." (+1)
 
 Rank 9 (Romance)
 1. Choice 3: "It was rough." (+2)
@@ -1693,7 +1693,7 @@ Rank 9 (Romance)
 3. Choice 1: "It wanted to see you." (+0)
 4. Choice 1: "I love you." (+1)
 5. Choice 1: "It isn't a joke." (+3)
-6. (Phone) Choice 2: "Same here." (+1)
+6. (Phone) Choice 2: "So did you." (+1)
 
 Rank 10 (Friendship)
 
@@ -1891,16 +1891,14 @@ Rank 8 **(Charm +5)**
 Rank 9 (Friendship)
 1. -
 2. Choice 2: "You're not giving up, are you?" (+1)
-3. Choice 1: **"You can't do this on you own."** (+2)
+3. Choice 1: **"I can't leave you."** (+2)
 4. -
-5. Choice 1: "I took it seriously." (+0)
-6. Choice 2: "Just kidding." (+0)
-7. (Phone) Choice 1: "Are you OK?" (+1)
+5. Choice 2: "I didn't take it seriously." (+0)
 
 Rank 9 (Romance)
 1. -
 2. Choice 2: "You're not giving up, are you?" (+1)
-3. Choice 1: **"You can't do this on you own."** (+2)
+3. Choice 1: **"I can't leave you."** (+2)
 4. -
 5. Choice 1: "I took it seriously." (+0)
 6. Choice 1: "I love you, Ichiko." (+0)
@@ -1945,16 +1943,16 @@ Rank 1 **(Kindness +5)**
 Rank 2 **(Kindness +5)**
 1. Choice 2: "Don't compare me to you." (+2)
 2. Choice 2: "What a rude employee." (+1)
-3. Choice 2: "Do you admire them?" (+2)
+3. Choice 2: "Do you admire them?" (+1)
 4. Choice 3: "I'll let them know." (+3)
-5. (Phone) Choice 1: "I'll do my best." (+1)
+5. (Phone) Choice 1: "I'll work hard." (+1)
 
 Rank 3 **(Kindness +3)**
 1. -
 2. -
 3. -
 4. Choice 1: "That's the spirit." (+1)
-5. (Phone) Choice 1: "Alright." (+1)
+5. (Phone) Choice 1: "Sure." (+1)
 
 Rank 4 **(Kindness +3)**
 1. Choice 3: "Yeah, you tell him!" (+1)
@@ -1964,14 +1962,14 @@ Rank 5 **(Kindness +3)**
 1. Choice 1: "It was pretty weird." (+3)
 2. Choice 2: "I'm sure you can do it." (+1)
 3. Choice 2: "You need a new strategy." (+2)
-4. (Phone) Choice 1: "I'll support you." (+1)
+4. (Phone) Choice 1: "I'll be cheering you on." (+1)
 
 Rank 6 **(Kindness +3)**
 1. -
 2. -
 3. Choice 2: "I believe in you." (+2)
 4. Choice 2: "Not at all." (+2)
-5. (Phone) Choice 1: "Of course." (+1)
+5. (Phone) Choice 1: "Of course I won't." (+1)
 
 Rank 7
 1. -
@@ -1991,7 +1989,7 @@ Rank 9 **(Kindness +5)**
 1. Choice 1: "I'm glad to hear that." (+2)
 2. Choice 3: "It means you've matured." (+3)
 3. Choice 1: "He wants to win at all costs." (+1)
-4. (Phone) Choice 3: "You worked hard." (+1)
+4. (Phone) Choice 3: "You did a great job too." (+1)
 
 Rank 10 **(Kindness +2)**
 
@@ -2077,14 +2075,14 @@ Rank 9 (Friendship)
 1. Choice 1: "Give it all you got." (+1)
 2. Choice 3: "A very queenly decision." (+2)
 3. Choice 1: "I want to become stronger." (+0)
-4. (Phone) Choice 3: "Next time you'll win." (+1)
+4. (Phone) Choice 3: "Let's win the next one." (+1)
 
 Rank 9 (Romance)
 1. Choice 1: "Give it all you got." (+1)
 2. Choice 3: "A very queenly decision." (+2)
 3. Choice 2: "I want to stay by your side." (+0)
 4. Choice 1: "I want us to date." (+0)
-5. (Phone) Choice 3: "Love at first sight." (+1)
+5. (Phone) Choice 3: "It was love at first sight." (+1)
 
 Rank 10
 
@@ -2157,6 +2155,12 @@ There are 16 total requests that count towards progression.
 * Rank 3: One Who Bullies Bullies
 * Rank 4: Part-time Job, Full-time Hell
 * Rank 8: Man of Many Faces and Debts
+
+#### Other Events
+Hangout Suidobashi (11/3 only)
+1. -
+2. -
+3. Choice 1: Can he join us? (Tower +2)
 
 ### Sun
 #### Availability
@@ -2321,7 +2325,7 @@ Rank 6 (HP +5)
 Rank 7 (HP +5)
 1. -
 2. -
-3. Choice 1: "Are you OK?" (+1)
+3. Choice 1: "Are you okay?" (+1)
 4. Choice 1: "It's not like that at all." (+2)
 5. -
 6. Choice 1: "Of course." (+3)
@@ -2438,7 +2442,7 @@ Rank 5 (SP +5)
 **Rank 6 locked until 9/20.**
 
 Rank 6
-1. Choice 2: "Anothe cup?" (+1)
+1. Choice 2: "Another cup?" (+1)
 2. Choice 1: "I can do that." (+2)
 3. -
 4. Choice 3: "So give up." (+1)
@@ -2456,9 +2460,9 @@ Rank 8
 1. Choice 2: "What do you mean?" (+2)
 2. Choice 1: "Ooh, really?" (+2)
 3. Choice 1: "Thanks for the food!" (+2)
-4. Choice 3: "We've made a deal." (+1)
+4. Choice 3: "We've made a deal." (+2)
 5. Choice 1: "Congratulations." (+3)
-6. Choice 1: "I sure do." (+1)
+6. Choice 1: "I sure do." (+2)
 7. -
 8. (Phone) Choice 1: "He's a good friend." (+1)
 

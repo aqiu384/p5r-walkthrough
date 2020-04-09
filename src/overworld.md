@@ -142,9 +142,9 @@
 * Location: Yongen-Jaya cinema
 * Timing: Anytime
 * Stat Gains: First time watching (Also during confidant invites)
-    * Like a Showtime Tiger: September **(Charm +5)**
+    * Showtime Redemption: September **(Charm +5)**
     * Back to the Ninja: October and 10/2 Futaba invite **(Knowledge +5)**
-    * Popo's Nest: November **(Kindness +5)**
+    * Over the Pigeon's Nest: November **(Kindness +5)**
     * A Very Gutsy Christmas: December **(Guts +5)**
     * March of the Sheeple: January **(Proficiency +5)**
     * The Good Father: February **(Kindness +5)**
@@ -226,7 +226,7 @@
     * Tokyo Shrines: Available 9/1 (Unlocks Meiji Shrine)
     * Night Skies: Available 9/1 (Unlocks Ikebukuro Planetarium)
     * Musty Pages: Available 9/1 (Unlocks Jinbocho Bookstore)
-    * A Walk Down Nakano Street **(Royal)**: Available 10/1 (Unlocks Nakano Shopping Mall)
+    * Nakano Walker **(Royal)**: Available 10/1 (Unlocks Nakano Shopping Mall)
 
 ##### Shibuya Movies
 * Unlocked: Auto
@@ -237,7 +237,7 @@
     * The Cake Knight Rises: May, June, and 5/29 Ryuji invite **(Kindness +5)**
     * Love Possibly: July and 7/17 Ann invite **(Charm +5)**
     * Le Miserable: August and September 8/5 Yusuke invite **(Kindness +5)**
-    * Mansion: Impossible: October and November **(Proficiency +5)**
+    * Admission Impossible: October and November **(Proficiency +5)**
     * Mecha-hard: December **(Kindness +5)**
     * Fighting Friends: January **(Charm +5)**
 * Activity Notes:
@@ -303,8 +303,8 @@
     * The Illusory Popess: Available after Makoto awakens **(Kindness +5)**
     * Cry of Cthulhu: Available after Futaba awakens **(Guts +5)**
     * Woman in the Dark: Available after Haru awakens **(Proficiency +5)**
-    * Girl in Ashes **(Royal)**: Available after Kasumi awakens **(Charm +5)**
-    * Bowman **(Royal)**: Available after Akechi awakens **(Guts +5)**
+    * Dressed in Ashes **(Royal)**: Available after Kasumi awakens **(Charm +5)**
+    * The Hero with a Bow **(Royal)**: Available after Akechi awakens **(Guts +5)**
 * Enhance Activities (1 chapter)
     * Speed Reader **(Royal)**: Available 7/1 (Allows 2 chapters to be read at a time during a session)
 
@@ -339,7 +339,7 @@
     * Like a Dragon: June, July, and 7/28 Makoto invite **(Guts +5)**
     * Saraemon: August and September **(Knowledge +5)**
     * Duh-vengers: October **(Kindness +5)**
-    * ZAW: November, December, and 11/13 Haru invite **(Guts +5)**
+    * Pach-Saw: November, December, and 11/13 Haru invite **(Guts +5)**
     * Fight Kebab: January **(Guts +5)**
 * Activity Notes:
     * After reading "The Craft of Cinema": Additional **(Social Stat +2)**
@@ -363,7 +363,7 @@
     * Heroic Revelations **(Royal)**: Available after MS **(Knowledge +7)**
     * The Art of Automata **(Royal)**: Available after MS **(Proficiency +7)**
 * Enhance Activities (1 chapter)
-    * Technical Expertise **(Royal)**: Unlocks additional technical combos
+    * Knowing the Heart **(Royal)**: Unlocks additional technical combos
         * Forget: Elec
         * Confusion: Gun and Wind
         * Fear: Ice
@@ -409,14 +409,14 @@
     * 8/7: Heroic Set (Vacuum Cutter x4, Psy-Wheel x4, Nuke Cracker x4) for Y8980
     * 8/14: Drink Set (Second Maid x20, Water of Rebirth x20) for Y2980 
     * 8/14: Floral Gift Set (Glass Vase, Flower Basket) for Y2980
-    * 9/25: (Stealthanol x3, Smoke Screen x5, Lockpick x5) for Y8980 
-    * 9/25: (Phantom Wafers x5, Calling Postcard x5) for Y2000
-    * 10/2: (Lantern Necklace (Fire Amp), Pumpkin Pack x5) for Y14800 
-    * 10/2: (Baptismal Water x5, Exorcism Water x5) for Y9980
-    * 11/6: (Physical Ointment x3, Magical Ointment x3) for Y19800 
-    * 11/6: (Heat Riser Supplement, Rebellion Supplement x5) for Y14800
-    * 11/13: (Matarunda Spray x5, Marakunda Spray x5, Masukunda Spray x5) for Y34500 
-    * 11/13: (Ma Nirvana Incense, En Nirvana Incense, Lu Nirvana Incense) for Y29800
+    * 9/25: Phantom Thief Set 2 (Calming Aroma x3, Smoke Screen x5, Lockpick x5) for Y8980 
+    * 9/25: Thief Fun Set (Phantom Wafers x5, Calling Postcard x3) for Y2000
+    * 10/2: Pumpkin Ghost Set (Lantern Necklace - Fire Amp, Pumpkin Soup x5) for Y14800 
+    * 10/2: Ghost Repellent Set (Baptismal Water x5, Exorcism Water x5) for Y9980
+    * 11/6: Sturdy Ointment Set (Physical Ointment x3, Magical Ointment x3) for Y19800 
+    * 11/6: Inner Muscle Set (Salvation S - Heat Riser, Hustle S - Rebellion x5) for Y14800
+    * 11/13: Instant Spray Set (Ultimate Spray - Matarunda, Cleaning Spray - Marakunda x5, Quick Spray - Masukunda x5) for Y34500 
+    * 11/13: Meditative Set (Nirvana MA, Nirvana EN, Nirvana LU) for Y29800
     * 11/27: (Legendary Yaki-Imo x3, Beni-Azuma x10) for Y9800 
     * 11/27: (Melon Pan x3, Moon Dango x5) for Y4800
     * 12/11: (Refresh Aroma x3, Recover Oil x5) for Y39800 
@@ -461,7 +461,7 @@
 * Results: Enhancement items
     * Imported Protein: Sold once per month starting 6/1, HP +5 and SP +3 during gym workouts, HP +4 during room workouts.
     * Moist Protein: Sold once per rainy day, HP +3 and SP +2 during gym workouts, HP +2 during room workouts
-    * My Darts: Further narrows aim circle while playing darts
+    * Darts Set: Further narrows aim circle while playing darts
     * Expert Billiards: 1 chapter, teaches Back Hand during billiards
     * Jump Cue: Necessary to perform Jump Shot during billiards
     * Fishing Rods: More attempts when reeling in a fish during fishing
@@ -484,7 +484,7 @@
         * Yusuke: Choice 1: "Pretend like you're painting."
         * Makoto: Choice 3: "Take a deep breath."
         * Futaba (No Baton Pass rank): Choice 2: "This is the real thing."
-        * Haru: Choice 3: "Just enjoy it."
+        * Haru: Choice 3: "Have fun with it."
         * Akechi (Impossible to end on round 4): None
         * Kasumi: Choice 3: "Believe in yourself."
 
@@ -569,11 +569,11 @@
     * 8/7-13: Trade Exorcism Water from Kanda Church on Sundays for Black Gun
     * 8/22-27: Trade Melon Pan from Ginza Platform Vendor for Old Man's Fist (160 Atk 94 Hit Medium chance of Burn)
     * 9/4-6: Trade Phantom Wafers from Shibuya Central Street for Strength Up Ofuda x2
-    * 9/19-24: Trade Thief Mask from Shibuya Central Street for Concentrate Supplement x2
+    * 9/19-24: Trade Thief Mask from Shibuya Central Street for Magic UP Fuda x2
     * 10/2-8: Trade Calling Postcard from Shibuya Central Street for Strawberry Daifuku (Salvation) x2
-    * 10/16-22: Trade Gear Girimehkala from Akihabara Capsule Row for Hot Blooded Sword (190 Atk 90 Hit Medium chance of Burn)
-    * 10/30-11/5: Trade Mystery Stew from Akihabara Trader for Angelic Grace Ring
-    * 11/13-17: Trade Moon Dango from Yogen-Jaya Grocery Store for Kintarou Axe (235 Atk 92 Hit HP +30)
+    * 10/16-22: Trade Gear Girimehkala from Akihabara Capsule Row for Hot-Blooded Sword (190 Atk 90 Hit Medium chance of Burn)
+    * 10/30-11/5: Trade Mystery Stew from Akihabara Trader for Angel Badge - Angelic Grace
+    * 11/13-17: Trade Moon Dango from Yogen-Jaya Grocery Store for Kintaro Axe (235 Atk 92 Hit HP +30)
     * 11/27-12/3: Trade Legendary Yaki-Imo from Yogen-Jaya Street Vendor for Heat Riser Supplement x3
     * 12/11-17: Trade Angel Tart from Shibuya Underground Mall for Feverish Bat (Atk 270 Hit 91 Medium chance of Burn)
     * 1/13-14: Trade Limited-edition Steamed Bun from Kichijoji Chinese Vendor for Resist Phys Ring

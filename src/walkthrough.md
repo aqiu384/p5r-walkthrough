@@ -526,7 +526,7 @@
         * Ann: Choice 3: "Just play like normal."
         * Yusuke: Choice 1: "Pretend like you're painting."
         * Makoto: Choice 3: "Take a deep breath."
-        * Haru: Choice 3: "Just enjoy it."
+        * Haru: Choice 3: "Have fun with it."
     3. Score 180 in round 1 of game 2
     4. Let your game 2 partner finish on round 4 (Baton Pass Lv. 3)
 
@@ -1284,7 +1284,7 @@
 #### Fri 9/2
 ##### Daytime
 * Buy Broken Laptop from recycling shop
-* Buy Laptop Repair Kit from Akihabara
+* Buy PC Tool Set from Akihabara
 * Buy "Master Swordsman" from Jinbocho
 * Buy Phantom Wafers, Thief Mask, and Calling Postcard from Shibuya
 * Strength Hangout Beach
@@ -1410,7 +1410,7 @@
 ##### Evening
 * Call Kawakami for massage
 * Crossword: "Festival" (Knowledge +3)
-* Trade Thief Mask for Concentrate Supplement x2
+* Trade Thief Mask for Magic UP Fuda x2
 * Star Rank 6 (Knowledge +3)
 
 ---
@@ -1430,7 +1430,7 @@
 * **Clear Spaceport Palace**
 ##### Evening
 * Call Kawakami for massage
-* Moon Rank 6.1
+* Talk to Mishima in Akihabara streets, Moon Rank 6.1
 
 ---
 #### Thu 9/22
@@ -1639,7 +1639,7 @@
 ##### Daytime
 * Rain
 * Request "The Killer Who Cleans Up Trash" unlocked
-* Buy "Technical Expertise" from Jinbocho
+* Buy "Knowing the Heart" from Jinbocho
 * Councillor Rank 8
 ##### Evening
 * Hierophant Rank 10
@@ -1662,7 +1662,7 @@
 * Trade Gear Girimehkala with man near capsule row for Mystery Stew
 * Hermit Rank 7 (Request "Daughter's Just a Meal Ticket" unlocked)
 ##### Evening
-* Trade Gear Girimehkala for Hot Blooded Sword
+* Trade Gear Girimehkala for Hot-Blooded Sword
 * Strength Hangout Maid Cafe
 
 ---
@@ -1684,7 +1684,7 @@
 #### Thu 10/20
 ##### Evening
 * Cannot leave Leblanc
-* Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
+* Finish reading "Knowing the Heart" (Additional Technical conditions unlocked)
 
 ---
 #### Fri 10/21
@@ -1712,19 +1712,18 @@
 ---
 #### Mon 10/24
 ##### Class
+* Exam results (Charm +5)
 * Question: "Memory bias." (Knowledge +2)
 ##### Evening
-* Buy "A Walk Down Nakano Street", "Night Skies", and "Tokyo Shrines" from Shibuya bookstore
+* Buy "Nakano Walker", "Night Skies", and "Tokyo Shrines" from Shibuya bookstore
+* Talk to Sojiro for exam reward - Leblanc Charm - Null Sleep
 * Strength Hangout Art Museum
 
 ---
 #### Tue 10/25
-##### Class
-* Exam results (Charm +5)
 ##### Evening
 * Cannot leave Leblanc
-* Talk to Sojiro for exam reward
-* Finish reading "A Walk Down Nakano Street" (Nakano unlocked)
+* Finish reading "Nakano Walker" (Nakano unlocked)
 
 ---
 #### Wed 10/26
@@ -1755,7 +1754,7 @@
 * **Reach barrier in Casino Palace**
 ##### Evening
 * Call Kawakami for massage
-* Trade Mystery Stew for Angelic Grace Ring
+* Trade Mystery Stew for Angel Badge - Angelic Grace
 * Darts with Akechi (Proficiency +3)
     1. Let Joker finish on round 5 (Baton Pass Lv. 2)
 
@@ -1764,7 +1763,6 @@
 ##### Class
 * Finish reading "Tokyo Shrines" (Meiji-Shrine unlocked)
 ##### Daytime
-* Draw on classroom chalkboard (Guts +2)
 * **Reach treasure in Casino Palace**
 ##### Evening
 * Crossword: "Stalls" (Knowledge +2)
@@ -1775,6 +1773,7 @@
 #### Tue 11/1
 ##### Daytime
 * Buy "Game Secrets" and "Pro Darts" from Shinjuku bookstore
+* Draw on classroom chalkboard (Guts +2)
 * Money Reading (Y5000)
 * Attempt to send calling card
 * **Mementos Palace**
@@ -1829,7 +1828,7 @@
 ##### Class
 * Finish reading "Woman in the Dark" (Proficiency +5)
 ##### Daytime
-* Borrow "Girl in Ashes" from library
+* Borrow "Dressed in Ashes" from library
 * Empress Rank 3
 ##### Evening
 * Talk to Akechi to initiate solo battle, Justice Rank 8
@@ -1856,6 +1855,7 @@
 ##### Class
 * Question: "Any age." (Knowledge +2)
 ##### Daytime
+* Affinity Reading (Y5000) with matching arcana (Star +2)
 * Empress Rank 5
 ##### Evening
 * Hanged Rank 9
@@ -1863,6 +1863,7 @@
 ---
 #### Wed 11/9
 ##### Daytime
+* Affinity Reading (Y5000) with matching arcana (Star +2)
 * Hermit Rank 8
 ##### Evening
 * Star Hangout Jinbocho (If Star Rank 9 available, Free Time)
@@ -1870,11 +1871,11 @@
 ---
 #### Thu 11/10
 ##### Train
-* Finish reading "Girl in Ashes" (Charm +5)
+* Finish reading "Dressed in Ashes" (Charm +5)
 ##### Class
 * Question: "Crow eyes are hard to see." (Knowledge +2)
 ##### Daytime
-* Borrow "Bowman" from library
+* Borrow "The Hero with a Bow" from library
 * Tower Rank 10 (Kindness +2)
 ##### Evening
 * TV Quiz: "Me in front of my TV." (Knowledge +2)
@@ -1885,7 +1886,7 @@
 ---
 #### Fri 11/11
 ##### Class
-* Finish reading "Bowman" (Guts +5)
+* Finish reading "The Hero with a Bow" (Guts +5)
 ##### Daytime
 * [Battle Route] Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Empress Rank 6
@@ -1912,7 +1913,7 @@
 * Hermit Rank 9 Friendship
 * Hermit Rank 9 Romance
 ##### Evening
-* Trade Moon Dango for Kintarou Axe
+* Trade Moon Dango for Kintaro Axe
 * Hanged Rank 10 (Proficiency +3)
 
 ---
@@ -2003,7 +2004,7 @@
 ##### Evening
 * Cannot leave Leblanc
 * TV Quiz: "Speaker of the House decides." (Knowledge +2)
-* Finish reading "Tidying the Heart" (Proficiency +5)
+* Free Time
 
 ---
 #### Fri 11/25

@@ -1026,7 +1026,7 @@ Read "Buchiko's Story"
 #### Sun 8/7
 ##### Daytime
 * Aojiru (Y5000) (Proficiency +2)
-* Borrow "24 days" from DVD store
+* Borrow "31" from DVD store
 * Buy "Master Swordsman" from Jinbocho
 * Buy Exorcism Water from church
 * Luck Reading (Y5000) (Boost Charm)
@@ -1234,7 +1234,7 @@ Read "Buchiko's Story"
 #### Fri 9/2
 ##### Daytime
 * Buy Broken Laptop from recycling shop
-* Buy Laptop Repair Kit from Akihabara
+* Buy PC Tool Set from Akihabara
 * Buy Phantom Wafers, Thief Mask, and Calling Postcard from Shibuya
 * Talk to Futaba outside Leblanc, Hermit Rank 2 (Requires Kindness Lv. 4)
 ##### Evening
@@ -1355,7 +1355,7 @@ Read "Buchiko's Story"
 ##### Evening
 * Crossword: "Festival" (Knowledge +2)
 * Call Kawakami for massage
-* Trade Thief Mask for Concentrate Supplement x2
+* Trade Thief Mask for Magic UP Fuda x2
 * Star Rank 8 (Knowledge +2) (Throw away points)
 
 ---
@@ -1585,7 +1585,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 * Trade Gear Girimehkala with man near capsule row for Mystery Stew
 * Hermit Rank 6
 ##### Evening
-* Trade Gear Girimehkala for Hot Blooded Sword
+* Trade Gear Girimehkala for Hot-Blooded Sword
 * Hanged Rank 7.1 (Requires Guts Lv. 5) (Request "Shady Deal in the Shadows" unlocked)
 
 ---
@@ -1670,7 +1670,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ##### Daytime
 * Tower Hangout Maihama
 ##### Evening
-* Trade Mystery Stew for Angelic Grace Ring
+* Trade Mystery Stew for Angel Badge - Angelic Grace
 * Strength Hangout Art Museum
 
 ---
@@ -1815,7 +1815,7 @@ Read "Reckless Casanova"
 * Death Rank 9 Friendship
 * Death Rank 9 Romance
 ##### Evening
-* Trade Moon Dango for Kintarou Axe
+* Trade Moon Dango for Kintaro Axe
 * Empress Hangout Movies (Guts +7)
 
 ---
@@ -1848,13 +1848,13 @@ Read "The Art of Automata"
 * Rain
 * Councillor Rank 8
 ##### Evening
-* Buy "Technical Expertise" from Jinbocho
+* Buy "Knowing the Heart" from Jinbocho
 * Moon Rank 10
 
 ---
 #### Thu 11/17
 ##### Train
-* Finish reading "Technical Expertise" (Additional Technical conditions unlocked)
+* Finish reading "Knowing the Heart" (Additional Technical conditions unlocked)
 ##### Class
 * Question: "Cochleoid." (Knowledge +2)
 ##### Daytime
