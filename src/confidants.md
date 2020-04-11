@@ -535,12 +535,12 @@ Hangout Study-10/14 **(Knowledge +5)**
 1. Choice 1: "I'm doing okay." (+1)
 
 Hangout Suidobashi
-1. Choice 3: "To the amusement park." (+3)
+1. Choice 3: "Let's go ride something." (+3)
 2. Receive Gi-Nyant Doll
 
 Hangout Chinatown
-1. Choice 3: "How about spring rolls?" (+3)
-2. Choice 2: "Let's look around." (+2)
+1. Choice 3: "Spring rolls?" (+3)
+2. Choice 2: "Let's find some." (+2)
 3. Receive Shumai Cushion
 
 ### Empress
@@ -621,14 +621,14 @@ Rank 9 (Friendship)
 2. Choice 3: "Give it all you've got, Haru." (+3)
 3. Choice 2: "You did amazing." (+3)
 4. Choice 1: "He saw us as good friends." (+0)
-5. (Phone) Choice 2: "You've cheered up." (+1)
+5. (Phone) Choice 2: "You sound happy." (+2)
 
 Rank 9 (Romance)
 1. -
 2. Choice 3: "Give it all you've got, Haru." (+3)
 3. Choice 2: "You did amazing." (+3)
 4. Choice 2: "I like you too, Haru." (+0)
-5. (Phone) Choice 2: "I wanted to hear your voice." (+1)
+5. (Phone) Choice 2: "I wanted to hear your voice." (+2)
 
 Rank 10
 
@@ -648,7 +648,7 @@ Hangout Movies (11/6 only) **(Guts +5)**
 1. Choice 2: "I like them a lot." (+2)
 
 Hangout Tsukishima
-1. Choice 1: "Let's do our best." (+3)
+1. Choice 1: "We'll try together." (+3)
 2. Receive Giant Spatula
 
 ### Emperor
@@ -749,15 +749,15 @@ Hangout Study-10/15 **(Knowledge +5)**
 1. Choice 1: "Absolutely." (+1)
 
 Hangout Ueno
-1. Choice 3: "Is it noisy?" (+3)
+1. Choice 2: "Glad you're enjoying this." (+2)
 2. Receive Nude Statue
 
 Hangout Meiji-Shrine
-1. Choice 3: "Money." (+2)
+1. Choice 3: "Boatloads of money." (+2)
 2. Receive Hamaya
 
 Hangout Ikebukuro
-1. Choice 2: "Glad to hear it." (+2)
+1. Choice 2: "I'm glad you're better now." (+2)
 2. Receive Star Stickers
 
 ### Hierophant
@@ -1092,9 +1092,10 @@ Hangout Ogikubo
 2. Receive Ramen Bowl
 
 Hangout Nakano
-1. Choice 2: "Let's go to the arcade." (+2)
-2. Choice 1: "Let's have a look." (+3)
-3. Receive Featherman Figurine
+1. Choice 2: "Let's go to the game center." (+2)
+2. Choice 1: "Let's check it out." (+3)
+3. -
+4. Receive Featherman Dolls
 
 ### Justice
 #### Availability
@@ -1199,7 +1200,7 @@ Rank 9
 
 Rank 10
 
-**The night after clearing the Cruiser Palace choose "Keep good on your promise."**
+**The night after Rank 10 choose "I want to keep our promise."**
 
 **Rank 11 automatically triggered on 2/2 if Rank 10 completed and promise kept.**
 
@@ -1324,11 +1325,11 @@ Hangout Leblanc-10/10 **(Proficiency +5)**
 1. Choice 1: "Of course." (+3) 
 
 Hangout Akihabara
-1. Choice 3: "What a betrayal..." (+3)
+1. Choice 3: "You feel betrayed..." (+3)
 2. Receive Hero Figurine
 
 Hangout Asakusa
-1. Choice 3: "Look, a ninja!" (+3)
+1. Choice 3: "Hey look, a ninja." (+3)
 2. Receive I <3 Tokyo Shirt
 
 ### Fortune
@@ -1428,8 +1429,11 @@ Rank 9 (Romance)
 Rank 10
 
 #### Other Events
-Hangout Oshiage
-1. Choice 2: "It's exciting." (+3)
+Hangout Jinbocho
+1. Choice 1: "Autobiographies of great people." (+3)
+
+Hangout Oshiage (Visited Jinbocho)
+1. Choice 2: "Such a delicious thrill..." (+3)
 2. Receive Sky Tower Lamp
 
 ### Strength
@@ -2094,7 +2098,7 @@ Hangout Akihabara (9/22 only)
 4. Choice 3: "I can understand both." (Fortune +2)
 
 Hangout Inokashira
-1. Choice 2: "It's inspiring." (+3)
+1. Choice 2: "It's a good stimulator, huh?" (+3)
 
 Hangout Jinbocho (Rank 7 or higher, Must complete Hangout Inokashira)
 1. Choice 1: "Leave it to me." (+3)
@@ -2376,9 +2380,9 @@ Rank 11
 
 #### Other Events
 Hangout Shinagawa (Only before 12/22)
-1. Choice 1: "I feel the same." (+3)
-2. Choice 3: "Why not both?" (+3)
-3. Receive Sea Slug Plushie
+1. Choice 1: "Yeah." (+3)
+2. Choice 3: "Let's see both." (+3)
+3. Receive Sea Slug Doll
 
 ### Councillor
 #### Availability

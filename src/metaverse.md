@@ -336,7 +336,7 @@
 | Daughter's Just a Meal Ticket | Hermit Rank 7 | Adyeshach 3 | A | Yes | Growth 3 | - |
 | A Mother's Aggression | Tower Rank 8 | Adyeshach 11 | A | No | Soma | - |
 | Swindling Old Folk is Pretty Low | 11/25 | Adyeshach 13 | A | Yes | Haten Robe | - |
-| The Lady-killer's Ballad **(Royal)** | 12/10 | Sheriruth 8 | A | No | Agitation Crown | Can instantly Brainwash female party members |
+| Lady-Killer's Ballad **(Royal)** | 12/10 | Sheriruth 8 | A | No | Agitation Crown | Can instantly Brainwash female party members |
 | The Head Honcho in Showbiz | Day after clearing Cruiser Palace or 12/3 | Sheriruth 14 | A | No | Immortal Vest | - |
 | A Silent Voice **(Royal)** | 1/13 | Da'at 3 | S | No | Mamudoon Ring | - |
 | Cry, My Beloved Sister **(Royal)** | 1/14 | Da'at 7 | S | No | St Incense x 8 | - |

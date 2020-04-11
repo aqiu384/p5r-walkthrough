@@ -1931,7 +1931,7 @@ Read "The Art of Automata"
 * Hermit Rank 9 Friendship
 * Hermit Rank 9 Romance
 ##### Evening
-* Trade Legendary Yaki-Imo for Heat Riser Supplement x3
+* Trade Legendary Yaki-Imo for Empowering Ofuda x3
 * Fortune Rank 10
 
 ---
@@ -2006,7 +2006,7 @@ Read "The Art of Automata"
 ##### Daytime
 * Faith Hangout Shinagawa
 ##### Evening
-* Crossword: "Illumination" (Knowledge +2)
+* Crossword: "Illuminate" (Knowledge +2)
 * Free Time
 
 ---
@@ -2027,6 +2027,7 @@ Read "The Art of Automata"
 ##### Evening
 * Call Kawakami for massage
 * Temperance Hangout Odaiba Romance (Romance route only)
+* **Choose to "I want to keep our promise." before going to bed**
 
 ---
 #### Sat 12/10
@@ -2036,7 +2037,6 @@ Read "The Art of Automata"
 * Rain
 * Call Kawakami for massage
 * Free Time
-* **Choose to "Keep good on the promise." before going to bed**
 
 ---
 #### Sun 12/11
@@ -2045,13 +2045,13 @@ Read "The Art of Automata"
 * Buy Angel Tart from Shibuya underground mall
 * Priestess Hangout Chinatown
 ##### Evening
-* Trade Angel Tart for Feverish Bat
+* Trade Angel Tart for Feverent Bat
 * Free Time
 
 ---
 #### Mon 12/12
 ##### Daytime
-* Request "The Lady-killer's Ballad" unlocked
+* Request "Lady-Killer's Ballad" unlocked
 * Emperor Hangout Ikebukuro
 ##### Evening
 * Crossword: "Approval" (Knowledge +2)
@@ -2079,7 +2079,7 @@ Read "The Art of Automata"
 * **Mementos Palace**
     1. Swindling Old Folk is Pretty Low
     2. The Head Honcho in Showbiz
-    3. The Lady-killer's Ballad
+    3. Lady-Killer's Ballad
 ##### Evening
 * Call Kawakami for massage
 * TV Quiz: "Can't be done by wanted men." (Knowledge +2)

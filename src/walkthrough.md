@@ -2034,8 +2034,9 @@
 * Justice Rank 10 (Auto)
 ##### Evening
 * Call Kawakami for massage
-* Trade Legendary Yaki-Imo for Heat Riser Supplement x3
+* Trade Legendary Yaki-Imo for Empowering Ofuda x3
 * Fishing (Proficiency +2)
+* **Choose to "I want to keep our promise." before going to bed**
 
 ---
 #### Mon 11/28
@@ -2045,7 +2046,6 @@
 * Crossword: "Charisma" (Knowledge +2)
 * Call Kawakami for massage
 * Free Time
-* **Choose to "Keep good on the promise." before going to bed**
 
 ---
 #### Tue 11/29
@@ -2110,7 +2110,7 @@
 ##### Daytime
 * Free Time
 ##### Evening
-* Crossword: "Illumination" (Knowledge +2)
+* Crossword: "Illuminate" (Knowledge +2)
 * Strength Hangout Underground Mall
 
 ---
@@ -2131,7 +2131,7 @@
 ---
 #### Sat 12/10
 ##### Daytime
-* Request "The Lady-killer's Ballad" unlocked
+* Request "Lady-Killer's Ballad" unlocked
 * Free Time
 ##### Evening
 * Rain
@@ -2143,7 +2143,7 @@
 * Buy Angel Tart from Shibuya underground mall
 * Batting center (Proficiency +3)
 ##### Evening
-* Trade Angel Tart for Feverish Bat
+* Trade Angel Tart for Feverent Bat
 * Jazz club with Morgana (Learns Debilitate)
 
 ---
@@ -2224,7 +2224,7 @@
 * **Mementos Palace**
     1. Swindling Old Folk is Pretty Low
     2. The Head Honcho in Showbiz
-    3. The Lady-killer's Ballad
+    3. Lady-Killer's Ballad
 ##### Evening
 * Call Kawakami for massage
 * Free Time

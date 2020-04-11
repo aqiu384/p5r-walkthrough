@@ -145,7 +145,7 @@
     * Showtime Redemption: September **(Charm +5)**
     * Back to the Ninja: October and 10/2 Futaba invite **(Knowledge +5)**
     * Over the Pigeon's Nest: November **(Kindness +5)**
-    * A Very Gutsy Christmas: December **(Guts +5)**
+    * Merry Christmess: December **(Guts +5)**
     * March of the Sheeple: January **(Proficiency +5)**
     * The Good Father: February **(Kindness +5)**
 * Activity Notes:
@@ -238,7 +238,7 @@
     * Love Possibly: July and 7/17 Ann invite **(Charm +5)**
     * Le Miserable: August and September 8/5 Yusuke invite **(Kindness +5)**
     * Admission Impossible: October and November **(Proficiency +5)**
-    * Mecha-hard: December **(Kindness +5)**
+    * Clean Hard: December **(Kindness +5)**
     * Fighting Friends: January **(Charm +5)**
 * Activity Notes:
     * After reading "The Craft of Cinema": Additional **(Social Stat +2)**
@@ -417,15 +417,15 @@
     * 11/6: Inner Muscle Set (Salvation S - Heat Riser, Hustle S - Rebellion x5) for Y14800
     * 11/13: Instant Spray Set (Ultimate Spray - Matarunda, Cleaning Spray - Marakunda x5, Quick Spray - Masukunda x5) for Y34500 
     * 11/13: Meditative Set (Nirvana MA, Nirvana EN, Nirvana LU) for Y29800
-    * 11/27: (Legendary Yaki-Imo x3, Beni-Azuma x10) for Y9800 
-    * 11/27: (Melon Pan x3, Moon Dango x5) for Y4800
-    * 12/11: (Refresh Aroma x3, Recover Oil x5) for Y39800 
-    * 12/11: (Hell Magatama x3, Frost Magatama x3, Arc Magatama x3, Cyclone Magatama x3) for Y16800
+    * 11/27: Yaki-Imo Set (Legendary Yaki-Imo x3, Beni-Azuma x10) for Y9800 
+    * 11/27: Special Sweets Set (Melon Pan x3, Moon Dango x5) for Y4800
+    * 12/11: Super Detox Set (Refresh Aroma x3, Recover Oil x5) for Y39800 
+    * 12/11: Fancy Magatama Set (Hell Magatama x3, Frost Magatama x3, Arc Magatama x3, Cyclone Magatama x3) for Y16800
     * 1/15: (Persistent Necktie (Insta-Heal), Physical Ointment x3, Magical Ointment x3) for Y44800 
     * 1/15: (Imported Protein x3, St Nirvana Incense x3, Rebellion Supplement x5) for Y39800
     * 1/22: (Rasetsu Ofuda x3, Kongou Ofuda x3, Idaten Ofuda x3) for Y12800
     * 1/22: (Strawberry Daifuku x3, Ultimate Amazake x20, Oh! Shiruko x20) for Y29800
-    * 1/29: (Heat Riser Supplement x3, Tarukaja Supplement x5, Rakukaja Supplement x5, Sukukaja Supplement x5) for Y49800
+    * 1/29: (Empowering Ofuda x3, Tarukaja Supplement x5, Rakukaja Supplement x5, Sukukaja Supplement x5) for Y49800
     * 1/29: (Royal Jelly x2, Melon Pan x3) for Y69800
 
 #### Yongen-Jaya
@@ -574,8 +574,8 @@
     * 10/16-22: Trade Gear Girimehkala from Akihabara Capsule Row for Hot-Blooded Sword (190 Atk 90 Hit Medium chance of Burn)
     * 10/30-11/5: Trade Mystery Stew from Akihabara Trader for Angel Badge - Angelic Grace
     * 11/13-17: Trade Moon Dango from Yogen-Jaya Grocery Store for Kintaro Axe (235 Atk 92 Hit HP +30)
-    * 11/27-12/3: Trade Legendary Yaki-Imo from Yogen-Jaya Street Vendor for Heat Riser Supplement x3
-    * 12/11-17: Trade Angel Tart from Shibuya Underground Mall for Feverish Bat (Atk 270 Hit 91 Medium chance of Burn)
+    * 11/27-12/3: Trade Legendary Yaki-Imo from Yogen-Jaya Street Vendor for Empowering Ofuda x3
+    * 12/11-17: Trade Angel Tart from Shibuya Underground Mall for Feverent Bat (Atk 270 Hit 91 Medium chance of Burn)
     * 1/13-14: Trade Limited-edition Steamed Bun from Kichijoji Chinese Vendor for Resist Phys Ring
     * 1/22: Trade Supernova Burger from Big Bang Burger (Requires Empress Rank 10) for God Elixir (Soma)
 
