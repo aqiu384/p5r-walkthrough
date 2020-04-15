@@ -789,7 +789,7 @@ Read "Buchiko's Story"
 * Finish reading "Tidying the Heart" (Proficiency +5)
 ##### Daytime
 * Buy Soothing Soba from Shibuya convenience store
-* Lovers Rank 7
+* Lovers Rank 7 (Asakusa and Oshiage unlocked)
 ##### Evening
 * Ask Chihaya for Luck Reading (Y5000) (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
@@ -2134,8 +2134,6 @@ Read "The Art of Automata"
 
 ---
 #### Fri 12/23
-##### Class
-* Exam results (Charm +5)
 ##### Evening
 * Cannot leave Leblanc
 * Talk to Sojiro for exam reward
@@ -2143,6 +2141,8 @@ Read "The Art of Automata"
 
 ---
 #### Sat 12/24
+##### Class
+* Exam results (Charm +5)
 ##### Daytime
 * Do not accept his deal
 
@@ -2243,11 +2243,11 @@ Read "The Art of Automata"
 ---
 #### Fri 1/13
 ##### Daytime
-* Buy Limited-edition Steamed Bun from Kichijoji Chinese Stall
+* Buy Special Chimaki from Kichijoji Chinese Stall
 * Lovers Rank 11
 ##### Evening
-* Request "A Silent Voice" unlocked
-* Trade Limited-edition Steamed Bun for Resist Phys Ring
+* Request "A Small Cry for Help" unlocked
+* Trade Special Chimaki for Strength Belt - Resist Phys
 * Strength Hangout Your Room
 
 ---
@@ -2257,8 +2257,8 @@ Read "The Art of Automata"
 ##### Daytime
 * Chariot Rank 11
 ##### Evening
-* Request "Cry, My Beloved Sister" unlocked
-* Crossword (Knowledge +2)
+* Request "O My Young Sister, I Cry For You" unlocked
+* Crossword: "Resolution" (Knowledge +2)
 * Free Time
 
 ---
@@ -2281,7 +2281,7 @@ Read "The Art of Automata"
 * Rain
 ##### Daytime
 * Crane game
-    1. Receive Buchimaru-kun Doll
+    1. Receive Buchimaru Doll
 * Priestess Rank 11
 ##### Evening
 * Free Time
@@ -2330,7 +2330,7 @@ Free Time
 * Buy Supernova Burger from Big Bang Burger
 * Faith Rank 8
 ##### Evening
-* Trade Supernova Burger for God Elixir
+* Trade Supernova Burger for Old Man's Elixir
 * Free Time
 
 ---
@@ -2363,10 +2363,9 @@ Free Time
 ##### Train
 Free Time
 ##### Daytime
-* Money Reading (Y5000)
 * **Reach final floor of Mementos Palace**
-    1. A Silent Voice
-    2. Cry, My Beloved Sister
+    1. A Small Cry for Help
+    2. O My Young Sister, I Cry For You
 ##### Evening
 * Call Kawakami for massage
 * Free Time
@@ -2377,8 +2376,8 @@ Free Time
 * Question: "To friends of friends of friends." (Knowledge +2)
 ##### Daytime
 * Crane game
-    1. Receive Jaga-kun Doll
-* **Reach treasure in Research Lab Palace**
+    1. Receive Jagao Doll
+* **Reach treasure in Laboratory Palace**
 ##### Evening
 * Call Kawakami for massage
 * Crossword: "Orochi" (Knowledge +2)
@@ -2387,8 +2386,7 @@ Free Time
 ---
 #### Sat 1/28
 ##### Daytime
-* Request "Idols and Unicorns" flag
-* Investigate Akihabara (Request "Idols and Unicorns" unlocked)
+* Request "Fake-Man Show" flag
 * Hermit Hangout Akihabara
 ##### Evening
 * Free Time
@@ -2396,7 +2394,7 @@ Free Time
 ---
 #### Sun 1/29
 ##### Daytime
-* Request "Fakeman Show" flag
+* Request "An Idol and a Unicorn" flag
 * Free Time
 ##### Evening
 * Free Time
@@ -2404,11 +2402,12 @@ Free Time
 ---
 #### Mon 1/30
 ##### Daytime
-* Investigate Kichijoji (Request "Fakeman Show" unlocked)
+* Investigate Kichijoji (Request "Fake-Man Show" unlocked)
+* Investigate Akihabara (Request "An Idol and a Unicorn" unlocked)
 * Money Reading (Y5000)
 * **Mementos Palace**
-    1. Idols and Unicorns
-    2. Fakeman Show
+    1. Fake-Man Show
+    2. An Idol and a Unicorn
 ##### Evening
 * Call Kawakami for massage
 * Free Time

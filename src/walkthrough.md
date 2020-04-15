@@ -481,6 +481,8 @@
 
 ---
 #### Sun 6/5
+##### Daytime
+* Do not talk to the receptionist at the Kichijoji info stand
 ##### Evening
 * Request "An Elderly's Meaning of Life" flag
 * Investigate Kichijoji (Request "An Elderly's Meaning of Life" unlocked)
@@ -520,6 +522,8 @@
 * [Normal Route] Order Surprise Sando at diner (Knowledge +2, Guts +2)
 * [Battle Route] Play darts with any two party members in Kichijoji (Proficiency +5) (Battle Route Proficiency Lv. 3)
     1. Score 180 in round 1 of game 1
+        * 3 triple 20's
+        * Use X to throw dart instead of motion controls
     2. Let your game 1 partner finish on round 4 (Baton Pass Lv. 3)
         * Ryuji: Choice 1: "You gotta psych yourself up!"
         * Morgana: Choice 3: "I'm counting on you."
@@ -527,7 +531,7 @@
         * Yusuke: Choice 1: "Pretend like you're painting."
         * Makoto: Choice 3: "Take a deep breath."
         * Haru: Choice 3: "Have fun with it."
-    3. Score 180 in round 1 of game 2
+    3. Score 3 bulls (150) in round 1 of game 2
     4. Let your game 2 partner finish on round 4 (Baton Pass Lv. 3)
 
 ---
@@ -552,7 +556,7 @@
 #### Sun 6/12
 ##### Daytime
 * Aojiru (Y5000) (Proficiency +2)
-* Lovers Rank 7
+* Lovers Rank 7 (Asakusa and Oshiage unlocked)
 ##### Evening
 * Talk to masked man in Kichijoji's back alleys, Trade Imported Protein for Decorative Whip
 * Sun Rank 5 (Charm +3)
@@ -1188,7 +1192,7 @@
 * [Battle Route] Darts with any two party members (Proficiency +5)
     1. Score 180 in round 1 of game 1
     2. Let your game 1 partner finish on round 4 (Baton Pass Lv. 3)
-    3. Score 180 in round 1 of game 2
+    3. Score 3 bulls (150) in round 1 of game 2
     4. Let your game 2 partner finish on round 4 (Baton Pass Lv. 3)
 
 ---
@@ -1701,7 +1705,7 @@
 * [Battle Route] Darts with any two party members (Proficiency +5)
     1. Score 180 in round 1 of game 1
     2. Let your game 1 partner finish on round 4 (Baton Pass Lv. 3)
-    3. Score 180 in round 1 of game 2
+    3. Score 3 bulls (150) in round 1 of game 2
     4. Let your game 2 partner finish on round 4 (Baton Pass Lv. 3)
 
 ---
@@ -2231,15 +2235,15 @@
 
 ---
 #### Fri 12/23
-##### Class
-* Exam results (Charm +5)
 ##### Evening
 * Cannot leave Leblanc
-* Talk to Sojiro for exam reward
+* Talk to Sojiro for exam reward - Boss Undies - Endure
 * Free Time
 
 ---
 #### Sat 12/24
+##### Class
+* Exam results (Charm +5)
 ##### Daytime
 * Do not accept his deal
 
@@ -2340,11 +2344,11 @@
 ---
 #### Fri 1/13
 ##### Daytime
-* Buy Limited-edition Steamed Bun from Kichijoji Chinese Stall
+* Buy Special Chimaki from Kichijoji Chinese Stall
 * Faith Rank 6
 ##### Evening
-* Request "A Silent Voice" unlocked
-* Trade Limited-edition Steamed Bun for Resist Phys Ring
+* Request "A Small Cry for Help" unlocked
+* Trade Special Chimaki for Strength Belt - Resist Phys
 * Free Time
 
 ---
@@ -2354,8 +2358,8 @@
 ##### Daytime
 * Faith Rank 7
 ##### Evening
-* Request "Cry, My Beloved Sister" unlocked
-* Crossword (Knowledge +2)
+* Request "O My Young Sister, I Cry For You" unlocked
+* Crossword: "Resolution" (Knowledge +2)
 * Free Time
 
 ---
@@ -2378,7 +2382,7 @@
 * Rain
 ##### Daytime
 * Crane game
-    1. Receive Buchimaru-kun Doll
+    1. Receive Buchimaru Doll
 * Chariot Rank 11
 ##### Evening
 * Free Time
@@ -2411,7 +2415,7 @@
 * Rain
 * Darts with Kasumi (Proficiency +3)
     1. Let Kasumi finish on round 4 (Baton Pass Lv. 3)
-    2. Choice 3: "Believe in yourself." (Faith +1)
+    2. Choice 3: "Trust your instincts." (Faith +1)
 ##### Evening
 * Free Time
 
@@ -2430,7 +2434,7 @@
 * Buy Supernova Burger from Big Bang Burger
 * Emperor Rank 11
 ##### Evening
-* Trade Supernova Burger for God Elixir
+* Trade Supernova Burger for Old Man's Elixir
 * Jazz club with Ryuji (Learns Arms Master)
 
 ---
@@ -2455,8 +2459,8 @@
 ##### Daytime
 * Money Reading (Y5000)
 * **Reach final floor of Mementos Palace**
-    1. A Silent Voice
-    2. Cry, My Beloved Sister
+    1. A Small Cry for Help
+    2. O My Young Sister, I Cry For You
 ##### Evening
 * Call Kawakami for massage
 * Free Time
@@ -2476,9 +2480,9 @@
 ##### Class
 * Question: "To friends of friends of friends." (Knowledge +2)
 ##### Daytime
+* Request "Fake-Man Show" flag
 * Crane game
-    1. Receive Jaga-kun Doll
-* Request "Idols and Unicorns" flag
+    1. Receive Jagao Doll
 * Free Time
 ##### Evening
 * Crossword: "Orochi" (Knowledge +2)
@@ -2487,13 +2491,13 @@
 ---
 #### Sat 1/28
 ##### Daytime
-* Request "Fakeman Show" flag
-* Investigate Akihabara (Request "Idols and Unicorns" unlocked)
-* Investigate Kichijoji (Request "Fakeman Show" unlocked)
+* Request "An Idol and a Unicorn" flag
+* Investigate Kichijoji (Request "Fake-Man Show" unlocked)
+* Investigate Akihabara (Request "An Idol and a Unicorn" unlocked)
 * Money Reading (Y5000)
 * **Mementos Palace**
-    1. Idols and Unicorns
-    2. Fakeman Show
+    1. Fake-Man Show
+    2. An Idol and a Unicorn
 ##### Evening
 * Call Kawakami for massage
 * Free Time

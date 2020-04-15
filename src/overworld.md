@@ -146,8 +146,8 @@
     * Back to the Ninja: October and 10/2 Futaba invite **(Knowledge +5)**
     * Over the Pigeon's Nest: November **(Kindness +5)**
     * Merry Christmess: December **(Guts +5)**
-    * March of the Sheeple: January **(Proficiency +5)**
-    * The Good Father: February **(Kindness +5)**
+    * March of the Lambs: January **(Proficiency +5)**
+    * The Goodfather: February **(Kindness +5)**
 * Activity Notes:
     * After reading "The Craft of Cinema": Additional **(Social Stat +2)**
 
@@ -239,7 +239,7 @@
     * Le Miserable: August and September 8/5 Yusuke invite **(Kindness +5)**
     * Admission Impossible: October and November **(Proficiency +5)**
     * Clean Hard: December **(Kindness +5)**
-    * Fighting Friends: January **(Charm +5)**
+    * Finding Beemo: January **(Charm +5)**
 * Activity Notes:
     * After reading "The Craft of Cinema": Additional **(Social Stat +2)**
 
@@ -340,7 +340,7 @@
     * Saraemon: August and September **(Knowledge +5)**
     * Duh-vengers: October **(Kindness +5)**
     * Pach-Saw: November, December, and 11/13 Haru invite **(Guts +5)**
-    * Fight Kebab: January **(Guts +5)**
+    * Bite Club: January **(Guts +5)**
 * Activity Notes:
     * After reading "The Craft of Cinema": Additional **(Social Stat +2)**
 
@@ -421,12 +421,12 @@
     * 11/27: Special Sweets Set (Melon Pan x3, Moon Dango x5) for Y4800
     * 12/11: Super Detox Set (Refresh Aroma x3, Recover Oil x5) for Y39800 
     * 12/11: Fancy Magatama Set (Hell Magatama x3, Frost Magatama x3, Arc Magatama x3, Cyclone Magatama x3) for Y16800
-    * 1/15: (Persistent Necktie (Insta-Heal), Physical Ointment x3, Magical Ointment x3) for Y44800 
-    * 1/15: (Imported Protein x3, St Nirvana Incense x3, Rebellion Supplement x5) for Y39800
-    * 1/22: (Rasetsu Ofuda x3, Kongou Ofuda x3, Idaten Ofuda x3) for Y12800
-    * 1/22: (Strawberry Daifuku x3, Ultimate Amazake x20, Oh! Shiruko x20) for Y29800
-    * 1/29: (Empowering Ofuda x3, Tarukaja Supplement x5, Rakukaja Supplement x5, Sukukaja Supplement x5) for Y49800
-    * 1/29: (Royal Jelly x2, Melon Pan x3) for Y69800
+    * 1/15: Lucky Worker Bag (Pick-Me-Up Tie - Insta-Heal, Physical Ointment x3, Magical Ointment x3) for Y44800 
+    * 1/15: Lucky Muscle Bag (Imported Protein x3, Nirvana ST x3, Hustle S x5 - Rebellion) for Y39800
+    * 1/22: Talisman Set (Rasetsu Ofuda x3, Kongou Ofuda x3, Idaten Ofuda x3) for Y12800
+    * 1/22: Sweet Delight Set (Strawberry Daifuku x3, Ultimate Amazake x20, Oh! Shiruko x20) for Y29800
+    * 1/29: Energetic Set (Salvation S x3, Stronger Lift S x5, Harder Core S x5, Accu-Speed S x5) for Y49800
+    * 1/29: Delicious Revival Set (Royal Jelly R x2, Melon Pan x3) for Y69800
 
 #### Yongen-Jaya
 ##### Laundry
@@ -486,7 +486,7 @@
         * Futaba (No Baton Pass rank): Choice 2: "This is the real thing."
         * Haru: Choice 3: "Have fun with it."
         * Akechi (Impossible to end on round 4): None
-        * Kasumi: Choice 3: "Believe in yourself."
+        * Kasumi: Choice 3: "Trust your instincts."
 
 ##### Billiards
 * Unlocked: Auto
@@ -576,8 +576,8 @@
     * 11/13-17: Trade Moon Dango from Yogen-Jaya Grocery Store for Kintaro Axe (235 Atk 92 Hit HP +30)
     * 11/27-12/3: Trade Legendary Yaki-Imo from Yogen-Jaya Street Vendor for Empowering Ofuda x3
     * 12/11-17: Trade Angel Tart from Shibuya Underground Mall for Feverent Bat (Atk 270 Hit 91 Medium chance of Burn)
-    * 1/13-14: Trade Limited-edition Steamed Bun from Kichijoji Chinese Vendor for Resist Phys Ring
-    * 1/22: Trade Supernova Burger from Big Bang Burger (Requires Empress Rank 10) for God Elixir (Soma)
+    * 1/13-14: Trade Special Chimaki from Kichijoji Chinese Vendor for Strength Belt - Resist Phys
+    * 1/22: Trade Supernova Burger from Big Bang Burger (Requires Empress Rank 10) for Old Man's Elixir (Soma)
 
 #### Akihabara
 ##### Capsule Trader
@@ -603,8 +603,8 @@
     * 11/3: Lexy Doll
     * 11/25: Sheep Man Doll
     * 12/25: Black Frost Doll
-    * 1/13: Buchimaru-kun Doll
-    * 1/23: Jaga-kun Doll
+    * 1/13: Buchimaru Doll
+    * 1/23: Jagao Doll
 
 #### Kanda
 ##### Confessional (Royal)

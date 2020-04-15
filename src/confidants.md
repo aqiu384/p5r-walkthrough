@@ -269,6 +269,8 @@
 | Wed | 11/30 | . | . | . | . | O | O | - | O | . | . | O | O | . | . | O | X | - | O | - |
 
 #### December
+Moon is unavailable until the Cruiser Palace is cleared
+
 | Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Thu | 12/1 | O | O | . | O | . | . | - | O | O | O | O | . | O | O | . | X | - | . | - |
@@ -393,13 +395,14 @@ Learn to craft infiltration tools.
 1. Infiltration Tools: Can craft basic tools.
 2. -
 3. Follow Up: Chance to perform follow-up attack if Joker does not down enemy.
-4. Kitty Talk: Chance to retry enemy negotiation after failure.
+4. Kitty Talk: Chance to retry enemy negotiation after failure with an animal-type Shadow.
 5. Pickpocket: Chance to steal drop item from enemy when using melee attack.
 6. Ace Tools: Can craft all tools.
 7. Harisen Recovery: Chance to cure ailments for a party member.
 8. Endure: Chance to survive fatal attack with 1 HP.
 9. Protect: Chance to shield Joker from fatal attack.
 10. Second Awakening: Upgrades persona.
+11. Third Awakening: Upgrades persona.
 
 #### Progression
 Tied to game progress.
@@ -413,6 +416,7 @@ Tied to game progress.
 * Rank 8: 9/17
 * Rank 9: After clearing Spaceport Palace.
 * Rank 10: 12/23
+* Rank 11: 1/10
 
 ### Priestess
 #### Availability
@@ -430,20 +434,21 @@ Provides additional enemy analysis.
 1. Shadow Calculus: Can see skills and potential item drops for enemy.
 2. -
 3. Follow Up: Chance to perform follow-up attack if Joker does not down enemy.
-4. Brainiac Talk: Chance to retry enemy negotiation after failure.
+4. Black Belt Talk: Chance to retry enemy negotiation after failure with a martial arts-using Shadow.
 5. -
 6. Harisen Recovery: Chance to cure ailments for a party member.
 7. Shadow Factorization: Displays X on target cursor when attempting an ineffective attack on enemy.
 8. Endure: Chance to survive fatal attack with 1 HP.
 9. Protect: Chance to shield Joker from fatal attack.
 10. Second Awakening: Upgrades persona.
+11. Third Awakening: Upgrades persona.
 
 #### Progression
 **Rank 1 requires Bank Palace cleared and Knowledge Lv. 3 (Scholarly).**
 
 Rank 1
 
-Rank 2
+Rank 2 (Cannot be raining)
 1. Choice 1: "You're very well informed." (+1)
 2. Choice 2: "That was dangerous." (+2)
 3. -
@@ -488,7 +493,7 @@ Rank 8
 1. Choice 1: "He says that to all his girls." (+1)
 2. Choice 1: "Absolutely." (+2)
 
-Rank 9 (Friendship)
+Rank 9 (Friendship) (Cannot be raining)
 1. Choice 2: "Your fight's with me." (+2)
 2. Choice 1: "We should get out of here." (+1)
 3. Choice 2: "That was the right move." (+1)
@@ -496,7 +501,7 @@ Rank 9 (Friendship)
 5. Choice 1: "You'll find someone someday." (+2)
 6. (Phone) Choice 1: "No problem at all." (+1)
 
-Rank 9 (Romance)
+Rank 9 (Romance) (Cannot be raining)
 1. Choice 2: "Your fight's with me." (+2)
 2. Choice 1: "We should get out of here." (+1)
 3. Choice 2: "That was the right move." (+1)
@@ -518,7 +523,7 @@ Hangout Study-7/12 **(Knowledge +5)**
 Hangout Movies (7/28 only) **(Guts +5)**
 1. Choice 1: "Not at all." (+2)
 
-Hangout Ikebukuro (7/30 only)
+Hangout Ikebukuro (7/30 only, Bank Palace cleared)
 1. -
 2. -
 3. -
@@ -548,7 +553,7 @@ Hangout Chinatown
 * Confidant: Haru Okumura
 * Location: Shujin rooftop
 * Time of Day: Daytime
-* Day of Week: Irregular, frequently appears on weekdays
+* Day of Week: Irregular, Frequently appears on weekdays, Cannot be raining
 * Rank 10 NG+ Gift Carryovers: Soil Improvement
 
 #### Abilities
@@ -556,13 +561,14 @@ Can harvest battle support vegetable items.
 1. Cultivation: Unlocks vegetable cultivation.
 2. -
 3. Follow Up: Chance to perform follow-up attack if Joker does not down enemy.
-4. Celeb Talk: Chance to retry enemy negotiation after failure.
+4. Celeb Talk: Chance to retry enemy negotiation after failure with a group of Shadows.
 5. Bumper Crop: Increases harvest yield by 1.
 6. Harisen Recovery: Chance to cure ailments for a party member.
 7. Soil Improvement: Decreases cultivation time.
 8. Endure: Chance to survive fatal attack with 1 HP.
 9. Protect: Chance to shield Joker from fatal attack.
 10. Second Awakening: Upgrades persona.
+11. Third Awakening: Upgrades persona.
 
 #### Progression
 Rank 1
@@ -664,13 +670,14 @@ Can craft 1 skill card per day using a blank card.
 1. Card Duplication **(Royal)**: Can copy any skill card in inventory in 1 day.
 2. -
 3. Follow Up: Chance to perform follow-up attack if Joker does not down enemy.
-4. Artist Talk: Chance to retry enemy negotiation after failure.
+4. Art Talk: Chance to retry enemy negotiation after failure with a lone Shadow.
 5. Card Creation **(Royal)**: Can recreate any previously copied skill card in 1 day.
 6. Harisen Recovery: Chance to cure ailments for a party member.
 7. Live Painting **(Royal)**: Can instantly perform Card Duplication or Card Creation.
 8. Endure: Chance to survive fatal attack with 1 HP.
 9. Protect: Chance to shield Joker from fatal attack.
 10. Second Awakening: Upgrades persona.
+11. Third Awakening: Upgrades persona.
 
 #### Progression
 Rank 1
@@ -680,14 +687,14 @@ Rank 2
 2. Choice 1: "I can't wait." (+3)
 3. (Phone) Choice 1: "You're already doing enough." (+1)
 
-Rank 3 (Unlocks Ueno Art Museum)
+Rank 3 (Unlocks Ueno)
 1. Choice 3: "Don't let it bother you." (+1)
 2. -
 3. Choice 2: "This isn't like you." (+3)
 4. Choice 2: "That's the spirit." (+1)
 5. (Phone) Choice 1: "That's the spirit." (+1)
 
-Rank 4
+Rank 4 (Cannot be raining)
 1. Choice 3: "I should bring a girl here." (+1)
 2. Choice 1: "Love comes in all forms." (+2)
 3. (Phone) Choice 1: "Don't get discouraged." (+1)
@@ -699,7 +706,7 @@ Rank 5
 
 **Rank 6 requires Proficiency Lv. 4 (Masterful).**
 
-Rank 6
+Rank 6 (Cannot be raining)
 1. Choice 1: "It feels nostalgic." (+1)
 2. -
 3. -
@@ -716,7 +723,7 @@ Rank 8
 1. Choice 3: "It has to be Ann." (+1)
 2. Choice 3: "You've really grown, Yusuke." (+2)
 
-Rank 9
+Rank 9 (Cannot be raining)
 1. Choice 1: "Her love for her son." (+3)
 2. Choice 1: "You've really changed, Yusuke." (+3)
 
@@ -852,15 +859,16 @@ Rank 10
 #### Abilities
 Enhances negotiation techniques.
 1. -
-2. Girl Talk: Chance to retry enemy negotiation after failure.
+2. Girl Talk: Chance to retry enemy negotiation after failure with a female Shadow.
 3. Follow Up: Chance to perform follow-up attack if Joker does not down enemy.
-4. Enchantment **(Royal)**: Chance to cancel enemy attack.
+4. Sexy Technique **(Royal)**: Chance to cancel enemy attack.
 5. Crocodile Tears: Chance to lessen enemy demands during negotiation.
 6. Harisen Recovery: Chance to cure ailments for a party member.
 7. -
 8. Endure: Chance to survive fatal attack with 1 HP.
 9. Protect: Chance to shield Joker from fatal attack.
 10. Second Awakening: Upgrades persona.
+11. Third Awakening: Upgrades persona.
 
 #### Progression
 **Rank 1 automatically starts on 4/15.**
@@ -876,7 +884,7 @@ Rank 2
 4. Choice 2: "Let's find it together." (+3)
 5. (Phone) Choice 2: "Leave it to me." (+1)
 
-Rank 3 (Unlocks Inokashira Park)
+Rank 3 (Unlocks Inokashira) (Cannot be raining)
 1. -
 2. -
 3. -
@@ -888,7 +896,7 @@ Rank 3 (Unlocks Inokashira Park)
 9. Choice 2: "That freedom sounds nice." (+1)
 10. (Phone) Choice 1: "Could be." (+1)
 
-Rank 4
+Rank 4 (Cannot be raining)
 1. Choice 1: "I know what you mean." (+2)
 2. Choice 2: "That's hilarious." (+3)
 3. Choice 1: "Tell me." (+3)
@@ -896,7 +904,7 @@ Rank 4
 5. Choice 3: "Good luck with that." (+3)
 6. (Phone) Choice 1: "I train everyday." (+1)
 
-Rank 5
+Rank 5 (Cannot be raining)
 1. Choice 2: "Give it up." (+1)
 2. Choice 2: "She's amazing, huh..." (+1)
 3. Choice 1: "It had grace." (+1)
@@ -910,7 +918,7 @@ Rank 6
 4. Choice 3: "Show her your own strength." (+3)
 5. (Phone) Choice 2: "I'll cheer you on." (+1)
 
-Rank 7
+Rank 7 (Unlocks Asakusa and Oshiage)
 1. Choice 2: "She admires you." (+1)
 2. -
 3. -
@@ -924,13 +932,13 @@ Rank 8
 4. Choice 2: "I'm sure she already knows." (+3)
 5. (Phone) Choice 3: "You can ask her yourself." (+1)
 
-Rank 9 (Friendship)
+Rank 9 (Friendship) (Cannot be raining)
 1. -
 2. -
 3. Choice 2: "I believe in you, Ann." (+3)
 4. Choice 2: "You have the others." (+0)
 
-Rank 9 (Romance)
+Rank 9 (Romance) (Cannot be raining)
 1. -
 2. -
 3. Choice 2: "I believe in you, Ann." (+3)
@@ -938,7 +946,7 @@ Rank 9 (Romance)
 5. -
 6. (Phone) Choice 2: "I'm yours forever." (+2)
 
-Rank 10 (Unlocks Daiba Seaside Park)
+Rank 10 (Unlocks Odaiba) (Cannot be raining)
 
 **Rank 11 unlocked on 1/13.**
 
@@ -983,7 +991,7 @@ Hangout Harajuku
 #### Abilities
 Enhances dash techniques.
 1. -
-2. Punk Talk: Chance to retry enemy negotiation after failure.
+2. Punk Talk: Chance to retry enemy negotiation after failure with an upbeat Shadow.
 3. Follow Up: Chance to perform follow-up attack if Joker does not down enemy.
 4. Stealth Dash **(Royal)**: Harder for enemies to notice Joker when dashing.
 5. -
@@ -992,19 +1000,20 @@ Enhances dash techniques.
 8. Endure: Chance to survive fatal attack with 1 HP.
 9. Protect: Chance to shield Joker from fatal attack.
 10. Second Awakening: Upgrades persona.
+11. Third Awakening: Upgrades persona.
 
 #### Progression
 **Rank 1 automatically starts on 4/12.**
 
 Rank 1
 
-Rank 2
+Rank 2 (Cannot be raining)
 1. Choice 1: "I'm counting on you." (+3)
 2. -
 3. Choice 1: "Do you go want to go back?" (+1)
 4. (Phone) Choice 3: "It's never too late, man." (+1)
 
-Rank 3
+Rank 3 (Cannot be raining)
 1. Choice 1: "Let's not fight." (+1)
 2. Choice 1: "Calm down, Ryuji." (+2)
 3. (Phone) Choice 1: "I can't exactly blame you." (+1)
@@ -1021,7 +1030,7 @@ Rank 5 (Unlocks Shibuya Gym)
 3. Choice 2: "So he's an asshole?" (+2)
 4. (Phone) Choice 1: "Don't worry. I gotcha." (+1)
 
-Rank 6
+Rank 6 (Cannot be raining)
 1. Choice 3: "We can train at my place." (+2)
 2. Choice 1: "You guys should trust Nakaoka." (+3)
 3. Choice 1: "Absolutely." (+3)
@@ -1036,7 +1045,7 @@ Rank 7 (Unlocks Tsukishima)
 2. Choice 1: "I think it's cool, Ryuji." (+3)
 3. (Phone) Choice 1: "Never know until you try." (+1)
 
-Rank 8
+Rank 8 (Cannot be raining)
 1. -
 2. Choice 1: "Things turned out for the best." (+3)
 3. Choice 1: "All I did was watch." (+2)
@@ -1107,11 +1116,11 @@ Hangout Nakano
 * Rank 10 NG+ Gift Carryovers: None
 
 #### Abilities
-Can reveal unknown enemy weaknesses. Learns Follow Up and Detective Talk when joining party.
+Can reveal unknown enemy weaknesses. Learns Follow Up and Smooth Talk (God-type Shadow) when joining party.
 1. -
-2. Detective Eye **(Royal)**: Chance to reveal 1 elemental resistance for an enemy when starting battle.
+2. Sleuthing Instinct **(Royal)**: Chance to reveal 1 elemental resistance for an enemy when starting battle.
 3. -
-4. Detective Gaze **(Royal)**: Chance to reveal all elemental resistances for an enemy when starting battle.
+4. Sleuthing Mastery **(Royal)**: Chance to reveal all elemental resistances for an enemy when starting battle.
 5. -
 6. -
 7. Harisen Recovery: Chance to cure ailments for a party member.
@@ -1120,6 +1129,7 @@ Can reveal unknown enemy weaknesses. Learns Follow Up and Detective Talk when jo
 10. Multiple Unlocks
     1. Endure: Chance to survive fatal attack with 1 HP.
     2. Protect: Chance to shield Joker from fatal attack.
+11. Third Awakening: Upgrades persona.
 
 #### Progression
 **Rank 1 automatically starts on 6/10.**
@@ -1218,7 +1228,7 @@ Hangout Shinagawa (7/29 only)
 * Confidant: Futaba Sakura
 * Location: Outside of Leblanc
 * Time of Day: Daytime
-* Day of Week: Wednesday, Thursday, Saturday, and Sunday
+* Day of Week: Wednesday, Thursday, Saturday, and Sunday, Cannot be raining
 * Rank 10 NG+ Gift Carryovers: Mementos Search, Treasure Reboot
 
 #### Abilities
@@ -1235,6 +1245,7 @@ Learns additional navigation and support skills.
 10. Multiple Unlocks
     1. Final Guard: Chance to nullify fatal attack for entire party.
     2. Second Awakening: Upgrades persona.
+11. Third Awakening: Upgrades persona.
 
 #### Progression
 **Rank 1 automatically starts on 8/31.**
@@ -1337,7 +1348,7 @@ Hangout Asakusa
 * Confidant: Chihaya Mifune
 * Location: Shinjuku fortune telling booth
 * Time of Day: Evening
-* Day of Week: Tuesday, Thursday, and Saturday
+* Day of Week: Tuesday, Thursday, and Saturday, Cannot be raining or cold
 * Rank 10 NG+ Gift Carryovers: Money Reading,  Affinity Reading, Special Fate Reading, True Affinity Reading
 
 #### Abilities
@@ -1349,9 +1360,9 @@ Each type of reading can only be done once per day and last the entire day.
 5. Affinity Reading **(Royal)**: Gain point +1 to selected confidant.
 6. -
 7. Special Fate Reading: See all future abilities of selected confidant.
-8. Fusion Alert Reading **(Royal)**: In Metaverse Velvet Room starts with Fusion Alert, raises chances of alert triggering.
+8. Celestial Reading **(Royal)**: Velvet Room starts with Fusion Alert, raises chances of alert triggering.
 9. -
-10. True Affinity Reading **(Royal)**: Highlights the highest point responses during confidant events.
+10. Special Bond Reading **(Royal)**: Highlights the highest point responses during confidant events.
 
 #### Progression
 Rank 0.1
@@ -1448,14 +1459,14 @@ Hangout Oshiage (Visited Jinbocho)
 Additional fusion benefits.
 1. Group Guillotine: Allows special fusions involving 3 personas.
 2. -
-3. Isolation: Allows a persona in Lockdown to gain resistance skills.
+3. Lockdown: Allows a persona in Lockdown to gain resistance skills.
 4. -
-5. Special Measures: Allows you to pay to fuse personas higher than your current level.
+5. Special Treatment: Allows you to pay to fuse personas higher than your current level.
 6. -
 7. -
 8. Guillotine Booster: Allows special fusions involving 4+ personas.
 9. -
-10. Special Treatment **(Royal)**: Gives a discount for Special Measures.
+10. VIP Treatment **(Royal)**: Gives a discount for Special Measures.
 
 #### Progression
 Unlocked starting 5/18. Talk to Justine in the Velvet Room. Progression is tied to fusing personas with the requisite skill.
@@ -1525,21 +1536,21 @@ You can invite the twins outside the Velvet room during evenings. Doing so takes
 Allows for gun customization.
 1. Starter Customization: Unlocks standard gun customization.
 2. -
-3. Camouflage Customization **(Royal)**: Can add ailment effects to custom guns.
+3. Camo Customization **(Royal)**: Can add ailment effects to custom guns.
 4. -
 5. Discount: Halves prices for customizations.
 6. -
 7. Expert Customization: Can customize high-grade guns.
 8. -
 9. -
-10. Priceless **(Royal)**: All customizations are free.
+10. On The House **(Royal)**: All customizations are free.
 
 #### Progression
 **Rank 1 requires Guts Lv. 4 (Dauntless).**
 
 Rank 1
 
-Rank 2 **(Proficiency +3)"'
+Rank 2 **(Proficiency +3)**
 1. -
 2. -
 3. Choice 3: "How's your cold?" (+1)
@@ -1550,7 +1561,7 @@ Rank 3 **(Proficiency +3)**
 3. Choice 3: "We made a deal, didn't we?" (+2)
 4. -
 
-Rank 4 **(Proficiency +3)**
+Rank 4 **(Proficiency +3)** (Cannot be raining)
 1. -
 2. -
 3. -
@@ -1590,7 +1601,7 @@ Rank 8 **(Proficiency +5)**
 2. Choice 2: "I guess I could consider it." (+2)
 3. (Phone) Choice 1: "Understood." (+1)
 
-Rank 9 (Unlocks Daiba Seaside Park)
+Rank 9 (Unlocks Odaiba) (Cannot be raining)
 1. Choice 3: "Are you sure he's still alive?" (+2)
 2. -
 3. -
@@ -1654,7 +1665,7 @@ Rank 5 **(Guts +2)**
 3. Choice 1: "That's good." (+2)
 4. (Phone) Choice 1: "About Miwa-chan?" (+1)
 
-Rank 6 **(Guts +2)**
+Rank 6 **(Guts +2)** (Cannot be raining)
 1. -
 2. -
 3. Choice 2: "It suits you." (+2)
@@ -1683,7 +1694,7 @@ Rank 8 **(Guts +2)**
 3. Choice 1: **"It's for Miwa-chan."** (+3)
 4. (Phone) Choice 1: "I'll be cheering you on." (+1)
 
-Rank 9 (Friendship)
+Rank 9 (Friendship) (Cannot be raining)
 1. Choice 3: "It was rough." (+2)
 2. -
 3. Choice 1: "It wanted to see you." (+0)
@@ -1691,7 +1702,7 @@ Rank 9 (Friendship)
 5. Choice 2: "That sounds good." (+0)
 6. (Phone) Choice 3: "I'm glad we saw it through." (+1)
 
-Rank 9 (Romance)
+Rank 9 (Romance) (Cannot be raining)
 1. Choice 3: "It was rough." (+2)
 2. -
 3. Choice 1: "It wanted to see you." (+0)
@@ -1832,7 +1843,7 @@ Manipulates the security level in Metaverse.
 2. -
 3. Shocking Scoop **(Royal)**: Reduces security level effect of being discovered and increases reduction after successful ambush.
 4. -
-5. Unbelievable Scoop **(Royal)**: Lowers starting security level when entering Metaverse.
+5. Unprecedented Scoop **(Royal)**: Lowers starting security level when entering Metaverse.
 6. -
 7. Outrageous Scoop **(Royal)**: Lowers starting security level even more when entering Metaverse.
 8. -
@@ -1853,7 +1864,7 @@ Rank 3 **(Charm +3)**
 3. -
 4. Choice 3: "She was falsely accused?" (+1)
 
-Rank 4 **(Charm +3)**
+Rank 4 **(Charm +3)** (Cannot be raining)
 1. -
 2. Choice 1: "Of course we are." (+1)
 3. -
@@ -1908,7 +1919,7 @@ Rank 9 (Romance)
 6. Choice 1: "I love you, Ichiko." (+0)
 7. (Phone) Choice 1: "I wanted to hear your voice." (+1)
 
-Rank 10
+Rank 10 (Cannot be raining)
 
 #### Other Events
 Hangout Odaiba (Rank 4 to Rank 6)
@@ -1932,7 +1943,7 @@ Enhances gun weapon attacks.
 2. Bullet Hail: Chance to begin battle by lowering enemy health after successful ambush.
 3. Warning Shot: Can threaten enemy for easier negotiation when obtaining a persona.
 4. -
-5. Stained Coating **(Royal)**: Raises chances for guns that deal ailments to succeed.
+5. Laced Bullets **(Royal)**: Raises chances for guns that deal ailments to succeed.
 6. Cheap Shot **(Royal)**: Allows you to down an enemy 3 times per Metaverse visit.
 7. -
 8. Electric Slug: Increases damage dealt by Bullet Hail.
@@ -1975,13 +1986,13 @@ Rank 6 **(Kindness +3)**
 4. Choice 2: "Not at all." (+2)
 5. (Phone) Choice 1: "Of course I won't." (+1)
 
-Rank 7
+Rank 7 (Cannot be raining)
 1. -
 2. -
 3. -
 4. -
 
-Rank 8 **(Kindness +5)**
+Rank 8 **(Kindness +5)** (Cannot be raining)
 1. Choice 2: "No, she's not." (+1)
 2. Choice 3: "Believe in them." (+2)
 3. -
@@ -1989,7 +2000,7 @@ Rank 8 **(Kindness +5)**
 
 **Rank 9 requires completing "A Mother's Aggression".**
 
-Rank 9 **(Kindness +5)**
+Rank 9 **(Kindness +5)** (Cannot be raining)
 1. Choice 1: "I'm glad to hear that." (+2)
 2. Choice 3: "It means you've matured." (+3)
 3. Choice 1: "He wants to win at all costs." (+1)
@@ -2041,7 +2052,7 @@ Rank 3 (Knowledge + 1)
 2. Choice 2: "Having a difficult time?" (+1)
 3. (Phone) Choice 1: "Bring it on." (+1)
 
-Rank 4 (Unlocks Jinbocho)
+Rank 4 (Unlocks Jinbocho) (Cannot be raining)
 1. Choice 3: "Must've been the katsu curry." (+1)
 2. Choice 2: "They're cool." (+1)
 3. (Phone) Choice 1: "I'd love to." (+1)
@@ -2051,7 +2062,7 @@ Rank 5 **(Knowledge +2)**
 2. Choice 2: "You should stop then." (+1)
 3. (Phone) Choice 2: "You've got a lot to deal with..." (+1)
 
-Rank 6 **(Knowledge +2)**
+Rank 6 **(Knowledge +2)** (Cannot be raining)
 1. Choice 2: "Is that frustrating?" (+1)
 2. Choice 3: "Do what you love." (+1)
 3. (Phone) Choice 2: "You're imagining things." (+1)
@@ -2132,15 +2143,15 @@ Increases experience earned in battle.
 Progression tied to completing number of requisite requests before progressing with rank up event.
 * Rank 1: Auto
 * Rank 2: Auto
-* Rank 3: 1 request
+* Rank 3: 1 request (Cannot be raining)
 * Rank 4: 2 requests
 * Rank 5: 3 requests
-* Rank 6: 4 requests
+* Rank 6: 4 requests (Cannot be raining)
 * Rank 6.1: 5 requests
-* Rank 7: 5 requests
-* Rank 8: 7 requests
+* Rank 7: 5 requests (Cannot be raining)
+* Rank 8: 7 requests (Cannot be raining)
 * Rank 9: 8 requests
-* Rank 10: 10 requests
+* Rank 10: 10 requests (Cannot be raining)
 
 There are 16 total requests that count towards progression.
 * 5/9: The Bark and Bite of a Bully
@@ -2173,7 +2184,7 @@ Hangout Suidobashi (11/3 only)
 * Time of Day: Evening
 * Day of Week: Varies
     * Before Rank 1 completed: Any day
-    * After Rank 1 completed: Sunday only
+    * After Rank 1 completed: Sunday only, Cannot be raining
 * Rank 10 Deadline: 11/13
 * Rank 10 NG+ Gift Carryovers: Diplomacy, Fundraising, Manipulation, Mind Control, Charismatic Speech
 
@@ -2256,15 +2267,16 @@ Enhance ambush techniques.
 1. -
 2. Tumbling: Chance to dodge enemy when spotted and begin encounter with an ambush instead.
 3. -
-4. Ambush Wire: Can use grappling hook to ambush enemy from a distance.
+4. Chaines Hook: Can use grappling hook to ambush enemy from a distance.
 5. -
 6. Multiple Unlocks
     1. Follow Up: Chance to perform follow-up attack if Joker does not down enemy.
-    2. Athlete Talk: Chance to retry enemy negotiation after failure.
-1. Harisen Recovery: Chance to cure ailments for a party member.
-2. Endure: Chance to survive fatal attack with 1 HP.
-3. Protect: Chance to shield Joker from fatal attack.
-4. Second Awakening: Upgrades persona.
+    2. Fitness Talk: Chance to retry enemy negotiation after failure with any Shadow.
+7. Harisen Recovery: Chance to cure ailments for a party member.
+8. Endure: Chance to survive fatal attack with 1 HP.
+9. Protect: Chance to shield Joker from fatal attack.
+10. Second Awakening: Upgrades persona.
+11. Third Awakening: Upgrades persona.
 
 #### Progression
 **Rank 1 automatically starts on 5/30.**
@@ -2324,53 +2336,53 @@ Rank 6 (HP +5)
 7. -
 8. -
 9. -
-10. (Phone) Choice 2: "Stop running away." (+1)
+10. (Phone) Choice 2: "You have to face it." (+2)
 
 Rank 7 (HP +5)
 1. -
 2. -
-3. Choice 1: "Are you okay?" (+1)
-4. Choice 1: "It's not like that at all." (+2)
+3. Choice 1: "You okay?" (+2)
+4. Choice 1: "That isn't true." (+2)
 5. -
 6. Choice 1: "Of course." (+3)
-7. (Phone) Choice 3: "She's tough, but passionate." (+1)
+7. (Phone) Choice 3: "I love a good challenge." (+2)
 
 Rank 8
-1. Choice 1: "Get her attention." (+3)
+1. Choice 1: "Walk up to Sumire." (+3)
 2. -
-3. Choice 2: "I get you." (+2)
+3. Choice 2: "I'm here for you." (+2)
 4. -
 5. -
 6. Choice 3: "I'm in love." (+3)
 7. -
 8. -
-9. Choice 2: "Go on ahead." (+2)
-10. (Phone) Choice 3: "Online shopping." (+1)
+9. Choice 2: "Sounds like progress." (+2)
+10. (Phone) Choice 3: "Online." (+2)
 
 Rank 9 (Friendship)
 1. -
-2. Choice 1: "I don't mind." (+1)
-3. Choice 1: "Let's have a look." (+1)
-4. Choice 1: "Of course." (+1)
-5. Choice 3: "This is just the beginning." (+2)
-6. Choice 3: "No need to hold back." (+1)
+2. Choice 1: "It's no problem." (+2)
+3. Choice 1: "Definitely." (+2)
+4. Choice 1: "Of course I do." (+2)
+5. Choice 3: "This is a new beginning." (+2)
+6. Choice 3: "Go ahead." (+2)
 7. -
 8. Choice 1: "Let's stay friends." (+0)
-9. Choice 3: "I'm counting on you." (+1)
-10. (Phone) Choice 1: "Glad to hear it." (+1)
+9. Choice 3: "You can always rely on me." (+2)
+10. (Phone) Choice 1: "I'm glad to hear that." (+2)
 
 Rank 9 (Romance)
 1. -
-2. Choice 1: "I don't mind." (+1)
-3. Choice 1: "Let's have a look." (+1)
-4. Choice 1: "Of course." (+1)
-5. Choice 3: "This is just the beginning." (+2)
-6. Choice 3: "No need to hold back." (+1)
+2. Choice 1: "It's no problem." (+2)
+3. Choice 1: "Definitely." (+2)
+4. Choice 1: "Of course I do." (+2)
+5. Choice 3: "This is a new beginning." (+2)
+6. Choice 3: "Go ahead." (+2)
 7. -
 8. Choice 2: "I love you too." (+0)
-9. Choice 1: "Calm down." (+1)
-10. Choice 3: "How cute." (+3)
-11. (Phone) Choice 1: "Better get used to it." (+1)
+9. Choice 1: "Calm down." (+2)
+10. Choice 3: "You're so cute." (+3)
+11. (Phone) Choice 1: "Get used to it." (+2)
 
 Rank 10
 
@@ -2397,11 +2409,11 @@ Hangout Shinagawa (Only before 12/22)
 Chance-based battle benefits for Joker alone.
 1. -
 2. Detox X: Chance to immediately recover from ailment.
-3. Joker Zone: Chance to begin battle with Charge and Concentrate.
+3. Flow: Chance to begin battle with Charge and Concentrate.
 4. -
 5. Mindfulness: Chance to recover SP when running low.
 6. -
-7. Quick Flow: Increases chance of Joker Zone activating.
+7. Flow Boost: Increases chance of Joker Zone activating.
 8. -
 9. Detox DX: Increases chance of Detox X activating.
 10. Wakefulness: Increases chance of Mindfulness activating along with more SP recovery.

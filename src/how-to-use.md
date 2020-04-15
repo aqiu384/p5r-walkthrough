@@ -20,9 +20,8 @@
 * Activities you must do to adhere to the Battle Route schedule are labeled with **[Battle Route]**
 
 #### Settings Used to Make This Walkthrough
-* Normal Difficulty
+* Hard Difficulty
 * All free DLC downloaded
-* No SP items used
 * No DLC personas used during battle
 
 #### Sources
@@ -73,9 +72,26 @@
 * Chances of this occurring is tied to your Proficiency, making it easier to occur later on
 * The days when you must dodge the chalk are noted on 5/6, 6/21 **[Battle Route]**, and 7/11
 
+#### Crossword Rotation
+* On set evenings you can complete a crossword in Leblanc and receive **(Knowledge +2)**
+* Completing a crossword does not take time
+* Crossword answers will carry over to the next crossword evening unless completed
+* If the answer does not match the guide you have missed a day
+
+#### Aojiru Rotation
+* On Sundays you can drink aojiru for Y5000 from the Shibuya underground walkway and receive **(Social Stat +2)**
+* Drinking aojiru does not take time
+* The stat type received from aojiru works off a set rotation and will carry over to the next Sunday unless purchased
+* If the stat gain does not match the guide you have missed a day
+
+#### Random Stats from Billiards
+* Playing billiards will grant a **(Random Stat +3)** except for Kindness
+* These random stat gains are excluded from the **[Battle Route]** stat progression
+* If you are behind on social stats for the **[Battle Route]**, you can use this opportunity to reload for the stat you need
+
 #### Metaverse Progress
-* All palaces were cleared on Normal using the minimum number of in-game days without using SP items
-* Similarly you can clear palaces however you like as long as you adhere to the schedule
+* All palaces were cleared on Hard using the minimum number of in-game days
+* Similarly you can clear palaces however you wish as long as you adhere to the schedule
 * When infiltrating Mementos you must finish all listed requests to proceed with confidant schedule
 * Helpful suggestions are listed under Palace Tips section
 

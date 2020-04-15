@@ -131,7 +131,7 @@
 | Blessed Bloodline | Kougaon, Makougaon, Concentrate, Mahamaon, Bless Boost, Bless Amp, Attack Master, Absorb Bless |
 | Cursed Bloodline | Eigaon, Maeigaon, Concentrate, Mamudoon, Curse Boost, Curse Amp, Attack Master, Absorb Curse |
 | Striking Weight | Megaton Raid, Deadly Fury, Heat Wave, Deathbound, Charge, Nocturnal Flash, Attack Master, Arms Master |
-| Striking Weight | One-shot Kill, Triple Down, Charge, Life Aid, Auto-Mataru, Trigger Happy, Snipe, Cripple |
+| Striking Weight | One-shot Kill, Triple Down, Charge, Life Aid, Auto-Mataru, Trigger Happy, Gun Boost, Gun Amp |
 | Savior Bloodline | Mediarama, Diarahan, Energy Shower, Me Patra, Mabaisudi, Samarecarm, Dekunda, Divine Grace |
 | Gloomy Child | Bloodbath, Evil Touch, Evil Smile, Ghastly Wail, Stagnant Air, Spirit Drain, Fear Boost, Ambient Aid |
 | Foul Stench | Lullaby, Nocturnal Flash, Makajamaon, Wage War, Tentarafoo, Evil Smile, Brain Jack, Abysmal Surge |
@@ -338,10 +338,10 @@
 | Swindling Old Folk is Pretty Low | 11/25 | Adyeshach 13 | A | Yes | Haten Robe | - |
 | Lady-Killer's Ballad **(Royal)** | 12/10 | Sheriruth 8 | A | No | Agitation Crown | Can instantly Brainwash female party members |
 | The Head Honcho in Showbiz | Day after clearing Cruiser Palace or 12/3 | Sheriruth 14 | A | No | Immortal Vest | - |
-| A Silent Voice **(Royal)** | 1/13 | Da'at 3 | S | No | Mamudoon Ring | - |
-| Cry, My Beloved Sister **(Royal)** | 1/14 | Da'at 7 | S | No | St Incense x 8 | - |
-| Idols and Unicorns **(Royal)** | Day after securing Treasure Route in Research Lab Palace, ID near Akihabara tool shop during day | Da'at 13 | S | No | One-shot Kill | Ends by negotiation, afterwards speak to idol to receive exclusive song |
-| Fakeman Show **(Royal)** | 2 days after securing Treasure Route in Research Lab Palace, ID in Kichijoji shopping street during day | Da'at 15 | S | No | Ailment Boost Ring | - |
+| A Small Cry for Help **(Royal)** | 1/13 | Da'at 3 | S | No | Spiral Hell Ring - Mamudoon | - |
+| O My Young Sister, I Cry For You **(Royal)** | 1/14 | Da'at 7 | S | No | Strength UP Ofuda x8 | - |
+| An Idol and a Unicorn **(Royal)** | 2 days after securing Treasure Route in Research Lab Palace, ID near Akihabara tool shop during day | Da'at 13 | S | No | One-shot Kill | Ends by negotiation, afterwards speak to idol to receive exclusive song |
+| Fake-Man Show **(Royal)** | Day after securing Treasure Route in Research Lab Palace, ID in Kichijoji shopping street during day | Da'at 15 | S | No | Eccentric Belt - Ailment Boost | - |
 
 #### Jose (Royal)
 ##### General Notes
@@ -426,8 +426,8 @@
 * Wave 1: Jack Frost, Koropokkuru, Kelpie, Jack-o'-Lantern
 * Wave 2: Onmoraki, Mokoi, Inugami, Apsaras
 * Score Modifiers: Clear in under 20 turns (+10,000), Attack with Wind skills (x3), Defeat enemy with Ann (x7)
-* Prizes: Copper Lump (10,000), Duke's Mantle (15,000), Agi Ring (25,000)
-* Suggested Party: Ann (Garu Ring)
+* Prizes: Copper Lump (10,000), Duke's Mantle (15,000), Ember Ring (25,000)
+* Suggested Party: Ann (Breeze Ring)
 * Strategy: Chain Baton Pass up to Ann and let her finish.
 
 #### Trial 20
@@ -443,7 +443,7 @@
 * Wave 3: Kushinada-Hime, Arahabaki, Ose, Lilim
 * Score Modifiers: Clear in under 24 turns (+20,000), Attack with Psy skills (x3), Defeat enemy with Morgana (x8)
 * Prizes: Gold Lump (20,000), Mazionga Skill Card (35,000), Myriad Slashes Belt (43,000)
-* Suggested Party: Morgana (Psi Ring)
+* Suggested Party: Morgana (Psy Ring)
 * Strategy: Sleep Decarabia, Baton Pass up to Morgana, Rack up points from the Disaster Shadow overkill.
 
 #### Trial 50
@@ -515,167 +515,167 @@
 | User | Name | Atk | Hit | Effect | Obtain |
 | --- | --- | --- |
 | Joker | Arsene's Cane | 130 | 92 | Rare chance of Random Ailment | Arsene |
-| Joker | Arsene's Cane R | 150 | 92 | Low chance of Random Ailment | Arsene (A) |
+| Joker | Great Thief Stick | 150 | 92 | Low chance of Random Ailment | Arsene (A) |
 | Joker | Paradise Lost | 325 | 92 | Greatly reduces Curse damage | Satanael |
 | Joker | Paradise Lost R | 340 | 98 | Greatly reduces Curse damage | Satanael (A) |
 | Ryuji | Ruyi Jingu Bang | 270 | 88 | Attack Master | Hanuman |
-| Ryuji | Ruyi Jingu Bang R | 290 | 88 | Attack Master | Hanuman (A) |
+| Ryuji | Fine Ruyi Jingu Bang | 290 | 88 | Attack Master | Hanuman (A) |
 | Ryuji | Mjolnir | 280 | 88 | Elec Boost | Thor |
-| Ryuji | Mjolnir R | 324 | 88 | Elec Boost | Thor (A) |
+| Ryuji | Imprisoned Mjolnir | 324 | 88 | Elec Boost | Thor (A) |
 | Morgana | Headhunter Ladle | 150 | 90 | Low critical rate | Pisaca |
-| Morgana | Headhunter Ladle R | 150 | 90 | Medium critical rate | Pisaca (A) |
+| Morgana | Headhunter Ladle EX | 150 | 90 | Medium critical rate | Pisaca (A) |
 | Morgana | Claiomh Solais | 315 | 90 | SP +50 | Mother Harlot |
 | Morgana | Claiomh Solais R | 330 | 90 | SP +50 | Mother Harlot (A) |
 | Ann | Masquerade Ribbon | 240 | 88 | Low chance of Dizzy | Queen Mab |
 | Ann | Masquerade Ribbon R | 250 | 88 | Medium chance of Dizzy | Queen Mab (A) |
-| Ann | Snow Queen Whip | 260 | 90 | Speed Master | Skadi |
-| Ann | Snow Queen Whip R | 280 | 90 | Speed Master | Skadi (A) |
-| Ann | Naraku Whip | 280 | 90 | High chance of Freeze | Black Frost |
-| Ann | Naraku Whip R | 320 | 90 | High chance of Freeze | Black Frost (A) |
-| Yusuke | Senryou Takusha | 130 | 90 | St +5 | Ame-no-Uzume |
-| Yusuke | Senryou Takusha R | 140 | 90 | St +6 | Ame-no-Uzume (A) |
+| Ann | Snow Queen's Whip | 260 | 90 | Speed Master | Skadi |
+| Ann | Snow Queen's Whip R | 280 | 90 | Speed Master | Skadi (A) |
+| Ann | Naraka Whip | 280 | 90 | High chance of Freeze | Black Frost |
+| Ann | Dainaraka Whip | 320 | 90 | High chance of Freeze | Black Frost (A) |
+| Yusuke | Senryou Yakusha | 130 | 90 | St +5 | Ame-no-Uzume |
+| Yusuke | Senryou Yakusha R | 140 | 90 | St +6 | Ame-no-Uzume (A) |
 | Yusuke | Usumidori | 324 | 88 | High chance of Fear | Yoshitsune |
 | Yusuke | Usumidori R | 340 | 88 | High chance of Fear | Yoshitsune (A) |
 | Makoto | Bear Gloves | 240 | 90 | Critical rate up | Bugs |
-| Makoto | Bugbear Gloves | 260 | 90 | Critical rate up | Bugs (A) |
+| Makoto | Big Bear Gloves | 260 | 90 | Critical rate up | Bugs (A) |
 | Makoto | Vajra | 305 | 90 | High chance of Random Ailment | Asura-Ou |
-| Makoto | Vajra R | 325 | 90 | High chance of Random Ailment | Asura-Ou (A) |
+| Makoto | Unparalleled Vajra | 325 | 90 | High chance of Random Ailment | Asura-Ou (A) |
 | Makoto | Sabazios | 315 | 90 | Critical rate up | Cybele |
-| Makoto | Gorodias | 330 | 95 | Critical rate up | Cybele (A) |
+| Makoto | Gordios | 330 | 95 | Critical rate up | Cybele (A) |
 | Haru | Death Contract | 190 | 80 | Low chance of Despair | Mithra |
-| Haru | Death Vow | 200 | 80 | Medium chance of Despair | Mithra (A) |
+| Haru | Death Promise | 200 | 80 | Medium chance of Despair | Mithra (A) |
 | Haru | Fleurs du Mal | 325 | 86 | High chance of Dizzy | Beelzebub |
 | Haru | Fleurs du Mal R | 345 | 86 | High chance of Dizzy | Beelzebub (A) |
 | Akechi | Hinokagutsuchi | 350 | 90 | Medium chance of Burn | Futsunushi |
-| Akechi | Hinokagutsuchi R | 360 | 90 | High chance of Burn | Futsunushi (A) |
+| Akechi | Hinokagutsuchi II | 360 | 90 | High chance of Burn | Futsunushi (A) |
 | Kasumi | Sword of Sinai | 345 | 95 | Medium chance of Dizzy | Sandalphon |
-| Kasumi | Sword of Sinai R | 365 | 95 | High chance of Dizzy | Sandalphon (A) |
+| Kasumi | Sword of Sinai II | 365 | 95 | High chance of Dizzy | Sandalphon (A) |
 
 #### Ranged Weapons
 | User | Name | Atk | Hit | Ammo | Effect | Obtain |
 | --- | --- | --- | --- | --- | --- | --- |
 | Joker | Nataraja | 330 | 85 | 8 | All stats +5 | Metatron |
-| Joker | Nataraja R | 350 | 85 | 8 | All Stats +6 | Metatron (A) |
+| Joker | Nataraja EX | 350 | 85 | 8 | All Stats +6 | Metatron (A) |
 | Joker | Tyrant Pistol | 350 | 85 | 8 | Ma +10 | Lucifer |
-| Joker | Tyrant Pistol R | 370 | 85 | 8 | Ma +15 | Lucifer (A) |
+| Joker | Tyrant Pistol EX | 370 | 85 | 8 | Ma +15 | Lucifer (A) |
 | Ryuji | Pumpkin Bomb | 150 | 85 | 3 | Medium chance of Burn | Jack-o'-Lantern |
 | Ryuji | Pumpkin Buster | 160 | 85 | 3 | High chance of Burn | Jack-o'-Lantern (A) |
 | Ryuji | Megido Fire | 350 | 85 | 3 | Medium chance of Burn | Shiva |
-| Ryuji | Megido Buster | 380 | 85 | 3 | High chance of Burn | Shiva (A) |
+| Ryuji | Megido Blaster | 380 | 85 | 3 | High chance of Burn | Shiva (A) |
 | Morgana | Catnap | 150 | 90 | 5 | Medium chance of Sleep | Neko Shogun |
-| Morgana | Catnap R | 170 | 90 | 5 | Medium chance of Sleep | Neko Shogun (A) |
+| Morgana | Cat Buster | 170 | 90 | 5 | Medium chance of Sleep | Neko Shogun (A) |
 | Morgana | Sudarshana | 315 | 90 | 5 | Medium chance of Dizzy | Vishnu |
-| Morgana | Sudarshana R | 330 | 90 | 5 | High chance of Dizzy | Vishnu (A) |
+| Morgana | Sudarshana EX | 330 | 90 | 5 | High chance of Dizzy | Vishnu (A) |
 | Ann | Brain Shot | 120 | 90 | 12 | Low chance of Brainwash | Succubus |
-| Ann | Brain Shot R | 135 | 90 | 12 | Medium chance of Brainwash | Succubus (A) |
+| Ann | Pink Buster | 135 | 90 | 12 | Medium chance of Brainwash | Succubus (A) |
 | Ann | Wild Hunt | 320 | 90 | 12 | Medium chance of Despair | Odin |
 | Ann | Gungnir | 340 | 90 | 12 | Medium chance of Despair | Odin (A) |
 | Yusuke | Kuzuryu Gouhou | 300 | 75 | 10 | St +5 | Vasuki |
-| Yusuke | Kuzuryu Gouhou R | 320 | 75 | 10 | St +7 | Vasuki (A) |
+| Yusuke | Kuzuryu Gouhou EX | 320 | 75 | 10 | St +7 | Vasuki (A) |
 | Yusuke | Heaven's Gate | 330 | 75 | 10 | Ag +10 | Uriel |
 | Yusuke | Providence | 350 | 75 | 10 | Ag +13 | Uriel (A) |
 | Makoto | Mirrirmina | 220 | 75 | 6 | Ma +5 | Yurlungur |
-| Makoto | Mirrirmina R | 235 | 75 | 6 | Ma +7 | Yurlungur (A) |
-| Makoto | Judge of the Dead | 340 | 75 | 6 | All Stats +10 | Michael |
-| Makoto | Judge of the Dead R | 360 | 75 | 6 | All Stats +11 | Michael (A) |
-| Haru | Cat Punch Bazooka | 200 | 70 | 1 | Medium chance of Confusion | Nekomata |
-| Haru | Cat Punch Bomber | 220 | 70 | 1 | Medium chance of Confusion | Nekomata (A) |
+| Makoto | Mirrirmina EX | 235 | 75 | 6 | Ma +7 | Yurlungur (A) |
+| Makoto | Judge of Hell | 340 | 75 | 6 | All Stats +10 | Michael |
+| Makoto | Judge of Hell R | 360 | 75 | 6 | All Stats +11 | Michael (A) |
+| Haru | Pawzooka | 200 | 70 | 1 | Medium chance of Confusion | Nekomata |
+| Haru | Paw-omber | 220 | 70 | 1 | Medium chance of Confusion | Nekomata (A) |
 | Haru | Yagrush | 345 | 70 | 1 | Medium chance of Shock | Baal |
-| Haru | Yagrush R | 360 | 70 | 1 | High chance of Shock | Baal (A) |
+| Haru | Yagrush EX | 360 | 70 | 1 | High chance of Shock | Baal (A) |
 | Akechi | Doomsday | 330 | 85 | 5 | All stats +5 | Vohu Manah |
-| Akechi | Ancient of Days | 350 | 85 | 5 | All Stats +6 | Vohu Manah (A) |
+| Akechi | Ancient Day | 350 | 85 | 5 | All Stats +6 | Vohu Manah (A) |
 | Kasumi | Sahasrara | 320 | 90 | 10 | All stats +5 | Ardha |
-| Kasumi | Sahasrara R | 345 | 90 | 10 | All Stats +6 | Ardha (A) |
+| Kasumi | Sahasrara EX | 345 | 90 | 10 | All Stats +6 | Ardha (A) |
 
 #### Armor
 | User | Name | Def | Eva | Effect | Obtain |
 | --- | --- | --- | --- | --- | --- |
 | Unisex | Black Wing Robe | 250 | 20 | Moderately reduces Nuke damage | Yatagarasu |
 | Unisex | Black Wing Robe R | 270 | 20 | Greatly reduces Nuke damage | Yatagarasu (A) |
-| Unisex | King Frost Hood | 260 | 16 | Greatly reduces Ice damage | King Frost |
-| Unisex | King Frost Hood R | 280 | 16 | Greatly reduces Ice damage | King Frost (A) |
+| Unisex | King Frost Cape | 260 | 16 | Greatly reduces Ice damage | King Frost |
+| Unisex | King Frost Cape R | 280 | 16 | Greatly reduces Ice damage | King Frost (A) |
 | Unisex | Lucifer Guard | 305 | 10 | Greatly reduces Magic damage | Messiah |
 | Unisex | Lucifer Guard R | 330 | 10 | Greatly reduces Magic damage | Messiah (A) |
-| Unisex | Old Nightmare Pajamas | 57 | 15 | Resist Sleep | Lust-stained Armor (Incubus) |
-| Unisex | Nightmare Pajamas | 68 | 15 | Null Sleep | Lust-stained Armor (Incubus) |
-| Males | Red Capote | 120 | 20 | Ag +3 | Matador |
-| Males | Red Capote R | 130 | 20 | Ag +6 | Matador (A) |
-| Males | Genma Armor | 170 | 15 | Ma +4 | Tam Lin |
-| Males | Genma Armor R | 180 | 15 | Ma +7 | Tam Lin (A) |
+| Unisex | Old Succubus Pajamas | 57 | 15 | Resist Sleep | Sooty Ghastly Gear (Incubus) |
+| Unisex | Succubus Pajamas | 68 | 15 | Null Sleep | Sooty Ghastly Gear (Incubus) |
+| Males | Blood Red Capote | 120 | 20 | Ag +3 | Matador |
+| Males | Blood Bloodied Capote | 130 | 20 | Ag +6 | Matador (A) |
+| Males | Fairy Knight Armor | 170 | 15 | Ma +4 | Tam Lin |
+| Males | Fairy Knight Armor R | 180 | 15 | Ma +7 | Tam Lin (A) |
 | Males | Black Jacket | 210 | 15 | Null Curse | Hell Biker |
 | Males | Dark Jacket | 225 | 18 | Null Curse | Hell Biker (A) |
 | Males | Official's Robe | 280 | 15 | Greatly raise evasion against Curse attacks | Okuninushi |
 | Males | Official's Robe R | 295 | 20 | Greatly raise evasion against Curse attacks | Okuninushi (A) |
 | Males | Tantric Oath | 325 | 18 | Greatly reduces Magic damage | Satan |
 | Males | Tantric Oath R | 350 | 18 | Greatly reduces Magic damage | Satan (A) |
-| Males | Old Marquis Mantle | 64 | 6 | HP +10 | Calvary-stained Armor (Berith) |
-| Males | Marquis Mantle | 75 | 6 | HP +30 | Calvary-stained Armor (Berith) |
-| Males | Old Shikigami Attire | 94 | 7 | Slightly reduces Phys damage | Shaman-stained Armor (Shiki-Ouji) |
-| Males | Shikigami Attire | 110 | 7 | Moderately reduces Phys damage | Shaman-stained Armor (Shiki-Ouji) |
-| Males | Old Minakata Coat | 118 | 8 | En +1 | Corpse-stained Armor (Take-Minakata) |
-| Males | Minakata Coat | 140 | 8 | En +5 | Corpse-stained Armor (Take-Minakata) |
-| Males | Old Royal Robe | 146 | 10 | SP +10 | Were-stained Armor (Anubis) |
-| Males | Royal Robe | 171 | 10 | SP +30 | Were-stained Armor (Anubis) |
-| Males | Old Ghillie Vest | 174 | 11 | Low chance of Repel Phys | Elly-stained Armor (Girimehkala) |
-| Males | Ghillie Vest | 205 | 11 | Medium chance of Repel Phys | Elly-stained Armor (Girimehkala) |
-| Males | Old Leopard Vest | 206 | 12 | St +1 | Leopard-stained Armor (Ose) |
-| Males | Leopard Vest | 243 | 12 | St +6 | Leopard-stained Armor (Ose) |
-| Males | Old Primate Vest | 240 | 14 | Ag +1 | Kong-stained Armor (Hanuman) |
-| Males | Primate Vest | 282 | 14 | Ag +6 | Kong-stained Armor (Hanuman) |
-| Males | Old Fury Loincloth | 316 | 15 | HP +10 | Thor-stained Armor (Thor) |
-| Males | Fury Loincloth | 330 | 15 | HP +50 | Thor-stained Armor (Thor) |
-| Males | Old Macabre Hose | 326 | 15 | Ma +1 | Dancer-stained Armor (Macabre) |
-| Males | Macabre Hose | 345 | 15 | Ma +8 | Dancer-stained Armor (Macabre) |
+| Males | Old Duke's Coat | 64 | 6 | HP +10 | Sooty Heavy Armor (Berith) |
+| Males | Duke's Coat | 75 | 6 | HP +30 | Sooty Heavy Armor (Berith) |
+| Males | Old Shikigami Dress | 94 | 7 | Slightly reduces Phys damage | Sooty Yorishiro (Shiki-Ouji) |
+| Males | Shikigami Dress | 110 | 7 | Moderately reduces Phys damage | Sooty Yorishiro (Shiki-Ouji) |
+| Males | Old Dishonored Haori | 118 | 8 | En +1 | Sooty Man's Armor (Take-Minakata) |
+| Males | Dishonored Haori | 140 | 8 | En +5 | Sooty Man's Armor (Take-Minakata) |
+| Males | Old Royal Holy Shoud | 146 | 10 | SP +10 | Sooty Wolf's Coat (Anubis) |
+| Males | Royal Holy Shoud | 171 | 10 | SP +30 | Sooty Wolf's Coat (Anubis) |
+| Males | Old Ghillie Vest | 174 | 11 | Low chance of Repel Phys | Sooty Black Armor (Girimehkala) |
+| Males | Ghillie Vest | 205 | 11 | Medium chance of Repel Phys | Sooty Black Armor (Girimehkala) |
+| Males | Old Leopard Print Vest | 206 | 12 | St +1 | Sooty Spotted Fur (Ose) |
+| Males | Leopard Print Vest | 243 | 12 | St +6 | Sooty Spotted Fur (Ose) |
+| Males | Old Primate Vest | 240 | 14 | Ag +1 | Sooty Monkey Fur (Hanuman) |
+| Males | Primate Vest | 282 | 14 | Ag +6 | Sooty Monkey Fur (Hanuman) |
+| Males | Old Lucky Underwear | 316 | 15 | HP +10 | Sooty Bolt Armor (Thor) |
+| Males | Lucky Underwear | 330 | 15 | HP +50 | Sooty Bolt Armor (Thor) |
+| Males | Old Macabre Hose | 326 | 15 | Ma +1 | Sooty Dancer Armor (Macabre) |
+| Males | Macabre Hose | 345 | 15 | Ma +8 | Sooty Dancer Armor (Macabre) |
 | Females | Moonlight Robe | 50 | 30 | High chance of Repel Phys | Kaguya |
 | Females | Moonlight Robe R | 70 | 30 | High chance of Repel Phys | Kaguya (A) |
 | Females | Silk Dress | 95 | 10 | Low chance of Evade Magic | Silky |
-| Females | Silk Dress R | 100 | 14 | Medium chance of Evade Magic | Silky (A) |
-| Females | Miracle Dress | 105 | 14 | Ma +4 | Phoenix |
-| Females | Miracle Dress R | 110 | 14 | Ma +6 | Phoenix (A) |
+| Females | Fine Silk Dress | 100 | 14 | Medium chance of Evade Magic | Silky (A) |
+| Females | Heavensent Dress | 105 | 14 | Ma +4 | Phoenix |
+| Females | Heavensent Dress R | 110 | 14 | Ma +6 | Phoenix (A) |
 | Females | Tapsuan | 170 | 12 | Evade Wind | Arahabaki |
-| Females | Tapsuan R | 195 | 15 | Evade Wind | Arahabaki (A) |
-| Females | Fortuna Robe | 210 | 18 | Lu +5 | Fortuna |
-| Females | Fortuna Robe R | 220 | 18 | Lu +10 | Fortuna (A) |
+| Females | Fine Tapsuan | 195 | 15 | Evade Wind | Arahabaki (A) |
+| Females | Lucky Robe | 210 | 18 | Lu +5 | Fortuna |
+| Females | Lucky Robe R | 220 | 18 | Lu +10 | Fortuna (A) |
 | Females | Archangel Bra | 300 | 18 | Greatly reduces Elec damage | Sraosha |
-| Females | Archangel Bra R | 325 | 20 | Greatly reduces Elec damage | Sraosha (A) |
-| Females | Old Angelic Cape | 60 | 11 | Low chance of Evade Magic | Angel-stained Armor (Angel) |
-| Females | Angelic Cape | 71 | 11 | Medium chance of Evade Magic | Angel-stained Armor (Angel) |
-| Females | Old Fairy Cheongsam | 88 | 12 | Ag +1 | Flower-stained Armor (Hua Po) |
-| Females | Fairy Cheongsam | 104 | 12 | Ag +3 | Flower-stained Armor (Hua Po) |
-| Females | Old Hellish Apron | 111 | 13 | HP +10 | Femme-stained Armor (Yaksini) |
-| Females | Hellish Apron | 132 | 13 | HP +30 | Femme-stained Armor (Yaksini) |
-| Females | Old Arcane Robe | 137 | 15 | SP +10 | Megami-stained Armor (Isis) |
-| Females | Arcane Robe | 161 | 15 | SP +30 | Megami-stained Armor (Isis) |
-| Females | Old Devilish Inner | 164 | 16 | Resist Brainwash | Temptress-stained Armor (Lilim) |
-| Females | Devilish Inner | 193 | 16 | Null Brainwash | Temptress-stained Armor (Lilim) |
-| Females | Old Skadi Tights | 194 | 17 | En +1 | Witch-stained Armor (Skadi) |
-| Females | Skadi Tights | 228 | 17 | En +6 | Witch-stained Armor (Skadi) |
-| Females | Old Kali Armor | 226 | 19 | Slightly reduces Fire damage | Hag-stained Armor (Kali) |
-| Females | Kali Armor | 265 | 19 | Greatly reduces Fire damage | Hag-stained Armor (Kali) |
-| Females | Old Fallen Bikini | 298 | 20 | SP +10 | Amorous-stained Armor (Lilith) |
-| Females | Fallen Bikini | 311 | 20 | SP +50 | Amorous-stained Armor (Lilith) |
-| Females | Old Black Magic Robe | 307 | 20 | Ma +1 | Sorceress-stained Armor (Scathach) |
-| Females | Black Magic Robe | 324 | 20 | Ma +8 | Sorceress-stained Armor (Scathach) |
+| Females | High Archangel Bra | 325 | 20 | Greatly reduces Elec damage | Sraosha (A) |
+| Females | Old Angels' Cape | 60 | 11 | Low chance of Evade Magic | Sooty Ladies' Armor (Angel) |
+| Females | Angels' Cape | 71 | 11 | Medium chance of Evade Magic | Sooty Ladies' Armor (Angel) |
+| Females | Old Fairy Cheongsam | 88 | 12 | Ag +1 | Sooty Cheongsam (Hua Po) |
+| Females | Fairy Cheongsam | 104 | 12 | Ag +3 | Sooty Cheongsam (Hua Po) |
+| Females | Old Fiery Apron | 111 | 13 | HP +10 | Sooty Ogress' Gear (Yaksini) |
+| Females | Fiery Apron | 132 | 13 | HP +30 | Sooty Ogress' Gear (Yaksini) |
+| Females | Old Arcane Robe | 137 | 15 | SP +10 | Sooty Goddess Gear (Isis) |
+| Females | Arcane Robe | 161 | 15 | SP +30 | Sooty Goddess Gear (Isis) |
+| Females | Old Lil Devil Undershirt | 164 | 16 | Resist Brainwash | Sooty Astro Armor (Lilim) |
+| Females | Lil Devil Undershirt | 193 | 16 | Null Brainwash | Sooty Astro Armor (Lilim) |
+| Females | Old Divine Black Tights | 194 | 17 | En +1 | Sooty Grifter's Garb (Skadi) |
+| Females | Divine Black Tights | 228 | 17 | En +6 | Sooty Grifter's Garb (Skadi) |
+| Females | Old Khamrai Tao | 226 | 19 | Slightly reduces Fire damage | Sooty Regalia (Kali) |
+| Females | Khamrai Tao | 265 | 19 | Greatly reduces Fire damage | Sooty Regalia (Kali) |
+| Females | Old Sinful Bikini | 298 | 20 | SP +10 | Sooty Rogue's Garb (Lilith) |
+| Females | Sinful Bikini | 311 | 20 | SP +50 | Sooty Rogue's Garb (Lilith) |
+| Females | Old Magic Robe | 307 | 20 | Ma +1 | Sooty Sorceress Gear (Scathach) |
+| Females | Magic Robe | 324 | 20 | Ma +8 | Sooty Sorceress Gear (Scathach) |
 | Morgana | Frost Hood | 110 | 20 | SP +20 | Jack Frost |
-| Morgana | Frost Hood R | 120 | 20 | SP +40 | Jack Frost (A) |
-| Morgana | Old Cait Collar | 59 | 14 | Ma +1 | Cat-stained Armor (Cait Sith) |
-| Morgana | Cait Collar | 70 | 14 | Ma +3 | Cat-stained Armor (Cait Sith) |
-| Morgana | Old Deity Scarf | 86 | 15 | Ag +1 | Wizard-stained Armor (Koropokkuru) |
-| Morgana | Deity Scarf | 102 | 15 | Ag +3 | Wizard-stained Armor (Koropokkuru) |
-| Morgana | Old Nekomata Scarf | 109 | 16 | Medium chance of Evade Psy | Feline-stained Armor (Nekomata) |
-| Morgana | Nekomata Scarf | 129 | 16 | High chance of Evade Psy | Feline-stained Armor (Nekomata) |
-| Morgana | Old Snake Scarf | 134 | 18 | En +1 | Snake-stained Armor (Naga) |
-| Morgana | Snake Scarf | 158 | 18 | En +5 | Snake-stained Armor (Naga) |
-| Morgana | Old Shock-proof Scarf | 161 | 19 | Slightly reduces Elec damage | Thunder-stained Armor (Thunderbird) |
-| Morgana | Shock-proof Scarf | 189 | 19 | Moderately reduces Elec damage | Thunder-stained Armor (Thunderbird) |
-| Morgana | Old Purity Collar | 190 | 20 | Lu +1 | Unicorn-stained Armor (Unicorn) |
-| Morgana | Purity Collar | 224 | 20 | Lu +6 | Unicorn-stained Armor (Unicorn) |
-| Morgana | Old Lion Scarf | 221 | 22 | Low chance of Evade Phys | Lion-stained Armor (Barong) |
-| Morgana | Lion Scarf | 259 | 22 | Medium chance of Evade Phys | Lion-stained Armor (Barong) |
-| Morgana | Old Abyssal Scarf | 291 | 23 | HP +10 | Greed-stained Armor (Abaddon) |
-| Morgana | Abyssal Scarf | 305 | 23 | HP +50 | Greed-stained Armor (Abaddon) |
-| Morgana | Old Dragon Scarf | 301 | 23 | Slightly reduces Phys damage | Drake-stained Armor (Fafnir) |
-| Morgana | Dragon Scarf | 318 | 23 | Greatly reduces Phys damage | Drake-stained Armor (Fafnir) |
+| Morgana | Frost Ace Hood | 120 | 20 | SP +40 | Jack Frost (A) |
+| Morgana | Old Cat Collar | 59 | 14 | Ma +1 | Sooty Boots (Cait Sith) |
+| Morgana | Cat Collar | 70 | 14 | Ma +3 | Sooty Boots (Cait Sith) |
+| Morgana | Old Mythical Scarf | 86 | 15 | Ag +1 | Sooty Elder's Armor (Koropokkuru) |
+| Morgana | Mythical Scarf | 102 | 15 | Ag +3 | Sooty Elder's Armor (Koropokkuru) |
+| Morgana | Old Nekomata Coat | 109 | 16 | Medium chance of Evade Psy | Sooty Cat's Armor (Nekomata) |
+| Morgana | Nekomata Coat | 129 | 16 | High chance of Evade Psy | Sooty Cat's Armor (Nekomata) |
+| Morgana | Old Snakeskin Scarf | 134 | 18 | En +1 | Sooty Snakeskin (Naga) |
+| Morgana | Snakeskin Scarf | 158 | 18 | En +5 | Sooty Snakeskin (Naga) |
+| Morgana | Old Shocking Scarf | 161 | 19 | Slightly reduces Elec damage | Sooty Feather Coat (Thunderbird) |
+| Morgana | Shocking Scarf | 189 | 19 | Moderately reduces Elec damage | Sooty Feather Coat (Thunderbird) |
+| Morgana | Old Pure Collar | 190 | 20 | Lu +1 | Sooty Horn (Unicorn) |
+| Morgana | Pure Collar | 224 | 20 | Lu +6 | Sooty Horn (Unicorn) |
+| Morgana | Old Wild Lion Scarf | 221 | 22 | Low chance of Evade Phys | Sooty Lion's Mane (Barong) |
+| Morgana | Wild Lion Scarf | 259 | 22 | Medium chance of Evade Phys | Sooty Lion's Mane (Barong) |
+| Morgana | Old Bottomless Scarf | 291 | 23 | HP +10 | Sooty Gilded Collar (Abaddon) |
+| Morgana | Bottomless Scarf | 305 | 23 | HP +50 | Sooty Gilded Collar (Abaddon) |
+| Morgana | Old Scale Scarf | 301 | 23 | Slightly reduces Phys damage | Sooty Scale Armor (Fafnir) |
+| Morgana | Scale Scarf | 318 | 23 | Greatly reduces Phys damage | Sooty Scale Armor (Fafnir) |
 
 #### Stat Accessories
 | Name | Effect | Obtain |
@@ -708,10 +708,10 @@
 | Graceful Harp R | Ma +8, Null Brainwash | Orpheus F (A) |
 | Kugelbein | En +5, Auto-Maruku | Athena |
 | Kugelbein R | En +8, Auto-Maruku | Athena (A) |
-| Thunder Horns | En +10, Fire Amp | Asterius |
-| Thunder Horns R | En +13, Fire Amp | Asterius (A) |
-| Red Yarn Ball | Lu +10, Attack Master | Ariadne |
-| Red Yarn Ball R | Lu +13, Attack Master | Ariadne (A) |
+| Blazing Horns | En +10, Fire Amp | Asterius |
+| Blazing Horns R | En +13, Fire Amp | Asterius (A) |
+| Red String | Lu +10, Attack Master | Ariadne |
+| Red String R | Lu +13, Attack Master | Ariadne (A) |
 | Darkness Ring | Ma +5, Evade Curse | Thanatos |
 | Darkness Ring R | Ma +8, Evade Curse | Thanatos (A) |
 | Black Headband | St +5, Mana Surge | Magatsu-Izanagi |
@@ -722,93 +722,93 @@
 | Bright Headband R | All Stats +3, Invigorate 3 | Izanagi-no-Okami (A) |
 
 #### Skill Accessories
-| Name | Elem | Obtain |
-| --- | --- | --- |
-| Giant Slice Belt | Phy | Flauros |
-| Assault Dive Belt | Phy | Jikokuten |
-| Kill Rush Belt | Phy | Jikokuten (A) |
-| Rising Slash Belt | Phy | Flauros (A) |
-| Gattling Blows Belt | Phy | Hecatoncheires (A) |
-| Megaton Raid Belt | Phy | Abaddon |
-| Swift Strike Belt | Phy | Hecatoncheires |
-| Myriad Slashes Belt | Phy | Ongyo-Ki |
-| Sword Dance Belt | Phy | Ongyo-Ki (A) |
-| Vorpal Blade Belt | Phy | Siegfried |
-| Brave Blade Belt | Phy | Siegfried (A) |
-| Gigantomachia Belt | Phy | Zaou-Gongen (A) |
-| God's Hand Belt | Phy | Abaddon (A), Zaou-Gongen |
-| Triple Down Belt | Gun | Seth |
-| One-shot Kill Belt | Gun | Seth (A) |
-| Agi Ring | Fir | Hua Po |
-| Maragi Ring | Fir | Hua Po (A) |
-| Agidyne Ring | Fir | Moloch |
-| Maragidyne Ring | Fir | Mada, Moloch (A) |
-| Inferno Ring | Fir | Mada (A) |
-| Bufu Ring | Ice | Genbu |
-| Bufula Ring | Ice | Lachesis |
-| Mabufu Ring | Ice | Genbu (A) |
-| Bufudyne Ring | Ice | Byakko (A), Seiryu |
-| Mabufula Ring | Ice | Byakko, Lachesis (A) |
-| Mabufudyne Ring | Ice | Gabriel, Seiryu (A) |
-| Diamond Dust Ring | Ice | Gabriel (A) |
-| Zio Ring | Ele | Pixie |
-| Zionga Ring | Ele | Zouchouten |
-| Mazio Ring | Ele | Pixie (A) |
-| Ziodyne Ring | Ele | Raja Naga |
-| Mazionga Ring | Ele | Zouchouten (A) |
-| Maziodyne Ring | Ele | Ishtar, Raja Naga (A) |
-| Thunder Reign Ring | Ele | Ishtar (A) |
-| Garu Ring | Win | Koppa Tengu |
-| Garula Ring | Win | Kurama Tengu |
-| Magaru Ring | Win | Koppa Tengu (A) |
-| Magarula Ring | Win | Kurama Tengu (A) |
-| Magarudyne Ring | Win | Hastur |
-| Panta Rhei Ring | Win | Hastur (A) |
-| Psi Ring | Psy | Kodama |
-| Psio Ring | Psy | Red Rider |
-| Mapsi Ring | Psy | Kodama (A) |
-| Psiodyne Ring | Psy | Mishaguji (A) |
-| Mapsio Ring | Psy | Mishaguji, Red Rider (A) |
-| Mapsiodyne Ring | Psy | Kohryu |
-| Psycho Force Ring | Psy | Kohryu (A) |
-| Frei Ring | Nuk | Suzaku |
-| Freila Ring | Nuk | Ara Mitama |
-| Mafrei Ring | Nuk | Suzaku (A) |
-| Freidyne Ring | Nuk | Ananta (A), Trumpeter |
-| Mafreila Ring | Nuk | Ananta, Ara Mitama (A) |
-| Mafreidyne Ring | Nuk | Fafnir, Trumpeter (A) |
-| Atomic Flare Ring | Nuk | Fafnir (A) |
-| Kouha Ring | Ble | Nigi Mitama |
-| Kouga Ring | Ble | Principality |
-| Makouha Ring | Ble | Nigi Mitama (A) |
-| Hamaon Ring | Ble | Horus |
-| Kougaon Ring | Ble | Daisoujou (A) |
-| Makouga Ring | Ble | Daisoujou, Principality (A) |
-| Makougaon Ring | Ble | Throne |
-| Mahamaon Ring | Ble | Horus (A) |
-| Divine Judgement Ring | Ble | Throne (A) |
-| Eiha Ring | Cur | Onmoraki |
-| Eiga Ring | Cur | Choronzon |
-| Maeiha Ring | Cur | Onmoraki (A) |
-| Eigaon Ring | Cur | Pale Rider, Pazuzu (A) |
-| Maeiga Ring | Cur | Choronzon (A), Pazuzu |
-| Maeigaon Ring | Cur | Pale Rider (A) |
-| Mamudoon Ring | Cur | Alice |
-| Demonic Decree Ring | Cur | Alice (A) |
-| Dia Charm | Rec | Kusi Mitama |
-| Energy Drop Charm | Rec | Saki Mitama |
-| Amrita Drop Charm | Rec | Lakshmi |
-| Diarama Ring | Rec | Kushinada-Hime |
-| Media Charm | Rec | Kusi Mitama (A) |
-| Energy Shower Charm | Rec | Saki Mitama (A) |
-| Recarm Charm | Rec | Hariti |
-| Amrita Shower Charm | Rec | Lakshmi (A) |
-| Mediarama Ring | Rec | Kushinada-Hime (A) |
-| Samarecarm Charm | Rec | Hariti (A) |
-| Saintly Devotion Charm | Rec | Maria (A) |
-| Mediarahan Charm | Rec | Maria |
-| Rebellion Ring | Sup | Setanta |
-| Revolution Ring | Sup | Setanta (A) |
+| Name | Skill | Elem | Obtain |
+| --- | --- | --- | --- |
+| Giant Slice Belt | Giant Slice | Phy | Flauros |
+| Assault Dive Belt | Assault Dive | Phy | Jikokuten |
+| Kill Rush Belt | Kill Rush | Phy | Jikokuten (A) |
+| Rising Slash Belt | Rising Slash | Phy | Flauros (A) |
+| Gattling Blows Belt | Gattling Blow | Phy | Hecatoncheires (A) |
+| Megaton Raid Belt | Megaton Raid | Phy | Abaddon |
+| Swift Strike Belt | Swift Strikes | Phy | Hecatoncheires |
+| Myriad Slashes Belt | Myriad Slashes | Phy | Ongyo-Ki |
+| Sword Dance Belt | Sword Dance | Phy | Ongyo-Ki (A) |
+| Vorpal Blade Belt | Vorpal Blade | Phy | Siegfried |
+| Brave Blade Belt | Brave Blade | Phy | Siegfried (A) |
+| Gigantomachia Belt | Gigantomachia | Phy | Zaou-Gongen (A) |
+| God's Hand Belt | God's Hand | Phy | Abaddon (A), Zaou-Gongen |
+| Triple Shot Belt | Triple Down | Gun | Seth |
+| Special Shot Belt | One-shot Kill | Gun | Seth (A) |
+| Ember Ring | Agi | Fir | Hua Po |
+| Spiral Ember Ring | Maragi | Fir | Hua Po (A) |
+| Inferno Ring | Agidyne | Fir | Moloch |
+| Spiral Inferno Ring | Maragidyne | Fir | Mada, Moloch (A) |
+| Dark Flame Band | Inferno | Fir | Mada (A) |
+| Frost Ring | Bufu | Ice | Genbu |
+| Snow Ring | Bufula | Ice | Lachesis |
+| Spiral Frost Ring | Mabufu | Ice | Genbu (A) |
+| Blizzard Ring | Bufudyne | Ice | Byakko (A), Seiryu |
+| Spiral Snow Ring | Mabufula | Ice | Byakko, Lachesis (A) |
+| Spiral Blizzard Ring | Mabufudyne | Ice | Gabriel, Seiryu (A) |
+| Diamond Dust Lily | Diamond Dust | Ice | Gabriel (A) |
+| Static Ring | Zio | Ele | Pixie |
+| Spark Ring | Zionga | Ele | Zouchouten |
+| Spiral Static Ring | Mazio | Ele | Pixie (A) |
+| Thunder Ring | Ziodyne | Ele | Raja Naga |
+| Spiral Spark Ring | Mazionga | Ele | Zouchouten (A) |
+| Spiral Thunder Ring | Maziodyne | Ele | Ishtar, Raja Naga (A) |
+| Goddess Horn | Thunder Reign | Ele | Ishtar (A) |
+| Breeze Ring | Garu | Win | Koppa Tengu |
+| Wind Ring | Garula | Win | Kurama Tengu |
+| Spiral Breeze Ring | Magaru | Win | Koppa Tengu (A) |
+| Spiral Wind Ring | Magarula | Win | Kurama Tengu (A) |
+| Spiral Gale Ring | Magarudyne | Win | Hastur |
+| Storm Sculpture | Panta Rhei | Win | Hastur (A) |
+| Psy Ring | Psi | Psy | Kodama |
+| Karma Ring | Psio | Psy | Red Rider |
+| Spiral Psy Ring | Mapsi | Psy | Kodama (A) |
+| Mystic Ring | Psiodyne | Psy | Mishaguji (A) |
+| Spiral Karma Ring | Mapsio | Psy | Mishaguji, Red Rider (A) |
+| Spiral Mystic Ring | Mapsiodyne | Psy | Kohryu |
+| Dragon's Heart | Psycho Force | Psy | Kohryu (A) |
+| Atom Ring | Frei | Nuk | Suzaku |
+| Nuclear Ring | Freila | Nuk | Ara Mitama |
+| Spiral Atom Ring | Mafrei | Nuk | Suzaku (A) |
+| Reactor Ring | Freidyne | Nuk | Ananta (A), Trumpeter |
+| Spiral Nuclear Ring | Mafreila | Nuk | Ananta, Ara Mitama (A) |
+| Spiral Reactor Ring | Mafreidyne | Nuk | Fafnir, Trumpeter (A) |
+| Fire Dragon Horn | Atomic Flare | Nuk | Fafnir (A) |
+| Prayer Ring | Kouha | Ble | Nigi Mitama |
+| Blessing Ring | Kouga | Ble | Principality |
+| Spiral Prayer Ring | Makouha | Ble | Nigi Mitama (A) |
+| Hallowed Ring | Hamaon | Ble | Horus |
+| Divine Ring | Kougaon | Ble | Daisoujou (A) |
+| Spiral Blessing Ring | Makouga | Ble | Daisoujou, Principality (A) |
+| Spiral Divine Ring | Makougaon | Ble | Throne |
+| Spiral Hallowed Ring | Mahamaon | Ble | Horus (A) |
+| Judgement Cross | Divine Judgement | Ble | Throne (A) |
+| Grudge Ring | Eiha | Cur | Onmoraki |
+| Curse Ring | Eiga | Cur | Choronzon |
+| Spiral Grudge Ring | Maeiha | Cur | Onmoraki (A) |
+| Hex Ring | Eigaon | Cur | Pale Rider, Pazuzu (A) |
+| Spiral Curse Ring | Maeiga | Cur | Choronzon (A), Pazuzu |
+| Spiral Hex Ring | Maeigaon | Cur | Pale Rider (A) |
+| Spiral Hell Ring | Mamudoon | Cur | Alice |
+| Cursed Ribbon | Demonic Decree | Cur | Alice (A) |
+| Aid Charm | Dia | Rec | Kusi Mitama |
+| Energy Charm | Energy Drop | Rec | Saki Mitama |
+| Amrita Charm | Amrita Drop | Rec | Lakshmi |
+| Cure Charm | Diarama | Rec | Kushinada-Hime |
+| Spiral Aid Ring | Media | Rec | Kusi Mitama (A) |
+| Spiral Energy Charm | Energy Shower | Rec | Saki Mitama (A) |
+| Revival Charm | Recarm | Rec | Hariti |
+| Spiral Amrita Charm | Amrita Shower | Rec | Lakshmi (A) |
+| Spiral Cure Charm | Mediarama | Rec | Kushinada-Hime (A) |
+| Rejuvenate Charm | Samarecarm | Rec | Hariti (A) |
+| Rosary of Purity | Holy Benevolence | Rec | Maria (A) |
+| Spiral Heal Charm | Mediarahan | Rec | Maria |
+| Rebellion Anklet | Rebellion | Sup | Setanta |
+| Revolution Anklet | Revolution | Sup | Setanta (A) |
 
 #### Skill Cards
 | Skill | Elem | Obtain |
@@ -975,7 +975,7 @@
 | Bless Boost | Pas | Power |
 | Counter | Pas | Naga |
 | Counterstrike | Pas | Naga (A), Ose |
-| Cripple | Pas | White Rider (A) |
+| Gun Amp | Pas | White Rider (A) |
 | Elec Amp | Pas | Thunderbird (A) |
 | Elec Boost | Pas | Thunderbird |
 | Endure | Pas | Orpheus F Picaro |
@@ -1007,7 +1007,7 @@
 | Repel Phys | Pas | Chi You |
 | Repel Psy | Pas | Kali (A) |
 | Repel Wind | Pas | Biyarky (A) |
-| Snipe | Pas | White Rider |
+| Gun Boost | Pas | White Rider |
 | Speed Master | Pas | Jatayu |
 | Spell Master | Pas | Tsukiyomi Picaro |
 | Wind Amp | Pas | Fuu-Ki (A) |
