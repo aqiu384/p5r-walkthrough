@@ -34,7 +34,7 @@
 | Tue | 5/3 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | Wed | 5/4 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | Thu | 5/5 | - | - | - | . | S2 | . | - | - | - | - | . | - | - | - | - | - | - | - | - |
-| Fri | 5/6 | - | - | - | . | O | O | - | - | - | S1 | O | - | - | - | - | A1 | 0.1 | - | - |
+| Fri | 5/6 | - | - | - | . | O | S5 | - | - | - | S1 | O | - | - | - | - | A1 | 0.1 | - | - |
 | Sat | 5/7 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | Sun | 5/8 | - | - | - | O | . | . | - | - | - | O | . | - | - | - | - | A2 | 0.2 | - | - |
 | Mon | 5/9 | - | - | - | O | HG | O | - | - | - | . | O | - | - | - | - | . | 0.3 | - | - |
@@ -168,9 +168,9 @@
 #### September
 | Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thu | 9/1 | . | - | . | O | . | . | . | . | O | . | . | . | O | - | . | . | . | . | . |
+| Thu | 9/1 | . | - | . | S5 | . | . | . | . | O | . | . | . | O | - | . | . | . | . | . |
 | Fri | 9/2 | . | - | O | . | O | . | . | S2 | . | . | O | O | O | - | . | O | . | . | O |
-| Sat | 9/3 | . | - | . | . | . | . | O | . | . | O | . | O | . | - | O | . | . | . | . |
+| Sat | 9/3 | . | - | . | . | . | . | S6 | . | . | O | . | O | . | - | O | . | . | . | . |
 | Sun | 9/4 | . | - | . | . | . | . | . | O | O | O | O | . | . | 0.1 | . | . | O | . | . |
 | Mon | 9/5 | . | - | . | O | . | . | . | O | . | . | O | . | O | S1 | . | . | . | . | O |
 | Tue | 9/6 | . | - | . | . | . | . | . | . | . | . | O | . | . | . | . | . | . | . | O |
@@ -187,7 +187,7 @@
 | Sat | 9/17 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | Sun | 9/18 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | Mon | 9/19 | . | - | O | O | . | . | . | . | . | . | O | . | O | O | O | O | O | . | . |
-| Tue | 9/20 | O | - | . | O | O | O | . | . | O | O | O | . | O | . | . | O | . | . | O |
+| Tue | 9/20 | O | - | . | O | O | O | . | . | O | O | O | . | O | . | . | O | . | . | S6 |
 | Wed | 9/21 | . | - | . | . | O | O | O | O | . | . | O | O | . | . | O | O | . | O | O |
 | Thu | 9/22 | O | - | . | O | . | . | . | O | . | . | O | . | O | O | HG | O | O | . | . |
 | Fri | 9/23 | . | - | O | . | O | O | . | . | . | . | O | O | O | . | . | O | . | . | O |
@@ -238,7 +238,7 @@
 | Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tue | 11/1 | O | O | . | O | O | O | . | . | O | . | O | . | O | O | . | . | . | . | . |
-| Wed | 11/2 | . | . | . | . | O | O | O | O | . | . | O | O | . | . | O | . | . | O | O |
+| Wed | 11/2 | . | . | . | . | O | O | S7 | O | . | . | O | O | . | . | O | . | . | O | O |
 | Thu | 11/3 | O | O | . | O | . | . | . | O | O | . | O | . | O | O | . | O | O | . | . |
 | Fri | 11/4 | . | . | O | . | O | . | . | . | . | . | O | O | O | O | . | O | . | . | O |
 | Sat | 11/5 | O | O | . | . | . | O | O | O | . | O | O | O | . | . | O | O | . | . | O |
@@ -269,7 +269,7 @@
 | Wed | 11/30 | . | . | . | . | O | O | - | O | . | . | O | O | . | . | O | X | - | O | - |
 
 #### December
-Moon is unavailable until the Cruiser Palace is cleared
+Moon is locked until the Cruiser Palace is cleared.
 
 | Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -320,9 +320,9 @@ Moon is unavailable until the Cruiser Palace is cleared
 | Tue | 1/10 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | Wed | 1/11 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | Thu | 1/12 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| Fri | 1/13 | . | . | O | . | O | . | - | . | . | . | O | O | O | . | . | O | - | S6 | - |
-| Sat | 1/14 | O | . | . | . | . | O | - | . | . | O | O | O | . | O | O | O | - | O | - |
-| Sun | 1/15 | . | O | . | . | . | . | - | O | O | O | O | . | . | . | . | O | - | . | - |
+| Fri | 1/13 | . | . | S11 | . | S11 | . | - | . | . | . | O | O | O | . | . | O | - | S6 | - |
+| Sat | 1/14 | S11 | . | . | . | . | S11 | - | . | . | O | O | O | . | O | O | O | - | O | - |
+| Sun | 1/15 | . | S11 | . | . | . | . | - | S11 | O | O | O | . | . | . | . | O | - | . | - |
 | Mon | 1/16 | . | . | O | O | O | . | - | . | . | . | O | . | O | O | O | O | - | O | - |
 | Tue | 1/17 | O | . | . | O | . | O | - | . | . | O | O | . | O | . | . | O | - | . | - |
 | Wed | 1/18 | . | O | . | . | . | . | - | O | . | . | O | O | . | . | O | O | - | O | - |
@@ -335,16 +335,65 @@ Moon is unavailable until the Cruiser Palace is cleared
 | Wed | 1/25 | . | . | O | . | O | O | - | O | . | . | O | O | . | . | O | O | - | O | - |
 | Thu | 1/26 | O | . | . | O | . | . | - | . | . | . | O | . | O | O | . | O | - | . | - |
 | Fri | 1/27 | . | . | . | . | . | . | - | . | . | . | O | O | O | . | . | O | - | . | - |
-| Sat | 1/28 | O | O | . | . | O | O | - | E10 | . | O | O | O | . | O | O | O | - | O | - |
+| Sat | 1/28 | O | O | . | . | O | O | - | O | . | O | O | O | . | O | O | O | - | O | - |
 | Sun | 1/29 | O | . | O | . | O | . | - | . | O | O | O | . | . | . | . | O | - | O | - |
 | Mon | 1/30 | . | . | . | O | . | . | - | . | . | . | O | . | O | O | O | O | - | O | - |
-| Tue | 1/31 | O | E10 | O | O | O | O | - | . | O | O | O | . | O | . | . | O | - | . | - |
+| Tue | 1/31 | O | O | O | O | O | O | - | . | O | O | O | . | O | . | . | O | - | . | - |
 
 #### February
 | Day | Date | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Moo | Sun | Fai | Cou |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Wed | 2/1 | E10 | E11 | E10 | O | E10 | E10 | - | E11 | E10 | E10 | O | E10 | E10 | O | E10 | E10 | - | E10 | - |
-| Thu | 2/2 | E11 | - | E11 | - | E11 | E11 | A11 | - | - | - | E10 | - | - | E10 | - | - | - | S11 | - |
+| Wed | 2/1 | O | O | O | O | O | O | - | O | O | O | O | O | O | O | O | O | - | O | - |
+| Thu | 2/2 | O | - | O | - | O | O | A11 | - | - | - | O | - | - | O | - | - | - | S11 | - |
+
+### Confidant Gifts
+#### Gift Overview
+* Gifts can only be given during a player-initiated non-ranking hangout event
+* Gift prompt will only appear if there are not enough confidant points to trigger next ranking event
+* Gift prompt will always appear after Rank 10
+* All gifts yield at least 1 confidant point without a matching arcana and 2 points with a matching arcana
+
+#### Gift Affinity
+| Store | Gift | Price | Pri | Eps | Epo | Hie | Lov | Cha | Jus | Her | For | Han | Dea | Tem | Dev | Tow | Sta | Fai | Cou |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rocinante | Snack Pack | 5800 | - | 2 | - | 2 | - | 3 | - | 3 | - | 3 | - | - | - | 3 | - | - | - |
+| Rocinante | Cup Noodle Set | 3480 | - | 2 | 2 | - | - | 3 | - | 3 | 2 | 2 | - | 2 | - | 2 | - | - | 2 |
+| Rocinante | Omni-Vitamin | 4500 | 2 | 2 | - | - | - | - | 3 | - | 2 | - | 2 | - | 3 | - | - | 2 | 3 |
+| Tsurukame Diamond | Heart Ring | 88000 | 3 | 3 | 2 | - | 3 | - | - | 3 | 3 | - | 3 | 3 | 3 | - | 3 | 3 | - |
+| Tsurukame Diamond | Silver Bangle | 78000 | - | - | 3 | 3 | - | 3 | 3 | - | - | 3 | 2 | 2 | - | 3 | - | - | 3 |
+| Body Chop | Designer Perfume | 7800 | 3 | - | - | 2 | 2 | - | - | - | - | - | - | 2 | - | - | - | - | - |
+| Body Chop | Luxury Aroma Set | 3800 | - | - | - | - | 2 | - | 3 | - | - | - | 2 | 2 | 2 | - | 3 | 3 | 2 |
+| Body Chop | Crimson Lipstick | 6000 | - | - | - | - | 2 | - | - | - | - | - | - | 2 | 2 | - | - | 3 | - |
+| High Sense | Book Cover | 3000 | 2 | 2 | - | - | - | - | - | - | 2 | - | 2 | - | - | - | 3 | - | 2 |
+| High Sense | Glass Vase | 3200 | - | 3 | 3 | - | - | - | - | 2 | 2 | - | - | - | - | - | 2 | - | - |
+| High Sense | Sakura Fan | 4800 | - | - | 2 | - | 2 | - | - | - | - | - | - | - | 2 | - | 3 | 2 | - |
+| Taisho Store | Uji Matcha Flan | 2400 | - | - | 3 | - | 3 | - | - | 2 | - | - | - | - | 2 | 3 | 2 | - | - |
+| Taisho Store | Truffles | 2800 | - | 2 | 3 | - | 3 | - | - | 2 | - | - | 2 | 2 | - | 3 | - | - | - |
+| Taisho Store | Castella | 1500 | - | - | 3 | 3 | 3 | - | - | 2 | - | - | 2 | 2 | - | 2 | 2 | - | - |
+| Next Ace | Wrist Weights | 6800 | 2 | 3 | - | - | - | 3 | 2 | - | - | 2 | - | - | - | - | - | 2 | 2 |
+| Next Ace | Sports Sunglasses | 12000 | - | - | - | - | - | 3 | 2 | - | - | - | - | - | - | - | - | 2 | 2 |
+| Mitsubachi Bungu | Watercolor Postcard | 800 | 2 | 3 | 3 | 2 | 2 | - | - | - | - | - | - | - | 2 | - | 2 | - | - |
+| Mitsubachi Bungu | Fountain Pen | 8000 | 2 | - | - | 3 | - | - | 2 | - | - | - | 2 | - | 3 | - | 2 | - | 3 |
+| Mitsubachi Bungu | Leather Pen Case | 12000 | 2 | - | - | 3 | - | - | 2 | - | - | - | 2 | - | 2 | - | - | - | 2 |
+| Sukebe (Night Only) | Mini Cactus | 1600 | 2 | 2 | - | - | - | - | - | - | - | - | 3 | - | 2 | - | - | 3 | 3 |
+| Sukebe (Night Only) | Flower Basket | 2400 | 2 | 3 | 2 | - | 2 | - | - | - | 2 | - | - | - | - | - | - | 2 | - |
+| Sukebe (Night Only) | Bath of Roses | 3200 | 2 | 2 | - | - | 3 | - | - | - | - | - | 2 | 2 | - | - | 3 | 3 | - |
+| Mran Mran | Black Mug | 1800 | 2 | - | - | - | - | 2 | - | 2 | - | - | 3 | - | 2 | - | 2 | 2 | 2 |
+| Mran Mran | Star Mirror | 4000 | - | - | - | - | 2 | - | - | 2 | 3 | - | - | - | - | - | - | 2 | - |
+| Mran Mran | Kitchen Tools Set | 4900 | 3 | - | 2 | 3 | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mran Mran | 48-Sided 3D Puzzle | 3200 | 2 | - | - | 2 | - | - | 2 | 2 | - | 3 | 3 | - | - | 3 | 2 | - | 3 |
+| Mran Mran | Puzzle Rings | 4700 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Mran Mran | Mochi Cushion | 6500 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Akindo | Robot Vacuum | 44800 | - | - | - | 3 | - | 3 | 3 | 2 | 3 | 3 | - | 3 | 2 | - | - | - | 3 |
+| Akindo | Digital Camera | 39800 | - | - | - | 2 | - | - | - | - | 2 | 2 | - | 3 | 3 | - | - | - | - |
+| Akindo | Face Beautifier | 9800 | - | - | - | - | 3 | - | 3 | - | 2 | - | - | 3 | - | - | - | 3 | - |
+| Akindo | Electric Toothbrush | 29800 | 2 | - | - | 2 | - | - | 3 | - | 3 | 3 | 2 | 3 | 2 | - | - | - | - |
+| Akindo | Blaring Alarm Clock | 12000 | 2 | - | - | - | 2 | 2 | - | 2 | 2 | 2 | - | 3 | 3 | 2 | - | - | 3 |
+| Akindo | Aroma Machine | 18000 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tokobushiya | Motorbike Figure | 4800 | 3 | 2 | - | - | - | 2 | - | 2 | - | 2 | - | - | - | 3 | - | - | - |
+| Tokobushiya | Local Mascot Set | 3600 | - | 2 | - | - | 2 | - | - | 3 | 2 | - | - | - | - | 2 | - | 2 | - |
+| Tokobushiya | Idol Pins | 3000 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Tokobushiya | Katana Keychain | 500 | - | 2 | - | - | - | 3 | - | 3 | - | 2 | - | - | - | 3 | 2 | - | - |
 
 ### Fool
 #### Availability
@@ -355,7 +404,7 @@ Moon is unavailable until the Cruiser Palace is cleared
 * Rank 10 NG+ Gift Carryovers: None
 
 #### Abilities
-Mainly increases persona stock.
+Increases persona stock and arcana burst.
 1. Multiple Unlocks
     1. Wild Talk: Can negotiate with enemies during Hold Up.
     2. Arcana Burst: Fused personas gain additional EXP corresponding to their arcana's Confidant rank.
@@ -523,7 +572,7 @@ Hangout Study-7/12 **(Knowledge +5)**
 Hangout Movies (7/28 only) **(Guts +5)**
 1. Choice 1: "Not at all." (+2)
 
-Hangout Ikebukuro (7/30 only, Bank Palace cleared)
+Hangout Ikebukuro (7/30 only, Pyramid Palace cleared)
 1. -
 2. -
 3. -
@@ -804,12 +853,14 @@ Rank 3
 2. Choice 2: "Is it trouble?" (+1)
 3. (Phone) Choice 3: "Thank you in advance." (+1)
 
+**Rank 4 requires a large amount of confidant points.**
+
 Rank 4 **(Kindness +3)**
 1. Choice 1: "Tell me more." (+2)
 2. Choice 2: "Call Sojiro's phone." (+2)
 3. (Phone) Choice 1: "Understood." (+1)
 
-**Rank 5 locked until after Pyramid Palace deadline.**
+**Rank 5 locked until 8/22.**
 
 Rank 5 **(Kindness +3)**
 1. Choice 3: "I think I'm addicted!" (+2)
@@ -918,7 +969,7 @@ Rank 6
 4. Choice 3: "Show her your own strength." (+3)
 5. (Phone) Choice 2: "I'll cheer you on." (+1)
 
-Rank 7 (Unlocks Asakusa and Oshiage)
+Rank 7 (Unlocks Asakusa and Oshiage) (Cannot be raining)
 1. Choice 2: "She admires you." (+1)
 2. -
 3. -
@@ -960,9 +1011,9 @@ Hangout Study-7/11 **(Knowledge +5)**
 1. Choice 1: "Let's work together." (+1)
 
 Hangout Movies (7/17 only) **(Charm +5)**
-1. Choice 2: "I understand." (+2)
+1. Choice 2: "Understandable." (+2)
 
-Hangout Meiji-Shrine (8/6 only, Pyramid Palace cleared, Lovers Rank 8 or lower or romance)
+Hangout Meiji-Shrine (8/6 only, Pyramid Palace cleared, Lovers romance or Death romance or both below Rank 8)
 1. -
 2. -
 3. Choice 3: "As expected of a doctor." (+2) (Death +2)
@@ -1084,7 +1135,7 @@ Hangout Ichigaya (7/3 only)
 Hangout Study-7/12 **(Knowledge +5)**
 1. Choice 2: "I'll manage." (+1)
 
-Hangout Leblanc-7/28 **(Guts +3)**
+Hangout Leblanc-7/28 **(Guts +5)**
 1. Choice 2: "Definitely the rival." (+3)
 
 Hangout Leblanc-8/3 **(Charm +5)**
@@ -1973,6 +2024,10 @@ Rank 4 **(Kindness +3)**
 1. Choice 3: "Yeah, you tell him!" (+1)
 2. Choice 2: "Get your revenge." (+1)
 
+Rank 4.0 **(Kindness +3)** (For Hangout Asakusa)
+1. Choice 3: "Yeah, you tell him!" (+1)
+2. Choice 1: "Don't get so worked up." (+0)
+
 Rank 5 **(Kindness +3)**
 1. Choice 1: "It was pretty weird." (+3)
 2. Choice 2: "I'm sure you can do it." (+1)
@@ -1985,6 +2040,13 @@ Rank 6 **(Kindness +3)**
 3. Choice 2: "I believe in you." (+2)
 4. Choice 2: "Not at all." (+2)
 5. (Phone) Choice 1: "Of course I won't." (+1)
+
+Rank 6.0 **(Kindness +3)** (For Hangout Maihama)
+1. -
+2. -
+3. Choice 2: "I believe in you." (+2)
+4. Choice 3: "I'm worried about you." (+0)
+5. (Phone) Choice 2: "That's up to you." (+0)
 
 Rank 7 (Cannot be raining)
 1. -
@@ -2010,10 +2072,10 @@ Rank 10 **(Kindness +2)**
 
 #### Other Events
 Hangout Asakusa (Rank 4, 5, 6, or 9)
-1. Choice 1: "Let's get something to eat." (+3)
+1. Choice 1: "Let's walk around and eat." (+3)
 
 Hangout Maihama (Visited Asakusa, Rank 6 10/10, 10/30, or 11/3, Rank 9 11/3)
-1. Choice 3: "It's not bad coming alone." (+3)
+1. Choice 3: "Coming alone isn't bad." (+3)
 2. Receive Balloons
 
 ### Star
@@ -2166,7 +2228,7 @@ There are 16 total requests that count towards progression.
 * 10/14: The Killer Who Cleans Up Trash
 * 11/25: Swindling Old Folk is Pretty Low
 * Day after clearing Cruiser Palace or 12/3: The Head Honcho in Showbiz
-* 1/14: Cry, My Beloved Sister
+* 1/14: O My Young Sister, I Cry For You
 * Rank 3: One Who Bullies Bullies
 * Rank 4: Part-time Job, Full-time Hell
 * Rank 8: Man of Many Faces and Debts

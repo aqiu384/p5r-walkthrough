@@ -290,7 +290,9 @@
 * Unlocked: Auto
 * Location: Shujin library
 * Timing: Daytime after school
-* Stat Gains: **(Knowledge +2, Guts +2)**
+* Stat Gains: Varies
+    * Before 5/6: **(Knowledge +2, Guts +2)**
+    * After 5/6: **(Knowledge +3)**
 
 ##### Shujin Library
 * Can borrow 1 book at a time

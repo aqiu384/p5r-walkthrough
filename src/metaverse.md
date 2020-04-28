@@ -89,7 +89,7 @@
 * Flaming red shadows during normal encounters spawn a higher level enemy
 * These enemies have much higher stats and HP compared to surrounding encounters
 * They will refuse to negotiate until their HP is dangerously low
-* Savage enemies drop dirty armor and rarer items upon defeat
+* Savage enemies drop sooty armor upon defeat
 
 #### Disaster Shadows (Royal)
 * Random encounters have a low chance of replacing one of the normal enemies with an upgraded version called a Disaster Shadow
@@ -97,7 +97,7 @@
 * They have the same resistances and skills as their normal counterparts
 * Disaster Shadows will immediately counter any skill that does not down them with heavy damage
 * Upon defeat they explode dealing heavy damage to all remaining enemies
-* Disaster Shadows drop dirty armor and rarer items upon defeat
+* Disaster Shadows drop rarer items upon defeat
 
 #### Will Seeds (Royal)
 * All human rulers have 3 Will Seeds hidden throughout their palace
@@ -221,7 +221,7 @@
     * Fusion Alert Yellow Accident: +10 bonus stats but no EXP boost or bonus skills and bypasses 1-day rule
 
 #### Network Fusion
-* Unlocked: 9/19
+* Unlocked: After securing treasure route in Spaceport Palace
 * Same as normal fusion except only 1 ingredient from your side is required
 * Can only be done once per in-game day
 * Sometimes the result persona comes back with an exclusive skill
@@ -355,42 +355,42 @@
 | Item | Flowers | Effect | Daily Limit | Availability |
 | --- | --- | --- | --- | --- |
 | Blank Card | 15 | - | - | - |
-| Dizzy Bottle S | 30 | High chance of Dizzy to one | - | - |
-| Dizzy Bottle L | 40 | Medium chance of Dizzy to all | - | - |
-| Sleep Bottle S | 30 | High chance of Sleep to one | - | - |
-| Sleep Bottle L | 40 | Medium chance of Sleep to all | - | - |
-| Forget Bottle S | 30 | High chance of Forget to one | - | - |
-| Forget Bottle L | 40 | Medium chance of Forget to all | - | - |
-| Confusion Bottle S | 65 | High chance of Confusion to one | - | - |
-| Confusion Bottle L | 70 | Medium chance of Confusion to all | - | - |
-| Fear Bottle S | 65 | High chance of Fear to one | - | - |
-| Fear Bottle L | 70 | Medium chance of Fear to all | - | - |
-| Brainwash Bottle S | 70 | High chance of Brainwash to one | - | - |
-| Brainwash Bottle L | 90 | Medium chance of Brainwash to all | - | - |
-| Despair Bottle S | 100 | High chance of Despair to one | - | - |
+| Dizzy Vial S | 30 | High chance of Dizzy to one | - | - |
+| Dizzy Vial L | 40 | Medium chance of Dizzy to all | - | - |
+| Sleep Vial S | 30 | High chance of Sleep to one | - | - |
+| Sleep Vial L | 40 | Medium chance of Sleep to all | - | - |
+| Forget Vial S | 30 | High chance of Forget to one | - | - |
+| Forget Vial L | 40 | Medium chance of Forget to all | - | - |
+| Confusion Vial S | 65 | High chance of Confusion to one | - | - |
+| Confusion Vial L | 70 | Medium chance of Confusion to all | - | - |
+| Fear Vial S | 65 | High chance of Fear to one | - | - |
+| Fear Vial L | 70 | Medium chance of Fear to all | - | - |
+| Brainwash Vial S | 70 | High chance of Brainwash to one | - | - |
+| Brainwash Vial L | 90 | Medium chance of Brainwash to all | - | - |
+| Despair Vial S | 100 | High chance of Despair to one | - | - |
 | Soul Drop | 15 | - | 5 | Until 6/4 |
 | Snuff Soul | 75 | - | 2 | Until 8/20 |
-| Energy Kit S | 80 | Recover 20% SP for all in Safe Room | 2 | Until 8/20 |
-| St Incense | 80 | - | 1 | 6/6-10/16 |
-| Ma Incense | 80 | - | 1 | 6/6-10/16 |
-| En Incense | 80 | - | 1 | 6/6-10/16 |
-| Ag Incense | 80 | - | 1 | 6/6-10/16 |
-| Lu Incense | 80 | - | 1 | 6/6-10/16 |
-| Black Knife | 30 | - | 1 | 6/6 |
-| Black Gun | 30 | - | 1 | 6/6 |
+| Stamina Kit S | 80 | Recover 20% SP for all in Safe Room | 2 | Until 8/20 |
+| Incense ST | 80 | - | 1 | 6/6-10/16 |
+| Incense MA | 80 | - | 1 | 6/6-10/16 |
+| Incense EN | 80 | - | 1 | 6/6-10/16 |
+| Incense AG | 80 | - | 1 | 6/6-10/16 |
+| Incense LU | 80 | - | 1 | 6/6-10/16 |
+| Black Kogatana | 30 | - | 1 | 6/6 |
+| Model Gun | 30 | - | 1 | 6/6 |
 | Black Robe | 30 | - | 1 | 6/6 |
-| Black Stone | 30 | - | 1 | 6/6 |
+| Black Rock | 30 | - | 1 | 6/6 |
 | Chewing Soul | 170 | - | 1 | 9/2 |
-| Energy Kit L | 210 | Recover 40% SP for all in Safe Room | 1 | 9/2 |
+| Stamina Kit L | 210 | Recover 40% SP for all in Safe Room | 1 | 9/2 |
 | Rasetsu Ofuda | 70 | - | 5 | 9/2 |
 | Kongou Ofuda | 70 | - | 5 | 9/2 |
 | Idaten Ofuda | 70 | - | 5 | 9/2 |
-| Nirvana St Incense | 80 | - | 1 | 10/30 |
-| Nirvana Ma Incense | 80 | - | 1 | 10/30 |
-| Nirvana En Incense | 80 | - | 1 | 10/30 |
-| Nirvana Ag Incense | 80 | - | 1 | 10/30 |
-| Nirvana Lu Incense | 80 | - | 1 | 10/30 |
-| Soul Food | 450 | - | 1 | 11/25 |
+| Nirvana ST | 80 | - | 1 | 10/30 |
+| Nirvana MA | 80 | - | 1 | 10/30 |
+| Nirvana EN | 80 | - | 1 | 10/30 |
+| Nirvana AG | 80 | - | 1 | 10/30 |
+| Nirvana LU | 80 | - | 1 | 10/30 |
+| Soul Food | 450 | 100% SP | 1 | 11/25 |
 | Soma | 520 | - | 1 | 12/24 |
 | Will Seed | 400 | Only if missed after palace collapse | - | - |
 
@@ -624,8 +624,8 @@
 | Males | Primate Vest | 282 | 14 | Ag +6 | Sooty Monkey Fur (Hanuman) |
 | Males | Old Lucky Underwear | 316 | 15 | HP +10 | Sooty Bolt Armor (Thor) |
 | Males | Lucky Underwear | 330 | 15 | HP +50 | Sooty Bolt Armor (Thor) |
-| Males | Old Macabre Hose | 326 | 15 | Ma +1 | Sooty Dancer Armor (Macabre) |
-| Males | Macabre Hose | 345 | 15 | Ma +8 | Sooty Dancer Armor (Macabre) |
+| Males | Old Death's Black Tights | 326 | 15 | Ma +1 | Sooty Dancer's Garb (Macabre) |
+| Males | Death's Black Tights | 345 | 15 | Ma +8 | Sooty Dancer's Garb (Macabre) |
 | Females | Moonlight Robe | 50 | 30 | High chance of Repel Phys | Kaguya |
 | Females | Moonlight Robe R | 70 | 30 | High chance of Repel Phys | Kaguya (A) |
 | Females | Silk Dress | 95 | 10 | Low chance of Evade Magic | Silky |
@@ -644,8 +644,8 @@
 | Females | Fairy Cheongsam | 104 | 12 | Ag +3 | Sooty Cheongsam (Hua Po) |
 | Females | Old Fiery Apron | 111 | 13 | HP +10 | Sooty Ogress' Gear (Yaksini) |
 | Females | Fiery Apron | 132 | 13 | HP +30 | Sooty Ogress' Gear (Yaksini) |
-| Females | Old Arcane Robe | 137 | 15 | SP +10 | Sooty Goddess Gear (Isis) |
-| Females | Arcane Robe | 161 | 15 | SP +30 | Sooty Goddess Gear (Isis) |
+| Females | Old Arcane Robe | 137 | 15 | SP +10 | Sooty Divine Armor (Isis) |
+| Females | Arcane Robe | 161 | 15 | SP +30 | Sooty Divine Armor (Isis) |
 | Females | Old Lil Devil Undershirt | 164 | 16 | Resist Brainwash | Sooty Astro Armor (Lilim) |
 | Females | Lil Devil Undershirt | 193 | 16 | Null Brainwash | Sooty Astro Armor (Lilim) |
 | Females | Old Divine Black Tights | 194 | 17 | En +1 | Sooty Grifter's Garb (Skadi) |
@@ -654,8 +654,8 @@
 | Females | Khamrai Tao | 265 | 19 | Greatly reduces Fire damage | Sooty Regalia (Kali) |
 | Females | Old Sinful Bikini | 298 | 20 | SP +10 | Sooty Rogue's Garb (Lilith) |
 | Females | Sinful Bikini | 311 | 20 | SP +50 | Sooty Rogue's Garb (Lilith) |
-| Females | Old Magic Robe | 307 | 20 | Ma +1 | Sooty Sorceress Gear (Scathach) |
-| Females | Magic Robe | 324 | 20 | Ma +8 | Sooty Sorceress Gear (Scathach) |
+| Females | Old Lovely Witch's Robe | 307 | 20 | Ma +1 | Sooty Dark Armor (Scathach) |
+| Females | Lovely Witch's Robe | 324 | 20 | Ma +8 | Sooty Dark Armor (Scathach) |
 | Morgana | Frost Hood | 110 | 20 | SP +20 | Jack Frost |
 | Morgana | Frost Ace Hood | 120 | 20 | SP +40 | Jack Frost (A) |
 | Morgana | Old Cat Collar | 59 | 14 | Ma +1 | Sooty Boots (Cait Sith) |

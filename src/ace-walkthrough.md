@@ -621,7 +621,7 @@ Read "Buchiko's Story"
 ##### Evening
 * Crossword: "Currency" (Knowledge +2)
 * Feed plant Mega Fertilizer (Kindness +5)
-* Chariot Rank 7
+* Chariot Rank 7 (Unlocks Tsukishima)
 
 ---
 #### Thu 6/23
@@ -709,7 +709,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * Borrow "Speed Reader" from library
 * Buy all books including "Ghost Encounters" and "Tidying the Heart" from Shibuya bookstore
-* Buy Mammoth Summer lottery ticket (Y3000) from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
+* Buy Mammoth Summer lottery ticket (Y5000) from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Talk to Makoto outside Shujin student council room, Priestess Rank 1 (Requires Knowledge Lv. 3)
 ##### Evening
 * Temperance Rank 8 (Y5000)
@@ -1033,7 +1033,7 @@ Read "Buchiko's Story"
 * Work at convenience store (Charm +7) (Request "Calling for Justice for Cats" unlocked)
     1. Handle the queue efficiently
 ##### Evening
-* Trade Exorcism Water for Black Gun
+* Trade Exorcism Water for Model Gun
 * Sun Rank 5 (Charm +4)
 
 ---
@@ -1131,6 +1131,7 @@ Read "Buchiko's Story"
 * Rain
 * Priestess Rank 7
 ##### Evening
+* Affinity Reading (Y5000) with matching arcana (Lovers +2)
 * Strength Hangout Sky Tree
 
 ---
@@ -1397,7 +1398,7 @@ Read "Buchiko's Story"
 ---
 #### Sat 9/24
 ##### Train
-* Finish reading "Museum of Stars" (Ikebukuro unlocked)
+* Finish reading "Night Skies" (Ikebukuro unlocked)
 ##### Class
 * Question: "20 white and 12 black." (Knowledge +2)
 ##### Daytime
@@ -1508,7 +1509,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ##### Class
 * Question: "Joseph-Ignace Guillotin." (Knowledge +2)
 ##### Daytime
-* Tower Rank 4 (Kindness +3) (Throw away points)
+* Tower Rank 4.0 (Kindness +3)
 ##### Evening
 * Crossword: "Black" (Knowledge +2)
 * Strength Hangout Destiny Land
@@ -1540,6 +1541,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ---
 #### Mon 10/10
 ##### Daytime
+* Hermit Hangout Leblanc-10/10 (Reload after seeing event)
 * Tower Rank 5 (Kindness +3)
 ##### Evening
 * Crossword: "Halloween" (Knowledge +2)
@@ -1574,7 +1576,7 @@ Evening: Finish reading "Chinese Sweets" (Chinatown unlocked)
 ---
 #### Sat 10/15
 ##### Daytime
-* Tower Rank 6 (Kindness +3) (Throw away points)
+* Tower Rank 6.0 (Kindness +3)
 ##### Evening
 * Hanged Rank 7
 
@@ -1811,6 +1813,7 @@ Read "Reckless Casanova"
 ---
 #### Sun 11/13
 ##### Daytime
+* Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Buy Moon Dango from Yongen-Jaya grocery store
 * Death Rank 9 Friendship
 * Death Rank 9 Romance
@@ -1825,6 +1828,7 @@ Read "The Art of Automata"
 ##### Class
 * Question: "Because of high altitude." (Knowledge +2)
 ##### Daytime
+* Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Empress Rank 3
 ##### Evening
 * Crossword: "Bashing" (Knowledge +2)
@@ -1835,6 +1839,7 @@ Read "The Art of Automata"
 ##### Class
 * Question: "His head was put on display." (Knowledge +2)
 ##### Daytime
+* Affinity Reading (Y5000) with matching arcana (Death +2)
 * Empress Rank 4 (Requires Proficiency Lv. 5)
 ##### Evening
 * Fortune Rank 9 Friendship
@@ -1848,6 +1853,7 @@ Read "The Art of Automata"
 * Rain
 * Councillor Rank 8
 ##### Evening
+* Affinity Reading (Y5000) with matching arcana (Death +2)
 * Buy "Knowing the Heart" from Jinbocho
 * Moon Rank 10
 
@@ -1985,7 +1991,7 @@ Read "The Art of Automata"
 * Death Rank 10 Friendship (Friendship route only)
 * Free Time (Romance route only)
 ##### Evening
-* Fortune Hangout Oshiage
+* Fortune Hangout Jinbocho
 
 ---
 #### Mon 12/5
@@ -1999,7 +2005,7 @@ Read "The Art of Automata"
 ##### Daytime
 * Chariot Hangout Ogikubo
 ##### Evening
-* Free Time
+* Fortune Hangout Oshiage
 
 ---
 #### Wed 12/7
@@ -2298,7 +2304,7 @@ Read "The Art of Automata"
 ---
 #### Thu 1/19
 ##### Train
-Free Time
+* Free Time
 ##### Daytime
 * Faith Rank 6
 ##### Evening
@@ -2353,6 +2359,8 @@ Free Time
 
 ---
 #### Wed 1/25
+##### Class
+* Free Time
 ##### Daytime
 * Faith Rank 10
 ##### Evening

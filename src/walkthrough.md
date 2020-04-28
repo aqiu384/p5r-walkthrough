@@ -337,7 +337,7 @@
 ##### Daytime
 * Councillor Rank 3
 ##### Evening
-* Chariot Rank 7
+* Chariot Rank 7 (Unlocks Tsukishima)
 
 ---
 #### Sat 5/21
@@ -525,12 +525,12 @@
         * 3 triple 20's
         * Use X to throw dart instead of motion controls
     2. Let your game 1 partner finish on round 4 (Baton Pass Lv. 3)
-        * Ryuji: Choice 1: "You gotta psych yourself up!"
-        * Morgana: Choice 3: "I'm counting on you."
-        * Ann: Choice 3: "Just play like normal."
-        * Yusuke: Choice 1: "Pretend like you're painting."
-        * Makoto: Choice 3: "Take a deep breath."
-        * Haru: Choice 3: "Have fun with it."
+        * Chariot: Choice 1: "You gotta psych yourself up!"
+        * Magician: Choice 3: "I'm counting on you."
+        * Lovers: Choice 3: "Just play like normal."
+        * Emperor: Choice 1: "Pretend like you're painting."
+        * Priestess: Choice 3: "Take a deep breath."
+        * Empress: Choice 3: "Have fun with it."
     3. Score 3 bulls (150) in round 1 of game 2
     4. Let your game 2 partner finish on round 4 (Baton Pass Lv. 3)
 
@@ -741,7 +741,7 @@
 * Borrow "Speed Reader" from library
 * Buy Yakisoba Pan from school store
 * Buy Retro Game Set (Y5000) from recycling shop
-* Buy Mammoth Summer lottery ticket (Y3000) from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
+* Buy Mammoth Summer lottery ticket (Y5000) from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Lovers Rank 8
 ##### Evening
 * Trade Yakisoba Pan for Black Robe
@@ -1076,7 +1076,7 @@
 * Work at convenience store (Charm +7) (Request "Calling for Justice for Cats" unlocked)
     1. Memorize positions of barcodes
 ##### Evening
-* Trade Exorcism Water for Black Gun
+* Trade Exorcism Water for Model Gun
 * Sun Rank 10 (Charm +7) (Charm Lv. 5)
 
 ---
@@ -1314,7 +1314,7 @@
 * Talk to Futaba outside Leblanc, Hermit Rank 2 (Requires Kindness Lv. 4)
 ##### Evening
 * Trade Phantom Wafers for Strength Up Ofuda x2
-* Jazz club with Yusuke (Learns Charge)
+* Jazz club with Emperor (Learns Charge)
 
 ---
 #### Mon 9/5
@@ -1478,7 +1478,7 @@
 * Priestess Rank 9 Friendship
 * Priestess Rank 9 Romance
 ##### Evening
-* Jazz club with Makoto (Learns Concentrate)
+* Jazz club with Priestess (Learns Concentrate)
 
 ---
 #### Mon 9/26
@@ -1759,7 +1759,7 @@
 ##### Evening
 * Call Kawakami for massage
 * Trade Mystery Stew for Angel Badge - Angelic Grace
-* Darts with Akechi (Proficiency +3)
+* Darts with Justice (Proficiency +3)
     1. Let Joker finish on round 5 (Baton Pass Lv. 2)
 
 ---
@@ -1771,7 +1771,7 @@
 ##### Evening
 * Crossword: "Stalls" (Knowledge +2)
 * Call Kawakami for massage
-* Darts with Akechi (Proficiency +3)
+* Darts with Justice (Proficiency +3)
     1. Let Joker finish on round 5 (Baton Pass Lv. 3)
 ### November
 #### Tue 11/1
@@ -1802,7 +1802,7 @@
 * Question: "A share of stolen goods." (Knowledge +2)
 ##### Daytime
 * Borrow "Woman in the Dark" from library
-* Empress Rank 1
+* Talk to Haru at Shujin rooftop, Empress Rank 1
 ##### Evening
 * Justice Rank 7 (Requires Knowledge Lv. 4)
 
@@ -1952,7 +1952,7 @@
 * Free Time
 ##### Evening
 * Accept Justice invitation
-* Jazz club with Akechi (SP +20)
+* Jazz club with Justice (SP +20)
 
 ---
 #### Thu 11/17
@@ -2148,7 +2148,7 @@
 * Batting center (Proficiency +3)
 ##### Evening
 * Trade Angel Tart for Feverent Bat
-* Jazz club with Morgana (Learns Debilitate)
+* Jazz club with Magician (Learns Debilitate)
 
 ---
 #### Mon 12/12
@@ -2367,7 +2367,7 @@
 ##### Daytime
 * Hermit Rank 11
 ##### Evening
-* Jazz club with Yusuke (Learns Ali Dance)
+* Jazz club with Emperor (Learns Ali Dance)
 
 ---
 #### Mon 1/16
@@ -2413,8 +2413,8 @@
 * Free Time
 ##### Daytime
 * Rain
-* Darts with Kasumi (Proficiency +3)
-    1. Let Kasumi finish on round 4 (Baton Pass Lv. 3)
+* Darts with Faith (Proficiency +3)
+    1. Let your partner finish on round 4 (Baton Pass Lv. 3)
     2. Choice 3: "Trust your instincts." (Faith +1)
 ##### Evening
 * Free Time
@@ -2435,7 +2435,7 @@
 * Emperor Rank 11
 ##### Evening
 * Trade Supernova Burger for Old Man's Elixir
-* Jazz club with Ryuji (Learns Arms Master)
+* Jazz club with Chariot (Learns Arms Master)
 
 ---
 #### Mon 1/23
@@ -2456,6 +2456,8 @@
 
 ---
 #### Wed 1/25
+##### Class
+* Free Time
 ##### Daytime
 * Money Reading (Y5000)
 * **Reach final floor of Mementos Palace**
@@ -2507,7 +2509,7 @@
 ##### Daytime
 * Free Time
 ##### Evening
-* Jazz club with Ann (Learns Spell Master)
+* Jazz club with Lovers (Learns Spell Master)
 
 ---
 #### Mon 1/30

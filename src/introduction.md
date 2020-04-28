@@ -44,7 +44,7 @@
 * Some confidant abilities are enhanced, see [[Confidants]]
     * Emperor can copy skill cards immediately
     * Lovers can negate enemy attacks
-    * Chariot can instant kill enemies while still getting money, EXP, and items
+    * Chariot can insta-kill enemies while still getting money, EXP, and items
     * Justice can reveal unknown enemy resistances
     * Fortune can trigger Fusion Alerts and show optimal answers during confidant events
     * Strength can lower costs for special treatments
@@ -78,16 +78,18 @@
     * Money
     * Compendium
     * Fusion unlocks
+    * Social Stats
+    * HP and SP increases
+    * Jazz club skills
     * Battle equipment
     * Overworld equipment
     * Eternal Lockpick
     * Skill cards
+    * Challenge Battle scores
+    * Mementos stamps
     * Farewell gifts from Rank 10 confidants
     * Valentine's Day chocolates
     * Christmas gifts
-    * Social stats
-    * Bonus stats
-    * Mementos stamps
 
 ### Additional Resources
 #### Fusion Calculator
@@ -112,3 +114,7 @@ https://megamitensei.fandom.com/wiki/Persona_5_Royal
     * Updated walkthrough stat gains to reflect true point values rather than display musical notes
 * 1.0.8: Localized class, exam, and crossword answers
 * 1.0.9: Fixed Proficiency progression from darts for Battle Route
+* 1.0.10: Lower darts reqs for Proficiency +5
+* 1.0.11: Localized accessory names
+* 1.1.0: NG Hard playtest complete
+* 1.1.1: Confidant gifts
