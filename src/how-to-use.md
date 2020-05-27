@@ -21,8 +21,6 @@
 
 #### Settings Used to Make This Walkthrough
 * Hard Difficulty
-* All free DLC downloaded
-* No DLC personas used during battle
 
 #### Sources
 * **Walkthrough Mirror**
@@ -141,27 +139,27 @@
 #### Unlocking all Trophies
 * For complete list see [[Trophies]]
 * Can platinum without NG+
-* All Metaverse trophies except A Unique Rebel should be easy to unlock by endgame
+* All Metaverse trophies except Unsurpassed Rebel should be easy to unlock by endgame
 * Can save-reload for a couple overworld trophies, rest will auto unlock while following guide
-    * My Best Partner: Max out one confidant on romance route
-    * Get Rich Quick: Wait a week for lottery ticket prize announcement, does not have to be grand prize
-    * Unexpected Value: Sell armor to Kichijoji used clothes store
-    * Mind Control: Meditate at the temple
-    * Under-the-Table Goods: Customize a gun
-    * Akiba's Master: Make Y20,000 worth of orders before visiting for special menu
+    * My Closest Partner: Max out one confidant on romance route
+    * Easy Money: Wait a week for lottery ticket prize announcement, does not have to be grand prize
+    * Trash Into Treasure: Sell armor to Kichijoji used clothes store
+    * A Serene Experience: Meditate at the temple
+    * Professional Modification: Customize a gun
+    * Master of Akihabara: Make Y20,000 worth of orders before visiting for special menu
 
 #### Unlocking all Thieves Den Awards
 * For complete list see [[Thieves Den Awards]]
 * All awards except for NG+ can be done through save-reloads
     * Mask Collector: Get 99% compendium completion during NG so only Joker's NG+ ultimate persona is missing
-    * Beyond Rehabilitation: Needs NG+ Mementos
+    * Future Rehabilitation: Needs NG+ Mementos
     * True Rehabilitation: Needs NG+ third semester
 * Some rewards require careful scheduling even with save-reloads
-    * Beloved Phantom Thief: Need to see the Rank 10 event for every candidate on romance route
+    * Ladies' Man: Need to see the Rank 10 event for every candidate on romance route
         * Save whenever you reach Rank 9 romance decision point in guide
         * Take romance route and do Rank 10 ASAP
         * Check to make sure counter in Thieves Den goes up
         * Reload save and proceed with friendship route following the guide normally
         * You can reverse the steps if you wish to commit to a relationship on that save
-    * True Comrade: Should also unlock while using above process to complete Beloved Phantom Thief
-    * Kung Fu Master: Needs 16 gym visits on a save
+    * We Stand As Equals: Should also unlock while using above process to complete Beloved Phantom Thief
+    * Legend of the Dragon Fist: Needs 16 gym visits on a save

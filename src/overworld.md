@@ -121,12 +121,13 @@
     * Featherman Seeker **(Royal)**: Available in Akihabara **(Knowledge +3)**
 * Activity Notes
     * After reading "Game Secrets": Can enable cheats to make minigames easier
+    * Can trade completed game tickets for exclusive accessories from Akihabara game shop
 
 ##### Sleep Early
 * Unlocked: Auto
 * Location: Bed in your room
 * Timing: Evenings
-* Stat Gains: **(Random Confidant +1)**
+* Stat Gains: **(Random Confidant or Social Stat +1)**
 
 #### Yongen-Jaya
 ##### Bathhouse (Royal)
@@ -134,8 +135,8 @@
 * Location: Bathhouse outside Leblanc entrance
 * Timing: Evenings
 * Stat Gains: Base **(Charm +3)**
-    * Sundays and Non-summer Rainy Days: Additional **(Charm +2)**
-    * Summer Rainy Days: Additional **(Guts +2)**
+    * Sundays: Additional **(Charm +2)**
+    * Rainy Days: Additional **(Guts +2)**
 
 ##### Yongen-Jaya Movies
 * Unlocked: Complete "Who's Muscling in Yongen-Jaya"
@@ -261,8 +262,8 @@
 * Location: All classes
 * Timing: Set class times
 * Stat Gains: Give correct answer
-    * 4/25, 6/20, 7/7: **(Charm +2)** **(Lovers + 1)**
-    * All other times: **(Knowledge + 1)**
+    * 4/25, 6/20, 7/7: **(Charm +2)** **(Lovers +1)**
+    * All other times: **(Knowledge +1)**
 
 ##### Exam Results
 * Unlocked: Auto
@@ -500,8 +501,8 @@
     * Rank 3: Technical damage heavy boost and medium chance of causing down
     * Rank 4: Technical damage severe boost and guaranteed chance of causing down
 * Activity Progression:
-    * Rank 1: Play billiards once
-    * Rank 2: **(Proficiency Lv. 2)** and buy and read "Billiard Techniques" from the sports shop, perform Back Hand
+    * Rank 1: Play billiards once and buy and read "Billiards Techniques" from the sports shop
+    * Rank 2: **(Proficiency Lv. 2)** and perform Back Hand
     * Rank 3: **(Proficiency Lv. 3)** and buy Sharp Cue from the sport shop, perform Jump Shot, receive "Billiards Magician" afterwards
     * Rank 4: **(Proficiency Lv. 5)** and read "Billiards Magician", perform Masse Shot
 
@@ -518,8 +519,8 @@
     * Saturday: Rotate through previous 5 drinks starting with Monday
     * Sunday: Bonus skill
 * Activity Notes:
-    * All party members except Akechi and Kasumi carry bonus stats and into New Game +
-    * All party members except Akechi and Kasumi can relearn bonus skills from previous playthroughs through the church confessional
+    * All party members carry bonus stats and into New Game+
+    * All party members can relearn bonus skills from previous playthroughs using church confessional
 * Bonus skills for party except Futaba:
     * 6/26: Tetrakarn
     * 7/3: Matarukaja

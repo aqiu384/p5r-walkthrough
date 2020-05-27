@@ -13,7 +13,7 @@ HEADER = '\n'.join((
     '</head>',
     '<body>',
     '<div>',
-    '<h1>Persona 5 Walkthrough - Version {}</h1>',
+    '<h1>Persona 5 Royal Walkthrough - Version {}</h1>',
     '<h2>Navigation</h2>',
     '<ul>',
     '<li><a href="/">Home</a></li>'

@@ -64,7 +64,6 @@
 
 #### DLC
 * All DLC originally from P5 are free for Royal in Western Release
-* Additional free Investigation Item Set and Battle Item Set
 * Athena, Orpheus F, Izanagi-no-Okami, and Raoul personas
 * New costume packs and backfill packs for Kasumi
 * Additional challenge battles including P3 and P4 protags as bosses
@@ -118,3 +117,4 @@ https://megamitensei.fandom.com/wiki/Persona_5_Royal
 * 1.0.11: Localized accessory names
 * 1.1.0: NG Hard playtest complete
 * 1.1.1: Confidant gifts
+* 1.1.2: Achievement localizations

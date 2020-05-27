@@ -4,7 +4,7 @@
 * The entire party's gun ammo replenishes after every battle **(Royal)**
 * You get a set number of Down Shots per Metaverse infiltration **(Royal)**
 * The entire party starts in Guard mode if ambushed **(Royal)**
-* Futaba's All-out Attack heals the entire party's HP and may activate in place of a normal All-out Attack if it would defeat all enemies **(Royal)**
+* Futaba's All-out Attack heals the entire party's HP and may activate in place of a normal All-out Attack **(Royal)**
 * Security Level starts at 40% **(Royal)**
 
 #### Status Ailments
@@ -34,7 +34,7 @@
     * Rank 3: Technical damage medium boost
     * Rank 4: Technical damage heavy boost and medium chance of causing down
     * Rank 5: Technical damage severe boost and guaranteed chance of causing down
-* Reading "Technical Expertise" unlocks additional combos for party **(Royal)**
+* Reading "Knowing the Heart" unlocks additional combos for party **(Royal)**
     * Forget: Elec
     * Confusion: Gun and Wind
     * Fear: Ice
@@ -64,7 +64,7 @@
     * Morgana x Haru: After securing Treasure Route in Spaceport Palace
     * Makoto x Haru: First non-scripted infiltration of Casino Palace
     * Joker x Akechi: 1/9
-    * Joker x Kasumi: After Faith Rank 10
+    * Joker x Kasumi: Faith Rank 10, Next non-scripted infiltration of Laboratory Palace
 
 #### Treasure Demons
 * After a special Museum Palace event search objects will have a low chance of containing Treasure Demons
@@ -116,9 +116,9 @@
 * Fusion accidents and alerts alter the results in different ways **(Royal)**
     * Normal: Result persona matches expected result, inherits chosen skills, and receives Arcana Burst
     * Accident: Result persona is random, inherits chosen skills, and does not receive an Arcana Burst
-    * Fusion Alert: Result persona matches can inherit more chosen skills, receives a bigger Arcana Burst, and asks to mutate some of its skills
-    * Fusion Alert Accident: Same as normal fusion accident
-    * Fusion Alert Yellow Accident: Result persona is random, receives no Arcana Burst, and mutates all its skills to a predetermined trait and skillset
+    * Fusion Alarm: Result persona matches can inherit more chosen skills, receives a bigger Arcana Burst, and asks to mutate some of its skills
+    * Fusion Alarm Accident: Same as normal fusion accident
+    * Fusion Alarm Yellow Accident: Result persona is random, receives no Arcana Burst, and mutates all its skills to a predetermined trait and skillset
 
 | Trait | Skills |
 | --- | --- |
@@ -153,6 +153,7 @@
 * Combines 3 or more personas with a preset recipe into one
 * Personas with group recipes can only be made this way
 * Can never result in fusion accident
+* Strength Rank 8 required for recipes with 4+ ingredients
 
 #### Lockdown
 * Unlocked: Strength Rank 3
@@ -168,7 +169,7 @@
     * Lv. 75-99: Drain X
 * Adding incense grants bonus stats when lockdown ends **(Royal)**
 * You can obtain incense from Kichijoji or Jose **(Royal)**
-* Fusion Alert: Increases stat gains from incense **(Royal)**
+* Fusion Alarm: Doubles stat gains from incense **(Royal)**
 
 #### Persona Traits (Royal)
 * Unlocked: After entering Museum Palace
@@ -186,39 +187,39 @@
 * Unlocked: After securing treasure route in Museum Palace
 * Combines persona with the corresponding black item to produce a set weapon, armor, accessory, or skill card
 * No limit on number of itemizations per day **(Royal)**
-* Fusion alert alerts the results in different ways **(Royal)**
+* Fusion Alarm alerts the results in different ways **(Royal)**
     * Normal: Sacrificed persona creates the expected item
-    * Fusion Alert: Sacrificed persona creates a stronger version of the expected item
-    * Fusion Alert Accident: Sacrificed persona creates a random item
+    * Fusion Alarm: Sacrificed persona creates a stronger version of the expected item
+    * Fusion Alarm Accident: Sacrificed persona creates a random item
         * Below Lv. 35: Megido, Divine Grace, Attract Ring, Megido Ring, Lucky Punch Belt, or X Incense
         * Lv. 36 to Lv. 55: Heat Up, Ailment Boost, Mudoon Ring, Megidola Ring, Miracle Punch Belt, or X Ryusen Incense
         * Above Lv. 56: Life Aid, Fortify Spirit, Amrita Shower, Angelic Grace, Deadly Fury Belt, or X Nirvana Incense
-    * Fusion Alert Yellow Accident: Sacrificed persona creates a random skill card based on current resistances
+    * Fusion Alarm Yellow Accident: Sacrificed persona creates a random skill card based on current resistances including current accessory effects
         * Resist X for X immunities (Excluding Gun and Alm)
         * Dodge X or Evade X for X weaknesses (Excluding Gun and Alm)
         * X Boost or X Amp for all but X weaknesses (Excluding Phys and Alm)
 
-#### Fusion Alert (Royal)
+#### Fusion Alarm (Royal)
 * Unlocked: After securing treasure route in Bank Palace
-* After a battle the Velvet Room may enter a fusion alert state
+* After a battle the Velvet Room may enter a fusion alarm state
 * When this happens you see a red door pop up after the results screen
-* During a Fusion Alert rules for all fusion types are dramatically altered along with a higher chance of fusion accidents
+* During a Fusion Alarm rules for all fusion types are dramatically altered along with a higher chance of fusion accidents
 * Result personas from alerts are highlighted in yellow and can be reused as ingredients to trigger yellow accidents
 * All fusion types can result in fusion accidents with unique effects
-* The fusion alert ends when you get a fusion accident
-* The second fusion using the same facility during an alert is also guaranteed to be an accident
+* The fusion alarm ends when you get a fusion accident
+* The second fusion using the same facility during an alert is almost guaranteed to be an accident
 * Talk to Justine to end the alert early
-* The Fortune Rank 8 ability can raise the chances of Fusion Alert occurring
+* The Fortune Rank 8 ability can raise the chances of Fusion Alarm occurring
 
 #### Gallows
 * Unlocked: After securing treasure route in Pyramid Palace
 * Sacrifice a persona to strengthen another one. The same persona can only be strengthened once per in-game day
 * Can bypass 1-day rule by saving result to compendium, deleting it from your current stock, then resummoning it
-* Fusion Alert alters the results in different ways **(Royal)**
+* Fusion Alarm alters the results in different ways **(Royal)**
     * Normal: Sacrificed persona gives an EXP boost that scales with its level and passes on one of its skills
-    * Fusion Alert: Increases EXP boost and passes on two skills
-    * Fusion Alert Accident: +5 bonus stats but no EXP boost or bonus skills and bypasses 1-day rule
-    * Fusion Alert Yellow Accident: +10 bonus stats but no EXP boost or bonus skills and bypasses 1-day rule
+    * Fusion Alarm: Increases EXP boost and passes on two skills
+    * Fusion Alarm Accident: +5 bonus stats but no EXP boost or bonus skills and bypasses 1-day rule
+    * Fusion Alarm Yellow Accident: +10 bonus stats but no EXP boost or bonus skills and bypasses 1-day rule
 
 #### Network Fusion
 * Unlocked: After securing treasure route in Spaceport Palace
@@ -594,8 +595,8 @@
 | Unisex | Black Wing Robe R | 270 | 20 | Greatly reduces Nuke damage | Yatagarasu (A) |
 | Unisex | King Frost Cape | 260 | 16 | Greatly reduces Ice damage | King Frost |
 | Unisex | King Frost Cape R | 280 | 16 | Greatly reduces Ice damage | King Frost (A) |
-| Unisex | Lucifer Guard | 305 | 10 | Greatly reduces Magic damage | Messiah |
-| Unisex | Lucifer Guard R | 330 | 10 | Greatly reduces Magic damage | Messiah (A) |
+| Unisex | Sirius Armor | 305 | 10 | Greatly reduces Magic damage | Messiah |
+| Unisex | Sirius Armor EX | 330 | 10 | Greatly reduces Magic damage | Messiah (A) |
 | Unisex | Old Succubus Pajamas | 57 | 15 | Resist Sleep | Sooty Ghastly Gear (Incubus) |
 | Unisex | Succubus Pajamas | 68 | 15 | Null Sleep | Sooty Ghastly Gear (Incubus) |
 | Males | Blood Red Capote | 120 | 20 | Ag +3 | Matador |

@@ -42,7 +42,7 @@
 * **Leblanc Buffer (B):** Clean the inside of Leblanc. Interact with the bathroom to clean.
 * **Punch That Clock! (B):** Work a part-time job.
 * **Batter Up! (B):** Hit a ball at the batting center.
-* **Getting the Vapors (B):** Get dizzy while visiting the bathhouse. Need to visit bathhouse during a summer rainy night.
+* **Getting the Vapors (B):** Get dizzy while visiting the bathhouse. Need to visit bathhouse during a rainy night.
 * **Easy Money (B):** Win a prize in the lottery. Tickets are sold every week, and does not have to be the grand prize. Mammoth Summer lottery does not count.
 * **Going Against the Crane (B):** Win a prize from the Akihabara crane game.
 * **Trash Into Treasure (B):** Sell armor to the Kichijoji used clothes store.
@@ -58,14 +58,14 @@
 #### Acquiring Awards
 * Like trophies, awards are not tied to any save file
 * Furthermore, awards carry their own progress counters that do not reset after reloading. This makes it possible to use save-reloading to unlock almost all rewards
-* For example, you can unlock "Golden Finger" without wasting in-game time on the final save
+* For example, you can unlock "Golden Fingers" without wasting in-game time on the final save
     1. Save in Leblanc
     2. Finishing all levels of one retro game
     3. Confirm counter in Thieves Den went up
     4. Reload your save
     5. Repeat steps 2-4 with different retro games
     6. Continue until "Golden Finger" drops
-* This makes it entirely possible to unlock "Beloved Phantom Thief" without having to romance multiple confidants on the same save file
+* This makes it entirely possible to unlock "Ladies' Man" without having to romance multiple confidants on the same save file
     1. Save when reaching the romance decision point
     2. Take the romance route and reach Rank 10
     3. Confirm counter in Thieves Den went up

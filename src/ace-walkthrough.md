@@ -17,6 +17,14 @@
 #### Tue 4/12
 ##### Class
 * Question: "Villains." (Knowledge +2)
+* **Musical notes shown during stat gains are not the actual point value**
+
+| Actual Stat Gains | Displayed Notes |
+| --- | --- |
+| 2 | 1 |
+| 3 or 4 | 2 |
+| 5, 7, or 10 | 3 |
+
 * Chariot Rank 1 (Auto)
 
 ---
