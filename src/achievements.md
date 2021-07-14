@@ -43,7 +43,7 @@
 * **Punch That Clock! (B):** Work a part-time job.
 * **Batter Up! (B):** Hit a ball at the batting center.
 * **Getting the Vapors (B):** Get dizzy while visiting the bathhouse. Need to visit bathhouse during a rainy night.
-* **Easy Money (B):** Win a prize in the lottery. Tickets are sold every week, and does not have to be the grand prize. Mammoth Summer lottery does not count.
+* **Easy Money (B):** Win a prize in the lottery. Tickets are sold every week, and does not have to be the grand prize. Summer Lotto S (sequential) lottery does not count.
 * **Going Against the Crane (B):** Win a prize from the Akihabara crane game.
 * **Trash Into Treasure (B):** Sell armor to the Kichijoji used clothes store.
 * **Dartslinger (B):** Play darts.

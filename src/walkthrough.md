@@ -386,6 +386,7 @@
 ##### Train
 * Finish reading "The Gallant Rogue" (Guts +5)
 ##### Daytime
+* Need a Hierophant persona in stock
 * **Clear Museum Palace**
 ##### Evening
 * [Normal Route] Finish reading "Vague" (Harajuku unlocked)
@@ -749,7 +750,7 @@
 * Borrow "Speed Reader" from library
 * Buy Yakisoba Pan from school store
 * Buy Retro Game Set (Y5000) from recycling shop
-* Buy Mammoth Summer lottery ticket (Y5000) from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
+* Buy Summer Lotto S (sequential) lottery ticket (Y5000) from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Lovers Rank 8
 ##### Evening
 * Trade Yakisoba Pan for Black Robe
@@ -1224,7 +1225,7 @@
 #### Mon 8/22
 ##### Evening
 * Trade Melon Pan for Old Man's Fist
-* Check Summer Mammoth lottery results (Does not unlock "Easy Money", only weekly or daily prizes do)
+* Check Summer Lotto S (sequential) lottery results (Does not unlock "Easy Money", only weekly or daily prizes do)
 * [Normal Route] Devil Rank 7.1 (Request "Fighting for Truth of Journalism" unlocked)
 * [Battle Route] Work at bar (Kindness +3) (Request "We Aren't Just Your Slaves" unlocked)
 

@@ -717,7 +717,7 @@ Read "Buchiko's Story"
 ##### Daytime
 * Borrow "Speed Reader" from library
 * Buy all books including "Ghost Encounters" and "Tidying the Heart" from Shibuya bookstore
-* Buy Mammoth Summer lottery ticket (Y5000) from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
+* Buy Summer Lotto S (sequential) lottery ticket (Y5000) from Shibuya (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Talk to Makoto outside Shujin student council room, Priestess Rank 1 (Requires Knowledge Lv. 3)
 ##### Evening
 * Temperance Rank 8 (Y5000)
@@ -1171,7 +1171,7 @@ Read "Buchiko's Story"
 #### Mon 8/22
 ##### Evening
 * Trade Melon Pan for Old Man's Fist
-* Check Summer Mammoth lottery results (Does not unlock "Easy Money", only weekly or daily prizes do)
+* Check Summer Lotto S (sequential) lottery results (Does not unlock "Easy Money", only weekly or daily prizes do)
 * Star Rank 6 (Knowledge +2)
 
 ---

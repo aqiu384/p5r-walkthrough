@@ -118,3 +118,7 @@ https://megamitensei.fandom.com/wiki/Persona_5_Royal
 * 1.1.0: NG Hard playtest complete
 * 1.1.1: Confidant gifts
 * 1.1.2: Achievement localizations
+* 1.1.3: Museum Hierophant persona
+
+### Special Thanks
+* oracleofire
