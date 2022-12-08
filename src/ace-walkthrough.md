@@ -1805,6 +1805,7 @@ Read "Reckless Casanova"
 * Attempt to send calling card
 * Empress Rank 2
 ##### Evening
+* Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Devil Rank 9 Friendship
 * Devil Rank 9 Romance
 
@@ -1813,7 +1814,6 @@ Read "Reckless Casanova"
 ##### Class
 * Question: "Because the voice is synthetic." (Knowledge +2)
 ##### Daytime
-* Affinity Reading (Y5000) with matching arcana (Devil +2)
 * Tower Rank 9 (Kindness +5)
 ##### Evening
 * Hanged Rank 9
