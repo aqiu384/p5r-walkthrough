@@ -779,6 +779,7 @@ Read "Buchiko's Story"
 * **Need to obtain Fortune and Star personas**
 ##### Evening
 * Study at Leblanc (Knowledge +5)
+    * Need to talk to customers to make them leave first
 
 ---
 #### Thu 7/7
