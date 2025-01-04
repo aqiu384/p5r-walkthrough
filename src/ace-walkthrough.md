@@ -938,7 +938,7 @@ Read "Buchiko's Story"
 * Emperor Hangout Leblanc-7/27 (Charm +5)
 ##### Evening
 * Crossword: "Fireworks" (Knowledge +2)
-* Temperance Rank 10 (Y5000)
+* Temperance Rank 10
 
 ---
 #### Thu 7/28
