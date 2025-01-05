@@ -1604,7 +1604,8 @@ Rank 1
 Rank 2 **(Proficiency +3)**
 1. -
 2. -
-3. Choice 3: "How's your cold?" (+1)
+3. -
+4. Choice 3: "How's your cold?" (+1)
 
 Rank 3 **(Proficiency +3)**
 1. -
