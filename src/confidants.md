@@ -1604,7 +1604,8 @@ Rank 1
 Rank 2 **(Proficiency +3)**
 1. -
 2. -
-3. Choice 3: "How's your cold?" (+1)
+3. -
+4. Choice 3: "How's your cold?" (+1)
 
 Rank 3 **(Proficiency +3)**
 1. -
@@ -1859,8 +1860,8 @@ Rank 9 (Friendship)
 1. Choice 1: "Nonsense." (+2)
 2. Choice 1: "What a bummer." (+3)
 3. Choice 2: "I want to keep seeing you." (+1)
-4. Choice 2: "Got it ." (+1)
-6. (Phone) Choice 2: "You can do it." (+1)
+4. Choice 1: "Got it ." (+1)
+5. (Phone) Choice 2: "You can do it." (+1)
 
 Rank 9 (Romance)
 1. Choice 1: "Nonsense." (+2)
