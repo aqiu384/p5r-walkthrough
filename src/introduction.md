@@ -98,7 +98,7 @@ https://aqiu384.github.io/megaten-fusion-tool/p5r/personas
 https://wikiwiki.jp/persona5r/
 
 #### English P5R Wiki
-https://megamitensei.fandom.com/wiki/Persona_5_Royal
+https://megamitensei.fandom.com/wiki/Persona\_5\_Royal
 
 ### Changelog
 * 1.0.1: Initial commit
