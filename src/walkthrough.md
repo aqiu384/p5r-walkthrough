@@ -1725,8 +1725,8 @@
 ---
 #### Mon 10/24
 ##### Class
-* Exam results (Charm +5)
 * Question: "Memory bias." (Knowledge +2)
+* Exam results (Charm +5)
 ##### Evening
 * Buy "Nakano Walker", "Night Skies", and "Tokyo Shrines" from Shibuya bookstore
 * Talk to Sojiro for exam reward - Leblanc Charm - Null Sleep
