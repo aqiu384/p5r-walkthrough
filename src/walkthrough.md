@@ -1558,7 +1558,7 @@
 * Hanged Rank 7.1 (Requires Guts Lv. 5) (Request "Shady Deal in the Shadows" unlocked)
 
 ---
-#### Sun 10/3
+#### Mon 10/3
 ##### Class
 * Question: "Stars." (Knowledge +2)
 
